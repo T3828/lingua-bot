@@ -8,10 +8,10 @@ from selenium.webdriver.chrome.options import Options
 from googletrans import Translator
 
 def login():
-    print('IDを入力')
-    uid = input()
-    print('パスワードを入力')
-    upassword = input()
+
+    uid = str("自分のID")
+
+    upassword = str("自分のパスワード")
 
     id = driver.find_element_by_name('id')
     password = driver.find_element_by_name('password')
@@ -31,11 +31,12 @@ def login():
 
 def selectCocet():
     try:
+        sleep(2)
         driver.execute_script("document.sStudy.submit()") # 本の選択画面へ移行
+        sleep(2)
         driver.execute_script("select_reference('70')") # cocet2600を選択
     except:
-        driver.quit()
-        sys.exit()
+        pass
 
 def selectUnit(unit_num):
     unit_num = (unit_num-1)/25 + 1
@@ -43,8 +44,7 @@ def selectUnit(unit_num):
     try:
         driver.execute_script(script)
     except:
-        driver.quit()
-        sys.exit()
+        pass
 
 def answer_by_translate(answers, question):
     # Google翻訳の結果を取得
@@ -93,7 +93,7 @@ def Answer():
             question = driver.find_element_by_id('qu02')
         except:
             print("このユニットは既に完了しています。")
-            break
+            return 1
 
         print("問題:", question.text)
 
@@ -128,7 +128,7 @@ def Answer():
             print("選択:", answers[choice].get_attribute('value'))
             answers[choice].click()
             history[question.text].remove(answers[choice].get_attribute('value'))
-            
+
         # submit
         driver.find_element_by_id('ans_submit').submit()
 
@@ -142,56 +142,62 @@ def Answer():
 
         # 次へすすめる場合は進む、なければユニット終了
         try:
-            sleep(1)
             driver.find_element_by_class_name('btn-problem-next').submit()
         except:
-            break
+            return 0
 
-if __name__ == '__main__':
-    options = Options()
-    options.add_argument('--headless')
-    driver = webdriver.Chrome('chromeドライバのパス', options=options)
-    driver.get('https://w5.linguaporta.jp/user/seibido/index.php')
-    driver.set_window_size(720, 1280)
 
-    for i in range(0, 3):
-        try:
-            login()
-        except:
-            if i == 2:
-                print("失敗回数の上限に達しました。プログラムを終了します。")
-                driver.quit()
-                sys.exit()
+
+while(True):
+    print('開始する番号を入力して下さい。(1-25の場合は1, 126-150の場合は126)')
+    num = int(input())
+    if num % 25 == 1:
+        break
+    else:
+        print("無効な番号です。入力しなおして下さい。")
+
+while(True):
+    print('終了する番号を入力して下さい。(976-1000を最後にするなら1000)')
+    end_num = int(input())
+    if end_num % 25 == 0:
+        break
+    else:
+        print("無効な番号です。入力しなおして下さい。")
+
+while(True):
+    sti=0
+    if __name__ == '__main__':
+        options = Options()
+        options.add_argument('--headless')
+        driver = webdriver.Chrome('C:\\Users\\2005r\\Documents\\program\\selenium\\chromedriver.exe', options=options)
+        driver.get('https://w5.linguaporta.jp/user/seibido/index.php')
+        driver.set_window_size(720, 1280)
+
+        for i in range(0, 3):
+            try:
+                login()
+            except:
+                if i == 2:
+                    print("失敗回数の上限に達しました。プログラムを終了します。")
+                    driver.quit()
+                    sys.exit()
+                else:
+                    print("ログインに失敗しました。再度入力して下さい。")
             else:
-                print("ログインに失敗しました。再度入力して下さい。")
-        else:
-            break
+                break
 
-    while(True):
-        print('を入力して下さい。(1-25の場合は1, 126-150の場合は126)')
-        num = int(input())
-        if num % 25 == 1:
-            break
-        else:
-            print("無効な番号です。入力しなおして下さい。")
 
-    while(True):
-        print('終了する番号を入力して下さい。(976-1000を最後にするなら1000)')
-        end_num = int(input())
-        if end_num % 25 == 0:
-            break
-        else:
-            print("無効な番号です。入力しなおして下さい。")
-
-    while(True):
         selectCocet()
         print('現在のユニット:', str(num)+'-'+str(num+24))
         selectUnit(num)
-        Answer()
-        if num >= (end_num-24):
-            break
-        num=num+25
+        sti=Answer()
 
-    print("指定されたユニットの回答を完了しました。プログラムを終了します。")
-    driver.quit()  # ブラウザーを終了する。
-    sys.exit()
+        if(sti==1):
+            num=num+25
+        else:
+            pass
+
+        if(num>=end_num):
+            print("指定されたユニットの回答を完了しました。プログラムを終了します。")
+            driver.quit()  # ブラウザーを終了する。
+            sys.exit()
