@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "awake",
+        "meaning": "眠らないで",
+        "blank_word": "awake",
+        "blank_sentence": "It is almost impossible for humans to stay awake for more than three days.",
+        "reorder": "It<>is<>almost<>impossible<>for<>humans<>to<>stay<>awake<>for<>more<>than<>three<>days.",
+        "dictation": "It is almost impossible for humans to stay awake for more than three days."
+    },
+    "2": {
+        "word": "sweat",
+        "meaning": "汗をかく",
+        "blank_word": "sweat",
+        "blank_sentence": "It's necessary for us to sweat to cool our bodies.",
+        "reorder": "It's<>necessary<>for<>us<>to<>sweat<>to<>cool<>our<>bodies.",
+        "dictation": "It's necessary for us to sweat to cool our bodies."
+    },
+    "3": {
+        "word": "hurt",
+        "meaning": "痛める",
+        "blank_word": "hurt",
+        "blank_sentence": "He hurt his eyes by looking at the sun too long.",
+        "reorder": "He<>hurt<>his<>eyes<>by<>looking<>at<>the<>sun<>too<>long.",
+        "dictation": "He hurt his eyes by looking at the sun too long."
+    },
+    "4": {
+        "word": "clarify",
+        "meaning": "明らかにする",
+        "blank_word": "clarify",
+        "blank_sentence": "You need to clarify your thought before you solve the problem.",
+        "reorder": "You<>need<>to<>clarify<>your<>thought<>before<>you<>solve<>the<>problem.",
+        "dictation": "You need to clarify your thought before you solve the problem."
+    },
+    "5": {
+        "word": "absorb",
+        "meaning": "吸収する",
+        "blank_word": "absorbs",
+        "blank_sentence": "Japanese paper absorbs water well.",
+        "reorder": "Japanese<>paper<>absorbs<>water<>well.",
+        "dictation": "Japanese paper absorbs water well."
+    },
+    "6": {
+        "word": "develop",
+        "meaning": "開発する",
+        "blank_word": "developed",
+        "blank_sentence": "The company developed the fastest computer.",
+        "reorder": "The<>company<>developed<>the<>fastest<>computer.",
+        "dictation": "The company developed the fastest computer."
+    },
+    "7": {
+        "word": "provide",
+        "meaning": "供給する",
+        "blank_word": "provides",
+        "blank_sentence": "The power station provides the city with electricity.",
+        "reorder": "The<>power<>station<>provides<>the<>city<>with<>electricity.",
+        "dictation": "The power station provides the city with electricity."
+    },
+    "8": {
+        "word": "operate",
+        "meaning": "操作する",
+        "blank_word": "operate",
+        "blank_sentence": "You need a license to operate this machine.",
+        "reorder": "You<>need<>a<>license<>to<>operate<>this<>machine.",
+        "dictation": "You need a license to operate this machine."
+    },
+    "9": {
+        "word": "suggest",
+        "meaning": "示唆する",
+        "blank_word": "suggests",
+        "blank_sentence": "The result of this experiment suggests that his theory is right.",
+        "reorder": "The<>result<>of<>this<>experiment<>suggests<>that<>his<>theory<>is<>right.",
+        "dictation": "The result of this experiment suggests that his theory is right."
+    },
+    "10": {
+        "word": "contain",
+        "meaning": "入れている",
+        "blank_word": "contains",
+        "blank_sentence": "This can contains 20 liters of oil.",
+        "reorder": "This<>can<>contains<>20<>liters<>of<>oil.",
+        "dictation": "This can contains 20 liters of oil."
+    },
+    "11": {
+        "word": "invent",
+        "meaning": "発明する",
+        "blank_word": "invented",
+        "blank_sentence": "The man who invented the tool became rich.",
+        "reorder": "The<>man<>who<>invented<>the<>tool<>became<>rich.",
+        "dictation": "The man who invented the tool became rich."
+    },
+    "12": {
+        "word": "claim",
+        "meaning": "主張する",
+        "blank_word": "claimed",
+        "blank_sentence": "He claimed that he had a right to access the network.",
+        "reorder": "He<>claimed<>that<>he<>had<>a<>right<>to<>access<>the<>network.",
+        "dictation": "He claimed that he had a right to access the network."
+    },
+    "13": {
+        "word": "publish",
+        "meaning": "出版する",
+        "blank_word": "published",
+        "blank_sentence": "All the writer's works are published by this publisher.",
+        "reorder": "All<>the<>writer's<>works<>are<>published<>by<>this<>publisher.",
+        "dictation": "All the writer's works are published by this publisher."
+    },
+    "14": {
+        "word": "mean",
+        "meaning": "意味する",
+        "blank_word": "mean",
+        "blank_sentence": "What do these numbers mean?",
+        "reorder": "What<>do<>these<>numbers<>mean?",
+        "dictation": "What do these numbers mean?"
+    },
+    "15": {
+        "word": "bake",
+        "meaning": "(パン・菓子などを)焼く",
+        "blank_word": "baking",
+        "blank_sentence": "He is good at baking sweets.",
+        "reorder": "He<>is<>good<>at<>baking<>sweets.",
+        "dictation": "He is good at baking sweets."
+    },
+    "16": {
+        "word": "burn",
+        "meaning": "燃やす",
+        "blank_word": "burn",
+        "blank_sentence": "I tried to burn the thick cardboard, but it would hardly burn.",
+        "reorder": "I<>tried<>to<>burn<>the<>thick<>cardboard,<>but<>it<>would<>hardly<>burn.",
+        "dictation": "I tried to burn the thick cardboard, but it would hardly burn."
+    },
+    "17": {
+        "word": "float",
+        "meaning": "浮く",
+        "blank_word": "float",
+        "blank_sentence": "Some metals float on water.",
+        "reorder": "Some<>metals<>float<>on<>water.",
+        "dictation": "Some metals float on water."
+    },
+    "18": {
+        "word": "shine",
+        "meaning": "光る",
+        "blank_word": "shine",
+        "blank_sentence": "The moon does not shine by itself.",
+        "reorder": "The<>moon<>does<>not<>shine<>by<>itself.",
+        "dictation": "The moon does not shine by itself."
+    },
+    "19": {
+        "word": "polish",
+        "meaning": "磨く",
+        "blank_word": "polished",
+        "blank_sentence": "Metals are generally shiny when they are polished.",
+        "reorder": "Metals<>are<>generally<>shiny<>when<>they<>are<>polished.",
+        "dictation": "Metals are generally shiny when they are polished."
+    },
+    "20": {
+        "word": "effect",
+        "meaning": "影響",
+        "blank_word": "effect",
+        "blank_sentence": "You have to know the bad effect of smoking on your health.",
+        "reorder": "You<>have<>to<>know<>the<>bad<>effect<>of<>smoking<>on<>your<>health.",
+        "dictation": "You have to know the bad effect of smoking on your health."
+    },
+    "21": {
+        "word": "industry",
+        "meaning": "産業",
+        "blank_word": "industry",
+        "blank_sentence": "The machine industry rapidly developed in these countries.",
+        "reorder": "The<>machine<>industry<>rapidly<>developed<>in<>these<>countries.",
+        "dictation": "The machine industry rapidly developed in these countries."
+    },
+    "22": {
+        "word": "process",
+        "meaning": "過程",
+        "blank_word": "process",
+        "blank_sentence": "Show me the production process of this model.",
+        "reorder": "Show<>me<>the<>production<>process<>of<>this<>model.",
+        "dictation": "Show me the production process of this model."
+    },
+    "23": {
+        "word": "means",
+        "meaning": "手段",
+        "blank_word": "means",
+        "blank_sentence": "We used all possible means to solve the problem.",
+        "reorder": "We<>used<>all<>possible<>means<>to<>solve<>the<>problem.",
+        "dictation": "We used all possible means to solve the problem."
+    },
+    "24": {
+        "word": "material",
+        "meaning": "材料",
+        "blank_word": "material",
+        "blank_sentence": "They developed an effective means of processing the ceramic material.",
+        "reorder": "They<>developed<>an<>effective<>means<>of<>processing<>the<>ceramic<>material.",
+        "dictation": "They developed an effective means of processing the ceramic material."
+    },
+    "25": {
+        "word": "leather",
+        "meaning": "革(製品)",
+        "blank_word": "leather",
+        "blank_sentence": "These bags are all made of horse leather.",
+        "reorder": "These<>bags<>are<>all<>made<>of<>horse<>leather.",
+        "dictation": "These bags are all made of horse leather."
+    }
+}

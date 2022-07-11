@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "underground",
+        "meaning": "地下の",
+        "blank_word": "underground",
+        "blank_sentence": "You can reach that cabin through the underground path.",
+        "reorder": "You<>can<>reach<>that<>cabin<>through<>the<>underground<>path.",
+        "dictation": "You can reach that cabin through the underground path."
+    },
+    "2": {
+        "word": "pregnant",
+        "meaning": "妊娠している",
+        "blank_word": "pregnant",
+        "blank_sentence": "My wife is eight months pregnant.",
+        "reorder": "My<>wife<>is<>eight<>months<>pregnant.",
+        "dictation": "My wife is eight months pregnant."
+    },
+    "3": {
+        "word": "fertile",
+        "meaning": "肥沃な",
+        "blank_word": "Fertile",
+        "blank_sentence": "Fertile land allows fruits and vegetables to grow well.",
+        "reorder": "Fertile<>land<>allows<>fruits<>and<>vegetables<>to<>grow<>well.",
+        "dictation": "Fertile land allows fruits and vegetables to grow well."
+    },
+    "4": {
+        "word": "sterile",
+        "meaning": "無菌の",
+        "blank_word": "sterile",
+        "blank_sentence": "These needles are kept under sterile conditions.",
+        "reorder": "These<>needles<>are<>kept<>under<>sterile<>conditions.",
+        "dictation": "These needles are kept under sterile conditions."
+    },
+    "5": {
+        "word": "sperm",
+        "meaning": "精子",
+        "blank_word": "sperm",
+        "blank_sentence": "A sperm has a sensor to find the direction toward the egg.",
+        "reorder": "A<>sperm<>has<>a<>sensor<>to<>find<>the<>direction<>toward<>the<>egg.",
+        "dictation": "A sperm has a sensor to find the direction toward the egg."
+    },
+    "6": {
+        "word": "embryo",
+        "meaning": "胚",
+        "blank_word": "embryo",
+        "blank_sentence": "The egg has now just started to grow as an embryo.",
+        "reorder": "The<>egg<>has<>now<>just<>started<>to<>grow<>as<>an<>embryo.",
+        "dictation": "The egg has now just started to grow as an embryo."
+    },
+    "7": {
+        "word": "chromosome",
+        "meaning": "染色体",
+        "blank_word": "chromosomes",
+        "blank_sentence": "Humans have 23 pairs of chromosomes.",
+        "reorder": "Humans<>have<>23<>pairs<>of<>chromosomes.",
+        "dictation": "Humans have 23 pairs of chromosomes."
+    },
+    "8": {
+        "word": "fertilize",
+        "meaning": "受精させる",
+        "blank_word": "fertilize",
+        "blank_sentence": "Only one sperm can fertilize an egg.",
+        "reorder": "Only<>one<>sperm<>can<>fertilize<>an<>egg.",
+        "dictation": "Only one sperm can fertilize an egg."
+    },
+    "9": {
+        "word": "refuse",
+        "meaning": "拒否する",
+        "blank_word": "refused",
+        "blank_sentence": "He refused the committee's request to resign.",
+        "reorder": "He<>refused<>the<>committee's<>request<>to<>resign.",
+        "dictation": "He refused the committee's request to resign."
+    },
+    "10": {
+        "word": "exchange",
+        "meaning": "交換する",
+        "blank_word": "exchanged",
+        "blank_sentence": "I exchanged yen for dollars at the airport.",
+        "reorder": "I<>exchanged<>yen<>for<>dollars<>at<>the<>airport.",
+        "dictation": "I exchanged yen for dollars at the airport."
+    },
+    "11": {
+        "word": "rotate",
+        "meaning": "回す",
+        "blank_word": "Rotate",
+        "blank_sentence": "Rotate the shaft 90 degrees clockwise.",
+        "reorder": "Rotate<>the<>shaft<>90<>degrees<>clockwise.",
+        "dictation": "Rotate the shaft 90 degrees clockwise."
+    },
+    "12": {
+        "word": "modify",
+        "meaning": "修正する",
+        "blank_word": "modify",
+        "blank_sentence": "We have to modify the program to fit the customer's request.",
+        "reorder": "We<>have<>to<>modify<>the<>program<>to<>fit<>the<>customer's<>request.",
+        "dictation": "We have to modify the program to fit the customer's request."
+    },
+    "13": {
+        "word": "mount",
+        "meaning": "搭載する",
+        "blank_word": "mounted",
+        "blank_sentence": "The device was modified so that a video camera can be mounted on it.",
+        "reorder": "The<>device<>was<>modified<>so<>that<>a<>video<>camera<>can<>be<>mounted<>on<>it.",
+        "dictation": "The device was modified so that a video camera can be mounted on it."
+    },
+    "14": {
+        "word": "approve",
+        "meaning": "承認する",
+        "blank_word": "approved",
+        "blank_sentence": "The use of this new drug has not been approved.",
+        "reorder": "The<>use<>of<>this<>new<>drug<>has<>not<>been<>approved.",
+        "dictation": "The use of this new drug has not been approved."
+    },
+    "15": {
+        "word": "hide",
+        "meaning": "隠れる",
+        "blank_word": "hide",
+        "blank_sentence": "Small animals need a place to hide.",
+        "reorder": "Small<>animals<>need<>a<>place<>to<>hide.",
+        "dictation": "Small animals need a place to hide."
+    },
+    "16": {
+        "word": "pretend",
+        "meaning": "～のふりをする",
+        "blank_word": "pretend",
+        "blank_sentence": "Some insects pretend to be objects like twigs or leaves.",
+        "reorder": "Some<>insects<>pretend<>to<>be<>objects<>like<>twigs<>or<>leaves.",
+        "dictation": "Some insects pretend to be objects like twigs or leaves."
+    },
+    "17": {
+        "word": "probe",
+        "meaning": "調べる",
+        "blank_word": "probing",
+        "blank_sentence": "It was the first spacecraft which succeeded in probing the far side of the moon.",
+        "reorder": "It<>was<>the<>first<>spacecraft<>which<>succeeded<>in<>probing<>the<>far<>side<>of<>the<>moon.",
+        "dictation": "It was the first spacecraft which succeeded in probing the far side of the moon."
+    },
+    "18": {
+        "word": "blame",
+        "meaning": "非難する",
+        "blank_word": "blamed",
+        "blank_sentence": "People blamed the mayor for his approving of the tax increase.",
+        "reorder": "People<>blamed<>the<>mayor<>for<>his<>approving<>of<>the<>tax<>increase.",
+        "dictation": "People blamed the mayor for his approving of the tax increase."
+    },
+    "19": {
+        "word": "bother",
+        "meaning": "悩ませる",
+        "blank_word": "bothering",
+        "blank_sentence": "What is bothering you so much?",
+        "reorder": "What<>is<>bothering<>you<>so<>much?",
+        "dictation": "What is bothering you so much?"
+    },
+    "20": {
+        "word": "forgive",
+        "meaning": "許す",
+        "blank_word": "forgive",
+        "blank_sentence": "I can't forgive him for breaking his promise.",
+        "reorder": "I<>can't<>forgive<>him<>for<>breaking<>his<>promise.",
+        "dictation": "I can't forgive him for breaking his promise."
+    },
+    "21": {
+        "word": "blow",
+        "meaning": "(風が)吹く",
+        "blank_word": "blowing",
+        "blank_sentence": "A strong wind is blowing as the typhoon is approaching.",
+        "reorder": "A<>strong<>wind<>is<>blowing<>as<>the<>typhoon<>is<>approaching.",
+        "dictation": "A strong wind is blowing as the typhoon is approaching."
+    },
+    "22": {
+        "word": "fix",
+        "meaning": "修理する",
+        "blank_word": "fix",
+        "blank_sentence": "It will take more than a week to fix the broken camera.",
+        "reorder": "It<>will<>take<>more<>than<>a<>week<>to<>fix<>the<>broken<>camera.",
+        "dictation": "It will take more than a week to fix the broken camera."
+    },
+    "23": {
+        "word": "burst",
+        "meaning": "破裂する",
+        "blank_word": "burst",
+        "blank_sentence": "The balloon burst as I blew too much air into it.",
+        "reorder": "The<>balloon<>burst<>as<>I<>blew<>too<>much<>air<>into<>it.",
+        "dictation": "The balloon burst as I blew too much air into it."
+    },
+    "24": {
+        "word": "explore",
+        "meaning": "探検する",
+        "blank_word": "explored",
+        "blank_sentence": "She is one of the pioneers who explored the deep seas.",
+        "reorder": "She<>is<>one<>of<>the<>pioneers<>who<>explored<>the<>deep<>seas.",
+        "dictation": "She is one of the pioneers who explored the deep seas."
+    },
+    "25": {
+        "word": "dump",
+        "meaning": "投げ捨てる",
+        "blank_word": "dumps",
+        "blank_sentence": "Someone dumps garbage into the river and bothers people in the area.",
+        "reorder": "Someone<>dumps<>garbage<>into<>the<>river<>and<>bothers<>people<>in<>the<>area.",
+        "dictation": "Someone dumps garbage into the river and bothers people in the area."
+    }
+}

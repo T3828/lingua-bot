@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "cabin",
+        "meaning": "小屋",
+        "blank_word": "cabin",
+        "blank_sentence": "They built a small log cabin in the forest.",
+        "reorder": "They<>built<>a<>small<>log<>cabin<>in<>the<>forest.",
+        "dictation": "They built a small log cabin in the forest."
+    },
+    "2": {
+        "word": "anchor",
+        "meaning": "錨",
+        "blank_word": "anchor",
+        "blank_sentence": "Never drop the anchor while the ship is in motion.",
+        "reorder": "Never<>drop<>the<>anchor<>while<>the<>ship<>is<>in<>motion.",
+        "dictation": "Never drop the anchor while the ship is in motion."
+    },
+    "3": {
+        "word": "stock",
+        "meaning": "株式",
+        "blank_word": "stocks",
+        "blank_sentence": "My grandfather used to put a lot of money into stocks.",
+        "reorder": "My<>grandfather<>used<>to<>put<>a<>lot<>of<>money<>into<>stocks.",
+        "dictation": "My grandfather used to put a lot of money into stocks."
+    },
+    "4": {
+        "word": "collapse",
+        "meaning": "崩壊",
+        "blank_word": "collapse",
+        "blank_sentence": "His quick action saved the building from collapse.",
+        "reorder": "His<>quick<>action<>saved<>the<>building<>from<>collapse.",
+        "dictation": "His quick action saved the building from collapse."
+    },
+    "5": {
+        "word": "thread",
+        "meaning": "糸",
+        "blank_word": "threads",
+        "blank_sentence": "The machine spins cotton into threads.",
+        "reorder": "The<>machine<>spins<>cotton<>into<>threads.",
+        "dictation": "The machine spins cotton into threads."
+    },
+    "6": {
+        "word": "needle",
+        "meaning": "針",
+        "blank_word": "needle",
+        "blank_sentence": "Will you pass the thread through the eye of the needle?",
+        "reorder": "Will<>you<>pass<>the<>thread<>through<>the<>eye<>of<>the<>needle?",
+        "dictation": "Will you pass the thread through the eye of the needle?"
+    },
+    "7": {
+        "word": "impression",
+        "meaning": "印象",
+        "blank_word": "impressions",
+        "blank_sentence": "First impressions tend to stick in our minds.",
+        "reorder": "First<>impressions<>tend<>to<>stick<>in<>our<>minds.",
+        "dictation": "First impressions tend to stick in our minds."
+    },
+    "8": {
+        "word": "path",
+        "meaning": "通り道",
+        "blank_word": "path",
+        "blank_sentence": "A metal wire becomes a path for electricity.",
+        "reorder": "A<>metal<>wire<>becomes<>a<>path<>for<>electricity.",
+        "dictation": "A metal wire becomes a path for electricity."
+    },
+    "9": {
+        "word": "branch",
+        "meaning": "支店",
+        "blank_word": "branch",
+        "blank_sentence": "He has been promoted to the chief of the branch.",
+        "reorder": "He<>has<>been<>promoted<>to<>the<>chief<>of<>the<>branch.",
+        "dictation": "He has been promoted to the chief of the branch."
+    },
+    "10": {
+        "word": "altogether",
+        "meaning": "全体で",
+        "blank_word": "altogether",
+        "blank_sentence": "It will cost us one million dollars altogether to close all our branches.",
+        "reorder": "It<>will<>cost<>us<>one<>million<>dollars<>altogether<>to<>close<>all<>our<>branches.",
+        "dictation": "It will cost us one million dollars altogether to close all our branches."
+    },
+    "11": {
+        "word": "clockwise",
+        "meaning": "時計回りに",
+        "blank_word": "clockwise",
+        "blank_sentence": "If you turn the handle clockwise , the door will open.",
+        "reorder": "If<>you<>turn<>the<>handle<>clockwise<>,<>the<>door<>will<>open.",
+        "dictation": "If you turn the handle clockwise , the door will open."
+    },
+    "12": {
+        "word": "upright",
+        "meaning": "垂直に",
+        "blank_word": "upright",
+        "blank_sentence": "Sunflowers are tall plants which grow upright.",
+        "reorder": "Sunflowers<>are<>tall<>plants<>which<>grow<>upright.",
+        "dictation": "Sunflowers are tall plants which grow upright."
+    },
+    "13": {
+        "word": "respectively",
+        "meaning": "それぞれ",
+        "blank_word": "respectively",
+        "blank_sentence": "Charts 1 and 2 respectively show the results of the first and second experiments.",
+        "reorder": "Charts<>1<>and<>2<>respectively<>show<>the<>results<>of<>the<>first<>and<>second<>experiments.",
+        "dictation": "Charts 1 and 2 respectively show the results of the first and second experiments."
+    },
+    "14": {
+        "word": "regardless",
+        "meaning": "(～に)かかわらず",
+        "blank_word": "regardless",
+        "blank_sentence": "In that country, you can't drink alcohol regardless of age.",
+        "reorder": "In<>that<>country,<>you<>can't<>drink<>alcohol<>regardless<>of<>age.",
+        "dictation": "In that country, you can't drink alcohol regardless of age."
+    },
+    "15": {
+        "word": "gentle",
+        "meaning": "優しい",
+        "blank_word": "gentle",
+        "blank_sentence": "The gentle sound of the running stream put me to sleep.",
+        "reorder": "The<>gentle<>sound<>of<>the<>running<>stream<>put<>me<>to<>sleep.",
+        "dictation": "The gentle sound of the running stream put me to sleep."
+    },
+    "16": {
+        "word": "legal",
+        "meaning": "合法的な",
+        "blank_word": "legal",
+        "blank_sentence": "You should never smoke regardless of whether it's legal or illegal.",
+        "reorder": "You<>should<>never<>smoke<>regardless<>of<>whether<>it's<>legal<>or<>illegal.",
+        "dictation": "You should never smoke regardless of whether it's legal or illegal."
+    },
+    "17": {
+        "word": "vast",
+        "meaning": "莫大な",
+        "blank_word": "vast",
+        "blank_sentence": "A nuclear reaction releases vast amounts of energy.",
+        "reorder": "A<>nuclear<>reaction<>releases<>vast<>amounts<>of<>energy.",
+        "dictation": "A nuclear reaction releases vast amounts of energy."
+    },
+    "18": {
+        "word": "thermal",
+        "meaning": "熱の",
+        "blank_word": "thermal",
+        "blank_sentence": "The best known source of thermal energy is the sun.",
+        "reorder": "The<>best<>known<>source<>of<>thermal<>energy<>is<>the<>sun.",
+        "dictation": "The best known source of thermal energy is the sun."
+    },
+    "19": {
+        "word": "overall",
+        "meaning": "全体的な",
+        "blank_word": "overall",
+        "blank_sentence": "The new management system contributed to reducing overall cost of production.",
+        "reorder": "The<>new<>management<>system<>contributed<>to<>reducing<>overall<>cost<>of<>production.",
+        "dictation": "The new management system contributed to reducing overall cost of production."
+    },
+    "20": {
+        "word": "sexual",
+        "meaning": "性の",
+        "blank_word": "sexual",
+        "blank_sentence": "The research showed a sexual difference in children's physical performance.",
+        "reorder": "The<>research<>showed<>a<>sexual<>difference<>in<>children's<>physical<>performance.",
+        "dictation": "The research showed a sexual difference in children's physical performance."
+    },
+    "21": {
+        "word": "critical",
+        "meaning": "危機的な",
+        "blank_word": "critical",
+        "blank_sentence": "The country is in a critical situation after the terrorist attack.",
+        "reorder": "The<>country<>is<>in<>a<>critical<>situation<>after<>the<>terrorist<>attack.",
+        "dictation": "The country is in a critical situation after the terrorist attack."
+    },
+    "22": {
+        "word": "nearby",
+        "meaning": "近くの",
+        "blank_word": "nearby",
+        "blank_sentence": "The patient was taken to the nearby hospital.",
+        "reorder": "The<>patient<>was<>taken<>to<>the<>nearby<>hospital.",
+        "dictation": "The patient was taken to the nearby hospital."
+    },
+    "23": {
+        "word": "crucial",
+        "meaning": "決定的な",
+        "blank_word": "crucial",
+        "blank_sentence": "Design was the crucial element in the sales of the product.",
+        "reorder": "Design<>was<>the<>crucial<>element<>in<>the<>sales<>of<>the<>product.",
+        "dictation": "Design was the crucial element in the sales of the product."
+    },
+    "24": {
+        "word": "prior",
+        "meaning": "前の",
+        "blank_word": "prior",
+        "blank_sentence": "Never forget to check tools prior to using them.",
+        "reorder": "Never<>forget<>to<>check<>tools<>prior<>to<>using<>them.",
+        "dictation": "Never forget to check tools prior to using them."
+    },
+    "25": {
+        "word": "senior",
+        "meaning": "上級の",
+        "blank_word": "senior",
+        "blank_sentence": "He became a senior advisor of this company after retirement.",
+        "reorder": "He<>became<>a<>senior<>advisor<>of<>this<>company<>after<>retirement.",
+        "dictation": "He became a senior advisor of this company after retirement."
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "devise",
+        "meaning": "工夫する",
+        "blank_word": "devised",
+        "blank_sentence": "The company devised an effective way to make their products.",
+        "reorder": "The<>company<>devised<>an<>effective<>way<>to<>make<>their<>products.",
+        "dictation": "The company devised an effective way to make their products."
+    },
+    "2": {
+        "word": "reinforce",
+        "meaning": "補強する",
+        "blank_word": "reinforce",
+        "blank_sentence": "These steel rods are used to reinforce concrete.",
+        "reorder": "These<>steel<>rods<>are<>used<>to<>reinforce<>concrete.",
+        "dictation": "These steel rods are used to reinforce concrete."
+    },
+    "3": {
+        "word": "forecast",
+        "meaning": "予報する",
+        "blank_word": "forecast",
+        "blank_sentence": "Weather satellites are used to forecast the weather around the world.",
+        "reorder": "Weather<>satellites<>are<>used<>to<>forecast<>the<>weather<>around<>the<>world.",
+        "dictation": "Weather satellites are used to forecast the weather around the world."
+    },
+    "4": {
+        "word": "collide",
+        "meaning": "衝突する",
+        "blank_word": "collides",
+        "blank_sentence": "When the electron beam collides with an atomic nucleus, it splits into protons and neutrons.",
+        "reorder": "When<>the<>electron<>beam<>collides<>with<>an<>atomic<>nucleus,<>it<>splits<>into<>protons<>and<>neutrons.",
+        "dictation": "When the electron beam collides with an atomic nucleus, it splits into protons and neutrons."
+    },
+    "5": {
+        "word": "proceed",
+        "meaning": "進む",
+        "blank_word": "proceed",
+        "blank_sentence": "The project is going to proceed to the next phase.",
+        "reorder": "The<>project<>is<>going<>to<>proceed<>to<>the<>next<>phase.",
+        "dictation": "The project is going to proceed to the next phase."
+    },
+    "6": {
+        "word": "sail",
+        "meaning": "航海する",
+        "blank_word": "sailed",
+        "blank_sentence": "The sailboat traced the exact route that Columbus sailed more than 500 years ago.",
+        "reorder": "The<>sailboat<>traced<>the<>exact<>route<>that<>Columbus<>sailed<>more<>than<>500<>years<>ago.",
+        "dictation": "The sailboat traced the exact route that Columbus sailed more than 500 years ago."
+    },
+    "7": {
+        "word": "bow",
+        "meaning": "船首",
+        "blank_word": "bow",
+        "blank_sentence": "The bow of this ship is reinforced so that it can break ice.",
+        "reorder": "The<>bow<>of<>this<>ship<>is<>reinforced<>so<>that<>it<>can<>break<>ice.",
+        "dictation": "The bow of this ship is reinforced so that it can break ice."
+    },
+    "8": {
+        "word": "procedure",
+        "meaning": "手順",
+        "blank_word": "procedure",
+        "blank_sentence": "Tell me the procedure for installing this software.",
+        "reorder": "Tell<>me<>the<>procedure<>for<>installing<>this<>software.",
+        "dictation": "Tell me the procedure for installing this software."
+    },
+    "9": {
+        "word": "title",
+        "meaning": "題名",
+        "blank_word": "title",
+        "blank_sentence": "Principia is the title of the book that Newton wrote about the laws of motion.",
+        "reorder": "Principia<>is<>the<>title<>of<>the<>book<>that<>Newton<>wrote<>about<>the<>laws<>of<>motion.",
+        "dictation": "Principia is the title of the book that Newton wrote about the laws of motion."
+    },
+    "10": {
+        "word": "labor",
+        "meaning": "労働",
+        "blank_word": "labor",
+        "blank_sentence": "Education for employees is a factor that influences the quality of labor.",
+        "reorder": "Education<>for<>employees<>is<>a<>factor<>that<>influences<>the<>quality<>of<>labor.",
+        "dictation": "Education for employees is a factor that influences the quality of labor."
+    },
+    "11": {
+        "word": "union",
+        "meaning": "組合",
+        "blank_word": "union",
+        "blank_sentence": "None of my colleagues is a member of the labor union.",
+        "reorder": "None<>of<>my<>colleagues<>is<>a<>member<>of<>the<>labor<>union.",
+        "dictation": "None of my colleagues is a member of the labor union."
+    },
+    "12": {
+        "word": "cattle",
+        "meaning": "(家畜の)牛",
+        "blank_word": "cattle",
+        "blank_sentence": "The cattle gathered around the pond to drink water.",
+        "reorder": "The<>cattle<>gathered<>around<>the<>pond<>to<>drink<>water.",
+        "dictation": "The cattle gathered around the pond to drink water."
+    },
+    "13": {
+        "word": "lamb",
+        "meaning": "子羊(の肉)",
+        "blank_word": "Lamb",
+        "blank_sentence": "Lamb is a popular dish in the Middle East.",
+        "reorder": "Lamb<>is<>a<>popular<>dish<>in<>the<>Middle<>East.",
+        "dictation": "Lamb is a popular dish in the Middle East."
+    },
+    "14": {
+        "word": "sector",
+        "meaning": "部分",
+        "blank_word": "sector",
+        "blank_sentence": "We need to expand the manufacturing sector.",
+        "reorder": "We<>need<>to<>expand<>the<>manufacturing<>sector.",
+        "dictation": "We need to expand the manufacturing sector."
+    },
+    "15": {
+        "word": "mineral",
+        "meaning": "鉱物",
+        "blank_word": "mineral",
+        "blank_sentence": "Diamond is a kind of mineral which consists of nothing but carbon atoms.",
+        "reorder": "Diamond<>is<>a<>kind<>of<>mineral<>which<>consists<>of<>nothing<>but<>carbon<>atoms.",
+        "dictation": "Diamond is a kind of mineral which consists of nothing but carbon atoms."
+    },
+    "16": {
+        "word": "continent",
+        "meaning": "大陸",
+        "blank_word": "continents",
+        "blank_sentence": "Asia is the largest of the seven continents.",
+        "reorder": "Asia<>is<>the<>largest<>of<>the<>seven<>continents.",
+        "dictation": "Asia is the largest of the seven continents."
+    },
+    "17": {
+        "word": "profit",
+        "meaning": "利益",
+        "blank_word": "profits",
+        "blank_sentence": "This product brought the company large profits.",
+        "reorder": "This<>product<>brought<>the<>company<>large<>profits.",
+        "dictation": "This product brought the company large profits."
+    },
+    "18": {
+        "word": "scene",
+        "meaning": "現場",
+        "blank_word": "scene",
+        "blank_sentence": "Samples of blood and skin were collected from the scene.",
+        "reorder": "Samples<>of<>blood<>and<>skin<>were<>collected<>from<>the<>scene.",
+        "dictation": "Samples of blood and skin were collected from the scene."
+    },
+    "19": {
+        "word": "chaos",
+        "meaning": "混乱(状態)",
+        "blank_word": "chaos",
+        "blank_sentence": "The earthquake brought chaos to the area.",
+        "reorder": "The<>earthquake<>brought<>chaos<>to<>the<>area.",
+        "dictation": "The earthquake brought chaos to the area."
+    },
+    "20": {
+        "word": "specimen",
+        "meaning": "標本",
+        "blank_word": "specimens",
+        "blank_sentence": "The scientist brought back specimens of minerals from the mountain.",
+        "reorder": "The<>scientist<>brought<>back<>specimens<>of<>minerals<>from<>the<>mountain.",
+        "dictation": "The scientist brought back specimens of minerals from the mountain."
+    },
+    "21": {
+        "word": "initiative",
+        "meaning": "主導権",
+        "blank_word": "initiative",
+        "blank_sentence": "The president himself took the initiative in the project.",
+        "reorder": "The<>president<>himself<>took<>the<>initiative<>in<>the<>project.",
+        "dictation": "The president himself took the initiative in the project."
+    },
+    "22": {
+        "word": "extent",
+        "meaning": "程度",
+        "blank_word": "extent",
+        "blank_sentence": "What is the extent of the damage by the oil leak?",
+        "reorder": "What<>is<>the<>extent<>of<>the<>damage<>by<>the<>oil<>leak?",
+        "dictation": "What is the extent of the damage by the oil leak?"
+    },
+    "23": {
+        "word": "string",
+        "meaning": "ひも",
+        "blank_word": "string",
+        "blank_sentence": "These books are tied tightly with string.",
+        "reorder": "These<>books<>are<>tied<>tightly<>with<>string.",
+        "dictation": "These books are tied tightly with string."
+    },
+    "24": {
+        "word": "pendulum",
+        "meaning": "振り子",
+        "blank_word": "pendulum",
+        "blank_sentence": "A pendulum is a weight hanging on the end of a string.",
+        "reorder": "A<>pendulum<>is<>a<>weight<>hanging<>on<>the<>end<>of<>a<>string.",
+        "dictation": "A pendulum is a weight hanging on the end of a string."
+    },
+    "25": {
+        "word": "drum",
+        "meaning": "ドラム",
+        "blank_word": "drum",
+        "blank_sentence": "Do not touch the drum in the laser printer.",
+        "reorder": "Do<>not<>touch<>the<>drum<>in<>the<>laser<>printer.",
+        "dictation": "Do not touch the drum in the laser printer."
+    }
+}

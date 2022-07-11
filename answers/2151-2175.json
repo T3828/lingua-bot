@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "suck",
+        "meaning": "吸う",
+        "blank_word": "suck",
+        "blank_sentence": "Female mosquitoes suck animals' blood, but male mosquitoes don't.",
+        "reorder": "Female<>mosquitoes<>suck<>animals'<>blood,<>but<>male<>mosquitoes<>don't.",
+        "dictation": "Female mosquitoes suck animals' blood, but male mosquitoes don't."
+    },
+    "2": {
+        "word": "dedicate",
+        "meaning": "～に打ち込む",
+        "blank_word": "dedicated",
+        "blank_sentence": "He dedicated his time and energy to reforming the organization.",
+        "reorder": "He<>dedicated<>his<>time<>and<>energy<>to<>reforming<>the<>organization.",
+        "dictation": "He dedicated his time and energy to reforming the organization."
+    },
+    "3": {
+        "word": "disappoint",
+        "meaning": "がっかりさせる",
+        "blank_word": "disappointed",
+        "blank_sentence": "His obscure answer to the question disappointed us.",
+        "reorder": "His<>obscure<>answer<>to<>the<>question<>disappointed<>us.",
+        "dictation": "His obscure answer to the question disappointed us."
+    },
+    "4": {
+        "word": "entertain",
+        "meaning": "楽しませる",
+        "blank_word": "entertained",
+        "blank_sentence": "The singer entertained the audience with her singing and dancing.",
+        "reorder": "The<>singer<>entertained<>the<>audience<>with<>her<>singing<>and<>dancing.",
+        "dictation": "The singer entertained the audience with her singing and dancing."
+    },
+    "5": {
+        "word": "suppress",
+        "meaning": "抑える",
+        "blank_word": "suppress",
+        "blank_sentence": "We must try to suppress energy use.",
+        "reorder": "We<>must<>try<>to<>suppress<>energy<>use.",
+        "dictation": "We must try to suppress energy use."
+    },
+    "6": {
+        "word": "participate",
+        "meaning": "参加する",
+        "blank_word": "participated",
+        "blank_sentence": "All employees participated in the company festival.",
+        "reorder": "All<>employees<>participated<>in<>the<>company<>festival.",
+        "dictation": "All employees participated in the company festival."
+    },
+    "7": {
+        "word": "persist",
+        "meaning": "固執する",
+        "blank_word": "persist",
+        "blank_sentence": "I don't understand why you persist in this plan.",
+        "reorder": "I<>don't<>understand<>why<>you<>persist<>in<>this<>plan.",
+        "dictation": "I don't understand why you persist in this plan."
+    },
+    "8": {
+        "word": "circulate",
+        "meaning": "循環する",
+        "blank_word": "circulates",
+        "blank_sentence": "Blood constantly circulates through blood vessels.",
+        "reorder": "Blood<>constantly<>circulates<>through<>blood<>vessels.",
+        "dictation": "Blood constantly circulates through blood vessels."
+    },
+    "9": {
+        "word": "divert",
+        "meaning": "(脇へ)そらす",
+        "blank_word": "divert",
+        "blank_sentence": "He turned off the TV in order not to divert his children's attention.",
+        "reorder": "He<>turned<>off<>the<>TV<>in<>order<>not<>to<>divert<>his<>children's<>attention.",
+        "dictation": "He turned off the TV in order not to divert his children's attention."
+    },
+    "10": {
+        "word": "distort",
+        "meaning": "ゆがめる",
+        "blank_word": "distorted",
+        "blank_sentence": "The earth is slightly distorted by the gravitational influence of the moon.",
+        "reorder": "The<>earth<>is<>slightly<>distorted<>by<>the<>gravitational<>influence<>of<>the<>moon.",
+        "dictation": "The earth is slightly distorted by the gravitational influence of the moon."
+    },
+    "11": {
+        "word": "fade",
+        "meaning": "(徐々に)消える",
+        "blank_word": "faded",
+        "blank_sentence": "The siren faded out as the ambulance drove away.",
+        "reorder": "The<>siren<>faded<>out<>as<>the<>ambulance<>drove<>away.",
+        "dictation": "The siren faded out as the ambulance drove away."
+    },
+    "12": {
+        "word": "perception",
+        "meaning": "認知",
+        "blank_word": "Perception",
+        "blank_sentence": "Perception of language is mainly done by the left side of the human brain.",
+        "reorder": "Perception<>of<>language<>is<>mainly<>done<>by<>the<>left<>side<>of<>the<>human<>brain.",
+        "dictation": "Perception of language is mainly done by the left side of the human brain."
+    },
+    "13": {
+        "word": "bias",
+        "meaning": "偏見",
+        "blank_word": "bias",
+        "blank_sentence": "None of the participants in the meeting have a bias against foreign people.",
+        "reorder": "None<>of<>the<>participants<>in<>the<>meeting<>have<>a<>bias<>against<>foreign<>people.",
+        "dictation": "None of the participants in the meeting have a bias against foreign people."
+    },
+    "14": {
+        "word": "anxiety",
+        "meaning": "不安",
+        "blank_word": "anxiety",
+        "blank_sentence": "An economic depression increases anxiety for the future.",
+        "reorder": "An<>economic<>depression<>increases<>anxiety<>for<>the<>future.",
+        "dictation": "An economic depression increases anxiety for the future."
+    },
+    "15": {
+        "word": "inflation",
+        "meaning": "インフレ",
+        "blank_word": "Inflation",
+        "blank_sentence": "Inflation has been kept under control in my country.",
+        "reorder": "Inflation<>has<>been<>kept<>under<>control<>in<>my<>country.",
+        "dictation": "Inflation has been kept under control in my country."
+    },
+    "16": {
+        "word": "session",
+        "meaning": "会議(の期間)",
+        "blank_word": "session",
+        "blank_sentence": "The prime minister stated he would extend the ordinary Diet session by ten days.",
+        "reorder": "The<>prime<>minister<>stated<>he<>would<>extend<>the<>ordinary<>Diet<>session<>by<>ten<>days.",
+        "dictation": "The prime minister stated he would extend the ordinary Diet session by ten days."
+    },
+    "17": {
+        "word": "artery",
+        "meaning": "動脈",
+        "blank_word": "arteries",
+        "blank_sentence": "The blood flowing in arteries is rich in oxygen.",
+        "reorder": "The<>blood<>flowing<>in<>arteries<>is<>rich<>in<>oxygen.",
+        "dictation": "The blood flowing in arteries is rich in oxygen."
+    },
+    "18": {
+        "word": "vein",
+        "meaning": "静脈",
+        "blank_word": "veins",
+        "blank_sentence": "In general, veins function to take blood back to the heart.",
+        "reorder": "In<>general,<>veins<>function<>to<>take<>blood<>back<>to<>the<>heart.",
+        "dictation": "In general, veins function to take blood back to the heart."
+    },
+    "19": {
+        "word": "consensus",
+        "meaning": "合意",
+        "blank_word": "consensus",
+        "blank_sentence": "We have got no consensus on this matter yet.",
+        "reorder": "We<>have<>got<>no<>consensus<>on<>this<>matter<>yet.",
+        "dictation": "We have got no consensus on this matter yet."
+    },
+    "20": {
+        "word": "emotion",
+        "meaning": "感情",
+        "blank_word": "emotion",
+        "blank_sentence": "We are sometimes driven more by emotion than by reason.",
+        "reorder": "We<>are<>sometimes<>driven<>more<>by<>emotion<>than<>by<>reason.",
+        "dictation": "We are sometimes driven more by emotion than by reason."
+    },
+    "21": {
+        "word": "sympathy",
+        "meaning": "共感",
+        "blank_word": "sympathy",
+        "blank_sentence": "The audience felt deep sympathy for the main character on the screen.",
+        "reorder": "The<>audience<>felt<>deep<>sympathy<>for<>the<>main<>character<>on<>the<>screen.",
+        "dictation": "The audience felt deep sympathy for the main character on the screen."
+    },
+    "22": {
+        "word": "era",
+        "meaning": "時代",
+        "blank_word": "era",
+        "blank_sentence": "My grandparents have lived from the Meiji to the Heisei era.",
+        "reorder": "My<>grandparents<>have<>lived<>from<>the<>Meiji<>to<>the<>Heisei<>era.",
+        "dictation": "My grandparents have lived from the Meiji to the Heisei era."
+    },
+    "23": {
+        "word": "ridge",
+        "meaning": "尾根",
+        "blank_word": "ridge",
+        "blank_sentence": "They stood on the ridge and looked down into the valley.",
+        "reorder": "They<>stood<>on<>the<>ridge<>and<>looked<>down<>into<>the<>valley.",
+        "dictation": "They stood on the ridge and looked down into the valley."
+    },
+    "24": {
+        "word": "witness",
+        "meaning": "目撃者",
+        "blank_word": "witness",
+        "blank_sentence": "The police are seeking a witness to the accident.",
+        "reorder": "The<>police<>are<>seeking<>a<>witness<>to<>the<>accident.",
+        "dictation": "The police are seeking a witness to the accident."
+    },
+    "25": {
+        "word": "delegate",
+        "meaning": "代表",
+        "blank_word": "delegate",
+        "blank_sentence": "I came here as a delegate from my company.",
+        "reorder": "I<>came<>here<>as<>a<>delegate<>from<>my<>company.",
+        "dictation": "I came here as a delegate from my company."
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "denominator",
+        "meaning": "分母",
+        "blank_word": "denominator",
+        "blank_sentence": "The bottom number of a fraction is the denominator.",
+        "reorder": "The<>bottom<>number<>of<>a<>fraction<>is<>the<>denominator.",
+        "dictation": "The bottom number of a fraction is the denominator."
+    },
+    "2": {
+        "word": "numerator",
+        "meaning": "(分数の)分子",
+        "blank_word": "numerator",
+        "blank_sentence": "Multiply the numerator and denominator by the same number.",
+        "reorder": "Multiply<>the<>numerator<>and<>denominator<>by<>the<>same<>number.",
+        "dictation": "Multiply the numerator and denominator by the same number."
+    },
+    "3": {
+        "word": "polygon",
+        "meaning": "多角形",
+        "blank_word": "polygon",
+        "blank_sentence": "All the sides and angles of a regular polygon are equal.",
+        "reorder": "All<>the<>sides<>and<>angles<>of<>a<>regular<>polygon<>are<>equal.",
+        "dictation": "All the sides and angles of a regular polygon are equal."
+    },
+    "4": {
+        "word": "formula",
+        "meaning": "公式",
+        "blank_word": "formula",
+        "blank_sentence": "You can simply apply the formula to solve this equation.",
+        "reorder": "You<>can<>simply<>apply<>the<>formula<>to<>solve<>this<>equation.",
+        "dictation": "You can simply apply the formula to solve this equation."
+    },
+    "5": {
+        "word": "sphere",
+        "meaning": "球",
+        "blank_word": "sphere",
+        "blank_sentence": "The surface area of a sphere is calculated from the formula 4πr2.",
+        "reorder": "The<>surface<>area<>of<>a<>sphere<>is<>calculated<>from<>the<>formula<>4πr2.",
+        "dictation": "The surface area of a sphere is calculated from the formula 4πr2."
+    },
+    "6": {
+        "word": "sum",
+        "meaning": "総和",
+        "blank_word": "sum",
+        "blank_sentence": "The sum of the outer angles of a polygon is always 360 degrees.",
+        "reorder": "The<>sum<>of<>the<>outer<>angles<>of<>a<>polygon<>is<>always<>360<>degrees.",
+        "dictation": "The sum of the outer angles of a polygon is always 360 degrees."
+    },
+    "7": {
+        "word": "numerical",
+        "meaning": "数の",
+        "blank_word": "numerical",
+        "blank_sentence": "Substitute numerical values into the formula.",
+        "reorder": "Substitute<>numerical<>values<>into<>the<>formula.",
+        "dictation": "Substitute numerical values into the formula."
+    },
+    "8": {
+        "word": "numerous",
+        "meaning": "数多くの",
+        "blank_word": "numerous",
+        "blank_sentence": "There are numerous kinds of fish in the ocean.",
+        "reorder": "There<>are<>numerous<>kinds<>of<>fish<>in<>the<>ocean.",
+        "dictation": "There are numerous kinds of fish in the ocean."
+    },
+    "9": {
+        "word": "consecutive",
+        "meaning": "連続した",
+        "blank_word": "consecutive",
+        "blank_sentence": "Find two consecutive numbers with a product of 156.",
+        "reorder": "Find<>two<>consecutive<>numbers<>with<>a<>product<>of<>156.",
+        "dictation": "Find two consecutive numbers with a product of 156."
+    },
+    "10": {
+        "word": "decimal",
+        "meaning": "10進法の",
+        "blank_word": "decimal",
+        "blank_sentence": "In computers, decimal numbers are transformed into binary numbers.",
+        "reorder": "In<>computers,<>decimal<>numbers<>are<>transformed<>into<>binary<>numbers.",
+        "dictation": "In computers, decimal numbers are transformed into binary numbers."
+    },
+    "11": {
+        "word": "fundamental",
+        "meaning": "基本的な",
+        "blank_word": "fundamental",
+        "blank_sentence": "First of all, you have to answer some fundamental questions.",
+        "reorder": "First<>of<>all,<>you<>have<>to<>answer<>some<>fundamental<>questions.",
+        "dictation": "First of all, you have to answer some fundamental questions."
+    },
+    "12": {
+        "word": "ordinary",
+        "meaning": "ありふれた",
+        "blank_word": "ordinary",
+        "blank_sentence": "Nuts and bolts are ordinary parts of machines.",
+        "reorder": "Nuts<>and<>bolts<>are<>ordinary<>parts<>of<>machines.",
+        "dictation": "Nuts and bolts are ordinary parts of machines."
+    },
+    "13": {
+        "word": "annual",
+        "meaning": "年1回の",
+        "blank_word": "annual",
+        "blank_sentence": "The annual conference will be held in March this year.",
+        "reorder": "The<>annual<>conference<>will<>be<>held<>in<>March<>this<>year.",
+        "dictation": "The annual conference will be held in March this year."
+    },
+    "14": {
+        "word": "salary",
+        "meaning": "給料",
+        "blank_word": "salary",
+        "blank_sentence": "My salary is paid once a month through a bank transfer.",
+        "reorder": "My<>salary<>is<>paid<>once<>a<>month<>through<>a<>bank<>transfer.",
+        "dictation": "My salary is paid once a month through a bank transfer."
+    },
+    "15": {
+        "word": "pioneer",
+        "meaning": "先駆者",
+        "blank_word": "pioneers",
+        "blank_sentence": "He is one of the pioneers who developed optical fiber.",
+        "reorder": "He<>is<>one<>of<>the<>pioneers<>who<>developed<>optical<>fiber.",
+        "dictation": "He is one of the pioneers who developed optical fiber."
+    },
+    "16": {
+        "word": "spectrum",
+        "meaning": "スペクトル",
+        "blank_word": "spectrum",
+        "blank_sentence": "A rainbow can be regarded as a spectrum of sunlight.",
+        "reorder": "A<>rainbow<>can<>be<>regarded<>as<>a<>spectrum<>of<>sunlight.",
+        "dictation": "A rainbow can be regarded as a spectrum of sunlight."
+    },
+    "17": {
+        "word": "aspect",
+        "meaning": "(物事の)側面",
+        "blank_word": "aspects",
+        "blank_sentence": "Let's have a look at other aspects of this matter.",
+        "reorder": "Let's<>have<>a<>look<>at<>other<>aspects<>of<>this<>matter.",
+        "dictation": "Let's have a look at other aspects of this matter."
+    },
+    "18": {
+        "word": "chapter",
+        "meaning": "(書物論文などの)章",
+        "blank_word": "chapters",
+        "blank_sentence": "I wrote three chapters of this book.",
+        "reorder": "I<>wrote<>three<>chapters<>of<>this<>book.",
+        "dictation": "I wrote three chapters of this book."
+    },
+    "19": {
+        "word": "concept",
+        "meaning": "概念",
+        "blank_word": "concept",
+        "blank_sentence": "Computer engineers must understand the concept of the binary system.",
+        "reorder": "Computer<>engineers<>must<>understand<>the<>concept<>of<>the<>binary<>system.",
+        "dictation": "Computer engineers must understand the concept of the binary system."
+    },
+    "20": {
+        "word": "career",
+        "meaning": "職業",
+        "blank_word": "career",
+        "blank_sentence": "Many students in this school choose a career in engineering.",
+        "reorder": "Many<>students<>in<>this<>school<>choose<>a<>career<>in<>engineering.",
+        "dictation": "Many students in this school choose a career in engineering."
+    },
+    "21": {
+        "word": "content",
+        "meaning": "内容",
+        "blank_word": "content",
+        "blank_sentence": "The content of this chapter is about how to calculate fractions.",
+        "reorder": "The<>content<>of<>this<>chapter<>is<>about<>how<>to<>calculate<>fractions.",
+        "dictation": "The content of this chapter is about how to calculate fractions."
+    },
+    "22": {
+        "word": "responsibility",
+        "meaning": "責任",
+        "blank_word": "responsibility",
+        "blank_sentence": "You must take full responsibility for the contents of your web site.",
+        "reorder": "You<>must<>take<>full<>responsibility<>for<>the<>contents<>of<>your<>web<>site.",
+        "dictation": "You must take full responsibility for the contents of your web site."
+    },
+    "23": {
+        "word": "opportunity",
+        "meaning": "機会",
+        "blank_word": "opportunity",
+        "blank_sentence": "I'm very happy to have an opportunity to talk with you today.",
+        "reorder": "I'm<>very<>happy<>to<>have<>an<>opportunity<>to<>talk<>with<>you<>today.",
+        "dictation": "I'm very happy to have an opportunity to talk with you today."
+    },
+    "24": {
+        "word": "fluid",
+        "meaning": "流体",
+        "blank_word": "fluid",
+        "blank_sentence": "Not only liquid but also gas is considered as fluid.",
+        "reorder": "Not<>only<>liquid<>but<>also<>gas<>is<>considered<>as<>fluid.",
+        "dictation": "Not only liquid but also gas is considered as fluid."
+    },
+    "25": {
+        "word": "stream",
+        "meaning": "流れ",
+        "blank_word": "stream",
+        "blank_sentence": "This airplane is flying against the stream of air.",
+        "reorder": "This<>airplane<>is<>flying<>against<>the<>stream<>of<>air.",
+        "dictation": "This airplane is flying against the stream of air."
+    }
+}

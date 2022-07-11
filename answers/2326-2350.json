@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "overlook",
+        "meaning": "見過ごす",
+        "blank_word": "overlooked",
+        "blank_sentence": "The problem has been overlooked for years.",
+        "reorder": "The<>problem<>has<>been<>overlooked<>for<>years.",
+        "dictation": "The problem has been overlooked for years."
+    },
+    "2": {
+        "word": "diminish",
+        "meaning": "減らす",
+        "blank_word": "diminish",
+        "blank_sentence": "They stopped all the trains to diminish the risk of major accident.",
+        "reorder": "They<>stopped<>all<>the<>trains<>to<>diminish<>the<>risk<>of<>major<>accident.",
+        "dictation": "They stopped all the trains to diminish the risk of major accident."
+    },
+    "3": {
+        "word": "depart",
+        "meaning": "出発する",
+        "blank_word": "depart",
+        "blank_sentence": "The 12:15 Nozomi bound for Hakata will depart from platform 25.",
+        "reorder": "The<>12:15<>Nozomi<>bound<>for<>Hakata<>will<>depart<>from<>platform<>25.",
+        "dictation": "The 12:15 Nozomi bound for Hakata will depart from platform 25."
+    },
+    "4": {
+        "word": "forbid",
+        "meaning": "禁じる",
+        "blank_word": "forbid",
+        "blank_sentence": "Our office regulations forbid workers from smoking during working hours.",
+        "reorder": "Our<>office<>regulations<>forbid<>workers<>from<>smoking<>during<>working<>hours.",
+        "dictation": "Our office regulations forbid workers from smoking during working hours."
+    },
+    "5": {
+        "word": "prevail",
+        "meaning": "広まる",
+        "blank_word": "prevailed",
+        "blank_sentence": "The news quickly prevailed in the country but was forgotten soon.",
+        "reorder": "The<>news<>quickly<>prevailed<>in<>the<>country<>but<>was<>forgotten<>soon.",
+        "dictation": "The news quickly prevailed in the country but was forgotten soon."
+    },
+    "6": {
+        "word": "tilt",
+        "meaning": "傾ける",
+        "blank_word": "tilted",
+        "blank_sentence": "He tilted his camera on purpose as he took the picture.",
+        "reorder": "He<>tilted<>his<>camera<>on<>purpose<>as<>he<>took<>the<>picture.",
+        "dictation": "He tilted his camera on purpose as he took the picture."
+    },
+    "7": {
+        "word": "remarkable",
+        "meaning": "素晴らしい",
+        "blank_word": "remarkable",
+        "blank_sentence": "The professor conceived a remarkable idea to create a new alloy.",
+        "reorder": "The<>professor<>conceived<>a<>remarkable<>idea<>to<>create<>a<>new<>alloy.",
+        "dictation": "The professor conceived a remarkable idea to create a new alloy."
+    },
+    "8": {
+        "word": "peculiar",
+        "meaning": "奇妙な",
+        "blank_word": "peculiar",
+        "blank_sentence": "Animals sometimes exhibit peculiar behaviors but they are all reasonable.",
+        "reorder": "Animals<>sometimes<>exhibit<>peculiar<>behaviors<>but<>they<>are<>all<>reasonable.",
+        "dictation": "Animals sometimes exhibit peculiar behaviors but they are all reasonable."
+    },
+    "9": {
+        "word": "successive",
+        "meaning": "連続した",
+        "blank_word": "successive",
+        "blank_sentence": "The water level of the dam has been falling for three successive months.",
+        "reorder": "The<>water<>level<>of<>the<>dam<>has<>been<>falling<>for<>three<>successive<>months.",
+        "dictation": "The water level of the dam has been falling for three successive months."
+    },
+    "10": {
+        "word": "rigid",
+        "meaning": "堅い",
+        "blank_word": "rigid",
+        "blank_sentence": "Bones are rigid organs that form part of the skeleton of vertebrates.",
+        "reorder": "Bones<>are<>rigid<>organs<>that<>form<>part<>of<>the<>skeleton<>of<>vertebrates.",
+        "dictation": "Bones are rigid organs that form part of the skeleton of vertebrates."
+    },
+    "11": {
+        "word": "acute",
+        "meaning": "鋭い",
+        "blank_word": "acute",
+        "blank_sentence": "An angle smaller than 90 degrees is called an acute angle.",
+        "reorder": "An<>angle<>smaller<>than<>90<>degrees<>is<>called<>an<>acute<>angle.",
+        "dictation": "An angle smaller than 90 degrees is called an acute angle."
+    },
+    "12": {
+        "word": "destructive",
+        "meaning": "破壊的な",
+        "blank_word": "destructive",
+        "blank_sentence": "A nuclear bomb is the most destructive weapon.",
+        "reorder": "A<>nuclear<>bomb<>is<>the<>most<>destructive<>weapon.",
+        "dictation": "A nuclear bomb is the most destructive weapon."
+    },
+    "13": {
+        "word": "hollow",
+        "meaning": "空洞の",
+        "blank_word": "hollow",
+        "blank_sentence": "Close off one end of this hollow tube.",
+        "reorder": "Close<>off<>one<>end<>of<>this<>hollow<>tube.",
+        "dictation": "Close off one end of this hollow tube."
+    },
+    "14": {
+        "word": "helpful",
+        "meaning": "役立つ",
+        "blank_word": "helpful",
+        "blank_sentence": "This website is helpful when you want to find out about dogs.",
+        "reorder": "This<>website<>is<>helpful<>when<>you<>want<>to<>find<>out<>about<>dogs.",
+        "dictation": "This website is helpful when you want to find out about dogs."
+    },
+    "15": {
+        "word": "guilty",
+        "meaning": "有罪の",
+        "blank_word": "guilty",
+        "blank_sentence": "The man was found guilty of possessing an illegal drug.",
+        "reorder": "The<>man<>was<>found<>guilty<>of<>possessing<>an<>illegal<>drug.",
+        "dictation": "The man was found guilty of possessing an illegal drug."
+    },
+    "16": {
+        "word": "wise",
+        "meaning": "賢い",
+        "blank_word": "wise",
+        "blank_sentence": "It was wise of you to follow the doctor's advice.",
+        "reorder": "It<>was<>wise<>of<>you<>to<>follow<>the<>doctor's<>advice.",
+        "dictation": "It was wise of you to follow the doctor's advice."
+    },
+    "17": {
+        "word": "thorough",
+        "meaning": "徹底的な",
+        "blank_word": "thorough",
+        "blank_sentence": "The committee promised a thorough investigation into this issue.",
+        "reorder": "The<>committee<>promised<>a<>thorough<>investigation<>into<>this<>issue.",
+        "dictation": "The committee promised a thorough investigation into this issue."
+    },
+    "18": {
+        "word": "convenient",
+        "meaning": "便利な",
+        "blank_word": "convenient",
+        "blank_sentence": "Rental cars are convenient for exploring the area.",
+        "reorder": "Rental<>cars<>are<>convenient<>for<>exploring<>the<>area.",
+        "dictation": "Rental cars are convenient for exploring the area."
+    },
+    "19": {
+        "word": "redundant",
+        "meaning": "冗長な",
+        "blank_word": "Redundant",
+        "blank_sentence": "Redundant expressions should be avoided in a thesis.",
+        "reorder": "Redundant<>expressions<>should<>be<>avoided<>in<>a<>thesis.",
+        "dictation": "Redundant expressions should be avoided in a thesis."
+    },
+    "20": {
+        "word": "moderate",
+        "meaning": "適度な",
+        "blank_word": "moderate",
+        "blank_sentence": "The best way to warm your engine is to drive your car at a moderate speed.",
+        "reorder": "The<>best<>way<>to<>warm<>your<>engine<>is<>to<>drive<>your<>car<>at<>a<>moderate<>speed.",
+        "dictation": "The best way to warm your engine is to drive your car at a moderate speed."
+    },
+    "21": {
+        "word": "superior",
+        "meaning": "すぐれている",
+        "blank_word": "superior",
+        "blank_sentence": "This digital camera is not only convenient but also superior in quality.",
+        "reorder": "This<>digital<>camera<>is<>not<>only<>convenient<>but<>also<>superior<>in<>quality.",
+        "dictation": "This digital camera is not only convenient but also superior in quality."
+    },
+    "22": {
+        "word": "inferior",
+        "meaning": "劣った",
+        "blank_word": "inferior",
+        "blank_sentence": "That company's new product is inferior to our former products.",
+        "reorder": "That<>company's<>new<>product<>is<>inferior<>to<>our<>former<>products.",
+        "dictation": "That company's new product is inferior to our former products."
+    },
+    "23": {
+        "word": "embarrassed",
+        "meaning": "恥ずかしい",
+        "blank_word": "embarrassed",
+        "blank_sentence": "I was so embarrassed when I fell down the stairs.",
+        "reorder": "I<>was<>so<>embarrassed<>when<>I<>fell<>down<>the<>stairs.",
+        "dictation": "I was so embarrassed when I fell down the stairs."
+    },
+    "24": {
+        "word": "resident",
+        "meaning": "居住者",
+        "blank_word": "residents",
+        "blank_sentence": "The residents of this apartment are satisfied with its superior residential environment.",
+        "reorder": "The<>residents<>of<>this<>apartment<>are<>satisfied<>with<>its<>superior<>residential<>environment.",
+        "dictation": "The residents of this apartment are satisfied with its superior residential environment."
+    },
+    "25": {
+        "word": "atlas",
+        "meaning": "地図(帳)",
+        "blank_word": "atlas",
+        "blank_sentence": "The country is not in this old world atlas.",
+        "reorder": "The<>country<>is<>not<>in<>this<>old<>world<>atlas.",
+        "dictation": "The country is not in this old world atlas."
+    }
+}

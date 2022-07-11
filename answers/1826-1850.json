@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "enhance",
+        "meaning": "向上させる",
+        "blank_word": "enhance",
+        "blank_sentence": "The purpose of this study is to enhance the energy efficiency of the equipment.",
+        "reorder": "The<>purpose<>of<>this<>study<>is<>to<>enhance<>the<>energy<>efficiency<>of<>the<>equipment.",
+        "dictation": "The purpose of this study is to enhance the energy efficiency of the equipment."
+    },
+    "2": {
+        "word": "spill",
+        "meaning": "こぼす",
+        "blank_word": "spill",
+        "blank_sentence": "Be careful not to spill your coffee on the keyboard.",
+        "reorder": "Be<>careful<>not<>to<>spill<>your<>coffee<>on<>the<>keyboard.",
+        "dictation": "Be careful not to spill your coffee on the keyboard."
+    },
+    "3": {
+        "word": "highlight",
+        "meaning": "目立たせる",
+        "blank_word": "highlight",
+        "blank_sentence": "What is the best color to highlight these lines?",
+        "reorder": "What<>is<>the<>best<>color<>to<>highlight<>these<>lines?",
+        "dictation": "What is the best color to highlight these lines?"
+    },
+    "4": {
+        "word": "earn",
+        "meaning": "得る",
+        "blank_word": "earn",
+        "blank_sentence": "You can earn income on the Internet these days.",
+        "reorder": "You<>can<>earn<>income<>on<>the<>Internet<>these<>days.",
+        "dictation": "You can earn income on the Internet these days."
+    },
+    "5": {
+        "word": "correspond",
+        "meaning": "相当する",
+        "blank_word": "corresponds",
+        "blank_sentence": "The temperature of 100 degrees Celsius corresponds to 212 degrees Fahrenheit.",
+        "reorder": "The<>temperature<>of<>100<>degrees<>Celsius<>corresponds<>to<>212<>degrees<>Fahrenheit.",
+        "dictation": "The temperature of 100 degrees Celsius corresponds to 212 degrees Fahrenheit."
+    },
+    "6": {
+        "word": "dissolve",
+        "meaning": "溶ける",
+        "blank_word": "dissolves",
+        "blank_sentence": "Sugar dissolves well in hot water.",
+        "reorder": "Sugar<>dissolves<>well<>in<>hot<>water.",
+        "dictation": "Sugar dissolves well in hot water."
+    },
+    "7": {
+        "word": "reproduce",
+        "meaning": "複製する",
+        "blank_word": "reproduced",
+        "blank_sentence": "No part of this book may be reproduced without permission.",
+        "reorder": "No<>part<>of<>this<>book<>may<>be<>reproduced<>without<>permission.",
+        "dictation": "No part of this book may be reproduced without permission."
+    },
+    "8": {
+        "word": "dispute",
+        "meaning": "議論する",
+        "blank_word": "disputed",
+        "blank_sentence": "The team members disputed which engine was better for the new car.",
+        "reorder": "The<>team<>members<>disputed<>which<>engine<>was<>better<>for<>the<>new<>car.",
+        "dictation": "The team members disputed which engine was better for the new car."
+    },
+    "9": {
+        "word": "compose",
+        "meaning": "構成する",
+        "blank_word": "composed",
+        "blank_sentence": "A hydrogen atom is composed of one proton and one electron.",
+        "reorder": "A<>hydrogen<>atom<>is<>composed<>of<>one<>proton<>and<>one<>electron.",
+        "dictation": "A hydrogen atom is composed of one proton and one electron."
+    },
+    "10": {
+        "word": "induce",
+        "meaning": "誘導する",
+        "blank_word": "inducing",
+        "blank_sentence": "This medicine has the effect of inducing the patient to sleep deeply.",
+        "reorder": "This<>medicine<>has<>the<>effect<>of<>inducing<>the<>patient<>to<>sleep<>deeply.",
+        "dictation": "This medicine has the effect of inducing the patient to sleep deeply."
+    },
+    "11": {
+        "word": "deduce",
+        "meaning": "推測する",
+        "blank_word": "deduce",
+        "blank_sentence": "We can deduce the composition of planets by examining the light from them.",
+        "reorder": "We<>can<>deduce<>the<>composition<>of<>planets<>by<>examining<>the<>light<>from<>them.",
+        "dictation": "We can deduce the composition of planets by examining the light from them."
+    },
+    "12": {
+        "word": "implant",
+        "meaning": "移植する",
+        "blank_word": "implanted",
+        "blank_sentence": "The patient had an artificial heart implanted.",
+        "reorder": "The<>patient<>had<>an<>artificial<>heart<>implanted.",
+        "dictation": "The patient had an artificial heart implanted."
+    },
+    "13": {
+        "word": "sustain",
+        "meaning": "維持する",
+        "blank_word": "sustain",
+        "blank_sentence": "The engineers are trying hard to sustain their skills in advanced technologies.",
+        "reorder": "The<>engineers<>are<>trying<>hard<>to<>sustain<>their<>skills<>in<>advanced<>technologies.",
+        "dictation": "The engineers are trying hard to sustain their skills in advanced technologies."
+    },
+    "14": {
+        "word": "locate",
+        "meaning": "位置させる",
+        "blank_word": "located",
+        "blank_sentence": "The shop is located in the center of the town.",
+        "reorder": "The<>shop<>is<>located<>in<>the<>center<>of<>the<>town.",
+        "dictation": "The shop is located in the center of the town."
+    },
+    "15": {
+        "word": "plot",
+        "meaning": "(グラフなどを)描く",
+        "blank_word": "plot",
+        "blank_sentence": "Do you know how to plot a graph of the sine function?",
+        "reorder": "Do<>you<>know<>how<>to<>plot<>a<>graph<>of<>the<>sine<>function?",
+        "dictation": "Do you know how to plot a graph of the sine function?"
+    },
+    "16": {
+        "word": "beat",
+        "meaning": "打つ",
+        "blank_word": "beats",
+        "blank_sentence": "A smaller animal's heart beats faster than that of a larger animal.",
+        "reorder": "A<>smaller<>animal's<>heart<>beats<>faster<>than<>that<>of<>a<>larger<>animal.",
+        "dictation": "A smaller animal's heart beats faster than that of a larger animal."
+    },
+    "17": {
+        "word": "dig",
+        "meaning": "掘る",
+        "blank_word": "dug",
+        "blank_sentence": "They dug the ground before they planted the flowers.",
+        "reorder": "They<>dug<>the<>ground<>before<>they<>planted<>the<>flowers.",
+        "dictation": "They dug the ground before they planted the flowers."
+    },
+    "18": {
+        "word": "rude",
+        "meaning": "失礼な",
+        "blank_word": "rude",
+        "blank_sentence": "It's rude of you to smoke without permission.",
+        "reorder": "It's<>rude<>of<>you<>to<>smoke<>without<>permission.",
+        "dictation": "It's rude of you to smoke without permission."
+    },
+    "19": {
+        "word": "vulnerable",
+        "meaning": "脆弱な",
+        "blank_word": "vulnerable",
+        "blank_sentence": "The website's security was so vulnerable that the users' passwords leaked.",
+        "reorder": "The<>website's<>security<>was<>so<>vulnerable<>that<>the<>users'<>passwords<>leaked.",
+        "dictation": "The website's security was so vulnerable that the users' passwords leaked."
+    },
+    "20": {
+        "word": "suitable",
+        "meaning": "適した",
+        "blank_word": "suitable",
+        "blank_sentence": "This textbook is the most suitable for learning international affairs.",
+        "reorder": "This<>textbook<>is<>the<>most<>suitable<>for<>learning<>international<>affairs.",
+        "dictation": "This textbook is the most suitable for learning international affairs."
+    },
+    "21": {
+        "word": "faint",
+        "meaning": "かすかな",
+        "blank_word": "faint",
+        "blank_sentence": "The dog seemed dead, but it still had a faint pulse.",
+        "reorder": "The<>dog<>seemed<>dead,<>but<>it<>still<>had<>a<>faint<>pulse.",
+        "dictation": "The dog seemed dead, but it still had a faint pulse."
+    },
+    "22": {
+        "word": "permanent",
+        "meaning": "永久的な",
+        "blank_word": "permanent",
+        "blank_sentence": "Lack of oxygen leads to permanent brain damage.",
+        "reorder": "Lack<>of<>oxygen<>leads<>to<>permanent<>brain<>damage.",
+        "dictation": "Lack of oxygen leads to permanent brain damage."
+    },
+    "23": {
+        "word": "daily",
+        "meaning": "毎日の",
+        "blank_word": "Daily",
+        "blank_sentence": "Daily exercise will make you healthy.",
+        "reorder": "Daily<>exercise<>will<>make<>you<>healthy.",
+        "dictation": "Daily exercise will make you healthy."
+    },
+    "24": {
+        "word": "weekly",
+        "meaning": "毎週の",
+        "blank_word": "weekly",
+        "blank_sentence": "This report is based on his weekly observation notes.",
+        "reorder": "This<>report<>is<>based<>on<>his<>weekly<>observation<>notes.",
+        "dictation": "This report is based on his weekly observation notes."
+    },
+    "25": {
+        "word": "prompt",
+        "meaning": "迅速な",
+        "blank_word": "prompt",
+        "blank_sentence": "We need to make a prompt decision where to locate our new factory.",
+        "reorder": "We<>need<>to<>make<>a<>prompt<>decision<>where<>to<>locate<>our<>new<>factory.",
+        "dictation": "We need to make a prompt decision where to locate our new factory."
+    }
+}

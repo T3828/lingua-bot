@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "phrase",
+        "meaning": "語句",
+        "blank_word": "phrase",
+        "blank_sentence": "Type in the word or phrase you want to search for.",
+        "reorder": "Type<>in<>the<>word<>or<>phrase<>you<>want<>to<>search<>for.",
+        "dictation": "Type in the word or phrase you want to search for."
+    },
+    "2": {
+        "word": "compromise",
+        "meaning": "妥協",
+        "blank_word": "compromise",
+        "blank_sentence": "It is sometimes necessary to reach a compromise.",
+        "reorder": "It<>is<>sometimes<>necessary<>to<>reach<>a<>compromise.",
+        "dictation": "It is sometimes necessary to reach a compromise."
+    },
+    "3": {
+        "word": "geography",
+        "meaning": "地理(学)",
+        "blank_word": "geography",
+        "blank_sentence": "She majored in geography at college.",
+        "reorder": "She<>majored<>in<>geography<>at<>college.",
+        "dictation": "She majored in geography at college."
+    },
+    "4": {
+        "word": "geology",
+        "meaning": "地質学",
+        "blank_word": "geology",
+        "blank_sentence": "In geology , we learn about the history of the earth itself.",
+        "reorder": "In<>geology<>,<>we<>learn<>about<>the<>history<>of<>the<>earth<>itself.",
+        "dictation": "In geology , we learn about the history of the earth itself."
+    },
+    "5": {
+        "word": "archaeology",
+        "meaning": "考古学",
+        "blank_word": "archaeology",
+        "blank_sentence": "Many researchers in archaeology visit Egypt.",
+        "reorder": "Many<>researchers<>in<>archaeology<>visit<>Egypt.",
+        "dictation": "Many researchers in archaeology visit Egypt."
+    },
+    "6": {
+        "word": "geometry",
+        "meaning": "幾何学",
+        "blank_word": "Geometry",
+        "blank_sentence": "Geometry was originally developed for the purpose of measuring the land.",
+        "reorder": "Geometry<>was<>originally<>developed<>for<>the<>purpose<>of<>measuring<>the<>land.",
+        "dictation": "Geometry was originally developed for the purpose of measuring the land."
+    },
+    "7": {
+        "word": "algebra",
+        "meaning": "代数(学)",
+        "blank_word": "algebra",
+        "blank_sentence": "Geometry and algebra are the basis of mathematics.",
+        "reorder": "Geometry<>and<>algebra<>are<>the<>basis<>of<>mathematics.",
+        "dictation": "Geometry and algebra are the basis of mathematics."
+    },
+    "8": {
+        "word": "inevitable",
+        "meaning": "避けられない",
+        "blank_word": "inevitable",
+        "blank_sentence": "Death is inevitable for all living things.",
+        "reorder": "Death<>is<>inevitable<>for<>all<>living<>things.",
+        "dictation": "Death is inevitable for all living things."
+    },
+    "9": {
+        "word": "reluctant",
+        "meaning": "気乗りしない",
+        "blank_word": "reluctant",
+        "blank_sentence": "I was reluctant to go fishing because it had begun to rain.",
+        "reorder": "I<>was<>reluctant<>to<>go<>fishing<>because<>it<>had<>begun<>to<>rain.",
+        "dictation": "I was reluctant to go fishing because it had begun to rain."
+    },
+    "10": {
+        "word": "seismic",
+        "meaning": "地震の",
+        "blank_word": "seismic",
+        "blank_sentence": "There are two kinds of seismic waves, called P-waves and S-waves.",
+        "reorder": "There<>are<>two<>kinds<>of<>seismic<>waves,<>called<>P-waves<>and<>S-waves.",
+        "dictation": "There are two kinds of seismic waves, called P-waves and S-waves."
+    },
+    "11": {
+        "word": "optimistic",
+        "meaning": "楽観的な",
+        "blank_word": "optimistic",
+        "blank_sentence": "He advised me that being optimistic is a key to success.",
+        "reorder": "He<>advised<>me<>that<>being<>optimistic<>is<>a<>key<>to<>success.",
+        "dictation": "He advised me that being optimistic is a key to success."
+    },
+    "12": {
+        "word": "flexible",
+        "meaning": "柔軟な",
+        "blank_word": "flexible",
+        "blank_sentence": "Fiber cable is strong and flexible.",
+        "reorder": "Fiber<>cable<>is<>strong<>and<>flexible.",
+        "dictation": "Fiber cable is strong and flexible."
+    },
+    "13": {
+        "word": "aerial",
+        "meaning": "空中の",
+        "blank_word": "aerial",
+        "blank_sentence": "You can see the whole city in this aerial photograph.",
+        "reorder": "You<>can<>see<>the<>whole<>city<>in<>this<>aerial<>photograph.",
+        "dictation": "You can see the whole city in this aerial photograph."
+    },
+    "14": {
+        "word": "universal",
+        "meaning": "普遍的な",
+        "blank_word": "universal",
+        "blank_sentence": "There is no universal solution for this problem.",
+        "reorder": "There<>is<>no<>universal<>solution<>for<>this<>problem.",
+        "dictation": "There is no universal solution for this problem."
+    },
+    "15": {
+        "word": "crude",
+        "meaning": "未加工の",
+        "blank_word": "Crude",
+        "blank_sentence": "Crude oil is a mixture of many different hydrocarbons.",
+        "reorder": "Crude<>oil<>is<>a<>mixture<>of<>many<>different<>hydrocarbons.",
+        "dictation": "Crude oil is a mixture of many different hydrocarbons."
+    },
+    "16": {
+        "word": "genuine",
+        "meaning": "純粋な",
+        "blank_word": "genuine",
+        "blank_sentence": "An important characteristic of being a scientist is having a genuine interest in science.",
+        "reorder": "An<>important<>characteristic<>of<>being<>a<>scientist<>is<>having<>a<>genuine<>interest<>in<>science.",
+        "dictation": "An important characteristic of being a scientist is having a genuine interest in science."
+    },
+    "17": {
+        "word": "adequate",
+        "meaning": "十分な",
+        "blank_word": "adequate",
+        "blank_sentence": "You need adequate preparation before you start an experiment.",
+        "reorder": "You<>need<>adequate<>preparation<>before<>you<>start<>an<>experiment.",
+        "dictation": "You need adequate preparation before you start an experiment."
+    },
+    "18": {
+        "word": "obscure",
+        "meaning": "不明瞭な",
+        "blank_word": "obscure",
+        "blank_sentence": "The X-ray image was so obscure that the doctor couldn't make a diagnosis.",
+        "reorder": "The<>X-ray<>image<>was<>so<>obscure<>that<>the<>doctor<>couldn't<>make<>a<>diagnosis.",
+        "dictation": "The X-ray image was so obscure that the doctor couldn't make a diagnosis."
+    },
+    "19": {
+        "word": "anxious",
+        "meaning": "心配して",
+        "blank_word": "anxious",
+        "blank_sentence": "She is anxious about the result of the blood test.",
+        "reorder": "She<>is<>anxious<>about<>the<>result<>of<>the<>blood<>test.",
+        "dictation": "She is anxious about the result of the blood test."
+    },
+    "20": {
+        "word": "refine",
+        "meaning": "精製する",
+        "blank_word": "refined",
+        "blank_sentence": "Crude oil is refined into various oil products.",
+        "reorder": "Crude<>oil<>is<>refined<>into<>various<>oil<>products.",
+        "dictation": "Crude oil is refined into various oil products."
+    },
+    "21": {
+        "word": "rush",
+        "meaning": "急いで行く",
+        "blank_word": "rushed",
+        "blank_sentence": "An ambulance rushed to the scene of the accident.",
+        "reorder": "An<>ambulance<>rushed<>to<>the<>scene<>of<>the<>accident.",
+        "dictation": "An ambulance rushed to the scene of the accident."
+    },
+    "22": {
+        "word": "obey",
+        "meaning": "従う",
+        "blank_word": "obeys",
+        "blank_sentence": "Every object obeys the law of universal gravitation.",
+        "reorder": "Every<>object<>obeys<>the<>law<>of<>universal<>gravitation.",
+        "dictation": "Every object obeys the law of universal gravitation."
+    },
+    "23": {
+        "word": "reform",
+        "meaning": "改善する",
+        "blank_word": "reform",
+        "blank_sentence": "Our president is reluctant to reform the company's financial system.",
+        "reorder": "Our<>president<>is<>reluctant<>to<>reform<>the<>company's<>financial<>system.",
+        "dictation": "Our president is reluctant to reform the company's financial system."
+    },
+    "24": {
+        "word": "shed",
+        "meaning": "(涙などを)流す",
+        "blank_word": "shed",
+        "blank_sentence": "She shed tears of joy when she knew her husband was alive.",
+        "reorder": "She<>shed<>tears<>of<>joy<>when<>she<>knew<>her<>husband<>was<>alive.",
+        "dictation": "She shed tears of joy when she knew her husband was alive."
+    },
+    "25": {
+        "word": "perceive",
+        "meaning": "感じる",
+        "blank_word": "perceive",
+        "blank_sentence": "Plants can perceive light and gravity.",
+        "reorder": "Plants<>can<>perceive<>light<>and<>gravity.",
+        "dictation": "Plants can perceive light and gravity."
+    }
+}

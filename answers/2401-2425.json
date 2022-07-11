@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "dilute",
+        "meaning": "薄める",
+        "blank_word": "dilute",
+        "blank_sentence": "When you wash delicate laundry, dilute this detergent by 50% with water.",
+        "reorder": "When<>you<>wash<>delicate<>laundry,<>dilute<>this<>detergent<>by<>50%<>with<>water.",
+        "dictation": "When you wash delicate laundry, dilute this detergent by 50% with water."
+    },
+    "2": {
+        "word": "renew",
+        "meaning": "更新する",
+        "blank_word": "renew",
+        "blank_sentence": "I have to renew my driver's license by the end of this month.",
+        "reorder": "I<>have<>to<>renew<>my<>driver's<>license<>by<>the<>end<>of<>this<>month.",
+        "dictation": "I have to renew my driver's license by the end of this month."
+    },
+    "3": {
+        "word": "crush",
+        "meaning": "砕く",
+        "blank_word": "crushed",
+        "blank_sentence": "He crushed a lump of coal into small pieces to make it easy to burn.",
+        "reorder": "He<>crushed<>a<>lump<>of<>coal<>into<>small<>pieces<>to<>make<>it<>easy<>to<>burn.",
+        "dictation": "He crushed a lump of coal into small pieces to make it easy to burn."
+    },
+    "4": {
+        "word": "hood",
+        "meaning": "覆い",
+        "blank_word": "hood",
+        "blank_sentence": "You must remove the hood before using this machine.",
+        "reorder": "You<>must<>remove<>the<>hood<>before<>using<>this<>machine.",
+        "dictation": "You must remove the hood before using this machine."
+    },
+    "5": {
+        "word": "trunk",
+        "meaning": "(木の)幹",
+        "blank_word": "trunks",
+        "blank_sentence": "The first settlers used to make boats out of tree trunks.",
+        "reorder": "The<>first<>settlers<>used<>to<>make<>boats<>out<>of<>tree<>trunks.",
+        "dictation": "The first settlers used to make boats out of tree trunks."
+    },
+    "6": {
+        "word": "barrel",
+        "meaning": "樽",
+        "blank_word": "barrels",
+        "blank_sentence": "The wine factory uses wooden barrels to store its wine.",
+        "reorder": "The<>wine<>factory<>uses<>wooden<>barrels<>to<>store<>its<>wine.",
+        "dictation": "The wine factory uses wooden barrels to store its wine."
+    },
+    "7": {
+        "word": "directory",
+        "meaning": "名簿",
+        "blank_word": "directory",
+        "blank_sentence": "We need the most recent data of the employees to renew the directory.",
+        "reorder": "We<>need<>the<>most<>recent<>data<>of<>the<>employees<>to<>renew<>the<>directory.",
+        "dictation": "We need the most recent data of the employees to renew the directory."
+    },
+    "8": {
+        "word": "automobile",
+        "meaning": "自動車",
+        "blank_word": "automobile",
+        "blank_sentence": "The Japanese automobile industry developed rapidly after World War II.",
+        "reorder": "The<>Japanese<>automobile<>industry<>developed<>rapidly<>after<>World<>War<>II.",
+        "dictation": "The Japanese automobile industry developed rapidly after World War II."
+    },
+    "9": {
+        "word": "legend",
+        "meaning": "伝説",
+        "blank_word": "legend",
+        "blank_sentence": "The automobile set many world records, and it became a legend.",
+        "reorder": "The<>automobile<>set<>many<>world<>records,<>and<>it<>became<>a<>legend.",
+        "dictation": "The automobile set many world records, and it became a legend."
+    },
+    "10": {
+        "word": "bracket",
+        "meaning": "(角)括弧",
+        "blank_word": "brackets",
+        "blank_sentence": "Express the number in the brackets as a fraction.",
+        "reorder": "Express<>the<>number<>in<>the<>brackets<>as<>a<>fraction.",
+        "dictation": "Express the number in the brackets as a fraction."
+    },
+    "11": {
+        "word": "virtue",
+        "meaning": "美徳",
+        "blank_word": "virtue",
+        "blank_sentence": "The story reminded me of the traditional virtue of Japanese people.",
+        "reorder": "The<>story<>reminded<>me<>of<>the<>traditional<>virtue<>of<>Japanese<>people.",
+        "dictation": "The story reminded me of the traditional virtue of Japanese people."
+    },
+    "12": {
+        "word": "gradient",
+        "meaning": "勾配",
+        "blank_word": "gradient",
+        "blank_sentence": "The gradient of this slope is 20 degrees.",
+        "reorder": "The<>gradient<>of<>this<>slope<>is<>20<>degrees.",
+        "dictation": "The gradient of this slope is 20 degrees."
+    },
+    "13": {
+        "word": "sludge",
+        "meaning": "汚泥",
+        "blank_word": "sludge",
+        "blank_sentence": "The chemically treated sludge is dried to be used as fuel.",
+        "reorder": "The<>chemically<>treated<>sludge<>is<>dried<>to<>be<>used<>as<>fuel.",
+        "dictation": "The chemically treated sludge is dried to be used as fuel."
+    },
+    "14": {
+        "word": "surplus",
+        "meaning": "余剰(余り)",
+        "blank_word": "surplus",
+        "blank_sentence": "Increased surplus of food grains caused a need for grain storage in the region.",
+        "reorder": "Increased<>surplus<>of<>food<>grains<>caused<>a<>need<>for<>grain<>storage<>in<>the<>region.",
+        "dictation": "Increased surplus of food grains caused a need for grain storage in the region."
+    },
+    "15": {
+        "word": "triumph",
+        "meaning": "大勝利",
+        "blank_word": "triumph",
+        "blank_sentence": "The political party achieved a great triumph in the latest election.",
+        "reorder": "The<>political<>party<>achieved<>a<>great<>triumph<>in<>the<>latest<>election.",
+        "dictation": "The political party achieved a great triumph in the latest election."
+    },
+    "16": {
+        "word": "corrosion",
+        "meaning": "腐食",
+        "blank_word": "corrosion",
+        "blank_sentence": "The corrosion of the water pipe caused a leak.",
+        "reorder": "The<>corrosion<>of<>the<>water<>pipe<>caused<>a<>leak.",
+        "dictation": "The corrosion of the water pipe caused a leak."
+    },
+    "17": {
+        "word": "poll",
+        "meaning": "世論調査",
+        "blank_word": "polls",
+        "blank_sentence": "The initial polls showed around 70% support for the dam.",
+        "reorder": "The<>initial<>polls<>showed<>around<>70%<>support<>for<>the<>dam.",
+        "dictation": "The initial polls showed around 70% support for the dam."
+    },
+    "18": {
+        "word": "loyalty",
+        "meaning": "忠誠(心)",
+        "blank_word": "loyalty",
+        "blank_sentence": "It is sometimes said that young people today have less loyalty to their company.",
+        "reorder": "It<>is<>sometimes<>said<>that<>young<>people<>today<>have<>less<>loyalty<>to<>their<>company.",
+        "dictation": "It is sometimes said that young people today have less loyalty to their company."
+    },
+    "19": {
+        "word": "empire",
+        "meaning": "帝国",
+        "blank_word": "Empire",
+        "blank_sentence": "The Roman Empire split into eastern and western parts in 395 A.D.",
+        "reorder": "The<>Roman<>Empire<>split<>into<>eastern<>and<>western<>parts<>in<>395<>A.D.",
+        "dictation": "The Roman Empire split into eastern and western parts in 395 A.D."
+    },
+    "20": {
+        "word": "democracy",
+        "meaning": "民主主義",
+        "blank_word": "democracy",
+        "blank_sentence": "Freedom of speech is guaranteed in the name of democracy.",
+        "reorder": "Freedom<>of<>speech<>is<>guaranteed<>in<>the<>name<>of<>democracy.",
+        "dictation": "Freedom of speech is guaranteed in the name of democracy."
+    },
+    "21": {
+        "word": "ruin",
+        "meaning": "遺跡",
+        "blank_word": "ruin",
+        "blank_sentence": "The legend says this ruin is the site of the emperor's first triumph.",
+        "reorder": "The<>legend<>says<>this<>ruin<>is<>the<>site<>of<>the<>emperor's<>first<>triumph.",
+        "dictation": "The legend says this ruin is the site of the emperor's first triumph."
+    },
+    "22": {
+        "word": "prosper",
+        "meaning": "繁栄する",
+        "blank_word": "prospered",
+        "blank_sentence": "The British Empire prospered from the 16th century to the19th century.",
+        "reorder": "The<>British<>Empire<>prospered<>from<>the<>16th<>century<>to<>the19th<>century.",
+        "dictation": "The British Empire prospered from the 16th century to the19th century."
+    },
+    "23": {
+        "word": "devastate",
+        "meaning": "壊滅させる",
+        "blank_word": "devastated",
+        "blank_sentence": "The wreck of the oil tanker devastated the environment of the coastal area.",
+        "reorder": "The<>wreck<>of<>the<>oil<>tanker<>devastated<>the<>environment<>of<>the<>coastal<>area.",
+        "dictation": "The wreck of the oil tanker devastated the environment of the coastal area."
+    },
+    "24": {
+        "word": "flip",
+        "meaning": "はじく",
+        "blank_word": "flip",
+        "blank_sentence": "When you flip a coin, the probability of getting heads is always 50 percent.",
+        "reorder": "When<>you<>flip<>a<>coin,<>the<>probability<>of<>getting<>heads<>is<>always<>50<>percent.",
+        "dictation": "When you flip a coin, the probability of getting heads is always 50 percent."
+    },
+    "25": {
+        "word": "sew",
+        "meaning": "縫う",
+        "blank_word": "sewing",
+        "blank_sentence": "The staff members are sewing the stuffed animals by hand for using them in the movie.",
+        "reorder": "The<>staff<>members<>are<>sewing<>the<>stuffed<>animals<>by<>hand<>for<>using<>them<>in<>the<>movie.",
+        "dictation": "The staff members are sewing the stuffed animals by hand for using them in the movie."
+    }
+}

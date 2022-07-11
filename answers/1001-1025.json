@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "particle",
+        "meaning": "粒子",
+        "blank_word": "particles",
+        "blank_sentence": "The particles are too small to see.",
+        "reorder": "The<>particles<>are<>too<>small<>to<>see.",
+        "dictation": "The particles are too small to see."
+    },
+    "2": {
+        "word": "compound",
+        "meaning": "化合物",
+        "blank_word": "compound",
+        "blank_sentence": "Carbon dioxide is a compound of carbon and oxygen.",
+        "reorder": "Carbon<>dioxide<>is<>a<>compound<>of<>carbon<>and<>oxygen.",
+        "dictation": "Carbon dioxide is a compound of carbon and oxygen."
+    },
+    "3": {
+        "word": "lack",
+        "meaning": "不足",
+        "blank_word": "lack",
+        "blank_sentence": "The price of gasoline rose because of a lack of oil.",
+        "reorder": "The<>price<>of<>gasoline<>rose<>because<>of<>a<>lack<>of<>oil.",
+        "dictation": "The price of gasoline rose because of a lack of oil."
+    },
+    "4": {
+        "word": "challenge",
+        "meaning": "課題",
+        "blank_word": "challenge",
+        "blank_sentence": "Solving the water problem in that country is our big challenge.",
+        "reorder": "Solving<>the<>water<>problem<>in<>that<>country<>is<>our<>big<>challenge.",
+        "dictation": "Solving the water problem in that country is our big challenge."
+    },
+    "5": {
+        "word": "success",
+        "meaning": "成功(者)",
+        "blank_word": "success",
+        "blank_sentence": "His success encouraged me to take on the challenge of a new business.",
+        "reorder": "His<>success<>encouraged<>me<>to<>take<>on<>the<>challenge<>of<>a<>new<>business.",
+        "dictation": "His success encouraged me to take on the challenge of a new business."
+    },
+    "6": {
+        "word": "role",
+        "meaning": "役割",
+        "blank_word": "role",
+        "blank_sentence": "I was given the role of project leader.",
+        "reorder": "I<>was<>given<>the<>role<>of<>project<>leader.",
+        "dictation": "I was given the role of project leader."
+    },
+    "7": {
+        "word": "offense",
+        "meaning": "違反",
+        "blank_word": "offense",
+        "blank_sentence": "Speeding on a bicycle is also a traffic offense.",
+        "reorder": "Speeding<>on<>a<>bicycle<>is<>also<>a<>traffic<>offense.",
+        "dictation": "Speeding on a bicycle is also a traffic offense."
+    },
+    "8": {
+        "word": "defense",
+        "meaning": "防御",
+        "blank_word": "defense",
+        "blank_sentence": "This computer has no defense against viruses.",
+        "reorder": "This<>computer<>has<>no<>defense<>against<>viruses.",
+        "dictation": "This computer has no defense against viruses."
+    },
+    "9": {
+        "word": "element",
+        "meaning": "成分",
+        "blank_word": "elements",
+        "blank_sentence": "He successfully identified the elements in this liquid.",
+        "reorder": "He<>successfully<>identified<>the<>elements<>in<>this<>liquid.",
+        "dictation": "He successfully identified the elements in this liquid."
+    },
+    "10": {
+        "word": "farm",
+        "meaning": "農場",
+        "blank_word": "farm",
+        "blank_sentence": "The farmer owns a fruit farm of 100 hectares.",
+        "reorder": "The<>farmer<>owns<>a<>fruit<>farm<>of<>100<>hectares.",
+        "dictation": "The farmer owns a fruit farm of 100 hectares."
+    },
+    "11": {
+        "word": "hut",
+        "meaning": "小屋",
+        "blank_word": "huts",
+        "blank_sentence": "Those people live in the huts along the river.",
+        "reorder": "Those<>people<>live<>in<>the<>huts<>along<>the<>river.",
+        "dictation": "Those people live in the huts along the river."
+    },
+    "12": {
+        "word": "focus",
+        "meaning": "焦点",
+        "blank_word": "focus",
+        "blank_sentence": "We discussed the problem with the focus on security.",
+        "reorder": "We<>discussed<>the<>problem<>with<>the<>focus<>on<>security.",
+        "dictation": "We discussed the problem with the focus on security."
+    },
+    "13": {
+        "word": "core",
+        "meaning": "芯",
+        "blank_word": "core",
+        "blank_sentence": "The core of a baseball is usually made of cork or rubber.",
+        "reorder": "The<>core<>of<>a<>baseball<>is<>usually<>made<>of<>cork<>or<>rubber.",
+        "dictation": "The core of a baseball is usually made of cork or rubber."
+    },
+    "14": {
+        "word": "telescope",
+        "meaning": "望遠鏡",
+        "blank_word": "telescope",
+        "blank_sentence": "I bought a telescope to observe the stars.",
+        "reorder": "I<>bought<>a<>telescope<>to<>observe<>the<>stars.",
+        "dictation": "I bought a telescope to observe the stars."
+    },
+    "15": {
+        "word": "instance",
+        "meaning": "例",
+        "blank_word": "instances",
+        "blank_sentence": "Give me some instances of health effects from alcohol.",
+        "reorder": "Give<>me<>some<>instances<>of<>health<>effects<>from<>alcohol.",
+        "dictation": "Give me some instances of health effects from alcohol."
+    },
+    "16": {
+        "word": "fear",
+        "meaning": "恐怖",
+        "blank_word": "fear",
+        "blank_sentence": "How can we get over the fear of making mistakes when we speak English?",
+        "reorder": "How<>can<>we<>get<>over<>the<>fear<>of<>making<>mistakes<>when<>we<>speak<>English?",
+        "dictation": "How can we get over the fear of making mistakes when we speak English?"
+    },
+    "17": {
+        "word": "flavor",
+        "meaning": "風味",
+        "blank_word": "flavor",
+        "blank_sentence": "These plants are used to add flavor to ice cream.",
+        "reorder": "These<>plants<>are<>used<>to<>add<>flavor<>to<>ice<>cream.",
+        "dictation": "These plants are used to add flavor to ice cream."
+    },
+    "18": {
+        "word": "horrible",
+        "meaning": "恐ろしい",
+        "blank_word": "horrible",
+        "blank_sentence": "A lot of horrible monsters appear in the movie.",
+        "reorder": "A<>lot<>of<>horrible<>monsters<>appear<>in<>the<>movie.",
+        "dictation": "A lot of horrible monsters appear in the movie."
+    },
+    "19": {
+        "word": "sore",
+        "meaning": "痛い",
+        "blank_word": "sore",
+        "blank_sentence": "My arms are sore from too much exercise.",
+        "reorder": "My<>arms<>are<>sore<>from<>too<>much<>exercise.",
+        "dictation": "My arms are sore from too much exercise."
+    },
+    "20": {
+        "word": "thirsty",
+        "meaning": "喉が乾いた",
+        "blank_word": "thirsty",
+        "blank_sentence": "You should drink water before you feel thirsty.",
+        "reorder": "You<>should<>drink<>water<>before<>you<>feel<>thirsty.",
+        "dictation": "You should drink water before you feel thirsty."
+    },
+    "21": {
+        "word": "sour",
+        "meaning": "酸っぱい",
+        "blank_word": "sour",
+        "blank_sentence": "Not only sour fruits contain a lot of vitamin C.",
+        "reorder": "Not<>only<>sour<>fruits<>contain<>a<>lot<>of<>vitamin<>C.",
+        "dictation": "Not only sour fruits contain a lot of vitamin C."
+    },
+    "22": {
+        "word": "bitter",
+        "meaning": "苦い",
+        "blank_word": "bitter",
+        "blank_sentence": "Black coffee is too bitter for most children to drink.",
+        "reorder": "Black<>coffee<>is<>too<>bitter<>for<>most<>children<>to<>drink.",
+        "dictation": "Black coffee is too bitter for most children to drink."
+    },
+    "23": {
+        "word": "taste",
+        "meaning": "(～の)味がする",
+        "blank_word": "taste",
+        "blank_sentence": "What does it taste like?",
+        "reorder": "What<>does<>it<>taste<>like?",
+        "dictation": "What does it taste like?"
+    },
+    "24": {
+        "word": "smell",
+        "meaning": "におう",
+        "blank_word": "smells",
+        "blank_sentence": "You shouldn't eat what smells bad.",
+        "reorder": "You<>shouldn't<>eat<>what<>smells<>bad.",
+        "dictation": "You shouldn't eat what smells bad."
+    },
+    "25": {
+        "word": "recognize",
+        "meaning": "識別する",
+        "blank_word": "recognize",
+        "blank_sentence": "Babies recognize their mothers through smell.",
+        "reorder": "Babies<>recognize<>their<>mothers<>through<>smell.",
+        "dictation": "Babies recognize their mothers through smell."
+    }
+}

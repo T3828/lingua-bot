@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "flood",
+        "meaning": "洪水",
+        "blank_word": "flood",
+        "blank_sentence": "The town was destroyed by the flood.",
+        "reorder": "The<>town<>was<>destroyed<>by<>the<>flood.",
+        "dictation": "The town was destroyed by the flood."
+    },
+    "2": {
+        "word": "drought",
+        "meaning": "干ばつ",
+        "blank_word": "drought",
+        "blank_sentence": "The drought killed many cows and other farm animals.",
+        "reorder": "The<>drought<>killed<>many<>cows<>and<>other<>farm<>animals.",
+        "dictation": "The drought killed many cows and other farm animals."
+    },
+    "3": {
+        "word": "foundation",
+        "meaning": "基礎",
+        "blank_word": "foundations",
+        "blank_sentence": "It took about three weeks to lay the foundations of the building.",
+        "reorder": "It<>took<>about<>three<>weeks<>to<>lay<>the<>foundations<>of<>the<>building.",
+        "dictation": "It took about three weeks to lay the foundations of the building."
+    },
+    "4": {
+        "word": "customer",
+        "meaning": "顧客",
+        "blank_word": "customers",
+        "blank_sentence": "The most important thing for salespeople is to take good care of their customers.",
+        "reorder": "The<>most<>important<>thing<>for<>salespeople<>is<>to<>take<>good<>care<>of<>their<>customers.",
+        "dictation": "The most important thing for salespeople is to take good care of their customers."
+    },
+    "5": {
+        "word": "whisper",
+        "meaning": "ささやく",
+        "blank_word": "whispered",
+        "blank_sentence": "She whispered something to me, but I couldn't catch the words.",
+        "reorder": "She<>whispered<>something<>to<>me,<>but<>I<>couldn't<>catch<>the<>words.",
+        "dictation": "She whispered something to me, but I couldn't catch the words."
+    },
+    "6": {
+        "word": "stimulate",
+        "meaning": "刺激する",
+        "blank_word": "stimulates",
+        "blank_sentence": "Light stimulates plant growth.",
+        "reorder": "Light<>stimulates<>plant<>growth.",
+        "dictation": "Light stimulates plant growth."
+    },
+    "7": {
+        "word": "assign",
+        "meaning": "割り当てる",
+        "blank_word": "assign",
+        "blank_sentence": "We have to assign unique names to each of these computers.",
+        "reorder": "We<>have<>to<>assign<>unique<>names<>to<>each<>of<>these<>computers.",
+        "dictation": "We have to assign unique names to each of these computers."
+    },
+    "8": {
+        "word": "promote",
+        "meaning": "促進する",
+        "blank_word": "promoted",
+        "blank_sentence": "Their responsible customer service promoted sales of our products.",
+        "reorder": "Their<>responsible<>customer<>service<>promoted<>sales<>of<>our<>products.",
+        "dictation": "Their responsible customer service promoted sales of our products."
+    },
+    "9": {
+        "word": "resign",
+        "meaning": "辞任する",
+        "blank_word": "resigned",
+        "blank_sentence": "The manager resigned to take responsibility for the team's poor performance.",
+        "reorder": "The<>manager<>resigned<>to<>take<>responsibility<>for<>the<>team's<>poor<>performance.",
+        "dictation": "The manager resigned to take responsibility for the team's poor performance."
+    },
+    "10": {
+        "word": "bind",
+        "meaning": "縛る",
+        "blank_word": "Bind",
+        "blank_sentence": "Bind those poles together with this wire.",
+        "reorder": "Bind<>those<>poles<>together<>with<>this<>wire.",
+        "dictation": "Bind those poles together with this wire."
+    },
+    "11": {
+        "word": "mention",
+        "meaning": "～について言う",
+        "blank_word": "mentioned",
+        "blank_sentence": "I have mentioned this problem before.",
+        "reorder": "I<>have<>mentioned<>this<>problem<>before.",
+        "dictation": "I have mentioned this problem before."
+    },
+    "12": {
+        "word": "delay",
+        "meaning": "遅らせる",
+        "blank_word": "delayed",
+        "blank_sentence": "The train is delayed for an hour because of bad weather.",
+        "reorder": "The<>train<>is<>delayed<>for<>an<>hour<>because<>of<>bad<>weather.",
+        "dictation": "The train is delayed for an hour because of bad weather."
+    },
+    "13": {
+        "word": "ignore",
+        "meaning": "無視する",
+        "blank_word": "ignore",
+        "blank_sentence": "You must not ignore the warning signs on the machine.",
+        "reorder": "You<>must<>not<>ignore<>the<>warning<>signs<>on<>the<>machine.",
+        "dictation": "You must not ignore the warning signs on the machine."
+    },
+    "14": {
+        "word": "recommend",
+        "meaning": "薦める",
+        "blank_word": "recommend",
+        "blank_sentence": "You must take responsibility for what you recommend to someone.",
+        "reorder": "You<>must<>take<>responsibility<>for<>what<>you<>recommend<>to<>someone.",
+        "dictation": "You must take responsibility for what you recommend to someone."
+    },
+    "15": {
+        "word": "deliver",
+        "meaning": "配達する",
+        "blank_word": "delivered",
+        "blank_sentence": "Today's morning paper doesn't seem to have been delivered yet.",
+        "reorder": "Today's<>morning<>paper<>doesn't<>seem<>to<>have<>been<>delivered<>yet.",
+        "dictation": "Today's morning paper doesn't seem to have been delivered yet."
+    },
+    "16": {
+        "word": "arise",
+        "meaning": "起こる",
+        "blank_word": "arises",
+        "blank_sentence": "If a problem arises , please let me know as soon as possible.",
+        "reorder": "If<>a<>problem<>arises<>,<>please<>let<>me<>know<>as<>soon<>as<>possible.",
+        "dictation": "If a problem arises , please let me know as soon as possible."
+    },
+    "17": {
+        "word": "contribute",
+        "meaning": "貢献する",
+        "blank_word": "contributed",
+        "blank_sentence": "The new delivery system contributed to reducing the delay in message delivery.",
+        "reorder": "The<>new<>delivery<>system<>contributed<>to<>reducing<>the<>delay<>in<>message<>delivery.",
+        "dictation": "The new delivery system contributed to reducing the delay in message delivery."
+    },
+    "18": {
+        "word": "respect",
+        "meaning": "尊敬する",
+        "blank_word": "respects",
+        "blank_sentence": "Nobody respects you unless you respect yourself.",
+        "reorder": "Nobody<>respects<>you<>unless<>you<>respect<>yourself.",
+        "dictation": "Nobody respects you unless you respect yourself."
+    },
+    "19": {
+        "word": "insult",
+        "meaning": "侮辱する",
+        "blank_word": "insult",
+        "blank_sentence": "Be careful not to insult other people when you speak in public.",
+        "reorder": "Be<>careful<>not<>to<>insult<>other<>people<>when<>you<>speak<>in<>public.",
+        "dictation": "Be careful not to insult other people when you speak in public."
+    },
+    "20": {
+        "word": "violate",
+        "meaning": "(規則などを)破る",
+        "blank_word": "violate",
+        "blank_sentence": "If you violate the law, you might lose your license.",
+        "reorder": "If<>you<>violate<>the<>law,<>you<>might<>lose<>your<>license.",
+        "dictation": "If you violate the law, you might lose your license."
+    },
+    "21": {
+        "word": "puzzle",
+        "meaning": "困惑させる",
+        "blank_word": "puzzled",
+        "blank_sentence": "I was puzzled because he suddenly ignored me.",
+        "reorder": "I<>was<>puzzled<>because<>he<>suddenly<>ignored<>me.",
+        "dictation": "I was puzzled because he suddenly ignored me."
+    },
+    "22": {
+        "word": "log",
+        "meaning": "丸太",
+        "blank_word": "log",
+        "blank_sentence": "Make sure the diameter of the log is large enough for the beam.",
+        "reorder": "Make<>sure<>the<>diameter<>of<>the<>log<>is<>large<>enough<>for<>the<>beam.",
+        "dictation": "Make sure the diameter of the log is large enough for the beam."
+    },
+    "23": {
+        "word": "vessel",
+        "meaning": "管",
+        "blank_word": "vessel",
+        "blank_sentence": "The doctor bound the blood vessel to stop the blood stream.",
+        "reorder": "The<>doctor<>bound<>the<>blood<>vessel<>to<>stop<>the<>blood<>stream.",
+        "dictation": "The doctor bound the blood vessel to stop the blood stream."
+    },
+    "24": {
+        "word": "bowl",
+        "meaning": "鉢",
+        "blank_word": "bowl",
+        "blank_sentence": "The capacity of that bowl is 500cc.",
+        "reorder": "The<>capacity<>of<>that<>bowl<>is<>500cc.",
+        "dictation": "The capacity of that bowl is 500cc."
+    },
+    "25": {
+        "word": "deck",
+        "meaning": "甲板",
+        "blank_word": "deck",
+        "blank_sentence": "The container vessel has a crane on its deck.",
+        "reorder": "The<>container<>vessel<>has<>a<>crane<>on<>its<>deck.",
+        "dictation": "The container vessel has a crane on its deck."
+    }
+}

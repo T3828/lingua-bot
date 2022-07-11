@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "international",
+        "meaning": "国際的な",
+        "blank_word": "international",
+        "blank_sentence": "Many people think English is an international language.",
+        "reorder": "Many<>people<>think<>English<>is<>an<>international<>language.",
+        "dictation": "Many people think English is an international language."
+    },
+    "2": {
+        "word": "main",
+        "meaning": "主要な",
+        "blank_word": "main",
+        "blank_sentence": "Some of the main parts of this motor are made of steel.",
+        "reorder": "Some<>of<>the<>main<>parts<>of<>this<>motor<>are<>made<>of<>steel.",
+        "dictation": "Some of the main parts of this motor are made of steel."
+    },
+    "3": {
+        "word": "action",
+        "meaning": "動作",
+        "blank_word": "action",
+        "blank_sentence": "One single action can open all the doors of this room.",
+        "reorder": "One<>single<>action<>can<>open<>all<>the<>doors<>of<>this<>room.",
+        "dictation": "One single action can open all the doors of this room."
+    },
+    "4": {
+        "word": "access",
+        "meaning": "接続",
+        "blank_word": "access",
+        "blank_sentence": "Does that hotel have the Internet access?",
+        "reorder": "Does<>that<>hotel<>have<>the<>Internet<>access?",
+        "dictation": "Does that hotel have the Internet access?"
+    },
+    "5": {
+        "word": "contact",
+        "meaning": "接触",
+        "blank_word": "contact",
+        "blank_sentence": "This door opens by contact with your hand.",
+        "reorder": "This<>door<>opens<>by<>contact<>with<>your<>hand.",
+        "dictation": "This door opens by contact with your hand."
+    },
+    "6": {
+        "word": "exercise",
+        "meaning": "運動",
+        "blank_word": "exercise",
+        "blank_sentence": "You need more exercise.",
+        "reorder": "You<>need<>more<>exercise.",
+        "dictation": "You need more exercise."
+    },
+    "7": {
+        "word": "sign",
+        "meaning": "兆候",
+        "blank_word": "sign",
+        "blank_sentence": "We found no sign of life at that place.",
+        "reorder": "We<>found<>no<>sign<>of<>life<>at<>that<>place.",
+        "dictation": "We found no sign of life at that place."
+    },
+    "8": {
+        "word": "control",
+        "meaning": "制御する",
+        "blank_word": "controlled",
+        "blank_sentence": "The actions of the robot are controlled by the program.",
+        "reorder": "The<>actions<>of<>the<>robot<>are<>controlled<>by<>the<>program.",
+        "dictation": "The actions of the robot are controlled by the program."
+    },
+    "9": {
+        "word": "receive",
+        "meaning": "受け取る",
+        "blank_word": "received",
+        "blank_sentence": "Have you received any e-mails from him?",
+        "reorder": "Have<>you<>received<>any<>e-mails<>from<>him?",
+        "dictation": "Have you received any e-mails from him?"
+    },
+    "10": {
+        "word": "touch",
+        "meaning": "触れる",
+        "blank_word": "touch",
+        "blank_sentence": "Don't touch anything on the table.",
+        "reorder": "Don't<>touch<>anything<>on<>the<>table.",
+        "dictation": "Don't touch anything on the table."
+    },
+    "11": {
+        "word": "drill",
+        "meaning": "穴をあける",
+        "blank_word": "drilled",
+        "blank_sentence": "They drilled into the ground to find oil.",
+        "reorder": "They<>drilled<>into<>the<>ground<>to<>find<>oil.",
+        "dictation": "They drilled into the ground to find oil."
+    },
+    "12": {
+        "word": "lift",
+        "meaning": "持ち上げる",
+        "blank_word": "lift",
+        "blank_sentence": "This stone is too heavy for me to lift.",
+        "reorder": "This<>stone<>is<>too<>heavy<>for<>me<>to<>lift.",
+        "dictation": "This stone is too heavy for me to lift."
+    },
+    "13": {
+        "word": "cost",
+        "meaning": "(金額が)かかる",
+        "blank_word": "cost",
+        "blank_sentence": "How much will the project cost?",
+        "reorder": "How<>much<>will<>the<>project<>cost?",
+        "dictation": "How much will the project cost?"
+    },
+    "14": {
+        "word": "support",
+        "meaning": "支持する",
+        "blank_word": "supported",
+        "blank_sentence": "His idea was not supported.",
+        "reorder": "His<>idea<>was<>not<>supported.",
+        "dictation": "His idea was not supported."
+    },
+    "15": {
+        "word": "shock",
+        "meaning": "衝撃",
+        "blank_word": "shock",
+        "blank_sentence": "You may get a shock if you touch the open wire.",
+        "reorder": "You<>may<>get<>a<>shock<>if<>you<>touch<>the<>open<>wire.",
+        "dictation": "You may get a shock if you touch the open wire."
+    },
+    "16": {
+        "word": "tire",
+        "meaning": "タイヤ",
+        "blank_word": "tires",
+        "blank_sentence": "The subway cars in Sapporo City have tires.",
+        "reorder": "The<>subway<>cars<>in<>Sapporo<>City<>have<>tires.",
+        "dictation": "The subway cars in Sapporo City have tires."
+    },
+    "17": {
+        "word": "glove",
+        "meaning": "手袋",
+        "blank_word": "gloves",
+        "blank_sentence": "Don't touch the glass without gloves.",
+        "reorder": "Don't<>touch<>the<>glass<>without<>gloves.",
+        "dictation": "Don't touch the glass without gloves."
+    },
+    "18": {
+        "word": "symbol",
+        "meaning": "象徴",
+        "blank_word": "symbols",
+        "blank_sentence": "Mt. Fuji is one of the symbols of Japan.",
+        "reorder": "Mt.<>Fuji<>is<>one<>of<>the<>symbols<>of<>Japan.",
+        "dictation": "Mt. Fuji is one of the symbols of Japan."
+    },
+    "19": {
+        "word": "nail",
+        "meaning": "釘",
+        "blank_word": "nails",
+        "blank_sentence": "This machine can drive 50 nails a minute.",
+        "reorder": "This<>machine<>can<>drive<>50<>nails<>a<>minute.",
+        "dictation": "This machine can drive 50 nails a minute."
+    },
+    "20": {
+        "word": "hammer",
+        "meaning": "金づち",
+        "blank_word": "hammer",
+        "blank_sentence": "A plastic hammer can't be used to drive a nail into wood.",
+        "reorder": "A<>plastic<>hammer<>can't<>be<>used<>to<>drive<>a<>nail<>into<>wood.",
+        "dictation": "A plastic hammer can't be used to drive a nail into wood."
+    },
+    "21": {
+        "word": "chief",
+        "meaning": "(団体の)長",
+        "blank_word": "chief",
+        "blank_sentence": "He is the chief of this project.",
+        "reorder": "He<>is<>the<>chief<>of<>this<>project.",
+        "dictation": "He is the chief of this project."
+    },
+    "22": {
+        "word": "captain",
+        "meaning": "船長",
+        "blank_word": "captain",
+        "blank_sentence": "The captain told the chief engineer to speed up the ship.",
+        "reorder": "The<>captain<>told<>the<>chief<>engineer<>to<>speed<>up<>the<>ship.",
+        "dictation": "The captain told the chief engineer to speed up the ship."
+    },
+    "23": {
+        "word": "rope",
+        "meaning": "ロープ",
+        "blank_word": "Rope",
+        "blank_sentence": "Rope is sometimes more useful than wire.",
+        "reorder": "Rope<>is<>sometimes<>more<>useful<>than<>wire.",
+        "dictation": "Rope is sometimes more useful than wire."
+    },
+    "24": {
+        "word": "prism",
+        "meaning": "プリズム",
+        "blank_word": "prism",
+        "blank_sentence": "The light coming through a prism looks like a rainbow.",
+        "reorder": "The<>light<>coming<>through<>a<>prism<>looks<>like<>a<>rainbow.",
+        "dictation": "The light coming through a prism looks like a rainbow."
+    },
+    "25": {
+        "word": "pulp",
+        "meaning": "パルプ",
+        "blank_word": "pulp",
+        "blank_sentence": "The pulp for making paper is mainly made from wood.",
+        "reorder": "The<>pulp<>for<>making<>paper<>is<>mainly<>made<>from<>wood.",
+        "dictation": "The pulp for making paper is mainly made from wood."
+    }
+}

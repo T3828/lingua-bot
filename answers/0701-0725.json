@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "grind",
+        "meaning": "研ぐ",
+        "blank_word": "grind",
+        "blank_sentence": "This stone is to be used to grind knives.",
+        "reorder": "This<>stone<>is<>to<>be<>used<>to<>grind<>knives.",
+        "dictation": "This stone is to be used to grind knives."
+    },
+    "2": {
+        "word": "wrap",
+        "meaning": "～を巻きつける",
+        "blank_word": "Wrap",
+        "blank_sentence": "Wrap vinyl tape around the wire.",
+        "reorder": "Wrap<>vinyl<>tape<>around<>the<>wire.",
+        "dictation": "Wrap vinyl tape around the wire."
+    },
+    "3": {
+        "word": "fail",
+        "meaning": "失敗する",
+        "blank_word": "failed",
+        "blank_sentence": "We failed in this experiment many times.",
+        "reorder": "We<>failed<>in<>this<>experiment<>many<>times.",
+        "dictation": "We failed in this experiment many times."
+    },
+    "4": {
+        "word": "compress",
+        "meaning": "圧縮する",
+        "blank_word": "compresses",
+        "blank_sentence": "This software compresses the files into a smaller size.",
+        "reorder": "This<>software<>compresses<>the<>files<>into<>a<>smaller<>size.",
+        "dictation": "This software compresses the files into a smaller size."
+    },
+    "5": {
+        "word": "brake",
+        "meaning": "ブレーキ",
+        "blank_word": "brake",
+        "blank_sentence": "A brake failure caused the accident.",
+        "reorder": "A<>brake<>failure<>caused<>the<>accident.",
+        "dictation": "A brake failure caused the accident."
+    },
+    "6": {
+        "word": "shaft",
+        "meaning": "軸",
+        "blank_word": "shafts",
+        "blank_sentence": "The train ran so fast that the shafts of the wheels broke.",
+        "reorder": "The<>train<>ran<>so<>fast<>that<>the<>shafts<>of<>the<>wheels<>broke.",
+        "dictation": "The train ran so fast that the shafts of the wheels broke."
+    },
+    "7": {
+        "word": "gear",
+        "meaning": "歯車",
+        "blank_word": "gear",
+        "blank_sentence": "This gear has 60 teeth.",
+        "reorder": "This<>gear<>has<>60<>teeth.",
+        "dictation": "This gear has 60 teeth."
+    },
+    "8": {
+        "word": "grease",
+        "meaning": "油脂",
+        "blank_word": "grease",
+        "blank_sentence": "The grease stopped the wheel from making noise.",
+        "reorder": "The<>grease<>stopped<>the<>wheel<>from<>making<>noise.",
+        "dictation": "The grease stopped the wheel from making noise."
+    },
+    "9": {
+        "word": "rate",
+        "meaning": "率",
+        "blank_word": "rate",
+        "blank_sentence": "Online sales are increasing at a rate of 150% a year.",
+        "reorder": "Online<>sales<>are<>increasing<>at<>a<>rate<>of<>150%<>a<>year.",
+        "dictation": "Online sales are increasing at a rate of 150% a year."
+    },
+    "10": {
+        "word": "risk",
+        "meaning": "危険",
+        "blank_word": "risk",
+        "blank_sentence": "Smoking can raise the risk of a heart attack.",
+        "reorder": "Smoking<>can<>raise<>the<>risk<>of<>a<>heart<>attack.",
+        "dictation": "Smoking can raise the risk of a heart attack."
+    },
+    "11": {
+        "word": "standard",
+        "meaning": "規格",
+        "blank_word": "Standard",
+        "blank_sentence": "JIS stands for Japan Industrial Standard.",
+        "reorder": "JIS<>stands<>for<>Japan<>Industrial<>Standard.",
+        "dictation": "JIS stands for Japan Industrial Standard."
+    },
+    "12": {
+        "word": "structure",
+        "meaning": "構造(物)",
+        "blank_word": "structure",
+        "blank_sentence": "The structure of this building does not meet the quake resistance standards.",
+        "reorder": "The<>structure<>of<>this<>building<>does<>not<>meet<>the<>quake<>resistance<>standards.",
+        "dictation": "The structure of this building does not meet the quake resistance standards."
+    },
+    "13": {
+        "word": "roof",
+        "meaning": "屋根",
+        "blank_word": "roof",
+        "blank_sentence": "The structure of this roof is very simple.",
+        "reorder": "The<>structure<>of<>this<>roof<>is<>very<>simple.",
+        "dictation": "The structure of this roof is very simple."
+    },
+    "14": {
+        "word": "cage",
+        "meaning": "籠",
+        "blank_word": "cage",
+        "blank_sentence": "You must always keep the bird cage clean.",
+        "reorder": "You<>must<>always<>keep<>the<>bird<>cage<>clean.",
+        "dictation": "You must always keep the bird cage clean."
+    },
+    "15": {
+        "word": "tip",
+        "meaning": "先端",
+        "blank_word": "tip",
+        "blank_sentence": "The tip of this pen is made of gold.",
+        "reorder": "The<>tip<>of<>this<>pen<>is<>made<>of<>gold.",
+        "dictation": "The tip of this pen is made of gold."
+    },
+    "16": {
+        "word": "bar",
+        "meaning": "棒",
+        "blank_word": "bar",
+        "blank_sentence": "Set the sensor on the tip of the bar.",
+        "reorder": "Set<>the<>sensor<>on<>the<>tip<>of<>the<>bar.",
+        "dictation": "Set the sensor on the tip of the bar."
+    },
+    "17": {
+        "word": "pole",
+        "meaning": "極",
+        "blank_word": "poles",
+        "blank_sentence": "The poles of a bar magnet are near the ends of it.",
+        "reorder": "The<>poles<>of<>a<>bar<>magnet<>are<>near<>the<>ends<>of<>it.",
+        "dictation": "The poles of a bar magnet are near the ends of it."
+    },
+    "18": {
+        "word": "ladder",
+        "meaning": "はしご",
+        "blank_word": "ladder",
+        "blank_sentence": "The workers climbed the ladder onto the roof.",
+        "reorder": "The<>workers<>climbed<>the<>ladder<>onto<>the<>roof.",
+        "dictation": "The workers climbed the ladder onto the roof."
+    },
+    "19": {
+        "word": "spiral",
+        "meaning": "らせん",
+        "blank_word": "spiral",
+        "blank_sentence": "DNA is like a ladder twisted into a spiral.",
+        "reorder": "DNA<>is<>like<>a<>ladder<>twisted<>into<>a<>spiral.",
+        "dictation": "DNA is like a ladder twisted into a spiral."
+    },
+    "20": {
+        "word": "involve",
+        "meaning": "(人を)参加させる",
+        "blank_word": "involved",
+        "blank_sentence": "The rate of the students involved in volunteer activities is increasing.",
+        "reorder": "The<>rate<>of<>the<>students<>involved<>in<>volunteer<>activities<>is<>increasing.",
+        "dictation": "The rate of the students involved in volunteer activities is increasing."
+    },
+    "21": {
+        "word": "expect",
+        "meaning": "予期する",
+        "blank_word": "expected",
+        "blank_sentence": "We had more typhoons than we had expected this year.",
+        "reorder": "We<>had<>more<>typhoons<>than<>we<>had<>expected<>this<>year.",
+        "dictation": "We had more typhoons than we had expected this year."
+    },
+    "22": {
+        "word": "require",
+        "meaning": "要求する",
+        "blank_word": "required",
+        "blank_sentence": "A high degree of skill is required for an engineer.",
+        "reorder": "A<>high<>degree<>of<>skill<>is<>required<>for<>an<>engineer.",
+        "dictation": "A high degree of skill is required for an engineer."
+    },
+    "23": {
+        "word": "discover",
+        "meaning": "発見する",
+        "blank_word": "discover",
+        "blank_sentence": "NASA sent a robot to the planet to discover more about it.",
+        "reorder": "NASA<>sent<>a<>robot<>to<>the<>planet<>to<>discover<>more<>about<>it.",
+        "dictation": "NASA sent a robot to the planet to discover more about it."
+    },
+    "24": {
+        "word": "approach",
+        "meaning": "近づく",
+        "blank_word": "approaching",
+        "blank_sentence": "The airplane was approaching the airport.",
+        "reorder": "The<>airplane<>was<>approaching<>the<>airport.",
+        "dictation": "The airplane was approaching the airport."
+    },
+    "25": {
+        "word": "describe",
+        "meaning": "(言葉で)説明する",
+        "blank_word": "describe",
+        "blank_sentence": "It's very easy to describe the Japanese flag.",
+        "reorder": "It's<>very<>easy<>to<>describe<>the<>Japanese<>flag.",
+        "dictation": "It's very easy to describe the Japanese flag."
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "topic",
+        "meaning": "話題",
+        "blank_word": "topic",
+        "blank_sentence": "Today's topic is about the flight mechanism of airplanes.",
+        "reorder": "Today's<>topic<>is<>about<>the<>flight<>mechanism<>of<>airplanes.",
+        "dictation": "Today's topic is about the flight mechanism of airplanes."
+    },
+    "2": {
+        "word": "form",
+        "meaning": "形",
+        "blank_word": "form",
+        "blank_sentence": "Waves are a form of energy.",
+        "reorder": "Waves<>are<>a<>form<>of<>energy.",
+        "dictation": "Waves are a form of energy."
+    },
+    "3": {
+        "word": "post",
+        "meaning": "郵送する",
+        "blank_word": "post",
+        "blank_sentence": "Put a stamp on the letter before you post it.",
+        "reorder": "Put<>a<>stamp<>on<>the<>letter<>before<>you<>post<>it.",
+        "dictation": "Put a stamp on the letter before you post it."
+    },
+    "4": {
+        "word": "press",
+        "meaning": "押す",
+        "blank_word": "press",
+        "blank_sentence": "When you press the piston, the air pressure in the cylinder becomes high.",
+        "reorder": "When<>you<>press<>the<>piston,<>the<>air<>pressure<>in<>the<>cylinder<>becomes<>high.",
+        "dictation": "When you press the piston, the air pressure in the cylinder becomes high."
+    },
+    "5": {
+        "word": "flow",
+        "meaning": "流れる",
+        "blank_word": "flows",
+        "blank_sentence": "Water flows from high to low pressure.",
+        "reorder": "Water<>flows<>from<>high<>to<>low<>pressure.",
+        "dictation": "Water flows from high to low pressure."
+    },
+    "6": {
+        "word": "display",
+        "meaning": "表示する",
+        "blank_word": "display",
+        "blank_sentence": "This screen is too small to display such a large picture.",
+        "reorder": "This<>screen<>is<>too<>small<>to<>display<>such<>a<>large<>picture.",
+        "dictation": "This screen is too small to display such a large picture."
+    },
+    "7": {
+        "word": "monitor",
+        "meaning": "監視する",
+        "blank_word": "monitored",
+        "blank_sentence": "The condition of the machine is monitored 24 hours a day.",
+        "reorder": "The<>condition<>of<>the<>machine<>is<>monitored<>24<>hours<>a<>day.",
+        "dictation": "The condition of the machine is monitored 24 hours a day."
+    },
+    "8": {
+        "word": "switch",
+        "meaning": "切り替える",
+        "blank_word": "switch",
+        "blank_sentence": "If you have problems, switch to another network.",
+        "reorder": "If<>you<>have<>problems,<>switch<>to<>another<>network.",
+        "dictation": "If you have problems, switch to another network."
+    },
+    "9": {
+        "word": "cross",
+        "meaning": "交わる",
+        "blank_word": "cross",
+        "blank_sentence": "The two lines cross at the center of the circle.",
+        "reorder": "The<>two<>lines<>cross<>at<>the<>center<>of<>the<>circle.",
+        "dictation": "The two lines cross at the center of the circle."
+    },
+    "10": {
+        "word": "check",
+        "meaning": "点検する",
+        "blank_word": "Check",
+        "blank_sentence": "Check the engine oil every three months.",
+        "reorder": "Check<>the<>engine<>oil<>every<>three<>months.",
+        "dictation": "Check the engine oil every three months."
+    },
+    "11": {
+        "word": "guide",
+        "meaning": "案内する",
+        "blank_word": "guide",
+        "blank_sentence": "The robot will guide you to my room.",
+        "reorder": "The<>robot<>will<>guide<>you<>to<>my<>room.",
+        "dictation": "The robot will guide you to my room."
+    },
+    "12": {
+        "word": "record",
+        "meaning": "記録する",
+        "blank_word": "recorded",
+        "blank_sentence": "Lots of information can be recorded in the flight recorder.",
+        "reorder": "Lots<>of<>information<>can<>be<>recorded<>in<>the<>flight<>recorder.",
+        "dictation": "Lots of information can be recorded in the flight recorder."
+    },
+    "13": {
+        "word": "paint",
+        "meaning": "塗る",
+        "blank_word": "painted",
+        "blank_sentence": "The painter painted the wall of my house red.",
+        "reorder": "The<>painter<>painted<>the<>wall<>of<>my<>house<>red.",
+        "dictation": "The painter painted the wall of my house red."
+    },
+    "14": {
+        "word": "spray",
+        "meaning": "吹きかける",
+        "blank_word": "sprayed",
+        "blank_sentence": "This paint is designed to be sprayed.",
+        "reorder": "This<>paint<>is<>designed<>to<>be<>sprayed.",
+        "dictation": "This paint is designed to be sprayed."
+    },
+    "15": {
+        "word": "handle",
+        "meaning": "扱う",
+        "blank_word": "handle",
+        "blank_sentence": "This system can handle the information of millions of users.",
+        "reorder": "This<>system<>can<>handle<>the<>information<>of<>millions<>of<>users.",
+        "dictation": "This system can handle the information of millions of users."
+    },
+    "16": {
+        "word": "repeat",
+        "meaning": "繰り返す",
+        "blank_word": "Repeat",
+        "blank_sentence": "Repeat this word ten times.",
+        "reorder": "Repeat<>this<>word<>ten<>times.",
+        "dictation": "Repeat this word ten times."
+    },
+    "17": {
+        "word": "turn",
+        "meaning": "回る",
+        "blank_word": "Turn",
+        "blank_sentence": "Turn to the right, and you'll find the gas station.",
+        "reorder": "Turn<>to<>the<>right,<>and<>you'll<>find<>the<>gas<>station.",
+        "dictation": "Turn to the right, and you'll find the gas station."
+    },
+    "18": {
+        "word": "stretch",
+        "meaning": "伸ばす",
+        "blank_word": "stretched",
+        "blank_sentence": "He stretched out his arm and turned off the light switch.",
+        "reorder": "He<>stretched<>out<>his<>arm<>and<>turned<>off<>the<>light<>switch.",
+        "dictation": "He stretched out his arm and turned off the light switch."
+    },
+    "19": {
+        "word": "scan",
+        "meaning": "走査(スキャン)する",
+        "blank_word": "scans",
+        "blank_sentence": "The program scans data to find errors.",
+        "reorder": "The<>program<>scans<>data<>to<>find<>errors.",
+        "dictation": "The program scans data to find errors."
+    },
+    "20": {
+        "word": "print",
+        "meaning": "印刷する",
+        "blank_word": "print",
+        "blank_sentence": "Will you please print ten copies of this file?",
+        "reorder": "Will<>you<>please<>print<>ten<>copies<>of<>this<>file?",
+        "dictation": "Will you please print ten copies of this file?"
+    },
+    "21": {
+        "word": "wear",
+        "meaning": "身に付ける",
+        "blank_word": "wear",
+        "blank_sentence": "I usually wear a mask when I have a cold.",
+        "reorder": "I<>usually<>wear<>a<>mask<>when<>I<>have<>a<>cold.",
+        "dictation": "I usually wear a mask when I have a cold."
+    },
+    "22": {
+        "word": "coat",
+        "meaning": "覆う",
+        "blank_word": "coated",
+        "blank_sentence": "These metal parts are coated with ceramic.",
+        "reorder": "These<>metal<>parts<>are<>coated<>with<>ceramic.",
+        "dictation": "These metal parts are coated with ceramic."
+    },
+    "23": {
+        "word": "store",
+        "meaning": "保存する",
+        "blank_word": "stored",
+        "blank_sentence": "The data stored in this computer cannot be read without a password.",
+        "reorder": "The<>data<>stored<>in<>this<>computer<>cannot<>be<>read<>without<>a<>password.",
+        "dictation": "The data stored in this computer cannot be read without a password."
+    },
+    "24": {
+        "word": "reserve",
+        "meaning": "予約する",
+        "blank_word": "reserve",
+        "blank_sentence": "You can reserve any of our flights on the Internet.",
+        "reorder": "You<>can<>reserve<>any<>of<>our<>flights<>on<>the<>Internet.",
+        "dictation": "You can reserve any of our flights on the Internet."
+    },
+    "25": {
+        "word": "select",
+        "meaning": "選ぶ",
+        "blank_word": "select",
+        "blank_sentence": "Please select food and drink from the menu.",
+        "reorder": "Please<>select<>food<>and<>drink<>from<>the<>menu.",
+        "dictation": "Please select food and drink from the menu."
+    }
+}

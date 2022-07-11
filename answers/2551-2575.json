@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "stare",
+        "meaning": "見つめる",
+        "blank_word": "stare",
+        "blank_sentence": "Don't stare at the computer screen for a long time.",
+        "reorder": "Don't<>stare<>at<>the<>computer<>screen<>for<>a<>long<>time.",
+        "dictation": "Don't stare at the computer screen for a long time."
+    },
+    "2": {
+        "word": "interrupt",
+        "meaning": "中断させる",
+        "blank_word": "interrupted",
+        "blank_sentence": "The news of the earthquake interrupted the TV drama.",
+        "reorder": "The<>news<>of<>the<>earthquake<>interrupted<>the<>TV<>drama.",
+        "dictation": "The news of the earthquake interrupted the TV drama."
+    },
+    "3": {
+        "word": "hum",
+        "meaning": "(ブーンと)うなる",
+        "blank_word": "hum",
+        "blank_sentence": "Hummingbirds hum by beating their wings more than 80 times a second.",
+        "reorder": "Hummingbirds<>hum<>by<>beating<>their<>wings<>more<>than<>80<>times<>a<>second.",
+        "dictation": "Hummingbirds hum by beating their wings more than 80 times a second."
+    },
+    "4": {
+        "word": "attain",
+        "meaning": "達成する",
+        "blank_word": "attained",
+        "blank_sentence": "This engine attained the highest energy efficiency in our company's history.",
+        "reorder": "This<>engine<>attained<>the<>highest<>energy<>efficiency<>in<>our<>company's<>history.",
+        "dictation": "This engine attained the highest energy efficiency in our company's history."
+    },
+    "5": {
+        "word": "propel",
+        "meaning": "推進する",
+        "blank_word": "propel",
+        "blank_sentence": "Ion engines cannot be used for launching a rocket but can propel a spacecraft efficiently.",
+        "reorder": "Ion<>engines<>cannot<>be<>used<>for<>launching<>a<>rocket<>but<>can<>propel<>a<>spacecraft<>efficiently.",
+        "dictation": "Ion engines cannot be used for launching a rocket but can propel a spacecraft efficiently."
+    },
+    "6": {
+        "word": "compartment",
+        "meaning": "区画",
+        "blank_word": "compartment",
+        "blank_sentence": "I hear a hum coming out of the power compartment.",
+        "reorder": "I<>hear<>a<>hum<>coming<>out<>of<>the<>power<>compartment.",
+        "dictation": "I hear a hum coming out of the power compartment."
+    },
+    "7": {
+        "word": "prescription",
+        "meaning": "処方箋",
+        "blank_word": "prescription",
+        "blank_sentence": "This drug cannot be purchased without a doctor's prescription.",
+        "reorder": "This<>drug<>cannot<>be<>purchased<>without<>a<>doctor's<>prescription.",
+        "dictation": "This drug cannot be purchased without a doctor's prescription."
+    },
+    "8": {
+        "word": "pharmacy",
+        "meaning": "薬局",
+        "blank_word": "pharmacy",
+        "blank_sentence": "The medicine is available at any pharmacy without a prescription.",
+        "reorder": "The<>medicine<>is<>available<>at<>any<>pharmacy<>without<>a<>prescription.",
+        "dictation": "The medicine is available at any pharmacy without a prescription."
+    },
+    "9": {
+        "word": "outlook",
+        "meaning": "展望",
+        "blank_word": "outlook",
+        "blank_sentence": "A positive outlook is indispensable when you think of your future.",
+        "reorder": "A<>positive<>outlook<>is<>indispensable<>when<>you<>think<>of<>your<>future.",
+        "dictation": "A positive outlook is indispensable when you think of your future."
+    },
+    "10": {
+        "word": "configuration",
+        "meaning": "形状",
+        "blank_word": "configuration",
+        "blank_sentence": "The configuration of the moon's surface is different from that of the earth's.",
+        "reorder": "The<>configuration<>of<>the<>moon's<>surface<>is<>different<>from<>that<>of<>the<>earth's.",
+        "dictation": "The configuration of the moon's surface is different from that of the earth's."
+    },
+    "11": {
+        "word": "adhesive",
+        "meaning": "接着剤",
+        "blank_word": "adhesive",
+        "blank_sentence": "Using too much adhesive will make your work dirty.",
+        "reorder": "Using<>too<>much<>adhesive<>will<>make<>your<>work<>dirty.",
+        "dictation": "Using too much adhesive will make your work dirty."
+    },
+    "12": {
+        "word": "ripe",
+        "meaning": "熟した",
+        "blank_word": "ripe",
+        "blank_sentence": "When tomatoes are ripe , they usually turn red.",
+        "reorder": "When<>tomatoes<>are<>ripe<>,<>they<>usually<>turn<>red.",
+        "dictation": "When tomatoes are ripe , they usually turn red."
+    },
+    "13": {
+        "word": "indifferent",
+        "meaning": "無関心な",
+        "blank_word": "indifferent",
+        "blank_sentence": "We are becoming indifferent to politics.",
+        "reorder": "We<>are<>becoming<>indifferent<>to<>politics.",
+        "dictation": "We are becoming indifferent to politics."
+    },
+    "14": {
+        "word": "lazy",
+        "meaning": "怠け者の",
+        "blank_word": "lazy",
+        "blank_sentence": "It is not because he is lazy that he often sleeps in class.",
+        "reorder": "It<>is<>not<>because<>he<>is<>lazy<>that<>he<>often<>sleeps<>in<>class.",
+        "dictation": "It is not because he is lazy that he often sleeps in class."
+    },
+    "15": {
+        "word": "diligent",
+        "meaning": "勤勉な",
+        "blank_word": "diligent",
+        "blank_sentence": "All the students in this school are not only diligent but also ambitious.",
+        "reorder": "All<>the<>students<>in<>this<>school<>are<>not<>only<>diligent<>but<>also<>ambitious.",
+        "dictation": "All the students in this school are not only diligent but also ambitious."
+    },
+    "16": {
+        "word": "vain",
+        "meaning": "無駄な",
+        "blank_word": "vain",
+        "blank_sentence": "He continued his vain effort to invent a time machine.",
+        "reorder": "He<>continued<>his<>vain<>effort<>to<>invent<>a<>time<>machine.",
+        "dictation": "He continued his vain effort to invent a time machine."
+    },
+    "17": {
+        "word": "strive",
+        "meaning": "努力する",
+        "blank_word": "striving",
+        "blank_sentence": "The manufacturer is striving for better quality.",
+        "reorder": "The<>manufacturer<>is<>striving<>for<>better<>quality.",
+        "dictation": "The manufacturer is striving for better quality."
+    },
+    "18": {
+        "word": "irritate",
+        "meaning": "いらいらさせる",
+        "blank_word": "irritate",
+        "blank_sentence": "Frequent morning traffic jams on this highway always irritate me.",
+        "reorder": "Frequent<>morning<>traffic<>jams<>on<>this<>highway<>always<>irritate<>me.",
+        "dictation": "Frequent morning traffic jams on this highway always irritate me."
+    },
+    "19": {
+        "word": "arouse",
+        "meaning": "(感情などを)起こさせる",
+        "blank_word": "aroused",
+        "blank_sentence": "His indifferent attitude aroused a feeling of anxiety in the people around him.",
+        "reorder": "His<>indifferent<>attitude<>aroused<>a<>feeling<>of<>anxiety<>in<>the<>people<>around<>him.",
+        "dictation": "His indifferent attitude aroused a feeling of anxiety in the people around him."
+    },
+    "20": {
+        "word": "skim",
+        "meaning": "すくい取る",
+        "blank_word": "skim",
+        "blank_sentence": "After boiling the liquid, skim the foam on top of it before cooling it.",
+        "reorder": "After<>boiling<>the<>liquid,<>skim<>the<>foam<>on<>top<>of<>it<>before<>cooling<>it.",
+        "dictation": "After boiling the liquid, skim the foam on top of it before cooling it."
+    },
+    "21": {
+        "word": "cling",
+        "meaning": "くっつく",
+        "blank_word": "cling",
+        "blank_sentence": "Some plants have seeds that cling to our clothes.",
+        "reorder": "Some<>plants<>have<>seeds<>that<>cling<>to<>our<>clothes.",
+        "dictation": "Some plants have seeds that cling to our clothes."
+    },
+    "22": {
+        "word": "pierce",
+        "meaning": "貫く",
+        "blank_word": "pierced",
+        "blank_sentence": "The laser beam pierced the wooden board.",
+        "reorder": "The<>laser<>beam<>pierced<>the<>wooden<>board.",
+        "dictation": "The laser beam pierced the wooden board."
+    },
+    "23": {
+        "word": "sting",
+        "meaning": "(針で)刺す",
+        "blank_word": "sting",
+        "blank_sentence": "Bees do not sting you unless you bother them.",
+        "reorder": "Bees<>do<>not<>sting<>you<>unless<>you<>bother<>them.",
+        "dictation": "Bees do not sting you unless you bother them."
+    },
+    "24": {
+        "word": "ambassador",
+        "meaning": "大使",
+        "blank_word": "ambassadors",
+        "blank_sentence": "American ambassadors to Japan tend to be people who understand Japan well.",
+        "reorder": "American<>ambassadors<>to<>Japan<>tend<>to<>be<>people<>who<>understand<>Japan<>well.",
+        "dictation": "American ambassadors to Japan tend to be people who understand Japan well."
+    },
+    "25": {
+        "word": "embassy",
+        "meaning": "大使館",
+        "blank_word": "Embassies",
+        "blank_sentence": "Embassies tend to be located in the capital of a country.",
+        "reorder": "Embassies<>tend<>to<>be<>located<>in<>the<>capital<>of<>a<>country.",
+        "dictation": "Embassies tend to be located in the capital of a country."
+    }
+}

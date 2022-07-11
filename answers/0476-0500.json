@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "eastern",
+        "meaning": "東の",
+        "blank_word": "eastern",
+        "blank_sentence": "The star can be seen in the eastern sky after sunset.",
+        "reorder": "The<>star<>can<>be<>seen<>in<>the<>eastern<>sky<>after<>sunset.",
+        "dictation": "The star can be seen in the eastern sky after sunset."
+    },
+    "2": {
+        "word": "western",
+        "meaning": "西の",
+        "blank_word": "western",
+        "blank_sentence": "The typhoon damaged the western part of Japan.",
+        "reorder": "The<>typhoon<>damaged<>the<>western<>part<>of<>Japan.",
+        "dictation": "The typhoon damaged the western part of Japan."
+    },
+    "3": {
+        "word": "cloudy",
+        "meaning": "曇った",
+        "blank_word": "cloudy",
+        "blank_sentence": "It's cloudy now, but we have an 80% chance of rain today.",
+        "reorder": "It's<>cloudy<>now,<>but<>we<>have<>an<>80%<>chance<>of<>rain<>today.",
+        "dictation": "It's cloudy now, but we have an 80% chance of rain today."
+    },
+    "4": {
+        "word": "humid",
+        "meaning": "湿気の多い",
+        "blank_word": "humid",
+        "blank_sentence": "If it's humid , it feels hotter than it actually is.",
+        "reorder": "If<>it's<>humid<>,<>it<>feels<>hotter<>than<>it<>actually<>is.",
+        "dictation": "If it's humid , it feels hotter than it actually is."
+    },
+    "5": {
+        "word": "tropical",
+        "meaning": "熱帯の",
+        "blank_word": "tropical",
+        "blank_sentence": "It is generally hot and humid in tropical countries.",
+        "reorder": "It<>is<>generally<>hot<>and<>humid<>in<>tropical<>countries.",
+        "dictation": "It is generally hot and humid in tropical countries."
+    },
+    "6": {
+        "word": "opposite",
+        "meaning": "反対の",
+        "blank_word": "opposite",
+        "blank_sentence": "South America is on the opposite side of the earth from Asia.",
+        "reorder": "South<>America<>is<>on<>the<>opposite<>side<>of<>the<>earth<>from<>Asia.",
+        "dictation": "South America is on the opposite side of the earth from Asia."
+    },
+    "7": {
+        "word": "parallel",
+        "meaning": "平行の",
+        "blank_word": "parallel",
+        "blank_sentence": "If two straight lines do not cross, they are parallel.",
+        "reorder": "If<>two<>straight<>lines<>do<>not<>cross,<>they<>are<>parallel.",
+        "dictation": "If two straight lines do not cross, they are parallel."
+    },
+    "8": {
+        "word": "track",
+        "meaning": "軌道",
+        "blank_word": "tracks",
+        "blank_sentence": "The two tracks run parallel to each other.",
+        "reorder": "The<>two<>tracks<>run<>parallel<>to<>each<>other.",
+        "dictation": "The two tracks run parallel to each other."
+    },
+    "9": {
+        "word": "couch",
+        "meaning": "長椅子",
+        "blank_word": "couch",
+        "blank_sentence": "I often sleep on the couch right after supper.",
+        "reorder": "I<>often<>sleep<>on<>the<>couch<>right<>after<>supper.",
+        "dictation": "I often sleep on the couch right after supper."
+    },
+    "10": {
+        "word": "comb",
+        "meaning": "櫛(くし)",
+        "blank_word": "comb",
+        "blank_sentence": "My hair is so short that I don't need a comb.",
+        "reorder": "My<>hair<>is<>so<>short<>that<>I<>don't<>need<>a<>comb.",
+        "dictation": "My hair is so short that I don't need a comb."
+    },
+    "11": {
+        "word": "product",
+        "meaning": "製品",
+        "blank_word": "products",
+        "blank_sentence": "All of these paper products are made from wood pulp.",
+        "reorder": "All<>of<>these<>paper<>products<>are<>made<>from<>wood<>pulp.",
+        "dictation": "All of these paper products are made from wood pulp."
+    },
+    "12": {
+        "word": "reason",
+        "meaning": "理由",
+        "blank_word": "reason",
+        "blank_sentence": "Please tell me the reason why you came here.",
+        "reorder": "Please<>tell<>me<>the<>reason<>why<>you<>came<>here.",
+        "dictation": "Please tell me the reason why you came here."
+    },
+    "13": {
+        "word": "course",
+        "meaning": "進路",
+        "blank_word": "courses",
+        "blank_sentence": "There are five courses of engineering in this school.",
+        "reorder": "There<>are<>five<>courses<>of<>engineering<>in<>this<>school.",
+        "dictation": "There are five courses of engineering in this school."
+    },
+    "14": {
+        "word": "alarm",
+        "meaning": "警報(機)",
+        "blank_word": "alarm",
+        "blank_sentence": "The worker activated the fire alarm.",
+        "reorder": "The<>worker<>activated<>the<>fire<>alarm.",
+        "dictation": "The worker activated the fire alarm."
+    },
+    "15": {
+        "word": "custom",
+        "meaning": "習慣",
+        "blank_word": "custom",
+        "blank_sentence": "The Japanese have a custom of removing their shoes when they enter a house.",
+        "reorder": "The<>Japanese<>have<>a<>custom<>of<>removing<>their<>shoes<>when<>they<>enter<>a<>house.",
+        "dictation": "The Japanese have a custom of removing their shoes when they enter a house."
+    },
+    "16": {
+        "word": "traffic",
+        "meaning": "交通(量)",
+        "blank_word": "traffic",
+        "blank_sentence": "There is a lot of traffic on this road.",
+        "reorder": "There<>is<>a<>lot<>of<>traffic<>on<>this<>road.",
+        "dictation": "There is a lot of traffic on this road."
+    },
+    "17": {
+        "word": "accident",
+        "meaning": "事故",
+        "blank_word": "accidents",
+        "blank_sentence": "The number of traffic accidents is decreasing year by year.",
+        "reorder": "The<>number<>of<>traffic<>accidents<>is<>decreasing<>year<>by<>year.",
+        "dictation": "The number of traffic accidents is decreasing year by year."
+    },
+    "18": {
+        "word": "equation",
+        "meaning": "方程式",
+        "blank_word": "equation",
+        "blank_sentence": "Solve this equation for x.",
+        "reorder": "Solve<>this<>equation<>for<>x.",
+        "dictation": "Solve this equation for x."
+    },
+    "19": {
+        "word": "figure",
+        "meaning": "図",
+        "blank_word": "figure",
+        "blank_sentence": "This figure shows the result of the experiment.",
+        "reorder": "This<>figure<>shows<>the<>result<>of<>the<>experiment.",
+        "dictation": "This figure shows the result of the experiment."
+    },
+    "20": {
+        "word": "rectangle",
+        "meaning": "長方形",
+        "blank_word": "rectangle",
+        "blank_sentence": "The four angles of a rectangle are all equal, and they are right angles.",
+        "reorder": "The<>four<>angles<>of<>a<>rectangle<>are<>all<>equal,<>and<>they<>are<>right<>angles.",
+        "dictation": "The four angles of a rectangle are all equal, and they are right angles."
+    },
+    "21": {
+        "word": "diagonal",
+        "meaning": "対角線",
+        "blank_word": "diagonals",
+        "blank_sentence": "Draw diagonals to measure the area of the figure.",
+        "reorder": "Draw<>diagonals<>to<>measure<>the<>area<>of<>the<>figure.",
+        "dictation": "Draw diagonals to measure the area of the figure."
+    },
+    "22": {
+        "word": "value",
+        "meaning": "値",
+        "blank_word": "value",
+        "blank_sentence": "State the value of x and y shown on the graph.",
+        "reorder": "State<>the<>value<>of<>x<>and<>y<>shown<>on<>the<>graph.",
+        "dictation": "State the value of x and y shown on the graph."
+    },
+    "23": {
+        "word": "amount",
+        "meaning": "量",
+        "blank_word": "amount",
+        "blank_sentence": "The amount of water you can drink a day is limited.",
+        "reorder": "The<>amount<>of<>water<>you<>can<>drink<>a<>day<>is<>limited.",
+        "dictation": "The amount of water you can drink a day is limited."
+    },
+    "24": {
+        "word": "chart",
+        "meaning": "図表",
+        "blank_word": "chart",
+        "blank_sentence": "This chart shows the amount of traffic and the number of accidents at each point.",
+        "reorder": "This<>chart<>shows<>the<>amount<>of<>traffic<>and<>the<>number<>of<>accidents<>at<>each<>point.",
+        "dictation": "This chart shows the amount of traffic and the number of accidents at each point."
+    },
+    "25": {
+        "word": "axis",
+        "meaning": "軸",
+        "blank_word": "axis",
+        "blank_sentence": "The axis of this top is not centered.",
+        "reorder": "The<>axis<>of<>this<>top<>is<>not<>centered.",
+        "dictation": "The axis of this top is not centered."
+    }
+}

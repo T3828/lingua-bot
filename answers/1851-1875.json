@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "radical",
+        "meaning": "根本的な",
+        "blank_word": "radical",
+        "blank_sentence": "The administration made a radical revision of the network system.",
+        "reorder": "The<>administration<>made<>a<>radical<>revision<>of<>the<>network<>system.",
+        "dictation": "The administration made a radical revision of the network system."
+    },
+    "2": {
+        "word": "proper",
+        "meaning": "適切な",
+        "blank_word": "proper",
+        "blank_sentence": "This substance must be kept at the proper temperature.",
+        "reorder": "This<>substance<>must<>be<>kept<>at<>the<>proper<>temperature.",
+        "dictation": "This substance must be kept at the proper temperature."
+    },
+    "3": {
+        "word": "analog",
+        "meaning": "アナログ式の",
+        "blank_word": "Analog",
+        "blank_sentence": "Analog TV broadcasting in Japan ended in 2011.",
+        "reorder": "Analog<>TV<>broadcasting<>in<>Japan<>ended<>in<>2011.",
+        "dictation": "Analog TV broadcasting in Japan ended in 2011."
+    },
+    "4": {
+        "word": "outfit",
+        "meaning": "服装",
+        "blank_word": "outfit",
+        "blank_sentence": "The students know what the proper laboratory outfit is.",
+        "reorder": "The<>students<>know<>what<>the<>proper<>laboratory<>outfit<>is.",
+        "dictation": "The students know what the proper laboratory outfit is."
+    },
+    "5": {
+        "word": "stuff",
+        "meaning": "もの",
+        "blank_word": "stuff",
+        "blank_sentence": "Some people believe in ghosts and stuff like that.",
+        "reorder": "Some<>people<>believe<>in<>ghosts<>and<>stuff<>like<>that.",
+        "dictation": "Some people believe in ghosts and stuff like that."
+    },
+    "6": {
+        "word": "fee",
+        "meaning": "料金",
+        "blank_word": "fee",
+        "blank_sentence": "You have to pay a monthly fee to access this website.",
+        "reorder": "You<>have<>to<>pay<>a<>monthly<>fee<>to<>access<>this<>website.",
+        "dictation": "You have to pay a monthly fee to access this website."
+    },
+    "7": {
+        "word": "weekday",
+        "meaning": "週日(平日)",
+        "blank_word": "weekdays",
+        "blank_sentence": "The store opens on weekdays.",
+        "reorder": "The<>store<>opens<>on<>weekdays.",
+        "dictation": "The store opens on weekdays."
+    },
+    "8": {
+        "word": "desire",
+        "meaning": "望み",
+        "blank_word": "desire",
+        "blank_sentence": "The king's desire was to control the whole world.",
+        "reorder": "The<>king's<>desire<>was<>to<>control<>the<>whole<>world.",
+        "dictation": "The king's desire was to control the whole world."
+    },
+    "9": {
+        "word": "outcome",
+        "meaning": "成果",
+        "blank_word": "outcome",
+        "blank_sentence": "The project produced an ideal outcome.",
+        "reorder": "The<>project<>produced<>an<>ideal<>outcome.",
+        "dictation": "The project produced an ideal outcome."
+    },
+    "10": {
+        "word": "plenty",
+        "meaning": "たくさん(のもの)",
+        "blank_word": "plenty",
+        "blank_sentence": "There are plenty of books on the shelf.",
+        "reorder": "There<>are<>plenty<>of<>books<>on<>the<>shelf.",
+        "dictation": "There are plenty of books on the shelf."
+    },
+    "11": {
+        "word": "mosquito",
+        "meaning": "蚊",
+        "blank_word": "mosquito",
+        "blank_sentence": "A mosquito bites animals to take in blood.",
+        "reorder": "A<>mosquito<>bites<>animals<>to<>take<>in<>blood.",
+        "dictation": "A mosquito bites animals to take in blood."
+    },
+    "12": {
+        "word": "moth",
+        "meaning": "蛾",
+        "blank_word": "moth",
+        "blank_sentence": "Can you tell a moth from a butterfly?",
+        "reorder": "Can<>you<>tell<>a<>moth<>from<>a<>butterfly?",
+        "dictation": "Can you tell a moth from a butterfly?"
+    },
+    "13": {
+        "word": "worm",
+        "meaning": "ミミズ(のような虫)",
+        "blank_word": "worms",
+        "blank_sentence": "Underground worms fertilize the soil.",
+        "reorder": "Underground<>worms<>fertilize<>the<>soil.",
+        "dictation": "Underground worms fertilize the soil."
+    },
+    "14": {
+        "word": "parasite",
+        "meaning": "寄生虫(動植物)",
+        "blank_word": "parasites",
+        "blank_sentence": "Mosquitoes carry various kinds of parasites.",
+        "reorder": "Mosquitoes<>carry<>various<>kinds<>of<>parasites.",
+        "dictation": "Mosquitoes carry various kinds of parasites."
+    },
+    "15": {
+        "word": "pest",
+        "meaning": "害虫",
+        "blank_word": "pest",
+        "blank_sentence": "A new pest is making trouble in Japan's rice fields.",
+        "reorder": "A<>new<>pest<>is<>making<>trouble<>in<>Japan's<>rice<>fields.",
+        "dictation": "A new pest is making trouble in Japan's rice fields."
+    },
+    "16": {
+        "word": "hazard",
+        "meaning": "危険",
+        "blank_word": "hazard",
+        "blank_sentence": "This symbol tells us there is a kind of hazard here.",
+        "reorder": "This<>symbol<>tells<>us<>there<>is<>a<>kind<>of<>hazard<>here.",
+        "dictation": "This symbol tells us there is a kind of hazard here."
+    },
+    "17": {
+        "word": "shelter",
+        "meaning": "避難所",
+        "blank_word": "shelter",
+        "blank_sentence": "A tornado shelter is located in the basement of this building.",
+        "reorder": "A<>tornado<>shelter<>is<>located<>in<>the<>basement<>of<>this<>building.",
+        "dictation": "A tornado shelter is located in the basement of this building."
+    },
+    "18": {
+        "word": "volcano",
+        "meaning": "火山",
+        "blank_word": "volcanoes",
+        "blank_sentence": "One tenth of the world's volcanoes are in and around Japan.",
+        "reorder": "One<>tenth<>of<>the<>world's<>volcanoes<>are<>in<>and<>around<>Japan.",
+        "dictation": "One tenth of the world's volcanoes are in and around Japan."
+    },
+    "19": {
+        "word": "lava",
+        "meaning": "溶岩",
+        "blank_word": "lava",
+        "blank_sentence": "The temperature of the lava flowing out of that volcano's crater is about 1000℃.",
+        "reorder": "The<>temperature<>of<>the<>lava<>flowing<>out<>of<>that<>volcano's<>crater<>is<>about<>1000℃.",
+        "dictation": "The temperature of the lava flowing out of that volcano's crater is about 1000℃."
+    },
+    "20": {
+        "word": "eruption",
+        "meaning": "噴火",
+        "blank_word": "eruption",
+        "blank_sentence": "After the eruption of the volcano, a lava dome formed on its mountainside.",
+        "reorder": "After<>the<>eruption<>of<>the<>volcano,<>a<>lava<>dome<>formed<>on<>its<>mountainside.",
+        "dictation": "After the eruption of the volcano, a lava dome formed on its mountainside."
+    },
+    "21": {
+        "word": "cave",
+        "meaning": "洞窟",
+        "blank_word": "cave",
+        "blank_sentence": "Tens of thousands of bats live in the cave.",
+        "reorder": "Tens<>of<>thousands<>of<>bats<>live<>in<>the<>cave.",
+        "dictation": "Tens of thousands of bats live in the cave."
+    },
+    "22": {
+        "word": "cavity",
+        "meaning": "虫歯",
+        "blank_word": "cavities",
+        "blank_sentence": "If you don't keep your mouth clean, you'll get cavities.",
+        "reorder": "If<>you<>don't<>keep<>your<>mouth<>clean,<>you'll<>get<>cavities.",
+        "dictation": "If you don't keep your mouth clean, you'll get cavities."
+    },
+    "23": {
+        "word": "Arctic",
+        "meaning": "北極",
+        "blank_word": "Arctic",
+        "blank_sentence": "The North Pole is not on land but in the Arctic Ocean.",
+        "reorder": "The<>North<>Pole<>is<>not<>on<>land<>but<>in<>the<>Arctic<>Ocean.",
+        "dictation": "The North Pole is not on land but in the Arctic Ocean."
+    },
+    "24": {
+        "word": "Antarctic",
+        "meaning": "南極",
+        "blank_word": "Antarctic",
+        "blank_sentence": "The Antarctic continent is located in the southernmost part of the world.",
+        "reorder": "The<>Antarctic<>continent<>is<>located<>in<>the<>southernmost<>part<>of<>the<>world.",
+        "dictation": "The Antarctic continent is located in the southernmost part of the world."
+    },
+    "25": {
+        "word": "expedition",
+        "meaning": "探検(隊)",
+        "blank_word": "expedition",
+        "blank_sentence": "The first successful Antarctic expedition by Japanese was made in 1912.",
+        "reorder": "The<>first<>successful<>Antarctic<>expedition<>by<>Japanese<>was<>made<>in<>1912.",
+        "dictation": "The first successful Antarctic expedition by Japanese was made in 1912."
+    }
+}

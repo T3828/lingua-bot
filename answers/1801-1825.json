@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "invest",
+        "meaning": "投資する",
+        "blank_word": "invest",
+        "blank_sentence": "You should not invest all your money in one company.",
+        "reorder": "You<>should<>not<>invest<>all<>your<>money<>in<>one<>company.",
+        "dictation": "You should not invest all your money in one company."
+    },
+    "2": {
+        "word": "commit",
+        "meaning": "(犯罪などを)犯す",
+        "blank_word": "committed",
+        "blank_sentence": "I don't believe that he committed any crime.",
+        "reorder": "I<>don't<>believe<>that<>he<>committed<>any<>crime.",
+        "dictation": "I don't believe that he committed any crime."
+    },
+    "3": {
+        "word": "derive",
+        "meaning": "導き出す",
+        "blank_word": "derive",
+        "blank_sentence": "You need to collect a number of known facts to derive unknown facts.",
+        "reorder": "You<>need<>to<>collect<>a<>number<>of<>known<>facts<>to<>derive<>unknown<>facts.",
+        "dictation": "You need to collect a number of known facts to derive unknown facts."
+    },
+    "4": {
+        "word": "incorporate",
+        "meaning": "～を組み込む",
+        "blank_word": "incorporates",
+        "blank_sentence": "That new PC incorporates the newest CPU.",
+        "reorder": "That<>new<>PC<>incorporates<>the<>newest<>CPU.",
+        "dictation": "That new PC incorporates the newest CPU."
+    },
+    "5": {
+        "word": "patch",
+        "meaning": "継ぎをあてる",
+        "blank_word": "patched",
+        "blank_sentence": "As my bicycle tire went flat, I patched it with a patch kit.",
+        "reorder": "As<>my<>bicycle<>tire<>went<>flat,<>I<>patched<>it<>with<>a<>patch<>kit.",
+        "dictation": "As my bicycle tire went flat, I patched it with a patch kit."
+    },
+    "6": {
+        "word": "dye",
+        "meaning": "染める",
+        "blank_word": "dyeing",
+        "blank_sentence": "These plants are mainly grown for the purpose of dyeing fabric.",
+        "reorder": "These<>plants<>are<>mainly<>grown<>for<>the<>purpose<>of<>dyeing<>fabric.",
+        "dictation": "These plants are mainly grown for the purpose of dyeing fabric."
+    },
+    "7": {
+        "word": "decorate",
+        "meaning": "飾る",
+        "blank_word": "decorate",
+        "blank_sentence": "We always decorate a tree at Christmas.",
+        "reorder": "We<>always<>decorate<>a<>tree<>at<>Christmas.",
+        "dictation": "We always decorate a tree at Christmas."
+    },
+    "8": {
+        "word": "advertise",
+        "meaning": "宣伝する",
+        "blank_word": "advertising",
+        "blank_sentence": "The car company is advertising its new model extensively.",
+        "reorder": "The<>car<>company<>is<>advertising<>its<>new<>model<>extensively.",
+        "dictation": "The car company is advertising its new model extensively."
+    },
+    "9": {
+        "word": "inherit",
+        "meaning": "引き継ぐ",
+        "blank_word": "inherit",
+        "blank_sentence": "I will eventually inherit my father's factory.",
+        "reorder": "I<>will<>eventually<>inherit<>my<>father's<>factory.",
+        "dictation": "I will eventually inherit my father's factory."
+    },
+    "10": {
+        "word": "cure",
+        "meaning": "治す",
+        "blank_word": "cured",
+        "blank_sentence": "The doctor cured her cancer by using radiation therapy.",
+        "reorder": "The<>doctor<>cured<>her<>cancer<>by<>using<>radiation<>therapy.",
+        "dictation": "The doctor cured her cancer by using radiation therapy."
+    },
+    "11": {
+        "word": "transplant",
+        "meaning": "移植する",
+        "blank_word": "transplant",
+        "blank_sentence": "I had surgery to transplant skin from my leg onto my burnt hand.",
+        "reorder": "I<>had<>surgery<>to<>transplant<>skin<>from<>my<>leg<>onto<>my<>burnt<>hand.",
+        "dictation": "I had surgery to transplant skin from my leg onto my burnt hand."
+    },
+    "12": {
+        "word": "donate",
+        "meaning": "寄付する",
+        "blank_word": "donated",
+        "blank_sentence": "For building the music hall, he donated most of the money that he inherited.",
+        "reorder": "For<>building<>the<>music<>hall,<>he<>donated<>most<>of<>the<>money<>that<>he<>inherited.",
+        "dictation": "For building the music hall, he donated most of the money that he inherited."
+    },
+    "13": {
+        "word": "donor",
+        "meaning": "臓器提供者",
+        "blank_word": "donor",
+        "blank_sentence": "The recipient will not know who the donor is.",
+        "reorder": "The<>recipient<>will<>not<>know<>who<>the<>donor<>is.",
+        "dictation": "The recipient will not know who the donor is."
+    },
+    "14": {
+        "word": "colony",
+        "meaning": "植民地",
+        "blank_word": "colony",
+        "blank_sentence": "Australia used to be a British colony.",
+        "reorder": "Australia<>used<>to<>be<>a<>British<>colony.",
+        "dictation": "Australia used to be a British colony."
+    },
+    "15": {
+        "word": "capital",
+        "meaning": "首都",
+        "blank_word": "capital",
+        "blank_sentence": "The capital of a country is not necessarily the largest city in that country.",
+        "reorder": "The<>capital<>of<>a<>country<>is<>not<>necessarily<>the<>largest<>city<>in<>that<>country.",
+        "dictation": "The capital of a country is not necessarily the largest city in that country."
+    },
+    "16": {
+        "word": "affair",
+        "meaning": "出来事",
+        "blank_word": "affairs",
+        "blank_sentence": "I don't know very much about political affairs.",
+        "reorder": "I<>don't<>know<>very<>much<>about<>political<>affairs.",
+        "dictation": "I don't know very much about political affairs."
+    },
+    "17": {
+        "word": "ethic",
+        "meaning": "倫理",
+        "blank_word": "ethics",
+        "blank_sentence": "A job advertisement must not be in conflict with social ethics.",
+        "reorder": "A<>job<>advertisement<>must<>not<>be<>in<>conflict<>with<>social<>ethics.",
+        "dictation": "A job advertisement must not be in conflict with social ethics."
+    },
+    "18": {
+        "word": "logic",
+        "meaning": "論理(学)",
+        "blank_word": "logic",
+        "blank_sentence": "You can use the same logic as the above to solve this problem.",
+        "reorder": "You<>can<>use<>the<>same<>logic<>as<>the<>above<>to<>solve<>this<>problem.",
+        "dictation": "You can use the same logic as the above to solve this problem."
+    },
+    "19": {
+        "word": "algorithm",
+        "meaning": "アルゴリズム",
+        "blank_word": "algorithms",
+        "blank_sentence": "Logical thinking is necessary for understanding algorithms.",
+        "reorder": "Logical<>thinking<>is<>necessary<>for<>understanding<>algorithms.",
+        "dictation": "Logical thinking is necessary for understanding algorithms."
+    },
+    "20": {
+        "word": "altitude",
+        "meaning": "高度",
+        "blank_word": "altitude",
+        "blank_sentence": "Air pressure decreases as altitude increases.",
+        "reorder": "Air<>pressure<>decreases<>as<>altitude<>increases.",
+        "dictation": "Air pressure decreases as altitude increases."
+    },
+    "21": {
+        "word": "journey",
+        "meaning": "旅行",
+        "blank_word": "journey",
+        "blank_sentence": "Japan's asteroid probe Hayabusa returned to Earth after its seven-year journey.",
+        "reorder": "Japan's<>asteroid<>probe<>Hayabusa<>returned<>to<>Earth<>after<>its<>seven-year<>journey.",
+        "dictation": "Japan's asteroid probe Hayabusa returned to Earth after its seven-year journey."
+    },
+    "22": {
+        "word": "collaboration",
+        "meaning": "協力",
+        "blank_word": "collaboration",
+        "blank_sentence": "Our team developed a new solar energy system in collaboration with the company.",
+        "reorder": "Our<>team<>developed<>a<>new<>solar<>energy<>system<>in<>collaboration<>with<>the<>company.",
+        "dictation": "Our team developed a new solar energy system in collaboration with the company."
+    },
+    "23": {
+        "word": "permit",
+        "meaning": "許す",
+        "blank_word": "permitted",
+        "blank_sentence": "Only staff members are permitted to enter this room.",
+        "reorder": "Only<>staff<>members<>are<>permitted<>to<>enter<>this<>room.",
+        "dictation": "Only staff members are permitted to enter this room."
+    },
+    "24": {
+        "word": "dominate",
+        "meaning": "支配する",
+        "blank_word": "dominates",
+        "blank_sentence": "We no longer know which country dominates the world economy today.",
+        "reorder": "We<>no<>longer<>know<>which<>country<>dominates<>the<>world<>economy<>today.",
+        "dictation": "We no longer know which country dominates the world economy today."
+    },
+    "25": {
+        "word": "eliminate",
+        "meaning": "取り除く",
+        "blank_word": "eliminate",
+        "blank_sentence": "You need to revise the algorithm to eliminate the bugs from this program.",
+        "reorder": "You<>need<>to<>revise<>the<>algorithm<>to<>eliminate<>the<>bugs<>from<>this<>program.",
+        "dictation": "You need to revise the algorithm to eliminate the bugs from this program."
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "charm",
+        "meaning": "魅力",
+        "blank_word": "charm",
+        "blank_sentence": "The rows of those old houses make up the charm of this town.",
+        "reorder": "The<>rows<>of<>those<>old<>houses<>make<>up<>the<>charm<>of<>this<>town.",
+        "dictation": "The rows of those old houses make up the charm of this town."
+    },
+    "2": {
+        "word": "cathode",
+        "meaning": "陰極",
+        "blank_word": "cathode",
+        "blank_sentence": "Electrons move from the cathode of a battery to its anode through the circuit.",
+        "reorder": "Electrons<>move<>from<>the<>cathode<>of<>a<>battery<>to<>its<>anode<>through<>the<>circuit.",
+        "dictation": "Electrons move from the cathode of a battery to its anode through the circuit."
+    },
+    "3": {
+        "word": "electrode",
+        "meaning": "電極",
+        "blank_word": "Electrodes",
+        "blank_sentence": "Electrodes were put into a mouse's brain in that experiment.",
+        "reorder": "Electrodes<>were<>put<>into<>a<>mouse's<>brain<>in<>that<>experiment.",
+        "dictation": "Electrodes were put into a mouse's brain in that experiment."
+    },
+    "4": {
+        "word": "electrolysis",
+        "meaning": "電気分解",
+        "blank_word": "electrolysis",
+        "blank_sentence": "Chlorine is produced by the electrolysis of salt water.",
+        "reorder": "Chlorine<>is<>produced<>by<>the<>electrolysis<>of<>salt<>water.",
+        "dictation": "Chlorine is produced by the electrolysis of salt water."
+    },
+    "5": {
+        "word": "decomposition",
+        "meaning": "分解",
+        "blank_word": "decomposition",
+        "blank_sentence": "Electrolysis is the decomposition of a compound using electricity.",
+        "reorder": "Electrolysis<>is<>the<>decomposition<>of<>a<>compound<>using<>electricity.",
+        "dictation": "Electrolysis is the decomposition of a compound using electricity."
+    },
+    "6": {
+        "word": "frame",
+        "meaning": "枠組み",
+        "blank_word": "frame",
+        "blank_sentence": "He cut the glass to fit it into the frame.",
+        "reorder": "He<>cut<>the<>glass<>to<>fit<>it<>into<>the<>frame.",
+        "dictation": "He cut the glass to fit it into the frame."
+    },
+    "7": {
+        "word": "mechanics",
+        "meaning": "力学",
+        "blank_word": "mechanics",
+        "blank_sentence": "All the students must learn structural mechanics in this department.",
+        "reorder": "All<>the<>students<>must<>learn<>structural<>mechanics<>in<>this<>department.",
+        "dictation": "All the students must learn structural mechanics in this department."
+    },
+    "8": {
+        "word": "insight",
+        "meaning": "洞察(力)",
+        "blank_word": "insight",
+        "blank_sentence": "She has the insight to recognize what others are thinking.",
+        "reorder": "She<>has<>the<>insight<>to<>recognize<>what<>others<>are<>thinking.",
+        "dictation": "She has the insight to recognize what others are thinking."
+    },
+    "9": {
+        "word": "context",
+        "meaning": "文脈",
+        "blank_word": "context",
+        "blank_sentence": "This word can't be used in such a context.",
+        "reorder": "This<>word<>can't<>be<>used<>in<>such<>a<>context.",
+        "dictation": "This word can't be used in such a context."
+    },
+    "10": {
+        "word": "territory",
+        "meaning": "縄張り",
+        "blank_word": "territory",
+        "blank_sentence": "The size of a tiger's territory depends on the amount of food available.",
+        "reorder": "The<>size<>of<>a<>tiger's<>territory<>depends<>on<>the<>amount<>of<>food<>available.",
+        "dictation": "The size of a tiger's territory depends on the amount of food available."
+    },
+    "11": {
+        "word": "crime",
+        "meaning": "犯罪",
+        "blank_word": "crime",
+        "blank_sentence": "The rate of crime in that country has been increasing rapidly.",
+        "reorder": "The<>rate<>of<>crime<>in<>that<>country<>has<>been<>increasing<>rapidly.",
+        "dictation": "The rate of crime in that country has been increasing rapidly."
+    },
+    "12": {
+        "word": "murder",
+        "meaning": "殺人(事件)",
+        "blank_word": "murder",
+        "blank_sentence": "The police began to investigate the murder.",
+        "reorder": "The<>police<>began<>to<>investigate<>the<>murder.",
+        "dictation": "The police began to investigate the murder."
+    },
+    "13": {
+        "word": "hostage",
+        "meaning": "人質",
+        "blank_word": "hostage",
+        "blank_sentence": "The terrorists took all the passengers hostage.",
+        "reorder": "The<>terrorists<>took<>all<>the<>passengers<>hostage.",
+        "dictation": "The terrorists took all the passengers hostage."
+    },
+    "14": {
+        "word": "prison",
+        "meaning": "刑務所",
+        "blank_word": "prison",
+        "blank_sentence": "The murderer spent the rest of his life in prison.",
+        "reorder": "The<>murderer<>spent<>the<>rest<>of<>his<>life<>in<>prison.",
+        "dictation": "The murderer spent the rest of his life in prison."
+    },
+    "15": {
+        "word": "sophisticated",
+        "meaning": "洗練された",
+        "blank_word": "sophisticated",
+        "blank_sentence": "A college student developed this sophisticated software program.",
+        "reorder": "A<>college<>student<>developed<>this<>sophisticated<>software<>program.",
+        "dictation": "A college student developed this sophisticated software program."
+    },
+    "16": {
+        "word": "intense",
+        "meaning": "強烈な",
+        "blank_word": "intense",
+        "blank_sentence": "This sheet protects workers from the intense heat.",
+        "reorder": "This<>sheet<>protects<>workers<>from<>the<>intense<>heat.",
+        "dictation": "This sheet protects workers from the intense heat."
+    },
+    "17": {
+        "word": "tough",
+        "meaning": "頑丈な",
+        "blank_word": "tough",
+        "blank_sentence": "This notebook computer is so tough that you can use it anywhere.",
+        "reorder": "This<>notebook<>computer<>is<>so<>tough<>that<>you<>can<>use<>it<>anywhere.",
+        "dictation": "This notebook computer is so tough that you can use it anywhere."
+    },
+    "18": {
+        "word": "sufficient",
+        "meaning": "十分な",
+        "blank_word": "sufficient",
+        "blank_sentence": "Those data are not sufficient to prove our hypothesis.",
+        "reorder": "Those<>data<>are<>not<>sufficient<>to<>prove<>our<>hypothesis.",
+        "dictation": "Those data are not sufficient to prove our hypothesis."
+    },
+    "19": {
+        "word": "identical",
+        "meaning": "同一の",
+        "blank_word": "identical",
+        "blank_sentence": "The file in the CD is identical to the one attached to the e-mail.",
+        "reorder": "The<>file<>in<>the<>CD<>is<>identical<>to<>the<>one<>attached<>to<>the<>e-mail.",
+        "dictation": "The file in the CD is identical to the one attached to the e-mail."
+    },
+    "20": {
+        "word": "upstairs",
+        "meaning": "階上の",
+        "blank_word": "upstairs",
+        "blank_sentence": "The upstairs room is mine.",
+        "reorder": "The<>upstairs<>room<>is<>mine.",
+        "dictation": "The upstairs room is mine."
+    },
+    "21": {
+        "word": "waterproof",
+        "meaning": "防水の",
+        "blank_word": "waterproof",
+        "blank_sentence": "The fabric company has developed a new waterproof cotton fabric.",
+        "reorder": "The<>fabric<>company<>has<>developed<>a<>new<>waterproof<>cotton<>fabric.",
+        "dictation": "The fabric company has developed a new waterproof cotton fabric."
+    },
+    "22": {
+        "word": "attractive",
+        "meaning": "魅力的な",
+        "blank_word": "attractive",
+        "blank_sentence": "China can be an attractive consumer market.",
+        "reorder": "China<>can<>be<>an<>attractive<>consumer<>market.",
+        "dictation": "China can be an attractive consumer market."
+    },
+    "23": {
+        "word": "justify",
+        "meaning": "正当化する",
+        "blank_word": "justify",
+        "blank_sentence": "We found no proof to justify the hypothesis.",
+        "reorder": "We<>found<>no<>proof<>to<>justify<>the<>hypothesis.",
+        "dictation": "We found no proof to justify the hypothesis."
+    },
+    "24": {
+        "word": "adjust",
+        "meaning": "調節する",
+        "blank_word": "Adjust",
+        "blank_sentence": "Adjust the focus of the microscope.",
+        "reorder": "Adjust<>the<>focus<>of<>the<>microscope.",
+        "dictation": "Adjust the focus of the microscope."
+    },
+    "25": {
+        "word": "deny",
+        "meaning": "否定する",
+        "blank_word": "denied",
+        "blank_sentence": "The scientist denied altering the data of his experiment.",
+        "reorder": "The<>scientist<>denied<>altering<>the<>data<>of<>his<>experiment.",
+        "dictation": "The scientist denied altering the data of his experiment."
+    }
+}

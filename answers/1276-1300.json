@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "photograph",
+        "meaning": "写真",
+        "blank_word": "photographs",
+        "blank_sentence": "You must not take photographs in the court.",
+        "reorder": "You<>must<>not<>take<>photographs<>in<>the<>court.",
+        "dictation": "You must not take photographs in the court."
+    },
+    "2": {
+        "word": "portrait",
+        "meaning": "肖像(画)",
+        "blank_word": "portrait",
+        "blank_sentence": "This portrait is not a photograph but a drawing.",
+        "reorder": "This<>portrait<>is<>not<>a<>photograph<>but<>a<>drawing.",
+        "dictation": "This portrait is not a photograph but a drawing."
+    },
+    "3": {
+        "word": "landscape",
+        "meaning": "景色",
+        "blank_word": "landscape",
+        "blank_sentence": "The landscape of this area has changed a lot since the earthquake.",
+        "reorder": "The<>landscape<>of<>this<>area<>has<>changed<>a<>lot<>since<>the<>earthquake.",
+        "dictation": "The landscape of this area has changed a lot since the earthquake."
+    },
+    "4": {
+        "word": "certificate",
+        "meaning": "証明書",
+        "blank_word": "certificate",
+        "blank_sentence": "To apply to the school, you need a certificate proving your English skills.",
+        "reorder": "To<>apply<>to<>the<>school,<>you<>need<>a<>certificate<>proving<>your<>English<>skills.",
+        "dictation": "To apply to the school, you need a certificate proving your English skills."
+    },
+    "5": {
+        "word": "bulb",
+        "meaning": "電球",
+        "blank_word": "bulb",
+        "blank_sentence": "The light bulb was invented by Thomas Edison in 1879.",
+        "reorder": "The<>light<>bulb<>was<>invented<>by<>Thomas<>Edison<>in<>1879.",
+        "dictation": "The light bulb was invented by Thomas Edison in 1879."
+    },
+    "6": {
+        "word": "filament",
+        "meaning": "フィラメント",
+        "blank_word": "filament",
+        "blank_sentence": "Edison tested many materials for the filament in the first light bulb.",
+        "reorder": "Edison<>tested<>many<>materials<>for<>the<>filament<>in<>the<>first<>light<>bulb.",
+        "dictation": "Edison tested many materials for the filament in the first light bulb."
+    },
+    "7": {
+        "word": "strategy",
+        "meaning": "方略",
+        "blank_word": "strategy",
+        "blank_sentence": "Please explain your strategy for solving this equation.",
+        "reorder": "Please<>explain<>your<>strategy<>for<>solving<>this<>equation.",
+        "dictation": "Please explain your strategy for solving this equation."
+    },
+    "8": {
+        "word": "cluster",
+        "meaning": "集合体",
+        "blank_word": "cluster",
+        "blank_sentence": "A cluster of nuclear fuel rods are stored in that pool.",
+        "reorder": "A<>cluster<>of<>nuclear<>fuel<>rods<>are<>stored<>in<>that<>pool.",
+        "dictation": "A cluster of nuclear fuel rods are stored in that pool."
+    },
+    "9": {
+        "word": "crowd",
+        "meaning": "群衆",
+        "blank_word": "crowd",
+        "blank_sentence": "A big crowd was waiting for the famous actor's arrival at the airport.",
+        "reorder": "A<>big<>crowd<>was<>waiting<>for<>the<>famous<>actor's<>arrival<>at<>the<>airport.",
+        "dictation": "A big crowd was waiting for the famous actor's arrival at the airport."
+    },
+    "10": {
+        "word": "therapy",
+        "meaning": "治療(法)",
+        "blank_word": "therapy",
+        "blank_sentence": "The doctor tried a new therapy on a group of his patients.",
+        "reorder": "The<>doctor<>tried<>a<>new<>therapy<>on<>a<>group<>of<>his<>patients.",
+        "dictation": "The doctor tried a new therapy on a group of his patients."
+    },
+    "11": {
+        "word": "forum",
+        "meaning": "公開討論会",
+        "blank_word": "forum",
+        "blank_sentence": "A live forum was held on the Internet.",
+        "reorder": "A<>live<>forum<>was<>held<>on<>the<>Internet.",
+        "dictation": "A live forum was held on the Internet."
+    },
+    "12": {
+        "word": "audience",
+        "meaning": "聴衆",
+        "blank_word": "audience",
+        "blank_sentence": "The audience of the forum was so large that some of them couldn't enter the hall.",
+        "reorder": "The<>audience<>of<>the<>forum<>was<>so<>large<>that<>some<>of<>them<>couldn't<>enter<>the<>hall.",
+        "dictation": "The audience of the forum was so large that some of them couldn't enter the hall."
+    },
+    "13": {
+        "word": "secret",
+        "meaning": "秘密",
+        "blank_word": "secret",
+        "blank_sentence": "He kept his invention secret for a long time.",
+        "reorder": "He<>kept<>his<>invention<>secret<>for<>a<>long<>time.",
+        "dictation": "He kept his invention secret for a long time."
+    },
+    "14": {
+        "word": "slave",
+        "meaning": "奴隷",
+        "blank_word": "slaves",
+        "blank_sentence": "Lincoln ordered all the slaves in the country to be set free.",
+        "reorder": "Lincoln<>ordered<>all<>the<>slaves<>in<>the<>country<>to<>be<>set<>free.",
+        "dictation": "Lincoln ordered all the slaves in the country to be set free."
+    },
+    "15": {
+        "word": "equivalent",
+        "meaning": "等価の",
+        "blank_word": "equivalent",
+        "blank_sentence": "According to the theory of relativity, mass and energy are equivalent.",
+        "reorder": "According<>to<>the<>theory<>of<>relativity,<>mass<>and<>energy<>are<>equivalent.",
+        "dictation": "According to the theory of relativity, mass and energy are equivalent."
+    },
+    "16": {
+        "word": "visible",
+        "meaning": "目に見える",
+        "blank_word": "visible",
+        "blank_sentence": "The stars become visible when the sky gets dark.",
+        "reorder": "The<>stars<>become<>visible<>when<>the<>sky<>gets<>dark.",
+        "dictation": "The stars become visible when the sky gets dark."
+    },
+    "17": {
+        "word": "bright",
+        "meaning": "明るい",
+        "blank_word": "bright",
+        "blank_sentence": "The light was bright enough to make everything visible.",
+        "reorder": "The<>light<>was<>bright<>enough<>to<>make<>everything<>visible.",
+        "dictation": "The light was bright enough to make everything visible."
+    },
+    "18": {
+        "word": "dim",
+        "meaning": "薄暗い",
+        "blank_word": "dim",
+        "blank_sentence": "This camera is sensitive enough to be used in dim light.",
+        "reorder": "This<>camera<>is<>sensitive<>enough<>to<>be<>used<>in<>dim<>light.",
+        "dictation": "This camera is sensitive enough to be used in dim light."
+    },
+    "19": {
+        "word": "slender",
+        "meaning": "細(長)い",
+        "blank_word": "slender",
+        "blank_sentence": "Most snakes have a long slender body with no legs.",
+        "reorder": "Most<>snakes<>have<>a<>long<>slender<>body<>with<>no<>legs.",
+        "dictation": "Most snakes have a long slender body with no legs."
+    },
+    "20": {
+        "word": "optical",
+        "meaning": "光学の",
+        "blank_word": "optical",
+        "blank_sentence": "This is the largest optical telescope in the world.",
+        "reorder": "This<>is<>the<>largest<>optical<>telescope<>in<>the<>world.",
+        "dictation": "This is the largest optical telescope in the world."
+    },
+    "21": {
+        "word": "entire",
+        "meaning": "全体の",
+        "blank_word": "entire",
+        "blank_sentence": "This wire holds the entire weight of the bridge.",
+        "reorder": "This<>wire<>holds<>the<>entire<>weight<>of<>the<>bridge.",
+        "dictation": "This wire holds the entire weight of the bridge."
+    },
+    "22": {
+        "word": "worth",
+        "meaning": "～の価値がある",
+        "blank_word": "worth",
+        "blank_sentence": "Only a gram of this material is worth tens of thousands of yen.",
+        "reorder": "Only<>a<>gram<>of<>this<>material<>is<>worth<>tens<>of<>thousands<>of<>yen.",
+        "dictation": "Only a gram of this material is worth tens of thousands of yen."
+    },
+    "23": {
+        "word": "essential",
+        "meaning": "不可欠の",
+        "blank_word": "essential",
+        "blank_sentence": "The cell phone is now considered an essential communication tool.",
+        "reorder": "The<>cell<>phone<>is<>now<>considered<>an<>essential<>communication<>tool.",
+        "dictation": "The cell phone is now considered an essential communication tool."
+    },
+    "24": {
+        "word": "perform",
+        "meaning": "(機械などが)動作する",
+        "blank_word": "performed",
+        "blank_sentence": "The computer program performed perfectly.",
+        "reorder": "The<>computer<>program<>performed<>perfectly.",
+        "dictation": "The computer program performed perfectly."
+    },
+    "25": {
+        "word": "concentrate",
+        "meaning": "集中する",
+        "blank_word": "concentrating",
+        "blank_sentence": "The population is rapidly concentrating in cities.",
+        "reorder": "The<>population<>is<>rapidly<>concentrating<>in<>cities.",
+        "dictation": "The population is rapidly concentrating in cities."
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "muscle",
+        "meaning": "筋肉",
+        "blank_word": "muscles",
+        "blank_sentence": "The more you exercise, the stronger your muscles become.",
+        "reorder": "The<>more<>you<>exercise,<>the<>stronger<>your<>muscles<>become.",
+        "dictation": "The more you exercise, the stronger your muscles become."
+    },
+    "2": {
+        "word": "nerve",
+        "meaning": "神経",
+        "blank_word": "nerve",
+        "blank_sentence": "It is said that thousands of our nerve cells die every day.",
+        "reorder": "It<>is<>said<>that<>thousands<>of<>our<>nerve<>cells<>die<>every<>day.",
+        "dictation": "It is said that thousands of our nerve cells die every day."
+    },
+    "3": {
+        "word": "tooth",
+        "meaning": "歯",
+        "blank_word": "tooth",
+        "blank_sentence": "I had my tooth pulled out.",
+        "reorder": "I<>had<>my<>tooth<>pulled<>out.",
+        "dictation": "I had my tooth pulled out."
+    },
+    "4": {
+        "word": "organ",
+        "meaning": "臓器",
+        "blank_word": "organs",
+        "blank_sentence": "We have some muscles to support organs inside our body.",
+        "reorder": "We<>have<>some<>muscles<>to<>support<>organs<>inside<>our<>body.",
+        "dictation": "We have some muscles to support organs inside our body."
+    },
+    "5": {
+        "word": "lung",
+        "meaning": "肺",
+        "blank_word": "lung",
+        "blank_sentence": "The capacity of a male adult human's lung is around five liters.",
+        "reorder": "The<>capacity<>of<>a<>male<>adult<>human's<>lung<>is<>around<>five<>liters.",
+        "dictation": "The capacity of a male adult human's lung is around five liters."
+    },
+    "6": {
+        "word": "stomach",
+        "meaning": "胃",
+        "blank_word": "stomach",
+        "blank_sentence": "Your stomach must be empty before the examination.",
+        "reorder": "Your<>stomach<>must<>be<>empty<>before<>the<>examination.",
+        "dictation": "Your stomach must be empty before the examination."
+    },
+    "7": {
+        "word": "kidney",
+        "meaning": "腎臓",
+        "blank_word": "kidneys",
+        "blank_sentence": "There are two kidneys in a human body.",
+        "reorder": "There<>are<>two<>kidneys<>in<>a<>human<>body.",
+        "dictation": "There are two kidneys in a human body."
+    },
+    "8": {
+        "word": "liver",
+        "meaning": "肝臓",
+        "blank_word": "liver",
+        "blank_sentence": "The liver is one of the most important organs.",
+        "reorder": "The<>liver<>is<>one<>of<>the<>most<>important<>organs.",
+        "dictation": "The liver is one of the most important organs."
+    },
+    "9": {
+        "word": "patient",
+        "meaning": "患者",
+        "blank_word": "patients",
+        "blank_sentence": "Many patients are waiting in the waiting room of the hospital.",
+        "reorder": "Many<>patients<>are<>waiting<>in<>the<>waiting<>room<>of<>the<>hospital.",
+        "dictation": "Many patients are waiting in the waiting room of the hospital."
+    },
+    "10": {
+        "word": "relief",
+        "meaning": "(苦痛などの)軽減",
+        "blank_word": "relief",
+        "blank_sentence": "The patient asked the doctor for relief from the pain.",
+        "reorder": "The<>patient<>asked<>the<>doctor<>for<>relief<>from<>the<>pain.",
+        "dictation": "The patient asked the doctor for relief from the pain."
+    },
+    "11": {
+        "word": "ache",
+        "meaning": "痛み",
+        "blank_word": "ache",
+        "blank_sentence": "I have had a constant ache in my stomach since last night.",
+        "reorder": "I<>have<>had<>a<>constant<>ache<>in<>my<>stomach<>since<>last<>night.",
+        "dictation": "I have had a constant ache in my stomach since last night."
+    },
+    "12": {
+        "word": "disease",
+        "meaning": "病気",
+        "blank_word": "disease",
+        "blank_sentence": "This disease can cause damage to your liver.",
+        "reorder": "This<>disease<>can<>cause<>damage<>to<>your<>liver.",
+        "dictation": "This disease can cause damage to your liver."
+    },
+    "13": {
+        "word": "virus",
+        "meaning": "ウイルス",
+        "blank_word": "viruses",
+        "blank_sentence": "There are many kinds of viruses around us.",
+        "reorder": "There<>are<>many<>kinds<>of<>viruses<>around<>us.",
+        "dictation": "There are many kinds of viruses around us."
+    },
+    "14": {
+        "word": "vaccine",
+        "meaning": "ワクチン",
+        "blank_word": "vaccine",
+        "blank_sentence": "There is enough vaccine against the disease.",
+        "reorder": "There<>is<>enough<>vaccine<>against<>the<>disease.",
+        "dictation": "There is enough vaccine against the disease."
+    },
+    "15": {
+        "word": "cancer",
+        "meaning": "癌",
+        "blank_word": "Cancer",
+        "blank_sentence": "Cancer is one of the major causes of death in Japan.",
+        "reorder": "Cancer<>is<>one<>of<>the<>major<>causes<>of<>death<>in<>Japan.",
+        "dictation": "Cancer is one of the major causes of death in Japan."
+    },
+    "16": {
+        "word": "tumor",
+        "meaning": "腫瘍",
+        "blank_word": "tumor",
+        "blank_sentence": "A tumor found in his brain was removed in an operation.",
+        "reorder": "A<>tumor<>found<>in<>his<>brain<>was<>removed<>in<>an<>operation.",
+        "dictation": "A tumor found in his brain was removed in an operation."
+    },
+    "17": {
+        "word": "medicine",
+        "meaning": "薬",
+        "blank_word": "medicine",
+        "blank_sentence": "This medicine is effective in relieving the patients' pain.",
+        "reorder": "This<>medicine<>is<>effective<>in<>relieving<>the<>patients'<>pain.",
+        "dictation": "This medicine is effective in relieving the patients' pain."
+    },
+    "18": {
+        "word": "nurse",
+        "meaning": "看護師",
+        "blank_word": "nurses",
+        "blank_sentence": "There were only two nurses on that floor at night.",
+        "reorder": "There<>were<>only<>two<>nurses<>on<>that<>floor<>at<>night.",
+        "dictation": "There were only two nurses on that floor at night."
+    },
+    "19": {
+        "word": "dentist",
+        "meaning": "歯科医",
+        "blank_word": "dentist",
+        "blank_sentence": "If you can't stand the toothache, go to see the dentist.",
+        "reorder": "If<>you<>can't<>stand<>the<>toothache,<>go<>to<>see<>the<>dentist.",
+        "dictation": "If you can't stand the toothache, go to see the dentist."
+    },
+    "20": {
+        "word": "pill",
+        "meaning": "錠剤",
+        "blank_word": "pills",
+        "blank_sentence": "Take three of these pills with water.",
+        "reorder": "Take<>three<>of<>these<>pills<>with<>water.",
+        "dictation": "Take three of these pills with water."
+    },
+    "21": {
+        "word": "capsule",
+        "meaning": "カプセル",
+        "blank_word": "capsule",
+        "blank_sentence": "This capsule contains several kinds of medicine to reduce pain.",
+        "reorder": "This<>capsule<>contains<>several<>kinds<>of<>medicine<>to<>reduce<>pain.",
+        "dictation": "This capsule contains several kinds of medicine to reduce pain."
+    },
+    "22": {
+        "word": "protein",
+        "meaning": "タンパク質",
+        "blank_word": "protein",
+        "blank_sentence": "Eggs and meat are rich in protein.",
+        "reorder": "Eggs<>and<>meat<>are<>rich<>in<>protein.",
+        "dictation": "Eggs and meat are rich in protein."
+    },
+    "23": {
+        "word": "bean",
+        "meaning": "豆",
+        "blank_word": "beans",
+        "blank_sentence": "There are many kinds of foods that are made from beans.",
+        "reorder": "There<>are<>many<>kinds<>of<>foods<>that<>are<>made<>from<>beans.",
+        "dictation": "There are many kinds of foods that are made from beans."
+    },
+    "24": {
+        "word": "term",
+        "meaning": "用語",
+        "blank_word": "terms",
+        "blank_sentence": "These are the terms that are often used in the field of engineering.",
+        "reorder": "These<>are<>the<>terms<>that<>are<>often<>used<>in<>the<>field<>of<>engineering.",
+        "dictation": "These are the terms that are often used in the field of engineering."
+    },
+    "25": {
+        "word": "education",
+        "meaning": "教育",
+        "blank_word": "Education",
+        "blank_sentence": "Education does not simply mean teaching.",
+        "reorder": "Education<>does<>not<>simply<>mean<>teaching.",
+        "dictation": "Education does not simply mean teaching."
+    }
+}

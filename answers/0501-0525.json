@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "blank",
+        "meaning": "空欄",
+        "blank_word": "blanks",
+        "blank_sentence": "Fill in the blanks on the chart with the correct figures.",
+        "reorder": "Fill<>in<>the<>blanks<>on<>the<>chart<>with<>the<>correct<>figures.",
+        "dictation": "Fill in the blanks on the chart with the correct figures."
+    },
+    "2": {
+        "word": "rest",
+        "meaning": "残り",
+        "blank_word": "rest",
+        "blank_sentence": "One side of a square pyramid is a square, and the rest are triangles.",
+        "reorder": "One<>side<>of<>a<>square<>pyramid<>is<>a<>square,<>and<>the<>rest<>are<>triangles.",
+        "dictation": "One side of a square pyramid is a square, and the rest are triangles."
+    },
+    "3": {
+        "word": "entrance",
+        "meaning": "入口",
+        "blank_word": "entrance",
+        "blank_sentence": "The entrance to the company office is on the second floor of the building.",
+        "reorder": "The<>entrance<>to<>the<>company<>office<>is<>on<>the<>second<>floor<>of<>the<>building.",
+        "dictation": "The entrance to the company office is on the second floor of the building."
+    },
+    "4": {
+        "word": "exit",
+        "meaning": "出口",
+        "blank_word": "exit",
+        "blank_sentence": "The exit is at the corner opposite to the entrance.",
+        "reorder": "The<>exit<>is<>at<>the<>corner<>opposite<>to<>the<>entrance.",
+        "dictation": "The exit is at the corner opposite to the entrance."
+    },
+    "5": {
+        "word": "common",
+        "meaning": "共通の",
+        "blank_word": "common",
+        "blank_sentence": "Security is still a common problem in network systems.",
+        "reorder": "Security<>is<>still<>a<>common<>problem<>in<>network<>systems.",
+        "dictation": "Security is still a common problem in network systems."
+    },
+    "6": {
+        "word": "certain",
+        "meaning": "一定の",
+        "blank_word": "certain",
+        "blank_sentence": "Humans need a certain amount of salt to live.",
+        "reorder": "Humans<>need<>a<>certain<>amount<>of<>salt<>to<>live.",
+        "dictation": "Humans need a certain amount of salt to live."
+    },
+    "7": {
+        "word": "average",
+        "meaning": "平均の",
+        "blank_word": "average",
+        "blank_sentence": "The average number of users of this station is about ten thousand people a day.",
+        "reorder": "The<>average<>number<>of<>users<>of<>this<>station<>is<>about<>ten<>thousand<>people<>a<>day.",
+        "dictation": "The average number of users of this station is about ten thousand people a day."
+    },
+    "8": {
+        "word": "necessary",
+        "meaning": "必要な",
+        "blank_word": "necessary",
+        "blank_sentence": "Two diagonals are necessary to find the area of this figure.",
+        "reorder": "Two<>diagonals<>are<>necessary<>to<>find<>the<>area<>of<>this<>figure.",
+        "dictation": "Two diagonals are necessary to find the area of this figure."
+    },
+    "9": {
+        "word": "absent",
+        "meaning": "欠席している",
+        "blank_word": "absent",
+        "blank_sentence": "He was absent from yesterday's meeting.",
+        "reorder": "He<>was<>absent<>from<>yesterday's<>meeting.",
+        "dictation": "He was absent from yesterday's meeting."
+    },
+    "10": {
+        "word": "strange",
+        "meaning": "奇妙な",
+        "blank_word": "strange",
+        "blank_sentence": "I heard a strange sound while the machine was running.",
+        "reorder": "I<>heard<>a<>strange<>sound<>while<>the<>machine<>was<>running.",
+        "dictation": "I heard a strange sound while the machine was running."
+    },
+    "11": {
+        "word": "loud",
+        "meaning": "(音声が)大きい",
+        "blank_word": "loud",
+        "blank_sentence": "You don't have to speak in such a loud voice.",
+        "reorder": "You<>don't<>have<>to<>speak<>in<>such<>a<>loud<>voice.",
+        "dictation": "You don't have to speak in such a loud voice."
+    },
+    "12": {
+        "word": "sure",
+        "meaning": "確信している",
+        "blank_word": "sure",
+        "blank_sentence": "I'm not sure if the alarm went off.",
+        "reorder": "I'm<>not<>sure<>if<>the<>alarm<>went<>off.",
+        "dictation": "I'm not sure if the alarm went off."
+    },
+    "13": {
+        "word": "either",
+        "meaning": "どちらかの",
+        "blank_word": "Either",
+        "blank_sentence": "Either Celsius or Fahrenheit is generally used to show the temperature.",
+        "reorder": "Either<>Celsius<>or<>Fahrenheit<>is<>generally<>used<>to<>show<>the<>temperature.",
+        "dictation": "Either Celsius or Fahrenheit is generally used to show the temperature."
+    },
+    "14": {
+        "word": "neither",
+        "meaning": "どちらの～も……ない",
+        "blank_word": "Neither",
+        "blank_sentence": "Neither of the two students has ever been absent from this class.",
+        "reorder": "Neither<>of<>the<>two<>students<>has<>ever<>been<>absent<>from<>this<>class.",
+        "dictation": "Neither of the two students has ever been absent from this class."
+    },
+    "15": {
+        "word": "none",
+        "meaning": "なにも(だれも)……ない",
+        "blank_word": "None",
+        "blank_sentence": "None of the answers I wrote was correct.",
+        "reorder": "None<>of<>the<>answers<>I<>wrote<>was<>correct.",
+        "dictation": "None of the answers I wrote was correct."
+    },
+    "16": {
+        "word": "whatever",
+        "meaning": "～するものは何でも",
+        "blank_word": "whatever",
+        "blank_sentence": "You may eat whatever you want to.",
+        "reorder": "You<>may<>eat<>whatever<>you<>want<>to.",
+        "dictation": "You may eat whatever you want to."
+    },
+    "17": {
+        "word": "whenever",
+        "meaning": "～するときはいつでも",
+        "blank_word": "whenever",
+        "blank_sentence": "Please come to my office whenever you like.",
+        "reorder": "Please<>come<>to<>my<>office<>whenever<>you<>like.",
+        "dictation": "Please come to my office whenever you like."
+    },
+    "18": {
+        "word": "indeed",
+        "meaning": "本当に",
+        "blank_word": "indeed",
+        "blank_sentence": "We had a very good time indeed.",
+        "reorder": "We<>had<>a<>very<>good<>time<>indeed.",
+        "dictation": "We had a very good time indeed."
+    },
+    "19": {
+        "word": "twice",
+        "meaning": "2回",
+        "blank_word": "twice",
+        "blank_sentence": "We checked the temperature twice a day.",
+        "reorder": "We<>checked<>the<>temperature<>twice<>a<>day.",
+        "dictation": "We checked the temperature twice a day."
+    },
+    "20": {
+        "word": "seldom",
+        "meaning": "めったに～しない",
+        "blank_word": "seldom",
+        "blank_sentence": "Wild animals can seldom be seen in this city.",
+        "reorder": "Wild<>animals<>can<>seldom<>be<>seen<>in<>this<>city.",
+        "dictation": "Wild animals can seldom be seen in this city."
+    },
+    "21": {
+        "word": "hardly",
+        "meaning": "ほとんど～ない",
+        "blank_word": "hardly",
+        "blank_sentence": "We were so tired that we could hardly talk.",
+        "reorder": "We<>were<>so<>tired<>that<>we<>could<>hardly<>talk.",
+        "dictation": "We were so tired that we could hardly talk."
+    },
+    "22": {
+        "word": "forward",
+        "meaning": "前方へ",
+        "blank_word": "forward",
+        "blank_sentence": "They couldn't move forward because of the traffic jam.",
+        "reorder": "They<>couldn't<>move<>forward<>because<>of<>the<>traffic<>jam.",
+        "dictation": "They couldn't move forward because of the traffic jam."
+    },
+    "23": {
+        "word": "downward",
+        "meaning": "下の方へ",
+        "blank_word": "downward",
+        "blank_sentence": "Your fingernails curve downward as they grow out.",
+        "reorder": "Your<>fingernails<>curve<>downward<>as<>they<>grow<>out.",
+        "dictation": "Your fingernails curve downward as they grow out."
+    },
+    "24": {
+        "word": "outward",
+        "meaning": "外向きに",
+        "blank_word": "outward",
+        "blank_sentence": "Draw three lines outward from the center of the circle.",
+        "reorder": "Draw<>three<>lines<>outward<>from<>the<>center<>of<>the<>circle.",
+        "dictation": "Draw three lines outward from the center of the circle."
+    },
+    "25": {
+        "word": "ahead",
+        "meaning": "前に",
+        "blank_word": "ahead",
+        "blank_sentence": "Look straight ahead and don't turn your head.",
+        "reorder": "Look<>straight<>ahead<>and<>don't<>turn<>your<>head.",
+        "dictation": "Look straight ahead and don't turn your head."
+    }
+}

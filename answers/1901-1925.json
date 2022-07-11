@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "overcome",
+        "meaning": "克服する",
+        "blank_word": "overcome",
+        "blank_sentence": "Environmental problems cannot be overcome without the citizens' continued efforts.",
+        "reorder": "Environmental<>problems<>cannot<>be<>overcome<>without<>the<>citizens'<>continued<>efforts.",
+        "dictation": "Environmental problems cannot be overcome without the citizens' continued efforts."
+    },
+    "2": {
+        "word": "halt",
+        "meaning": "止まる",
+        "blank_word": "halted",
+        "blank_sentence": "All the electronic machines halted because of the blackout.",
+        "reorder": "All<>the<>electronic<>machines<>halted<>because<>of<>the<>blackout.",
+        "dictation": "All the electronic machines halted because of the blackout."
+    },
+    "3": {
+        "word": "cheer",
+        "meaning": "声援(喝采)を送る",
+        "blank_word": "cheered",
+        "blank_sentence": "All the people in the stadium cheered the players.",
+        "reorder": "All<>the<>people<>in<>the<>stadium<>cheered<>the<>players.",
+        "dictation": "All the people in the stadium cheered the players."
+    },
+    "4": {
+        "word": "occupy",
+        "meaning": "占有する",
+        "blank_word": "occupied",
+        "blank_sentence": "Most of the seats in the library are occupied by students.",
+        "reorder": "Most<>of<>the<>seats<>in<>the<>library<>are<>occupied<>by<>students.",
+        "dictation": "Most of the seats in the library are occupied by students."
+    },
+    "5": {
+        "word": "sweep",
+        "meaning": "掃く",
+        "blank_word": "sweep",
+        "blank_sentence": "Please sweep the dust that has settled on the floor.",
+        "reorder": "Please<>sweep<>the<>dust<>that<>has<>settled<>on<>the<>floor.",
+        "dictation": "Please sweep the dust that has settled on the floor."
+    },
+    "6": {
+        "word": "organize",
+        "meaning": "組織する",
+        "blank_word": "organize",
+        "blank_sentence": "The boss told me to organize a new team for developing the next product.",
+        "reorder": "The<>boss<>told<>me<>to<>organize<>a<>new<>team<>for<>developing<>the<>next<>product.",
+        "dictation": "The boss told me to organize a new team for developing the next product."
+    },
+    "7": {
+        "word": "guarantee",
+        "meaning": "保証する",
+        "blank_word": "guarantees",
+        "blank_sentence": "That store guarantees all PCs for five years.",
+        "reorder": "That<>store<>guarantees<>all<>PCs<>for<>five<>years.",
+        "dictation": "That store guarantees all PCs for five years."
+    },
+    "8": {
+        "word": "wound",
+        "meaning": "負傷させる",
+        "blank_word": "wounded",
+        "blank_sentence": "Many people were shot and wounded in the battle.",
+        "reorder": "Many<>people<>were<>shot<>and<>wounded<>in<>the<>battle.",
+        "dictation": "Many people were shot and wounded in the battle."
+    },
+    "9": {
+        "word": "bandage",
+        "meaning": "包帯",
+        "blank_word": "bandage",
+        "blank_sentence": "You should change this bandage at least once a day.",
+        "reorder": "You<>should<>change<>this<>bandage<>at<>least<>once<>a<>day.",
+        "dictation": "You should change this bandage at least once a day."
+    },
+    "10": {
+        "word": "pad",
+        "meaning": "当て布",
+        "blank_word": "pad",
+        "blank_sentence": "The nurse put a pad on my cut and bandaged it.",
+        "reorder": "The<>nurse<>put<>a<>pad<>on<>my<>cut<>and<>bandaged<>it.",
+        "dictation": "The nurse put a pad on my cut and bandaged it."
+    },
+    "11": {
+        "word": "bruise",
+        "meaning": "あざ",
+        "blank_word": "bruise",
+        "blank_sentence": "A bruise appeared on my shoulder where I was hit by a baseball.",
+        "reorder": "A<>bruise<>appeared<>on<>my<>shoulder<>where<>I<>was<>hit<>by<>a<>baseball.",
+        "dictation": "A bruise appeared on my shoulder where I was hit by a baseball."
+    },
+    "12": {
+        "word": "occupation",
+        "meaning": "職業",
+        "blank_word": "occupation",
+        "blank_sentence": "I'm looking for an occupation in which I can operate vehicles.",
+        "reorder": "I'm<>looking<>for<>an<>occupation<>in<>which<>I<>can<>operate<>vehicles.",
+        "dictation": "I'm looking for an occupation in which I can operate vehicles."
+    },
+    "13": {
+        "word": "freedom",
+        "meaning": "自由",
+        "blank_word": "freedom",
+        "blank_sentence": "We have freedom to choose our occupation.",
+        "reorder": "We<>have<>freedom<>to<>choose<>our<>occupation.",
+        "dictation": "We have freedom to choose our occupation."
+    },
+    "14": {
+        "word": "wealth",
+        "meaning": "富",
+        "blank_word": "wealth",
+        "blank_sentence": "The wealth of that country largely depends on oil industry.",
+        "reorder": "The<>wealth<>of<>that<>country<>largely<>depends<>on<>oil<>industry.",
+        "dictation": "The wealth of that country largely depends on oil industry."
+    },
+    "15": {
+        "word": "finance",
+        "meaning": "財政",
+        "blank_word": "finances",
+        "blank_sentence": "The minister made efforts to improve Japan's finances.",
+        "reorder": "The<>minister<>made<>efforts<>to<>improve<>Japan's<>finances.",
+        "dictation": "The minister made efforts to improve Japan's finances."
+    },
+    "16": {
+        "word": "currency",
+        "meaning": "通貨",
+        "blank_word": "currency",
+        "blank_sentence": "The Euro is the single currency of the EU.",
+        "reorder": "The<>Euro<>is<>the<>single<>currency<>of<>the<>EU.",
+        "dictation": "The Euro is the single currency of the EU."
+    },
+    "17": {
+        "word": "loan",
+        "meaning": "融資",
+        "blank_word": "loan",
+        "blank_sentence": "I have paid off the loan on my house.",
+        "reorder": "I<>have<>paid<>off<>the<>loan<>on<>my<>house.",
+        "dictation": "I have paid off the loan on my house."
+    },
+    "18": {
+        "word": "debt",
+        "meaning": "借金",
+        "blank_word": "debt",
+        "blank_sentence": "I am in debt to my father for a million yen.",
+        "reorder": "I<>am<>in<>debt<>to<>my<>father<>for<>a<>million<>yen.",
+        "dictation": "I am in debt to my father for a million yen."
+    },
+    "19": {
+        "word": "welfare",
+        "meaning": "福祉",
+        "blank_word": "welfare",
+        "blank_sentence": "This organization was set up for the welfare of old people.",
+        "reorder": "This<>organization<>was<>set<>up<>for<>the<>welfare<>of<>old<>people.",
+        "dictation": "This organization was set up for the welfare of old people."
+    },
+    "20": {
+        "word": "depression",
+        "meaning": "不景気",
+        "blank_word": "depression",
+        "blank_sentence": "A depression is sometimes caused by overproduction.",
+        "reorder": "A<>depression<>is<>sometimes<>caused<>by<>overproduction.",
+        "dictation": "A depression is sometimes caused by overproduction."
+    },
+    "21": {
+        "word": "poverty",
+        "meaning": "貧困",
+        "blank_word": "poverty",
+        "blank_sentence": "There is still a lot of poverty in many parts of the world.",
+        "reorder": "There<>is<>still<>a<>lot<>of<>poverty<>in<>many<>parts<>of<>the<>world.",
+        "dictation": "There is still a lot of poverty in many parts of the world."
+    },
+    "22": {
+        "word": "fortune",
+        "meaning": "財産",
+        "blank_word": "fortune",
+        "blank_sentence": "The young man made his fortune in the IT business.",
+        "reorder": "The<>young<>man<>made<>his<>fortune<>in<>the<>IT<>business.",
+        "dictation": "The young man made his fortune in the IT business."
+    },
+    "23": {
+        "word": "profile",
+        "meaning": "輪郭",
+        "blank_word": "profile",
+        "blank_sentence": "You can draw a profile line of the land by connecting these dots.",
+        "reorder": "You<>can<>draw<>a<>profile<>line<>of<>the<>land<>by<>connecting<>these<>dots.",
+        "dictation": "You can draw a profile line of the land by connecting these dots."
+    },
+    "24": {
+        "word": "stem",
+        "meaning": "茎",
+        "blank_word": "stem",
+        "blank_sentence": "Leaves of a plant usually grow on a stem.",
+        "reorder": "Leaves<>of<>a<>plant<>usually<>grow<>on<>a<>stem.",
+        "dictation": "Leaves of a plant usually grow on a stem."
+    },
+    "25": {
+        "word": "moss",
+        "meaning": "苔",
+        "blank_word": "Moss",
+        "blank_sentence": "Moss is a kind of plant, but it has no roots, stems or leaves.",
+        "reorder": "Moss<>is<>a<>kind<>of<>plant,<>but<>it<>has<>no<>roots,<>stems<>or<>leaves.",
+        "dictation": "Moss is a kind of plant, but it has no roots, stems or leaves."
+    }
+}

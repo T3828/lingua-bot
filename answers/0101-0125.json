@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "limit",
+        "meaning": "制限",
+        "blank_word": "limit",
+        "blank_sentence": "There is no limit on the number of files you can upload.",
+        "reorder": "There<>is<>no<>limit<>on<>the<>number<>of<>files<>you<>can<>upload.",
+        "dictation": "There is no limit on the number of files you can upload."
+    },
+    "2": {
+        "word": "rock",
+        "meaning": "岩",
+        "blank_word": "rocks",
+        "blank_sentence": "Look out for falling rocks.",
+        "reorder": "Look<>out<>for<>falling<>rocks.",
+        "dictation": "Look out for falling rocks."
+    },
+    "3": {
+        "word": "metal",
+        "meaning": "金属",
+        "blank_word": "metals",
+        "blank_sentence": "Some metals are lighter than water.",
+        "reorder": "Some<>metals<>are<>lighter<>than<>water.",
+        "dictation": "Some metals are lighter than water."
+    },
+    "4": {
+        "word": "tool",
+        "meaning": "道具",
+        "blank_word": "tools",
+        "blank_sentence": "Engineers should use good tools.",
+        "reorder": "Engineers<>should<>use<>good<>tools.",
+        "dictation": "Engineers should use good tools."
+    },
+    "5": {
+        "word": "hole",
+        "meaning": "穴",
+        "blank_word": "holes",
+        "blank_sentence": "This tool is used for making holes in metal sheets.",
+        "reorder": "This<>tool<>is<>used<>for<>making<>holes<>in<>metal<>sheets.",
+        "dictation": "This tool is used for making holes in metal sheets."
+    },
+    "6": {
+        "word": "position",
+        "meaning": "位置",
+        "blank_word": "position",
+        "blank_sentence": "Put the tools in the right position.",
+        "reorder": "Put<>the<>tools<>in<>the<>right<>position.",
+        "dictation": "Put the tools in the right position."
+    },
+    "7": {
+        "word": "event",
+        "meaning": "行事",
+        "blank_word": "event",
+        "blank_sentence": "This event is held once a year.",
+        "reorder": "This<>event<>is<>held<>once<>a<>year.",
+        "dictation": "This event is held once a year."
+    },
+    "8": {
+        "word": "sample",
+        "meaning": "見本",
+        "blank_word": "samples",
+        "blank_sentence": "Some samples of the images can be seen on the Internet.",
+        "reorder": "Some<>samples<>of<>the<>images<>can<>be<>seen<>on<>the<>Internet.",
+        "dictation": "Some samples of the images can be seen on the Internet."
+    },
+    "9": {
+        "word": "channel",
+        "meaning": "チャンネル",
+        "blank_word": "channel",
+        "blank_sentence": "You can watch any channel that you want to.",
+        "reorder": "You<>can<>watch<>any<>channel<>that<>you<>want<>to.",
+        "dictation": "You can watch any channel that you want to."
+    },
+    "10": {
+        "word": "tunnel",
+        "meaning": "トンネル",
+        "blank_word": "Tunnel",
+        "blank_sentence": "The Seikan Tunnel goes under the Tsugaru Channel.",
+        "reorder": "The<>Seikan<>Tunnel<>goes<>under<>the<>Tsugaru<>Channel.",
+        "dictation": "The Seikan Tunnel goes under the Tsugaru Channel."
+    },
+    "11": {
+        "word": "target",
+        "meaning": "目標",
+        "blank_word": "target",
+        "blank_sentence": "The company's target is to sell more than ten thousand cars a month.",
+        "reorder": "The<>company's<>target<>is<>to<>sell<>more<>than<>ten<>thousand<>cars<>a<>month.",
+        "dictation": "The company's target is to sell more than ten thousand cars a month."
+    },
+    "12": {
+        "word": "series",
+        "meaning": "ひと続きのもの",
+        "blank_word": "series",
+        "blank_sentence": "The series of software that the company sells is very good.",
+        "reorder": "The<>series<>of<>software<>that<>the<>company<>sells<>is<>very<>good.",
+        "dictation": "The series of software that the company sells is very good."
+    },
+    "13": {
+        "word": "laser",
+        "meaning": "レーザー",
+        "blank_word": "laser",
+        "blank_sentence": "Some laser lights are red, and some others are green.",
+        "reorder": "Some<>laser<>lights<>are<>red,<>and<>some<>others<>are<>green.",
+        "dictation": "Some laser lights are red, and some others are green."
+    },
+    "14": {
+        "word": "beam",
+        "meaning": "光線",
+        "blank_word": "beams",
+        "blank_sentence": "Try not to look at the laser beams.",
+        "reorder": "Try<>not<>to<>look<>at<>the<>laser<>beams.",
+        "dictation": "Try not to look at the laser beams."
+    },
+    "15": {
+        "word": "skin",
+        "meaning": "皮膚",
+        "blank_word": "skin",
+        "blank_sentence": "His skin was damaged by laser light.",
+        "reorder": "His<>skin<>was<>damaged<>by<>laser<>light.",
+        "dictation": "His skin was damaged by laser light."
+    },
+    "16": {
+        "word": "fur",
+        "meaning": "毛皮",
+        "blank_word": "fur",
+        "blank_sentence": "Many animals are still killed for fur.",
+        "reorder": "Many<>animals<>are<>still<>killed<>for<>fur.",
+        "dictation": "Many animals are still killed for fur."
+    },
+    "17": {
+        "word": "fiber",
+        "meaning": "繊維",
+        "blank_word": "fiber",
+        "blank_sentence": "A very strong plastic can be made by mixing glass fiber in it.",
+        "reorder": "A<>very<>strong<>plastic<>can<>be<>made<>by<>mixing<>glass<>fiber<>in<>it.",
+        "dictation": "A very strong plastic can be made by mixing glass fiber in it."
+    },
+    "18": {
+        "word": "iron",
+        "meaning": "鉄",
+        "blank_word": "Iron",
+        "blank_sentence": "Iron is a very useful metal.",
+        "reorder": "Iron<>is<>a<>very<>useful<>metal.",
+        "dictation": "Iron is a very useful metal."
+    },
+    "19": {
+        "word": "aluminum",
+        "meaning": "アルミニウム",
+        "blank_word": "aluminum",
+        "blank_sentence": "A Japanese 1-yen coin is made of aluminum.",
+        "reorder": "A<>Japanese<>1-yen<>coin<>is<>made<>of<>aluminum.",
+        "dictation": "A Japanese 1-yen coin is made of aluminum."
+    },
+    "20": {
+        "word": "silicon",
+        "meaning": "シリコン",
+        "blank_word": "Silicon",
+        "blank_sentence": "Silicon is not a metal but is as useful as iron.",
+        "reorder": "Silicon<>is<>not<>a<>metal<>but<>is<>as<>useful<>as<>iron.",
+        "dictation": "Silicon is not a metal but is as useful as iron."
+    },
+    "21": {
+        "word": "ceramic",
+        "meaning": "セラミック",
+        "blank_word": "ceramic",
+        "blank_sentence": "This knife is not made of metal but of ceramic.",
+        "reorder": "This<>knife<>is<>not<>made<>of<>metal<>but<>of<>ceramic.",
+        "dictation": "This knife is not made of metal but of ceramic."
+    },
+    "22": {
+        "word": "jewel",
+        "meaning": "宝石",
+        "blank_word": "jewels",
+        "blank_sentence": "Rubies are the jewels usually used to make red laser beams.",
+        "reorder": "Rubies<>are<>the<>jewels<>usually<>used<>to<>make<>red<>laser<>beams.",
+        "dictation": "Rubies are the jewels usually used to make red laser beams."
+    },
+    "23": {
+        "word": "shield",
+        "meaning": "保護する",
+        "blank_word": "shields",
+        "blank_sentence": "The steel panel shields us from the shock wave.",
+        "reorder": "The<>steel<>panel<>shields<>us<>from<>the<>shock<>wave.",
+        "dictation": "The steel panel shields us from the shock wave."
+    },
+    "24": {
+        "word": "charge",
+        "meaning": "充電する",
+        "blank_word": "charged",
+        "blank_sentence": "These batteries are fully charged.",
+        "reorder": "These<>batteries<>are<>fully<>charged.",
+        "dictation": "These batteries are fully charged."
+    },
+    "25": {
+        "word": "attack",
+        "meaning": "攻撃する",
+        "blank_word": "attacked",
+        "blank_sentence": "We attacked the target but couldn't do any damage.",
+        "reorder": "We<>attacked<>the<>target<>but<>couldn't<>do<>any<>damage.",
+        "dictation": "We attacked the target but couldn't do any damage."
+    }
+}

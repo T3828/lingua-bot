@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "academic",
+        "meaning": "学問的な",
+        "blank_word": "academic",
+        "blank_sentence": "My main academic interest is in electronic engineering.",
+        "reorder": "My<>main<>academic<>interest<>is<>in<>electronic<>engineering.",
+        "dictation": "My main academic interest is in electronic engineering."
+    },
+    "2": {
+        "word": "previous",
+        "meaning": "前の",
+        "blank_word": "previous",
+        "blank_sentence": "Show me the data of the previous experiment.",
+        "reorder": "Show<>me<>the<>data<>of<>the<>previous<>experiment.",
+        "dictation": "Show me the data of the previous experiment."
+    },
+    "3": {
+        "word": "sudden",
+        "meaning": "突然の",
+        "blank_word": "sudden",
+        "blank_sentence": "A sudden change of voltage damaged the device.",
+        "reorder": "A<>sudden<>change<>of<>voltage<>damaged<>the<>device.",
+        "dictation": "A sudden change of voltage damaged the device."
+    },
+    "4": {
+        "word": "frequent",
+        "meaning": "頻繁な",
+        "blank_word": "frequent",
+        "blank_sentence": "The system displayed a warning message because of its frequent errors.",
+        "reorder": "The<>system<>displayed<>a<>warning<>message<>because<>of<>its<>frequent<>errors.",
+        "dictation": "The system displayed a warning message because of its frequent errors."
+    },
+    "5": {
+        "word": "frequency",
+        "meaning": "周波数",
+        "blank_word": "frequency",
+        "blank_sentence": "The frequency of home electricity is different between the eastern and western parts of Japan.",
+        "reorder": "The<>frequency<>of<>home<>electricity<>is<>different<>between<>the<>eastern<>and<>western<>parts<>of<>Japan.",
+        "dictation": "The frequency of home electricity is different between the eastern and western parts of Japan."
+    },
+    "6": {
+        "word": "proof",
+        "meaning": "証拠",
+        "blank_word": "proof",
+        "blank_sentence": "Visual proof is easier to understand.",
+        "reorder": "Visual<>proof<>is<>easier<>to<>understand.",
+        "dictation": "Visual proof is easier to understand."
+    },
+    "7": {
+        "word": "scale",
+        "meaning": "規模",
+        "blank_word": "scale",
+        "blank_sentence": "The company made its scale of business too large.",
+        "reorder": "The<>company<>made<>its<>scale<>of<>business<>too<>large.",
+        "dictation": "The company made its scale of business too large."
+    },
+    "8": {
+        "word": "quality",
+        "meaning": "質",
+        "blank_word": "quality",
+        "blank_sentence": "The quality of a product depends on how it is designed and produced.",
+        "reorder": "The<>quality<>of<>a<>product<>depends<>on<>how<>it<>is<>designed<>and<>produced.",
+        "dictation": "The quality of a product depends on how it is designed and produced."
+    },
+    "9": {
+        "word": "quantity",
+        "meaning": "量",
+        "blank_word": "quantity",
+        "blank_sentence": "Measure the quantity of water left in the bottle.",
+        "reorder": "Measure<>the<>quantity<>of<>water<>left<>in<>the<>bottle.",
+        "dictation": "Measure the quantity of water left in the bottle."
+    },
+    "10": {
+        "word": "possibility",
+        "meaning": "可能性",
+        "blank_word": "possibility",
+        "blank_sentence": "The possibility of life on the planet is not zero.",
+        "reorder": "The<>possibility<>of<>life<>on<>the<>planet<>is<>not<>zero.",
+        "dictation": "The possibility of life on the planet is not zero."
+    },
+    "11": {
+        "word": "benefit",
+        "meaning": "利益",
+        "blank_word": "benefit",
+        "blank_sentence": "There was no benefit from the project.",
+        "reorder": "There<>was<>no<>benefit<>from<>the<>project.",
+        "dictation": "There was no benefit from the project."
+    },
+    "12": {
+        "word": "fossil",
+        "meaning": "化石",
+        "blank_word": "fossils",
+        "blank_sentence": "There is little possibility of discovering fossils in this layer.",
+        "reorder": "There<>is<>little<>possibility<>of<>discovering<>fossils<>in<>this<>layer.",
+        "dictation": "There is little possibility of discovering fossils in this layer."
+    },
+    "13": {
+        "word": "marble",
+        "meaning": "大理石",
+        "blank_word": "marble",
+        "blank_sentence": "Fossils are sometimes found in marble.",
+        "reorder": "Fossils<>are<>sometimes<>found<>in<>marble.",
+        "dictation": "Fossils are sometimes found in marble."
+    },
+    "14": {
+        "word": "knowledge",
+        "meaning": "知識",
+        "blank_word": "knowledge",
+        "blank_sentence": "You can't operate a nuclear reactor without knowledge about radiation.",
+        "reorder": "You<>can't<>operate<>a<>nuclear<>reactor<>without<>knowledge<>about<>radiation.",
+        "dictation": "You can't operate a nuclear reactor without knowledge about radiation."
+    },
+    "15": {
+        "word": "span",
+        "meaning": "範囲",
+        "blank_word": "span",
+        "blank_sentence": "Her knowledge covers a wide span of biotechnology.",
+        "reorder": "Her<>knowledge<>covers<>a<>wide<>span<>of<>biotechnology.",
+        "dictation": "Her knowledge covers a wide span of biotechnology."
+    },
+    "16": {
+        "word": "factor",
+        "meaning": "要因",
+        "blank_word": "factors",
+        "blank_sentence": "Using cell phones while driving is one of the major factors of traffic accidents.",
+        "reorder": "Using<>cell<>phones<>while<>driving<>is<>one<>of<>the<>major<>factors<>of<>traffic<>accidents.",
+        "dictation": "Using cell phones while driving is one of the major factors of traffic accidents."
+    },
+    "17": {
+        "word": "bacteria",
+        "meaning": "バクテリア",
+        "blank_word": "bacteria",
+        "blank_sentence": "These bacteria can survive high temperatures.",
+        "reorder": "These<>bacteria<>can<>survive<>high<>temperatures.",
+        "dictation": "These bacteria can survive high temperatures."
+    },
+    "18": {
+        "word": "weapon",
+        "meaning": "武器",
+        "blank_word": "weapons",
+        "blank_sentence": "Some bacteria can be used as weapons.",
+        "reorder": "Some<>bacteria<>can<>be<>used<>as<>weapons.",
+        "dictation": "Some bacteria can be used as weapons."
+    },
+    "19": {
+        "word": "fence",
+        "meaning": "柵",
+        "blank_word": "fence",
+        "blank_sentence": "He built a wooden fence around his garden.",
+        "reorder": "He<>built<>a<>wooden<>fence<>around<>his<>garden.",
+        "dictation": "He built a wooden fence around his garden."
+    },
+    "20": {
+        "word": "victory",
+        "meaning": "優勝",
+        "blank_word": "victory",
+        "blank_sentence": "The team won its first victory at Koshien.",
+        "reorder": "The<>team<>won<>its<>first<>victory<>at<>Koshien.",
+        "dictation": "The team won its first victory at Koshien."
+    },
+    "21": {
+        "word": "defeat",
+        "meaning": "敗北",
+        "blank_word": "defeat",
+        "blank_sentence": "That man will never take defeat.",
+        "reorder": "That<>man<>will<>never<>take<>defeat.",
+        "dictation": "That man will never take defeat."
+    },
+    "22": {
+        "word": "article",
+        "meaning": "記事",
+        "blank_word": "articles",
+        "blank_sentence": "The magazine contains several scientific articles.",
+        "reorder": "The<>magazine<>contains<>several<>scientific<>articles.",
+        "dictation": "The magazine contains several scientific articles."
+    },
+    "23": {
+        "word": "thesis",
+        "meaning": "論文",
+        "blank_word": "thesis",
+        "blank_sentence": "I must finish my master's thesis by next month.",
+        "reorder": "I<>must<>finish<>my<>master's<>thesis<>by<>next<>month.",
+        "dictation": "I must finish my master's thesis by next month."
+    },
+    "24": {
+        "word": "theme",
+        "meaning": "主題",
+        "blank_word": "theme",
+        "blank_sentence": "The theme of my study has changed three times.",
+        "reorder": "The<>theme<>of<>my<>study<>has<>changed<>three<>times.",
+        "dictation": "The theme of my study has changed three times."
+    },
+    "25": {
+        "word": "abstract",
+        "meaning": "(論文などの)要約",
+        "blank_word": "abstract",
+        "blank_sentence": "The abstract of your thesis has to be written in English.",
+        "reorder": "The<>abstract<>of<>your<>thesis<>has<>to<>be<>written<>in<>English.",
+        "dictation": "The abstract of your thesis has to be written in English."
+    }
+}

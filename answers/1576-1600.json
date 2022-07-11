@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "character",
+        "meaning": "文字",
+        "blank_word": "character",
+        "blank_sentence": "Delete the first character of each word in the sentence.",
+        "reorder": "Delete<>the<>first<>character<>of<>each<>word<>in<>the<>sentence.",
+        "dictation": "Delete the first character of each word in the sentence."
+    },
+    "2": {
+        "word": "rob",
+        "meaning": "奪う",
+        "blank_word": "robbed",
+        "blank_sentence": "The disaster robbed the local people of their major source of income.",
+        "reorder": "The<>disaster<>robbed<>the<>local<>people<>of<>their<>major<>source<>of<>income.",
+        "dictation": "The disaster robbed the local people of their major source of income."
+    },
+    "3": {
+        "word": "distinguish",
+        "meaning": "見分ける",
+        "blank_word": "distinguished",
+        "blank_sentence": "Male and female birds can be distinguished by several characteristics.",
+        "reorder": "Male<>and<>female<>birds<>can<>be<>distinguished<>by<>several<>characteristics.",
+        "dictation": "Male and female birds can be distinguished by several characteristics."
+    },
+    "4": {
+        "word": "inject",
+        "meaning": "注射する",
+        "blank_word": "injected",
+        "blank_sentence": "This medicine is supposed to be injected into the patient's arm.",
+        "reorder": "This<>medicine<>is<>supposed<>to<>be<>injected<>into<>the<>patient's<>arm.",
+        "dictation": "This medicine is supposed to be injected into the patient's arm."
+    },
+    "5": {
+        "word": "judge",
+        "meaning": "判断する",
+        "blank_word": "judge",
+        "blank_sentence": "I can't judge whose work is the best.",
+        "reorder": "I<>can't<>judge<>whose<>work<>is<>the<>best.",
+        "dictation": "I can't judge whose work is the best."
+    },
+    "6": {
+        "word": "lubricate",
+        "meaning": "潤滑させる",
+        "blank_word": "lubricate",
+        "blank_sentence": "Applying just one drop of oil can lubricate the gears.",
+        "reorder": "Applying<>just<>one<>drop<>of<>oil<>can<>lubricate<>the<>gears.",
+        "dictation": "Applying just one drop of oil can lubricate the gears."
+    },
+    "7": {
+        "word": "refer",
+        "meaning": "参照する",
+        "blank_word": "refer",
+        "blank_sentence": "Please refer to the operation manual when you find something wrong with the machine.",
+        "reorder": "Please<>refer<>to<>the<>operation<>manual<>when<>you<>find<>something<>wrong<>with<>the<>machine.",
+        "dictation": "Please refer to the operation manual when you find something wrong with the machine."
+    },
+    "8": {
+        "word": "cite",
+        "meaning": "引用する",
+        "blank_word": "cited",
+        "blank_sentence": "The professor cited the information in his presentation.",
+        "reorder": "The<>professor<>cited<>the<>information<>in<>his<>presentation.",
+        "dictation": "The professor cited the information in his presentation."
+    },
+    "9": {
+        "word": "isolate",
+        "meaning": "分離する",
+        "blank_word": "isolating",
+        "blank_sentence": "We succeeded in isolating the virus from the blood of the patient.",
+        "reorder": "We<>succeeded<>in<>isolating<>the<>virus<>from<>the<>blood<>of<>the<>patient.",
+        "dictation": "We succeeded in isolating the virus from the blood of the patient."
+    },
+    "10": {
+        "word": "abandon",
+        "meaning": "捨てる",
+        "blank_word": "abandon",
+        "blank_sentence": "Please do not abandon your pets once you start keeping them.",
+        "reorder": "Please<>do<>not<>abandon<>your<>pets<>once<>you<>start<>keeping<>them.",
+        "dictation": "Please do not abandon your pets once you start keeping them."
+    },
+    "11": {
+        "word": "employ",
+        "meaning": "雇う",
+        "blank_word": "employs",
+        "blank_sentence": "This company employs more than 500 foreign workers.",
+        "reorder": "This<>company<>employs<>more<>than<>500<>foreign<>workers.",
+        "dictation": "This company employs more than 500 foreign workers."
+    },
+    "12": {
+        "word": "excite",
+        "meaning": "興奮させる",
+        "blank_word": "excited",
+        "blank_sentence": "The satellite images excited the astronomers.",
+        "reorder": "The<>satellite<>images<>excited<>the<>astronomers.",
+        "dictation": "The satellite images excited the astronomers."
+    },
+    "13": {
+        "word": "behave",
+        "meaning": "ふるまう",
+        "blank_word": "behave",
+        "blank_sentence": "You must behave like a professional engineer whenever you work.",
+        "reorder": "You<>must<>behave<>like<>a<>professional<>engineer<>whenever<>you<>work.",
+        "dictation": "You must behave like a professional engineer whenever you work."
+    },
+    "14": {
+        "word": "reject",
+        "meaning": "却下する",
+        "blank_word": "rejected",
+        "blank_sentence": "The committee rejected our proposal.",
+        "reorder": "The<>committee<>rejected<>our<>proposal.",
+        "dictation": "The committee rejected our proposal."
+    },
+    "15": {
+        "word": "decay",
+        "meaning": "減衰する",
+        "blank_word": "decay",
+        "blank_sentence": "Sound waves decay as they travel through the air.",
+        "reorder": "Sound<>waves<>decay<>as<>they<>travel<>through<>the<>air.",
+        "dictation": "Sound waves decay as they travel through the air."
+    },
+    "16": {
+        "word": "imply",
+        "meaning": "意味する",
+        "blank_word": "imply",
+        "blank_sentence": "These data imply that our experiment succeeded.",
+        "reorder": "These<>data<>imply<>that<>our<>experiment<>succeeded.",
+        "dictation": "These data imply that our experiment succeeded."
+    },
+    "17": {
+        "word": "graduate",
+        "meaning": "卒業する",
+        "blank_word": "graduate",
+        "blank_sentence": "I will graduate from college next year.",
+        "reorder": "I<>will<>graduate<>from<>college<>next<>year.",
+        "dictation": "I will graduate from college next year."
+    },
+    "18": {
+        "word": "undergraduate",
+        "meaning": "学部生",
+        "blank_word": "undergraduates",
+        "blank_sentence": "This seminar is open to undergraduates.",
+        "reorder": "This<>seminar<>is<>open<>to<>undergraduates.",
+        "dictation": "This seminar is open to undergraduates."
+    },
+    "19": {
+        "word": "wage",
+        "meaning": "賃金",
+        "blank_word": "wages",
+        "blank_sentence": "This table shows the wages that were paid to each employee last year.",
+        "reorder": "This<>table<>shows<>the<>wages<>that<>were<>paid<>to<>each<>employee<>last<>year.",
+        "dictation": "This table shows the wages that were paid to each employee last year."
+    },
+    "20": {
+        "word": "prospect",
+        "meaning": "見通し",
+        "blank_word": "Prospects",
+        "blank_sentence": "Prospects for peace in the region are not very bright.",
+        "reorder": "Prospects<>for<>peace<>in<>the<>region<>are<>not<>very<>bright.",
+        "dictation": "Prospects for peace in the region are not very bright."
+    },
+    "21": {
+        "word": "chairman",
+        "meaning": "議長",
+        "blank_word": "chairman",
+        "blank_sentence": "The chairman was late for the conference.",
+        "reorder": "The<>chairman<>was<>late<>for<>the<>conference.",
+        "dictation": "The chairman was late for the conference."
+    },
+    "22": {
+        "word": "rainforest",
+        "meaning": "(熱帯)雨林",
+        "blank_word": "rainforest",
+        "blank_sentence": "A variety of tropical animals and plants exist in the rainforest.",
+        "reorder": "A<>variety<>of<>tropical<>animals<>and<>plants<>exist<>in<>the<>rainforest.",
+        "dictation": "A variety of tropical animals and plants exist in the rainforest."
+    },
+    "23": {
+        "word": "microwave",
+        "meaning": "マイクロ波",
+        "blank_word": "microwave",
+        "blank_sentence": "The wavelength of the microwave is between 1 mm and 30 cm.",
+        "reorder": "The<>wavelength<>of<>the<>microwave<>is<>between<>1<>mm<>and<>30<>cm.",
+        "dictation": "The wavelength of the microwave is between 1 mm and 30 cm."
+    },
+    "24": {
+        "word": "formation",
+        "meaning": "編成",
+        "blank_word": "formation",
+        "blank_sentence": "The manager announced the formation of a new committee.",
+        "reorder": "The<>manager<>announced<>the<>formation<>of<>a<>new<>committee.",
+        "dictation": "The manager announced the formation of a new committee."
+    },
+    "25": {
+        "word": "attitude",
+        "meaning": "態度",
+        "blank_word": "attitude",
+        "blank_sentence": "She showed a positive attitude toward the plan.",
+        "reorder": "She<>showed<>a<>positive<>attitude<>toward<>the<>plan.",
+        "dictation": "She showed a positive attitude toward the plan."
+    }
+}

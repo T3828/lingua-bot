@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "broad",
+        "meaning": "(幅が)広い",
+        "blank_word": "broad",
+        "blank_sentence": "This river is very broad at its mouth.",
+        "reorder": "This<>river<>is<>very<>broad<>at<>its<>mouth.",
+        "dictation": "This river is very broad at its mouth."
+    },
+    "2": {
+        "word": "narrow",
+        "meaning": "狭い",
+        "blank_word": "narrow",
+        "blank_sentence": "The road was too narrow for my car to pass.",
+        "reorder": "The<>road<>was<>too<>narrow<>for<>my<>car<>to<>pass.",
+        "dictation": "The road was too narrow for my car to pass."
+    },
+    "3": {
+        "word": "radioactive",
+        "meaning": "放射性の",
+        "blank_word": "radioactive",
+        "blank_sentence": "Nuclear power stations store radioactive substances.",
+        "reorder": "Nuclear<>power<>stations<>store<>radioactive<>substances.",
+        "dictation": "Nuclear power stations store radioactive substances."
+    },
+    "4": {
+        "word": "uranium",
+        "meaning": "ウラン",
+        "blank_word": "Uranium",
+        "blank_sentence": "Uranium is one of the most common radioactive elements.",
+        "reorder": "Uranium<>is<>one<>of<>the<>most<>common<>radioactive<>elements.",
+        "dictation": "Uranium is one of the most common radioactive elements."
+    },
+    "5": {
+        "word": "plutonium",
+        "meaning": "プルトニウム",
+        "blank_word": "Plutonium",
+        "blank_sentence": "Plutonium is created in the nuclear reactor as a by-product.",
+        "reorder": "Plutonium<>is<>created<>in<>the<>nuclear<>reactor<>as<>a<>by-product.",
+        "dictation": "Plutonium is created in the nuclear reactor as a by-product."
+    },
+    "6": {
+        "word": "neutron",
+        "meaning": "中性子",
+        "blank_word": "neutron",
+        "blank_sentence": "A neutron has no electrical charge.",
+        "reorder": "A<>neutron<>has<>no<>electrical<>charge.",
+        "dictation": "A neutron has no electrical charge."
+    },
+    "7": {
+        "word": "proton",
+        "meaning": "陽子",
+        "blank_word": "proton",
+        "blank_sentence": "A hydrogen atom has one proton.",
+        "reorder": "A<>hydrogen<>atom<>has<>one<>proton.",
+        "dictation": "A hydrogen atom has one proton."
+    },
+    "8": {
+        "word": "nucleus",
+        "meaning": "核",
+        "blank_word": "nucleus",
+        "blank_sentence": "An atomic nucleus consists of neutrons and protons.",
+        "reorder": "An<>atomic<>nucleus<>consists<>of<>neutrons<>and<>protons.",
+        "dictation": "An atomic nucleus consists of neutrons and protons."
+    },
+    "9": {
+        "word": "broadcast",
+        "meaning": "放送する",
+        "blank_word": "broadcast",
+        "blank_sentence": "The Olympics are broadcast by satellites all over the world.",
+        "reorder": "The<>Olympics<>are<>broadcast<>by<>satellites<>all<>over<>the<>world.",
+        "dictation": "The Olympics are broadcast by satellites all over the world."
+    },
+    "10": {
+        "word": "obtain",
+        "meaning": "手に入れる",
+        "blank_word": "obtain",
+        "blank_sentence": "Newspapers and broadcasting are traditional ways to obtain information.",
+        "reorder": "Newspapers<>and<>broadcasting<>are<>traditional<>ways<>to<>obtain<>information.",
+        "dictation": "Newspapers and broadcasting are traditional ways to obtain information."
+    },
+    "11": {
+        "word": "wonder",
+        "meaning": "不思議に思う",
+        "blank_word": "wondered",
+        "blank_sentence": "They wondered why lightning strikes.",
+        "reorder": "They<>wondered<>why<>lightning<>strikes.",
+        "dictation": "They wondered why lightning strikes."
+    },
+    "12": {
+        "word": "scream",
+        "meaning": "叫ぶ",
+        "blank_word": "screaming",
+        "blank_sentence": "A lady was screaming for help.",
+        "reorder": "A<>lady<>was<>screaming<>for<>help.",
+        "dictation": "A lady was screaming for help."
+    },
+    "13": {
+        "word": "regard",
+        "meaning": "みなす",
+        "blank_word": "regarded",
+        "blank_sentence": "He is regarded as the best candidate for the next president.",
+        "reorder": "He<>is<>regarded<>as<>the<>best<>candidate<>for<>the<>next<>president.",
+        "dictation": "He is regarded as the best candidate for the next president."
+    },
+    "14": {
+        "word": "adopt",
+        "meaning": "採用する",
+        "blank_word": "adopt",
+        "blank_sentence": "We decided to adopt a new method for building the bridge.",
+        "reorder": "We<>decided<>to<>adopt<>a<>new<>method<>for<>building<>the<>bridge.",
+        "dictation": "We decided to adopt a new method for building the bridge."
+    },
+    "15": {
+        "word": "preserve",
+        "meaning": "保護する",
+        "blank_word": "preserve",
+        "blank_sentence": "The broadcast station launched a campaign to preserve nature.",
+        "reorder": "The<>broadcast<>station<>launched<>a<>campaign<>to<>preserve<>nature.",
+        "dictation": "The broadcast station launched a campaign to preserve nature."
+    },
+    "16": {
+        "word": "extract",
+        "meaning": "抽出する",
+        "blank_word": "extracted",
+        "blank_sentence": "Most kinds of vegetable oil are extracted from nuts or seeds.",
+        "reorder": "Most<>kinds<>of<>vegetable<>oil<>are<>extracted<>from<>nuts<>or<>seeds.",
+        "dictation": "Most kinds of vegetable oil are extracted from nuts or seeds."
+    },
+    "17": {
+        "word": "substitute",
+        "meaning": "代用する",
+        "blank_word": "substitute",
+        "blank_sentence": "You can substitute rice powder for flour to bake bread.",
+        "reorder": "You<>can<>substitute<>rice<>powder<>for<>flour<>to<>bake<>bread.",
+        "dictation": "You can substitute rice powder for flour to bake bread."
+    },
+    "18": {
+        "word": "transform",
+        "meaning": "変換する",
+        "blank_word": "transformed",
+        "blank_sentence": "Kinetic energy is transformed into heat energy.",
+        "reorder": "Kinetic<>energy<>is<>transformed<>into<>heat<>energy.",
+        "dictation": "Kinetic energy is transformed into heat energy."
+    },
+    "19": {
+        "word": "smash",
+        "meaning": "粉々にする(なる)",
+        "blank_word": "smashed",
+        "blank_sentence": "The boy smashed a glass bottle into pieces with a hammer.",
+        "reorder": "The<>boy<>smashed<>a<>glass<>bottle<>into<>pieces<>with<>a<>hammer.",
+        "dictation": "The boy smashed a glass bottle into pieces with a hammer."
+    },
+    "20": {
+        "word": "positive",
+        "meaning": "正の",
+        "blank_word": "positive",
+        "blank_sentence": "Ions that have positive charges are called positive ions.",
+        "reorder": "Ions<>that<>have<>positive<>charges<>are<>called<>positive<>ions.",
+        "dictation": "Ions that have positive charges are called positive ions."
+    },
+    "21": {
+        "word": "efficient",
+        "meaning": "効率がよい",
+        "blank_word": "efficient",
+        "blank_sentence": "This new machine is twice as efficient as the old one.",
+        "reorder": "This<>new<>machine<>is<>twice<>as<>efficient<>as<>the<>old<>one.",
+        "dictation": "This new machine is twice as efficient as the old one."
+    },
+    "22": {
+        "word": "vital",
+        "meaning": "生命の",
+        "blank_word": "vital",
+        "blank_sentence": "Studying vital phenomena is a field of biology.",
+        "reorder": "Studying<>vital<>phenomena<>is<>a<>field<>of<>biology.",
+        "dictation": "Studying vital phenomena is a field of biology."
+    },
+    "23": {
+        "word": "outer",
+        "meaning": "外側の",
+        "blank_word": "outer",
+        "blank_sentence": "The outer layer of his skin was damaged by the radioactive rays.",
+        "reorder": "The<>outer<>layer<>of<>his<>skin<>was<>damaged<>by<>the<>radioactive<>rays.",
+        "dictation": "The outer layer of his skin was damaged by the radioactive rays."
+    },
+    "24": {
+        "word": "integer",
+        "meaning": "整数",
+        "blank_word": "integer",
+        "blank_sentence": "The smallest integer that can be divided by both 3 and 4 is 12.",
+        "reorder": "The<>smallest<>integer<>that<>can<>be<>divided<>by<>both<>3<>and<>4<>is<>12.",
+        "dictation": "The smallest integer that can be divided by both 3 and 4 is 12."
+    },
+    "25": {
+        "word": "fraction",
+        "meaning": "一部分",
+        "blank_word": "fraction",
+        "blank_sentence": "The earth receives only a fraction of the sun's energy.",
+        "reorder": "The<>earth<>receives<>only<>a<>fraction<>of<>the<>sun's<>energy.",
+        "dictation": "The earth receives only a fraction of the sun's energy."
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "system",
+        "meaning": "体系",
+        "blank_word": "system",
+        "blank_sentence": "Our school has the newest computer system.",
+        "reorder": "Our<>school<>has<>the<>newest<>computer<>system.",
+        "dictation": "Our school has the newest computer system."
+    },
+    "2": {
+        "word": "science",
+        "meaning": "科学",
+        "blank_word": "science",
+        "blank_sentence": "The study of science is very important for all of us.",
+        "reorder": "The<>study<>of<>science<>is<>very<>important<>for<>all<>of<>us.",
+        "dictation": "The study of science is very important for all of us."
+    },
+    "3": {
+        "word": "technology",
+        "meaning": "科学技術",
+        "blank_word": "Technology",
+        "blank_sentence": "Technology does not always make our life easier.",
+        "reorder": "Technology<>does<>not<>always<>make<>our<>life<>easier.",
+        "dictation": "Technology does not always make our life easier."
+    },
+    "4": {
+        "word": "information",
+        "meaning": "情報",
+        "blank_word": "information",
+        "blank_sentence": "We need more information about the new technology.",
+        "reorder": "We<>need<>more<>information<>about<>the<>new<>technology.",
+        "dictation": "We need more information about the new technology."
+    },
+    "5": {
+        "word": "energy",
+        "meaning": "エネルギー",
+        "blank_word": "energy",
+        "blank_sentence": "Food is changed into energy in our bodies.",
+        "reorder": "Food<>is<>changed<>into<>energy<>in<>our<>bodies.",
+        "dictation": "Food is changed into energy in our bodies."
+    },
+    "6": {
+        "word": "project",
+        "meaning": "計画",
+        "blank_word": "project",
+        "blank_sentence": "They started a project to build the fastest super computer in the world.",
+        "reorder": "They<>started<>a<>project<>to<>build<>the<>fastest<>super<>computer<>in<>the<>world.",
+        "dictation": "They started a project to build the fastest super computer in the world."
+    },
+    "7": {
+        "word": "design",
+        "meaning": "設計",
+        "blank_word": "design",
+        "blank_sentence": "The design of the new building is beautiful.",
+        "reorder": "The<>design<>of<>the<>new<>building<>is<>beautiful.",
+        "dictation": "The design of the new building is beautiful."
+    },
+    "8": {
+        "word": "engineer",
+        "meaning": "技術者",
+        "blank_word": "engineers",
+        "blank_sentence": "I think you will be good engineers.",
+        "reorder": "I<>think<>you<>will<>be<>good<>engineers.",
+        "dictation": "I think you will be good engineers."
+    },
+    "9": {
+        "word": "base",
+        "meaning": "基礎",
+        "blank_word": "base",
+        "blank_sentence": "The base of all technologies is science.",
+        "reorder": "The<>base<>of<>all<>technologies<>is<>science.",
+        "dictation": "The base of all technologies is science."
+    },
+    "10": {
+        "word": "network",
+        "meaning": "ネットワーク",
+        "blank_word": "network",
+        "blank_sentence": "The computer network is an information technology system.",
+        "reorder": "The<>computer<>network<>is<>an<>information<>technology<>system.",
+        "dictation": "The computer network is an information technology system."
+    },
+    "11": {
+        "word": "battery",
+        "meaning": "電池",
+        "blank_word": "battery",
+        "blank_sentence": "When the battery died, the toy car stopped.",
+        "reorder": "When<>the<>battery<>died,<>the<>toy<>car<>stopped.",
+        "dictation": "When the battery died, the toy car stopped."
+    },
+    "12": {
+        "word": "message",
+        "meaning": "メッセージ",
+        "blank_word": "message",
+        "blank_sentence": "Sending a message on the network is very easy.",
+        "reorder": "Sending<>a<>message<>on<>the<>network<>is<>very<>easy.",
+        "dictation": "Sending a message on the network is very easy."
+    },
+    "13": {
+        "word": "stage",
+        "meaning": "段階",
+        "blank_word": "stage",
+        "blank_sentence": "The design of the system is still at the first stage.",
+        "reorder": "The<>design<>of<>the<>system<>is<>still<>at<>the<>first<>stage.",
+        "dictation": "The design of the system is still at the first stage."
+    },
+    "14": {
+        "word": "screen",
+        "meaning": "画面",
+        "blank_word": "screen",
+        "blank_sentence": "The screen is too small to show all the information.",
+        "reorder": "The<>screen<>is<>too<>small<>to<>show<>all<>the<>information.",
+        "dictation": "The screen is too small to show all the information."
+    },
+    "15": {
+        "word": "copy",
+        "meaning": "写し",
+        "blank_word": "copies",
+        "blank_sentence": "A hundred thousand copies of the book sold in a month.",
+        "reorder": "A<>hundred<>thousand<>copies<>of<>the<>book<>sold<>in<>a<>month.",
+        "dictation": "A hundred thousand copies of the book sold in a month."
+    },
+    "16": {
+        "word": "chain",
+        "meaning": "鎖",
+        "blank_word": "chain",
+        "blank_sentence": "This chain is very light because it is plastic.",
+        "reorder": "This<>chain<>is<>very<>light<>because<>it<>is<>plastic.",
+        "dictation": "This chain is very light because it is plastic."
+    },
+    "17": {
+        "word": "tube",
+        "meaning": "管",
+        "blank_word": "tube",
+        "blank_sentence": "This tube is soft and easy to cut.",
+        "reorder": "This<>tube<>is<>soft<>and<>easy<>to<>cut.",
+        "dictation": "This tube is soft and easy to cut."
+    },
+    "18": {
+        "word": "pair",
+        "meaning": "2つ",
+        "blank_word": "pair",
+        "blank_sentence": "The system works with only a pair of batteries.",
+        "reorder": "The<>system<>works<>with<>only<>a<>pair<>of<>batteries.",
+        "dictation": "The system works with only a pair of batteries."
+    },
+    "19": {
+        "word": "power",
+        "meaning": "電力",
+        "blank_word": "power",
+        "blank_sentence": "The robot works by the power of batteries.",
+        "reorder": "The<>robot<>works<>by<>the<>power<>of<>batteries.",
+        "dictation": "The robot works by the power of batteries."
+    },
+    "20": {
+        "word": "engine",
+        "meaning": "エンジン",
+        "blank_word": "engines",
+        "blank_sentence": "The airplane has a pair of jet engines.",
+        "reorder": "The<>airplane<>has<>a<>pair<>of<>jet<>engines.",
+        "dictation": "The airplane has a pair of jet engines."
+    },
+    "21": {
+        "word": "panel",
+        "meaning": "パネル",
+        "blank_word": "panels",
+        "blank_sentence": "The screen on the stage is made up of 1000 LED panels.",
+        "reorder": "The<>screen<>on<>the<>stage<>is<>made<>up<>of<>1000<>LED<>panels.",
+        "dictation": "The screen on the stage is made up of 1000 LED panels."
+    },
+    "22": {
+        "word": "error",
+        "meaning": "誤り",
+        "blank_word": "error",
+        "blank_sentence": "The program stopped because of an error.",
+        "reorder": "The<>program<>stopped<>because<>of<>an<>error.",
+        "dictation": "The program stopped because of an error."
+    },
+    "23": {
+        "word": "wave",
+        "meaning": "波",
+        "blank_word": "waves",
+        "blank_sentence": "Sound waves travel through water faster than through air.",
+        "reorder": "Sound<>waves<>travel<>through<>water<>faster<>than<>through<>air.",
+        "dictation": "Sound waves travel through water faster than through air."
+    },
+    "24": {
+        "word": "ocean",
+        "meaning": "海洋",
+        "blank_word": "ocean",
+        "blank_sentence": "She became famous for her study of the ocean animal.",
+        "reorder": "She<>became<>famous<>for<>her<>study<>of<>the<>ocean<>animal.",
+        "dictation": "She became famous for her study of the ocean animal."
+    },
+    "25": {
+        "word": "motor",
+        "meaning": "モーター",
+        "blank_word": "motor",
+        "blank_sentence": "The battery doesn't have enough power to drive this motor.",
+        "reorder": "The<>battery<>doesn't<>have<>enough<>power<>to<>drive<>this<>motor.",
+        "dictation": "The battery doesn't have enough power to drive this motor."
+    }
+}

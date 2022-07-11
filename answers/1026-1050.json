@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "propose",
+        "meaning": "提案する",
+        "blank_word": "proposed",
+        "blank_sentence": "This team proposed a better plan than the others did.",
+        "reorder": "This<>team<>proposed<>a<>better<>plan<>than<>the<>others<>did.",
+        "dictation": "This team proposed a better plan than the others did."
+    },
+    "2": {
+        "word": "accept",
+        "meaning": "受け入れる",
+        "blank_word": "accepted",
+        "blank_sentence": "The plan we proposed was not accepted.",
+        "reorder": "The<>plan<>we<>proposed<>was<>not<>accepted.",
+        "dictation": "The plan we proposed was not accepted."
+    },
+    "3": {
+        "word": "manage",
+        "meaning": "管理(運営)する",
+        "blank_word": "manage",
+        "blank_sentence": "It must have been hard to manage this project, but he did it.",
+        "reorder": "It<>must<>have<>been<>hard<>to<>manage<>this<>project,<>but<>he<>did<>it.",
+        "dictation": "It must have been hard to manage this project, but he did it."
+    },
+    "4": {
+        "word": "ban",
+        "meaning": "禁止する",
+        "blank_word": "ban",
+        "blank_sentence": "The two countries agreed to ban nuclear weapons testing.",
+        "reorder": "The<>two<>countries<>agreed<>to<>ban<>nuclear<>weapons<>testing.",
+        "dictation": "The two countries agreed to ban nuclear weapons testing."
+    },
+    "5": {
+        "word": "determine",
+        "meaning": "決める",
+        "blank_word": "determined",
+        "blank_sentence": "The treatment will be determined by your blood sugar and blood pressure.",
+        "reorder": "The<>treatment<>will<>be<>determined<>by<>your<>blood<>sugar<>and<>blood<>pressure.",
+        "dictation": "The treatment will be determined by your blood sugar and blood pressure."
+    },
+    "6": {
+        "word": "accelerate",
+        "meaning": "加速させる",
+        "blank_word": "accelerate",
+        "blank_sentence": "A force of one newton will accelerate a mass of one kilogram at the rate of one meter per second squared.",
+        "reorder": "A<>force<>of<>one<>newton<>will<>accelerate<>a<>mass<>of<>one<>kilogram<>at<>the<>rate<>of<>one<>meter<>per<>second<>squared.",
+        "dictation": "A force of one newton will accelerate a mass of one kilogram at the rate of one meter per second squared."
+    },
+    "7": {
+        "word": "exert",
+        "meaning": "(力を)出す",
+        "blank_word": "exert",
+        "blank_sentence": "This press machine can exert a force of as much as 600 tons.",
+        "reorder": "This<>press<>machine<>can<>exert<>a<>force<>of<>as<>much<>as<>600<>tons.",
+        "dictation": "This press machine can exert a force of as much as 600 tons."
+    },
+    "8": {
+        "word": "magnify",
+        "meaning": "拡大する",
+        "blank_word": "magnify",
+        "blank_sentence": "This electron microscope is able to magnify the object up to 500,000 times.",
+        "reorder": "This<>electron<>microscope<>is<>able<>to<>magnify<>the<>object<>up<>to<>500,000<>times.",
+        "dictation": "This electron microscope is able to magnify the object up to 500,000 times."
+    },
+    "9": {
+        "word": "calculate",
+        "meaning": "計算する",
+        "blank_word": "Calculate",
+        "blank_sentence": "Calculate the energy to accelerate the object to 1 meter per second.",
+        "reorder": "Calculate<>the<>energy<>to<>accelerate<>the<>object<>to<>1<>meter<>per<>second.",
+        "dictation": "Calculate the energy to accelerate the object to 1 meter per second."
+    },
+    "10": {
+        "word": "vary",
+        "meaning": "変化する",
+        "blank_word": "varies",
+        "blank_sentence": "Young people's taste in music varies as time passes.",
+        "reorder": "Young<>people's<>taste<>in<>music<>varies<>as<>time<>passes.",
+        "dictation": "Young people's taste in music varies as time passes."
+    },
+    "11": {
+        "word": "relate",
+        "meaning": "関係がある",
+        "blank_word": "relate",
+        "blank_sentence": "Electricity and magnetism relate to each other.",
+        "reorder": "Electricity<>and<>magnetism<>relate<>to<>each<>other.",
+        "dictation": "Electricity and magnetism relate to each other."
+    },
+    "12": {
+        "word": "hang",
+        "meaning": "掛ける",
+        "blank_word": "hang",
+        "blank_sentence": "Please do not use nails to hang pictures on the wall.",
+        "reorder": "Please<>do<>not<>use<>nails<>to<>hang<>pictures<>on<>the<>wall.",
+        "dictation": "Please do not use nails to hang pictures on the wall."
+    },
+    "13": {
+        "word": "roll",
+        "meaning": "転がる",
+        "blank_word": "rolled",
+        "blank_sentence": "The ball rolled into the hole.",
+        "reorder": "The<>ball<>rolled<>into<>the<>hole.",
+        "dictation": "The ball rolled into the hole."
+    },
+    "14": {
+        "word": "struggle",
+        "meaning": "奮闘する",
+        "blank_word": "struggling",
+        "blank_sentence": "There are many people struggling to survive in poor countries.",
+        "reorder": "There<>are<>many<>people<>struggling<>to<>survive<>in<>poor<>countries.",
+        "dictation": "There are many people struggling to survive in poor countries."
+    },
+    "15": {
+        "word": "scrape",
+        "meaning": "こする",
+        "blank_word": "scraped",
+        "blank_sentence": "He scraped the mud off his shoes.",
+        "reorder": "He<>scraped<>the<>mud<>off<>his<>shoes.",
+        "dictation": "He scraped the mud off his shoes."
+    },
+    "16": {
+        "word": "share",
+        "meaning": "分け合う",
+        "blank_word": "shared",
+        "blank_sentence": "They shared food and water to survive.",
+        "reorder": "They<>shared<>food<>and<>water<>to<>survive.",
+        "dictation": "They shared food and water to survive."
+    },
+    "17": {
+        "word": "debate",
+        "meaning": "議論する",
+        "blank_word": "debated",
+        "blank_sentence": "They debated whether or not to build the dam.",
+        "reorder": "They<>debated<>whether<>or<>not<>to<>build<>the<>dam.",
+        "dictation": "They debated whether or not to build the dam."
+    },
+    "18": {
+        "word": "represent",
+        "meaning": "表す",
+        "blank_word": "represent",
+        "blank_sentence": "The letters x and y in an equation represent unknown figures.",
+        "reorder": "The<>letters<>x<>and<>y<>in<>an<>equation<>represent<>unknown<>figures.",
+        "dictation": "The letters x and y in an equation represent unknown figures."
+    },
+    "19": {
+        "word": "expand",
+        "meaning": "広げる",
+        "blank_word": "expand",
+        "blank_sentence": "When you expand an accordion, air flows into it.",
+        "reorder": "When<>you<>expand<>an<>accordion,<>air<>flows<>into<>it.",
+        "dictation": "When you expand an accordion, air flows into it."
+    },
+    "20": {
+        "word": "steal",
+        "meaning": "盗む",
+        "blank_word": "steal",
+        "blank_sentence": "Do not steal the ideas of others.",
+        "reorder": "Do<>not<>steal<>the<>ideas<>of<>others.",
+        "dictation": "Do not steal the ideas of others."
+    },
+    "21": {
+        "word": "thief",
+        "meaning": "泥棒",
+        "blank_word": "thief",
+        "blank_sentence": "I had my bag stolen by a thief on a bike.",
+        "reorder": "I<>had<>my<>bag<>stolen<>by<>a<>thief<>on<>a<>bike.",
+        "dictation": "I had my bag stolen by a thief on a bike."
+    },
+    "22": {
+        "word": "hook",
+        "meaning": "留め金",
+        "blank_word": "hook",
+        "blank_sentence": "Hang your helmet on that hook.",
+        "reorder": "Hang<>your<>helmet<>on<>that<>hook.",
+        "dictation": "Hang your helmet on that hook."
+    },
+    "23": {
+        "word": "knot",
+        "meaning": "結び目",
+        "blank_word": "knots",
+        "blank_sentence": "The knots in the rope helped them hang on.",
+        "reorder": "The<>knots<>in<>the<>rope<>helped<>them<>hang<>on.",
+        "dictation": "The knots in the rope helped them hang on."
+    },
+    "24": {
+        "word": "terror",
+        "meaning": "恐怖",
+        "blank_word": "terror",
+        "blank_sentence": "The dog barked in terror at the thunder.",
+        "reorder": "The<>dog<>barked<>in<>terror<>at<>the<>thunder.",
+        "dictation": "The dog barked in terror at the thunder."
+    },
+    "25": {
+        "word": "authority",
+        "meaning": "権威",
+        "blank_word": "authority",
+        "blank_sentence": "He is an authority on lung cancer treatment.",
+        "reorder": "He<>is<>an<>authority<>on<>lung<>cancer<>treatment.",
+        "dictation": "He is an authority on lung cancer treatment."
+    }
+}

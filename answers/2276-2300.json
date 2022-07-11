@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "urgent",
+        "meaning": "緊急の",
+        "blank_word": "urgent",
+        "blank_sentence": "Tackling bird flu is an urgent matter.",
+        "reorder": "Tackling<>bird<>flu<>is<>an<>urgent<>matter.",
+        "dictation": "Tackling bird flu is an urgent matter."
+    },
+    "2": {
+        "word": "contrary",
+        "meaning": "(～に)反する",
+        "blank_word": "Contrary",
+        "blank_sentence": "Contrary to my expectation, there was nothing new that day.",
+        "reorder": "Contrary<>to<>my<>expectation,<>there<>was<>nothing<>new<>that<>day.",
+        "dictation": "Contrary to my expectation, there was nothing new that day."
+    },
+    "3": {
+        "word": "fragile",
+        "meaning": "もろい",
+        "blank_word": "fragile",
+        "blank_sentence": "Old people's bones are likely to be fragile.",
+        "reorder": "Old<>people's<>bones<>are<>likely<>to<>be<>fragile.",
+        "dictation": "Old people's bones are likely to be fragile."
+    },
+    "4": {
+        "word": "tender",
+        "meaning": "柔らかい",
+        "blank_word": "tender",
+        "blank_sentence": "This steak is so tender that you don't need a steak knife.",
+        "reorder": "This<>steak<>is<>so<>tender<>that<>you<>don't<>need<>a<>steak<>knife.",
+        "dictation": "This steak is so tender that you don't need a steak knife."
+    },
+    "5": {
+        "word": "prominent",
+        "meaning": "突出した",
+        "blank_word": "prominent",
+        "blank_sentence": "The country is in a prominent position in the oil market with its abundant supply of oil.",
+        "reorder": "The<>country<>is<>in<>a<>prominent<>position<>in<>the<>oil<>market<>with<>its<>abundant<>supply<>of<>oil.",
+        "dictation": "The country is in a prominent position in the oil market with its abundant supply of oil."
+    },
+    "6": {
+        "word": "composite",
+        "meaning": "複合の",
+        "blank_word": "composite",
+        "blank_sentence": "Fiberglass is one of the most common composite materials.",
+        "reorder": "Fiberglass<>is<>one<>of<>the<>most<>common<>composite<>materials.",
+        "dictation": "Fiberglass is one of the most common composite materials."
+    },
+    "7": {
+        "word": "intermediate",
+        "meaning": "中級の",
+        "blank_word": "intermediate",
+        "blank_sentence": "I have to pass the test in order to move up to the intermediate class.",
+        "reorder": "I<>have<>to<>pass<>the<>test<>in<>order<>to<>move<>up<>to<>the<>intermediate<>class.",
+        "dictation": "I have to pass the test in order to move up to the intermediate class."
+    },
+    "8": {
+        "word": "tentative",
+        "meaning": "暫定的な",
+        "blank_word": "tentative",
+        "blank_sentence": "We have reached a tentative agreement.",
+        "reorder": "We<>have<>reached<>a<>tentative<>agreement.",
+        "dictation": "We have reached a tentative agreement."
+    },
+    "9": {
+        "word": "objection",
+        "meaning": "反対(意見)",
+        "blank_word": "objection",
+        "blank_sentence": "No objection was raised to his proposal.",
+        "reorder": "No<>objection<>was<>raised<>to<>his<>proposal.",
+        "dictation": "No objection was raised to his proposal."
+    },
+    "10": {
+        "word": "burden",
+        "meaning": "負担",
+        "blank_word": "burden",
+        "blank_sentence": "The governor asked the national government for a reduction of the military burden on this district.",
+        "reorder": "The<>governor<>asked<>the<>national<>government<>for<>a<>reduction<>of<>the<>military<>burden<>on<>this<>district.",
+        "dictation": "The governor asked the national government for a reduction of the military burden on this district."
+    },
+    "11": {
+        "word": "suicide",
+        "meaning": "自殺",
+        "blank_word": "suicide",
+        "blank_sentence": "No matter what happens, you must not commit suicide.",
+        "reorder": "No<>matter<>what<>happens,<>you<>must<>not<>commit<>suicide.",
+        "dictation": "No matter what happens, you must not commit suicide."
+    },
+    "12": {
+        "word": "portion",
+        "meaning": "一部",
+        "blank_word": "portion",
+        "blank_sentence": "Please leave me a small portion of the cake.",
+        "reorder": "Please<>leave<>me<>a<>small<>portion<>of<>the<>cake.",
+        "dictation": "Please leave me a small portion of the cake."
+    },
+    "13": {
+        "word": "resonance",
+        "meaning": "共振",
+        "blank_word": "Resonance",
+        "blank_sentence": "Resonance can cause damage in structures.",
+        "reorder": "Resonance<>can<>cause<>damage<>in<>structures.",
+        "dictation": "Resonance can cause damage in structures."
+    },
+    "14": {
+        "word": "oscillation",
+        "meaning": "振動",
+        "blank_word": "oscillation",
+        "blank_sentence": "In a microwave oven, oscillation of water molecules heats food.",
+        "reorder": "In<>a<>microwave<>oven,<>oscillation<>of<>water<>molecules<>heats<>food.",
+        "dictation": "In a microwave oven, oscillation of water molecules heats food."
+    },
+    "15": {
+        "word": "equilibrium",
+        "meaning": "平衡",
+        "blank_word": "equilibrium",
+        "blank_sentence": "When the solution reaches a state of equilibrium , no further reaction will occur.",
+        "reorder": "When<>the<>solution<>reaches<>a<>state<>of<>equilibrium<>,<>no<>further<>reaction<>will<>occur.",
+        "dictation": "When the solution reaches a state of equilibrium , no further reaction will occur."
+    },
+    "16": {
+        "word": "toll",
+        "meaning": "通行(使用)料",
+        "blank_word": "toll",
+        "blank_sentence": "You have to pay a toll to cross this bridge.",
+        "reorder": "You<>have<>to<>pay<>a<>toll<>to<>cross<>this<>bridge.",
+        "dictation": "You have to pay a toll to cross this bridge."
+    },
+    "17": {
+        "word": "impulse",
+        "meaning": "刺激",
+        "blank_word": "impulse",
+        "blank_sentence": "How long does it take the impulse to reach the brain from the skin?",
+        "reorder": "How<>long<>does<>it<>take<>the<>impulse<>to<>reach<>the<>brain<>from<>the<>skin?",
+        "dictation": "How long does it take the impulse to reach the brain from the skin?"
+    },
+    "18": {
+        "word": "faith",
+        "meaning": "信頼",
+        "blank_word": "faith",
+        "blank_sentence": "I have a lot of faith in my counselor.",
+        "reorder": "I<>have<>a<>lot<>of<>faith<>in<>my<>counselor.",
+        "dictation": "I have a lot of faith in my counselor."
+    },
+    "19": {
+        "word": "consent",
+        "meaning": "同意",
+        "blank_word": "consent",
+        "blank_sentence": "Is it all right to think his silence means consent?",
+        "reorder": "Is<>it<>all<>right<>to<>think<>his<>silence<>means<>consent?",
+        "dictation": "Is it all right to think his silence means consent?"
+    },
+    "20": {
+        "word": "caution",
+        "meaning": "注意",
+        "blank_word": "caution",
+        "blank_sentence": "Handle these chemicals with great caution.",
+        "reorder": "Handle<>these<>chemicals<>with<>great<>caution.",
+        "dictation": "Handle these chemicals with great caution."
+    },
+    "21": {
+        "word": "brick",
+        "meaning": "煉瓦",
+        "blank_word": "brick",
+        "blank_sentence": "This house is partly made of brick.",
+        "reorder": "This<>house<>is<>partly<>made<>of<>brick.",
+        "dictation": "This house is partly made of brick."
+    },
+    "22": {
+        "word": "mill",
+        "meaning": "工場",
+        "blank_word": "mill",
+        "blank_sentence": "The owner of the paper mill was accused of exploiting cheap labor.",
+        "reorder": "The<>owner<>of<>the<>paper<>mill<>was<>accused<>of<>exploiting<>cheap<>labor.",
+        "dictation": "The owner of the paper mill was accused of exploiting cheap labor."
+    },
+    "23": {
+        "word": "county",
+        "meaning": "郡",
+        "blank_word": "County",
+        "blank_sentence": "A large-scale fire has once occurred in Los Angeles County.",
+        "reorder": "A<>large-scale<>fire<>has<>once<>occurred<>in<>Los<>Angeles<>County.",
+        "dictation": "A large-scale fire has once occurred in Los Angeles County."
+    },
+    "24": {
+        "word": "prefecture",
+        "meaning": "県",
+        "blank_word": "Prefecture",
+        "blank_sentence": "Kochi Prefecture was called Tosa in the Edo era.",
+        "reorder": "Kochi<>Prefecture<>was<>called<>Tosa<>in<>the<>Edo<>era.",
+        "dictation": "Kochi Prefecture was called Tosa in the Edo era."
+    },
+    "25": {
+        "word": "province",
+        "meaning": "地方",
+        "blank_word": "province",
+        "blank_sentence": "Wine is the biggest industry in this province.",
+        "reorder": "Wine<>is<>the<>biggest<>industry<>in<>this<>province.",
+        "dictation": "Wine is the biggest industry in this province."
+    }
+}

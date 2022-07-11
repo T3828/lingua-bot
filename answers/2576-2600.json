@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "diplomacy",
+        "meaning": "外交",
+        "blank_word": "diplomacy",
+        "blank_sentence": "The successful negotiation between the two diplomats will go down in the history of diplomacy.",
+        "reorder": "The<>successful<>negotiation<>between<>the<>two<>diplomats<>will<>go<>down<>in<>the<>history<>of<>diplomacy.",
+        "dictation": "The successful negotiation between the two diplomats will go down in the history of diplomacy."
+    },
+    "2": {
+        "word": "privilege",
+        "meaning": "特権",
+        "blank_word": "privilege",
+        "blank_sentence": "This card gives you the privilege of free admission.",
+        "reorder": "This<>card<>gives<>you<>the<>privilege<>of<>free<>admission.",
+        "dictation": "This card gives you the privilege of free admission."
+    },
+    "3": {
+        "word": "reputation",
+        "meaning": "評判",
+        "blank_word": "reputation",
+        "blank_sentence": "That employee has a bad reputation for being lazy.",
+        "reorder": "That<>employee<>has<>a<>bad<>reputation<>for<>being<>lazy.",
+        "dictation": "That employee has a bad reputation for being lazy."
+    },
+    "4": {
+        "word": "recess",
+        "meaning": "休憩",
+        "blank_word": "recess",
+        "blank_sentence": "Let's have a ten-minute recess before the next discussion.",
+        "reorder": "Let's<>have<>a<>ten-minute<>recess<>before<>the<>next<>discussion.",
+        "dictation": "Let's have a ten-minute recess before the next discussion."
+    },
+    "5": {
+        "word": "token",
+        "meaning": "(感謝などの)しるし",
+        "blank_word": "token",
+        "blank_sentence": "Please accept this as a token of our gratitude.",
+        "reorder": "Please<>accept<>this<>as<>a<>token<>of<>our<>gratitude.",
+        "dictation": "Please accept this as a token of our gratitude."
+    },
+    "6": {
+        "word": "despair",
+        "meaning": "絶望",
+        "blank_word": "despair",
+        "blank_sentence": "The president of the company committed suicide in despair over his failure in business.",
+        "reorder": "The<>president<>of<>the<>company<>committed<>suicide<>in<>despair<>over<>his<>failure<>in<>business.",
+        "dictation": "The president of the company committed suicide in despair over his failure in business."
+    },
+    "7": {
+        "word": "diaphragm",
+        "meaning": "横隔膜",
+        "blank_word": "diaphragm",
+        "blank_sentence": "The diaphragm is a sheet of muscle below the lungs.",
+        "reorder": "The<>diaphragm<>is<>a<>sheet<>of<>muscle<>below<>the<>lungs.",
+        "dictation": "The diaphragm is a sheet of muscle below the lungs."
+    },
+    "8": {
+        "word": "respiration",
+        "meaning": "呼吸",
+        "blank_word": "Respiration",
+        "blank_sentence": "Respiration enables us to inhale oxygen and exhale carbon dioxide.",
+        "reorder": "Respiration<>enables<>us<>to<>inhale<>oxygen<>and<>exhale<>carbon<>dioxide.",
+        "dictation": "Respiration enables us to inhale oxygen and exhale carbon dioxide."
+    },
+    "9": {
+        "word": "dehydration",
+        "meaning": "脱水(症状)",
+        "blank_word": "dehydration",
+        "blank_sentence": "To prevent dehydration , drink liquid frequently during exercise.",
+        "reorder": "To<>prevent<>dehydration<>,<>drink<>liquid<>frequently<>during<>exercise.",
+        "dictation": "To prevent dehydration , drink liquid frequently during exercise."
+    },
+    "10": {
+        "word": "imitate",
+        "meaning": "真似する",
+        "blank_word": "imitates",
+        "blank_sentence": "That company often imitates other companies' products.",
+        "reorder": "That<>company<>often<>imitates<>other<>companies'<>products.",
+        "dictation": "That company often imitates other companies' products."
+    },
+    "11": {
+        "word": "testify",
+        "meaning": "証言する",
+        "blank_word": "testified",
+        "blank_sentence": "The witness testified that the victim's respiration had ceased at the accident scene.",
+        "reorder": "The<>witness<>testified<>that<>the<>victim's<>respiration<>had<>ceased<>at<>the<>accident<>scene.",
+        "dictation": "The witness testified that the victim's respiration had ceased at the accident scene."
+    },
+    "12": {
+        "word": "amend",
+        "meaning": "改正(修正)する",
+        "blank_word": "amending",
+        "blank_sentence": "They insisted on amending the constitution.",
+        "reorder": "They<>insisted<>on<>amending<>the<>constitution.",
+        "dictation": "They insisted on amending the constitution."
+    },
+    "13": {
+        "word": "fetch",
+        "meaning": "取ってくる",
+        "blank_word": "Fetch",
+        "blank_sentence": "Fetch the necessary files from the website.",
+        "reorder": "Fetch<>the<>necessary<>files<>from<>the<>website.",
+        "dictation": "Fetch the necessary files from the website."
+    },
+    "14": {
+        "word": "tumble",
+        "meaning": "転ぶ",
+        "blank_word": "tumbled",
+        "blank_sentence": "She tumbled down the stairs and was severely hurt.",
+        "reorder": "She<>tumbled<>down<>the<>stairs<>and<>was<>severely<>hurt.",
+        "dictation": "She tumbled down the stairs and was severely hurt."
+    },
+    "15": {
+        "word": "beg",
+        "meaning": "懇願する",
+        "blank_word": "begged",
+        "blank_sentence": "He begged me to testify for him at the trial.",
+        "reorder": "He<>begged<>me<>to<>testify<>for<>him<>at<>the<>trial.",
+        "dictation": "He begged me to testify for him at the trial."
+    },
+    "16": {
+        "word": "deceive",
+        "meaning": "だます",
+        "blank_word": "deceived",
+        "blank_sentence": "You have to be careful not to be deceived when you buy something on the net.",
+        "reorder": "You<>have<>to<>be<>careful<>not<>to<>be<>deceived<>when<>you<>buy<>something<>on<>the<>net.",
+        "dictation": "You have to be careful not to be deceived when you buy something on the net."
+    },
+    "17": {
+        "word": "perpetual",
+        "meaning": "永久の",
+        "blank_word": "perpetual",
+        "blank_sentence": "It is impossible to make a perpetual motion machine as long as friction exists.",
+        "reorder": "It<>is<>impossible<>to<>make<>a<>perpetual<>motion<>machine<>as<>long<>as<>friction<>exists.",
+        "dictation": "It is impossible to make a perpetual motion machine as long as friction exists."
+    },
+    "18": {
+        "word": "homogeneous",
+        "meaning": "均質な",
+        "blank_word": "homogeneous",
+        "blank_sentence": "It is an important factor whether the substance is homogeneous or not.",
+        "reorder": "It<>is<>an<>important<>factor<>whether<>the<>substance<>is<>homogeneous<>or<>not.",
+        "dictation": "It is an important factor whether the substance is homogeneous or not."
+    },
+    "19": {
+        "word": "soluble",
+        "meaning": "溶けやすい",
+        "blank_word": "soluble",
+        "blank_sentence": "Small and soluble molecules pass into the blood.",
+        "reorder": "Small<>and<>soluble<>molecules<>pass<>into<>the<>blood.",
+        "dictation": "Small and soluble molecules pass into the blood."
+    },
+    "20": {
+        "word": "permeable",
+        "meaning": "透過性(浸透性)のある",
+        "blank_word": "permeable",
+        "blank_sentence": "With a partially permeable membrane, you can separate the large and small molecules.",
+        "reorder": "With<>a<>partially<>permeable<>membrane,<>you<>can<>separate<>the<>large<>and<>small<>molecules.",
+        "dictation": "With a partially permeable membrane, you can separate the large and small molecules."
+    },
+    "21": {
+        "word": "viscosity",
+        "meaning": "粘度",
+        "blank_word": "viscosity",
+        "blank_sentence": "The viscosity of a liquid generally decreases as the temperature increases.",
+        "reorder": "The<>viscosity<>of<>a<>liquid<>generally<>decreases<>as<>the<>temperature<>increases.",
+        "dictation": "The viscosity of a liquid generally decreases as the temperature increases."
+    },
+    "22": {
+        "word": "volatility",
+        "meaning": "揮発性",
+        "blank_word": "volatility",
+        "blank_sentence": "The volatility of alcohol is lower than that of gasoline.",
+        "reorder": "The<>volatility<>of<>alcohol<>is<>lower<>than<>that<>of<>gasoline.",
+        "dictation": "The volatility of alcohol is lower than that of gasoline."
+    },
+    "23": {
+        "word": "sediment",
+        "meaning": "堆積物",
+        "blank_word": "sediment",
+        "blank_sentence": "The lake had a thick layer of sediment at the bottom.",
+        "reorder": "The<>lake<>had<>a<>thick<>layer<>of<>sediment<>at<>the<>bottom.",
+        "dictation": "The lake had a thick layer of sediment at the bottom."
+    },
+    "24": {
+        "word": "precipitation",
+        "meaning": "沈殿",
+        "blank_word": "precipitation",
+        "blank_sentence": "By mixing solutions, a precipitation reaction occurs, causing a solid to form.",
+        "reorder": "By<>mixing<>solutions,<>a<>precipitation<>reaction<>occurs,<>causing<>a<>solid<>to<>form.",
+        "dictation": "By mixing solutions, a precipitation reaction occurs, causing a solid to form."
+    },
+    "25": {
+        "word": "epoch",
+        "meaning": "(新)時代",
+        "blank_word": "epoch",
+        "blank_sentence": "We believe that young engineers like you will open a new epoch.",
+        "reorder": "We<>believe<>that<>young<>engineers<>like<>you<>will<>open<>a<>new<>epoch.",
+        "dictation": "We believe that young engineers like you will open a new epoch."
+    }
+}

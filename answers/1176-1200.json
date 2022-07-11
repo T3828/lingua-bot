@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "exact",
+        "meaning": "正確な",
+        "blank_word": "exact",
+        "blank_sentence": "You must use the exact amount of chemicals in the experiment.",
+        "reorder": "You<>must<>use<>the<>exact<>amount<>of<>chemicals<>in<>the<>experiment.",
+        "dictation": "You must use the exact amount of chemicals in the experiment."
+    },
+    "2": {
+        "word": "ultimate",
+        "meaning": "最終的な",
+        "blank_word": "ultimate",
+        "blank_sentence": "What is the ultimate goal of this project?",
+        "reorder": "What<>is<>the<>ultimate<>goal<>of<>this<>project?",
+        "dictation": "What is the ultimate goal of this project?"
+    },
+    "3": {
+        "word": "inverse",
+        "meaning": "逆の",
+        "blank_word": "inverse",
+        "blank_sentence": "The inverse of an inverse matrix is equal to the original matrix.",
+        "reorder": "The<>inverse<>of<>an<>inverse<>matrix<>is<>equal<>to<>the<>original<>matrix.",
+        "dictation": "The inverse of an inverse matrix is equal to the original matrix."
+    },
+    "4": {
+        "word": "military",
+        "meaning": "軍の",
+        "blank_word": "military",
+        "blank_sentence": "The military operations were carried out in the early morning.",
+        "reorder": "The<>military<>operations<>were<>carried<>out<>in<>the<>early<>morning.",
+        "dictation": "The military operations were carried out in the early morning."
+    },
+    "5": {
+        "word": "specific",
+        "meaning": "明確な",
+        "blank_word": "specific",
+        "blank_sentence": "Our boss always gives us specific instructions.",
+        "reorder": "Our<>boss<>always<>gives<>us<>specific<>instructions.",
+        "dictation": "Our boss always gives us specific instructions."
+    },
+    "6": {
+        "word": "final",
+        "meaning": "最終の",
+        "blank_word": "final",
+        "blank_sentence": "The final product of this reaction is salt.",
+        "reorder": "The<>final<>product<>of<>this<>reaction<>is<>salt.",
+        "dictation": "The final product of this reaction is salt."
+    },
+    "7": {
+        "word": "useless",
+        "meaning": "役に立たない",
+        "blank_word": "useless",
+        "blank_sentence": "My brother likes to collect useless items.",
+        "reorder": "My<>brother<>likes<>to<>collect<>useless<>items.",
+        "dictation": "My brother likes to collect useless items."
+    },
+    "8": {
+        "word": "relative",
+        "meaning": "相対的な",
+        "blank_word": "relative",
+        "blank_sentence": "If the diameter of the earth were 1 m, the relative size of the moon would be about 27 cm.",
+        "reorder": "If<>the<>diameter<>of<>the<>earth<>were<>1<>m,<>the<>relative<>size<>of<>the<>moon<>would<>be<>about<>27<>cm.",
+        "dictation": "If the diameter of the earth were 1 m, the relative size of the moon would be about 27 cm."
+    },
+    "9": {
+        "word": "absolute",
+        "meaning": "絶対的な",
+        "blank_word": "absolute",
+        "blank_sentence": "The military leader has absolute power in that country.",
+        "reorder": "The<>military<>leader<>has<>absolute<>power<>in<>that<>country.",
+        "dictation": "The military leader has absolute power in that country."
+    },
+    "10": {
+        "word": "significant",
+        "meaning": "重要な",
+        "blank_word": "significant",
+        "blank_sentence": "Absolute zero is a significant temperature in science.",
+        "reorder": "Absolute<>zero<>is<>a<>significant<>temperature<>in<>science.",
+        "dictation": "Absolute zero is a significant temperature in science."
+    },
+    "11": {
+        "word": "dynamic",
+        "meaning": "動的な",
+        "blank_word": "dynamic",
+        "blank_sentence": "A dynamic energy-saving function has been enabled with this control program.",
+        "reorder": "A<>dynamic<>energy-saving<>function<>has<>been<>enabled<>with<>this<>control<>program.",
+        "dictation": "A dynamic energy-saving function has been enabled with this control program."
+    },
+    "12": {
+        "word": "static",
+        "meaning": "静的な",
+        "blank_word": "static",
+        "blank_sentence": "This program can handle only static data.",
+        "reorder": "This<>program<>can<>handle<>only<>static<>data.",
+        "dictation": "This program can handle only static data."
+    },
+    "13": {
+        "word": "timid",
+        "meaning": "臆病な",
+        "blank_word": "Timid",
+        "blank_sentence": "Timid animals tend to have large eyes or ears.",
+        "reorder": "Timid<>animals<>tend<>to<>have<>large<>eyes<>or<>ears.",
+        "dictation": "Timid animals tend to have large eyes or ears."
+    },
+    "14": {
+        "word": "medium",
+        "meaning": "手段",
+        "blank_word": "medium",
+        "blank_sentence": "Sounds travel through the medium of air.",
+        "reorder": "Sounds<>travel<>through<>the<>medium<>of<>air.",
+        "dictation": "Sounds travel through the medium of air."
+    },
+    "15": {
+        "word": "treaty",
+        "meaning": "条約",
+        "blank_word": "treaty",
+        "blank_sentence": "The peace treaty was signed between the two countries.",
+        "reorder": "The<>peace<>treaty<>was<>signed<>between<>the<>two<>countries.",
+        "dictation": "The peace treaty was signed between the two countries."
+    },
+    "16": {
+        "word": "convention",
+        "meaning": "会議",
+        "blank_word": "convention",
+        "blank_sentence": "This is the first chance for me to attend an international convention.",
+        "reorder": "This<>is<>the<>first<>chance<>for<>me<>to<>attend<>an<>international<>convention.",
+        "dictation": "This is the first chance for me to attend an international convention."
+    },
+    "17": {
+        "word": "conclusion",
+        "meaning": "結論",
+        "blank_word": "conclusions",
+        "blank_sentence": "There are two main conclusions from these experiments.",
+        "reorder": "There<>are<>two<>main<>conclusions<>from<>these<>experiments.",
+        "dictation": "There are two main conclusions from these experiments."
+    },
+    "18": {
+        "word": "influence",
+        "meaning": "影響",
+        "blank_word": "influence",
+        "blank_sentence": "Due to the influence of that movie, many people came to Japan this year.",
+        "reorder": "Due<>to<>the<>influence<>of<>that<>movie,<>many<>people<>came<>to<>Japan<>this<>year.",
+        "dictation": "Due to the influence of that movie, many people came to Japan this year."
+    },
+    "19": {
+        "word": "principle",
+        "meaning": "原理",
+        "blank_word": "principle",
+        "blank_sentence": "The principle of action and reaction is explained by Newton's third law.",
+        "reorder": "The<>principle<>of<>action<>and<>reaction<>is<>explained<>by<>Newton's<>third<>law.",
+        "dictation": "The principle of action and reaction is explained by Newton's third law."
+    },
+    "20": {
+        "word": "advantage",
+        "meaning": "長所",
+        "blank_word": "advantages",
+        "blank_sentence": "What are the advantages and disadvantages of public transportation?",
+        "reorder": "What<>are<>the<>advantages<>and<>disadvantages<>of<>public<>transportation?",
+        "dictation": "What are the advantages and disadvantages of public transportation?"
+    },
+    "21": {
+        "word": "reality",
+        "meaning": "現実(のもの)",
+        "blank_word": "reality",
+        "blank_sentence": "You should not try to escape from reality.",
+        "reorder": "You<>should<>not<>try<>to<>escape<>from<>reality.",
+        "dictation": "You should not try to escape from reality."
+    },
+    "22": {
+        "word": "marriage",
+        "meaning": "結婚(生活)",
+        "blank_word": "marriage",
+        "blank_sentence": "My parents' marriage lasted for their whole lives.",
+        "reorder": "My<>parents'<>marriage<>lasted<>for<>their<>whole<>lives.",
+        "dictation": "My parents' marriage lasted for their whole lives."
+    },
+    "23": {
+        "word": "infant",
+        "meaning": "乳(幼)児",
+        "blank_word": "infant",
+        "blank_sentence": "The infant death rate is quite high in this country.",
+        "reorder": "The<>infant<>death<>rate<>is<>quite<>high<>in<>this<>country.",
+        "dictation": "The infant death rate is quite high in this country."
+    },
+    "24": {
+        "word": "incline",
+        "meaning": "傾く",
+        "blank_word": "inclined",
+        "blank_sentence": "The plane inclined about 45 degrees to the ground.",
+        "reorder": "The<>plane<>inclined<>about<>45<>degrees<>to<>the<>ground.",
+        "dictation": "The plane inclined about 45 degrees to the ground."
+    },
+    "25": {
+        "word": "decline",
+        "meaning": "減少する",
+        "blank_word": "declined",
+        "blank_sentence": "The population of this city has declined in recent years.",
+        "reorder": "The<>population<>of<>this<>city<>has<>declined<>in<>recent<>years.",
+        "dictation": "The population of this city has declined in recent years."
+    }
+}

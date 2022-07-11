@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "prove",
+        "meaning": "証明する",
+        "blank_word": "proved",
+        "blank_sentence": "The experiment proved that his theory was right.",
+        "reorder": "The<>experiment<>proved<>that<>his<>theory<>was<>right.",
+        "dictation": "The experiment proved that his theory was right."
+    },
+    "2": {
+        "word": "improve",
+        "meaning": "改善する",
+        "blank_word": "improved",
+        "blank_sentence": "The software was improved to make it more user-friendly.",
+        "reorder": "The<>software<>was<>improved<>to<>make<>it<>more<>user-friendly.",
+        "dictation": "The software was improved to make it more user-friendly."
+    },
+    "3": {
+        "word": "prevent",
+        "meaning": "防ぐ",
+        "blank_word": "prevent",
+        "blank_sentence": "They gave up the race to prevent further damage to the engine.",
+        "reorder": "They<>gave<>up<>the<>race<>to<>prevent<>further<>damage<>to<>the<>engine.",
+        "dictation": "They gave up the race to prevent further damage to the engine."
+    },
+    "4": {
+        "word": "compare",
+        "meaning": "比べる",
+        "blank_word": "compare",
+        "blank_sentence": "You can't compare the value of life.",
+        "reorder": "You<>can't<>compare<>the<>value<>of<>life.",
+        "dictation": "You can't compare the value of life."
+    },
+    "5": {
+        "word": "detect",
+        "meaning": "検知(検出)する",
+        "blank_word": "detects",
+        "blank_sentence": "This sensor detects light that human eyes cannot see.",
+        "reorder": "This<>sensor<>detects<>light<>that<>human<>eyes<>cannot<>see.",
+        "dictation": "This sensor detects light that human eyes cannot see."
+    },
+    "6": {
+        "word": "identify",
+        "meaning": "識別する",
+        "blank_word": "identify",
+        "blank_sentence": "This system requires a password to identify the user.",
+        "reorder": "This<>system<>requires<>a<>password<>to<>identify<>the<>user.",
+        "dictation": "This system requires a password to identify the user."
+    },
+    "7": {
+        "word": "tidy",
+        "meaning": "整然とした",
+        "blank_word": "tidy",
+        "blank_sentence": "You must always keep the lab tidy to prevent accidents.",
+        "reorder": "You<>must<>always<>keep<>the<>lab<>tidy<>to<>prevent<>accidents.",
+        "dictation": "You must always keep the lab tidy to prevent accidents."
+    },
+    "8": {
+        "word": "rapid",
+        "meaning": "速い",
+        "blank_word": "rapid",
+        "blank_sentence": "This rapid cooling system can make a lot of ice in a short time.",
+        "reorder": "This<>rapid<>cooling<>system<>can<>make<>a<>lot<>of<>ice<>in<>a<>short<>time.",
+        "dictation": "This rapid cooling system can make a lot of ice in a short time."
+    },
+    "9": {
+        "word": "mobile",
+        "meaning": "移動可能な",
+        "blank_word": "mobile",
+        "blank_sentence": "An electric current is described as a flow of mobile electrons.",
+        "reorder": "An<>electric<>current<>is<>described<>as<>a<>flow<>of<>mobile<>electrons.",
+        "dictation": "An electric current is described as a flow of mobile electrons."
+    },
+    "10": {
+        "word": "prime",
+        "meaning": "最も重要な",
+        "blank_word": "prime",
+        "blank_sentence": "Our prime concern is how rapidly the number of mobile phones will increase.",
+        "reorder": "Our<>prime<>concern<>is<>how<>rapidly<>the<>number<>of<>mobile<>phones<>will<>increase.",
+        "dictation": "Our prime concern is how rapidly the number of mobile phones will increase."
+    },
+    "11": {
+        "word": "major",
+        "meaning": "主要な",
+        "blank_word": "Major",
+        "blank_sentence": "Major issues of education in Japan were discussed in the conference.",
+        "reorder": "Major<>issues<>of<>education<>in<>Japan<>were<>discussed<>in<>the<>conference.",
+        "dictation": "Major issues of education in Japan were discussed in the conference."
+    },
+    "12": {
+        "word": "minor",
+        "meaning": "あまり重要ではない",
+        "blank_word": "minor",
+        "blank_sentence": "There are only minor differences between these two models.",
+        "reorder": "There<>are<>only<>minor<>differences<>between<>these<>two<>models.",
+        "dictation": "There are only minor differences between these two models."
+    },
+    "13": {
+        "word": "recent",
+        "meaning": "最近の",
+        "blank_word": "Recent",
+        "blank_sentence": "Recent cell phones have different shapes.",
+        "reorder": "Recent<>cell<>phones<>have<>different<>shapes.",
+        "dictation": "Recent cell phones have different shapes."
+    },
+    "14": {
+        "word": "various",
+        "meaning": "さまざまな",
+        "blank_word": "Various",
+        "blank_sentence": "Various materials were examined to produce a new type of fuel cell.",
+        "reorder": "Various<>materials<>were<>examined<>to<>produce<>a<>new<>type<>of<>fuel<>cell.",
+        "dictation": "Various materials were examined to produce a new type of fuel cell."
+    },
+    "15": {
+        "word": "former",
+        "meaning": "以前の",
+        "blank_word": "former",
+        "blank_sentence": "The former president died recently.",
+        "reorder": "The<>former<>president<>died<>recently.",
+        "dictation": "The former president died recently."
+    },
+    "16": {
+        "word": "modern",
+        "meaning": "現代の",
+        "blank_word": "modern",
+        "blank_sentence": "The size of modern TV screens is larger than that of the old ones.",
+        "reorder": "The<>size<>of<>modern<>TV<>screens<>is<>larger<>than<>that<>of<>the<>old<>ones.",
+        "dictation": "The size of modern TV screens is larger than that of the old ones."
+    },
+    "17": {
+        "word": "artificial",
+        "meaning": "人工の",
+        "blank_word": "artificial",
+        "blank_sentence": "Thousands of artificial satellites are currently orbiting the earth.",
+        "reorder": "Thousands<>of<>artificial<>satellites<>are<>currently<>orbiting<>the<>earth.",
+        "dictation": "Thousands of artificial satellites are currently orbiting the earth."
+    },
+    "18": {
+        "word": "automatic",
+        "meaning": "自動の",
+        "blank_word": "automatic",
+        "blank_sentence": "An automatic recording system starts when you enter the room.",
+        "reorder": "An<>automatic<>recording<>system<>starts<>when<>you<>enter<>the<>room.",
+        "dictation": "An automatic recording system starts when you enter the room."
+    },
+    "19": {
+        "word": "available",
+        "meaning": "入手可能な",
+        "blank_word": "available",
+        "blank_sentence": "Fuel cells will be available at stores soon.",
+        "reorder": "Fuel<>cells<>will<>be<>available<>at<>stores<>soon.",
+        "dictation": "Fuel cells will be available at stores soon."
+    },
+    "20": {
+        "word": "potential",
+        "meaning": "潜在的な",
+        "blank_word": "potential",
+        "blank_sentence": "The potential demand for this product is quite large.",
+        "reorder": "The<>potential<>demand<>for<>this<>product<>is<>quite<>large.",
+        "dictation": "The potential demand for this product is quite large."
+    },
+    "21": {
+        "word": "kinetic",
+        "meaning": "運動の",
+        "blank_word": "Kinetic",
+        "blank_sentence": "Kinetic energy exists whenever an object is in motion.",
+        "reorder": "Kinetic<>energy<>exists<>whenever<>an<>object<>is<>in<>motion.",
+        "dictation": "Kinetic energy exists whenever an object is in motion."
+    },
+    "22": {
+        "word": "medical",
+        "meaning": "医療の",
+        "blank_word": "medical",
+        "blank_sentence": "I am studying medical technology.",
+        "reorder": "I<>am<>studying<>medical<>technology.",
+        "dictation": "I am studying medical technology."
+    },
+    "23": {
+        "word": "nuclear",
+        "meaning": "原子力の",
+        "blank_word": "nuclear",
+        "blank_sentence": "There are no nuclear power stations in that country.",
+        "reorder": "There<>are<>no<>nuclear<>power<>stations<>in<>that<>country.",
+        "dictation": "There are no nuclear power stations in that country."
+    },
+    "24": {
+        "word": "chemical",
+        "meaning": "化学の",
+        "blank_word": "chemical",
+        "blank_sentence": "The two substances caused a chemical reaction.",
+        "reorder": "The<>two<>substances<>caused<>a<>chemical<>reaction.",
+        "dictation": "The two substances caused a chemical reaction."
+    },
+    "25": {
+        "word": "trick",
+        "meaning": "手品",
+        "blank_word": "tricks",
+        "blank_sentence": "Several tricks can be played with chemical substances.",
+        "reorder": "Several<>tricks<>can<>be<>played<>with<>chemical<>substances.",
+        "dictation": "Several tricks can be played with chemical substances."
+    }
+}

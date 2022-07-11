@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "punch",
+        "meaning": "穴をあける",
+        "blank_word": "punched",
+        "blank_sentence": "He punched holes in the machine's body to make it light.",
+        "reorder": "He<>punched<>holes<>in<>the<>machine's<>body<>to<>make<>it<>light.",
+        "dictation": "He punched holes in the machine's body to make it light."
+    },
+    "2": {
+        "word": "knock",
+        "meaning": "叩く",
+        "blank_word": "knock",
+        "blank_sentence": "She heard someone knock on the door in the middle of the night.",
+        "reorder": "She<>heard<>someone<>knock<>on<>the<>door<>in<>the<>middle<>of<>the<>night.",
+        "dictation": "She heard someone knock on the door in the middle of the night."
+    },
+    "3": {
+        "word": "ring",
+        "meaning": "(鐘などを)鳴らす",
+        "blank_word": "ring",
+        "blank_sentence": "If you ring this bell, he will come soon.",
+        "reorder": "If<>you<>ring<>this<>bell,<>he<>will<>come<>soon.",
+        "dictation": "If you ring this bell, he will come soon."
+    },
+    "4": {
+        "word": "fit",
+        "meaning": "～に合う",
+        "blank_word": "fit",
+        "blank_sentence": "This picture does not fit the size of the screen.",
+        "reorder": "This<>picture<>does<>not<>fit<>the<>size<>of<>the<>screen.",
+        "dictation": "This picture does not fit the size of the screen."
+    },
+    "5": {
+        "word": "match",
+        "meaning": "(～に)一致する",
+        "blank_word": "match",
+        "blank_sentence": "These two passwords must match.",
+        "reorder": "These<>two<>passwords<>must<>match.",
+        "dictation": "These two passwords must match."
+    },
+    "6": {
+        "word": "angle",
+        "meaning": "角",
+        "blank_word": "angle",
+        "blank_sentence": "What is the angle between the two lines?",
+        "reorder": "What<>is<>the<>angle<>between<>the<>two<>lines?",
+        "dictation": "What is the angle between the two lines?"
+    },
+    "7": {
+        "word": "area",
+        "meaning": "面積",
+        "blank_word": "area",
+        "blank_sentence": "Find the area of the triangle.",
+        "reorder": "Find<>the<>area<>of<>the<>triangle.",
+        "dictation": "Find the area of the triangle."
+    },
+    "8": {
+        "word": "volume",
+        "meaning": "体積",
+        "blank_word": "volume",
+        "blank_sentence": "When a gas is heated, its volume gets larger.",
+        "reorder": "When<>a<>gas<>is<>heated,<>its<>volume<>gets<>larger.",
+        "dictation": "When a gas is heated, its volume gets larger."
+    },
+    "9": {
+        "word": "square",
+        "meaning": "正方形",
+        "blank_word": "square",
+        "blank_sentence": "All the angles of a square are right angles.",
+        "reorder": "All<>the<>angles<>of<>a<>square<>are<>right<>angles.",
+        "dictation": "All the angles of a square are right angles."
+    },
+    "10": {
+        "word": "cube",
+        "meaning": "立方体",
+        "blank_word": "cube",
+        "blank_sentence": "A cube has six sides and they are all equal.",
+        "reorder": "A<>cube<>has<>six<>sides<>and<>they<>are<>all<>equal.",
+        "dictation": "A cube has six sides and they are all equal."
+    },
+    "11": {
+        "word": "circle",
+        "meaning": "円",
+        "blank_word": "circle",
+        "blank_sentence": "There is a red circle in the Japanese flag.",
+        "reorder": "There<>is<>a<>red<>circle<>in<>the<>Japanese<>flag.",
+        "dictation": "There is a red circle in the Japanese flag."
+    },
+    "12": {
+        "word": "cone",
+        "meaning": "円錐",
+        "blank_word": "cone",
+        "blank_sentence": "Find the volume of this cone.",
+        "reorder": "Find<>the<>volume<>of<>this<>cone.",
+        "dictation": "Find the volume of this cone."
+    },
+    "13": {
+        "word": "pyramid",
+        "meaning": "ピラミッド",
+        "blank_word": "pyramid",
+        "blank_sentence": "The hotel is designed to look like a pyramid.",
+        "reorder": "The<>hotel<>is<>designed<>to<>look<>like<>a<>pyramid.",
+        "dictation": "The hotel is designed to look like a pyramid."
+    },
+    "14": {
+        "word": "cylinder",
+        "meaning": "円柱",
+        "blank_word": "cylinder",
+        "blank_sentence": "A cylinder has two circular bases of the same area.",
+        "reorder": "A<>cylinder<>has<>two<>circular<>bases<>of<>the<>same<>area.",
+        "dictation": "A cylinder has two circular bases of the same area."
+    },
+    "15": {
+        "word": "piston",
+        "meaning": "ピストン",
+        "blank_word": "piston",
+        "blank_sentence": "The piston moves up and down in the cylinder.",
+        "reorder": "The<>piston<>moves<>up<>and<>down<>in<>the<>cylinder.",
+        "dictation": "The piston moves up and down in the cylinder."
+    },
+    "16": {
+        "word": "wing",
+        "meaning": "翼",
+        "blank_word": "wings",
+        "blank_sentence": "Birds have wings but they cannot always fly.",
+        "reorder": "Birds<>have<>wings<>but<>they<>cannot<>always<>fly.",
+        "dictation": "Birds have wings but they cannot always fly."
+    },
+    "17": {
+        "word": "flight",
+        "meaning": "飛ぶこと",
+        "blank_word": "flight",
+        "blank_sentence": "A penguin's wings are not for flight.",
+        "reorder": "A<>penguin's<>wings<>are<>not<>for<>flight.",
+        "dictation": "A penguin's wings are not for flight."
+    },
+    "18": {
+        "word": "airport",
+        "meaning": "空港",
+        "blank_word": "airport",
+        "blank_sentence": "He took a flight to London from Narita airport.",
+        "reorder": "He<>took<>a<>flight<>to<>London<>from<>Narita<>airport.",
+        "dictation": "He took a flight to London from Narita airport."
+    },
+    "19": {
+        "word": "rail",
+        "meaning": "軌道",
+        "blank_word": "rail",
+        "blank_sentence": "Monorail cars run on a single rail.",
+        "reorder": "Monorail<>cars<>run<>on<>a<>single<>rail.",
+        "dictation": "Monorail cars run on a single rail."
+    },
+    "20": {
+        "word": "license",
+        "meaning": "免許",
+        "blank_word": "license",
+        "blank_sentence": "You need a license to fly an airplane.",
+        "reorder": "You<>need<>a<>license<>to<>fly<>an<>airplane.",
+        "dictation": "You need a license to fly an airplane."
+    },
+    "21": {
+        "word": "motion",
+        "meaning": "運動",
+        "blank_word": "motion",
+        "blank_sentence": "This program controls the motion of the robot.",
+        "reorder": "This<>program<>controls<>the<>motion<>of<>the<>robot.",
+        "dictation": "This program controls the motion of the robot."
+    },
+    "22": {
+        "word": "cycle",
+        "meaning": "周期",
+        "blank_word": "cycle",
+        "blank_sentence": "The moon goes around the earth in a 28-day cycle.",
+        "reorder": "The<>moon<>goes<>around<>the<>earth<>in<>a<>28-day<>cycle.",
+        "dictation": "The moon goes around the earth in a 28-day cycle."
+    },
+    "23": {
+        "word": "mechanism",
+        "meaning": "仕組み",
+        "blank_word": "mechanism",
+        "blank_sentence": "The mechanism of this machine is simple.",
+        "reorder": "The<>mechanism<>of<>this<>machine<>is<>simple.",
+        "dictation": "The mechanism of this machine is simple."
+    },
+    "24": {
+        "word": "skill",
+        "meaning": "技能",
+        "blank_word": "skills",
+        "blank_sentence": "You can learn many kinds of skills at this school.",
+        "reorder": "You<>can<>learn<>many<>kinds<>of<>skills<>at<>this<>school.",
+        "dictation": "You can learn many kinds of skills at this school."
+    },
+    "25": {
+        "word": "advice",
+        "meaning": "助言",
+        "blank_word": "advice",
+        "blank_sentence": "I asked the chief engineer for advice on using the new tool.",
+        "reorder": "I<>asked<>the<>chief<>engineer<>for<>advice<>on<>using<>the<>new<>tool.",
+        "dictation": "I asked the chief engineer for advice on using the new tool."
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "starch",
+        "meaning": "でんぷん",
+        "blank_word": "Starch",
+        "blank_sentence": "Starch is a carbohydrate consisting of a large number of glucose units.",
+        "reorder": "Starch<>is<>a<>carbohydrate<>consisting<>of<>a<>large<>number<>of<>glucose<>units.",
+        "dictation": "Starch is a carbohydrate consisting of a large number of glucose units."
+    },
+    "2": {
+        "word": "chlorophyll",
+        "meaning": "葉緑素",
+        "blank_word": "Chlorophyll",
+        "blank_sentence": "Chlorophyll helps plants turn carbon dioxide into oxygen.",
+        "reorder": "Chlorophyll<>helps<>plants<>turn<>carbon<>dioxide<>into<>oxygen.",
+        "dictation": "Chlorophyll helps plants turn carbon dioxide into oxygen."
+    },
+    "3": {
+        "word": "photosynthesis",
+        "meaning": "光合成",
+        "blank_word": "photosynthesis",
+        "blank_sentence": "Green plants need carbon dioxide for photosynthesis.",
+        "reorder": "Green<>plants<>need<>carbon<>dioxide<>for<>photosynthesis.",
+        "dictation": "Green plants need carbon dioxide for photosynthesis."
+    },
+    "4": {
+        "word": "pigment",
+        "meaning": "色素",
+        "blank_word": "pigment",
+        "blank_sentence": "Chlorophyll is a green pigment which is very important in photosynthesis.",
+        "reorder": "Chlorophyll<>is<>a<>green<>pigment<>which<>is<>very<>important<>in<>photosynthesis.",
+        "dictation": "Chlorophyll is a green pigment which is very important in photosynthesis."
+    },
+    "5": {
+        "word": "mission",
+        "meaning": "計画",
+        "blank_word": "mission",
+        "blank_sentence": "The purpose of the Apollo 11 mission was to land men on the lunar surface.",
+        "reorder": "The<>purpose<>of<>the<>Apollo<>11<>mission<>was<>to<>land<>men<>on<>the<>lunar<>surface.",
+        "dictation": "The purpose of the Apollo 11 mission was to land men on the lunar surface."
+    },
+    "6": {
+        "word": "soldier",
+        "meaning": "兵士",
+        "blank_word": "soldiers",
+        "blank_sentence": "The soldiers have been killed by the terrorists.",
+        "reorder": "The<>soldiers<>have<>been<>killed<>by<>the<>terrorists.",
+        "dictation": "The soldiers have been killed by the terrorists."
+    },
+    "7": {
+        "word": "sword",
+        "meaning": "刀",
+        "blank_word": "sword",
+        "blank_sentence": "The Japanese sword is made out of steel.",
+        "reorder": "The<>Japanese<>sword<>is<>made<>out<>of<>steel.",
+        "dictation": "The Japanese sword is made out of steel."
+    },
+    "8": {
+        "word": "armor",
+        "meaning": "よろい",
+        "blank_word": "armor",
+        "blank_sentence": "Japanese armor was made of metal, wood or leather.",
+        "reorder": "Japanese<>armor<>was<>made<>of<>metal,<>wood<>or<>leather.",
+        "dictation": "Japanese armor was made of metal, wood or leather."
+    },
+    "9": {
+        "word": "passion",
+        "meaning": "情熱",
+        "blank_word": "passion",
+        "blank_sentence": "Her passion for space science led her to the space mission.",
+        "reorder": "Her<>passion<>for<>space<>science<>led<>her<>to<>the<>space<>mission.",
+        "dictation": "Her passion for space science led her to the space mission."
+    },
+    "10": {
+        "word": "candidate",
+        "meaning": "候補(者)",
+        "blank_word": "candidate",
+        "blank_sentence": "This is a candidate for a next-generation PC system.",
+        "reorder": "This<>is<>a<>candidate<>for<>a<>next-generation<>PC<>system.",
+        "dictation": "This is a candidate for a next-generation PC system."
+    },
+    "11": {
+        "word": "phase",
+        "meaning": "段階",
+        "blank_word": "phase",
+        "blank_sentence": "The most essential phase of a space mission is from lift-off to orbit.",
+        "reorder": "The<>most<>essential<>phase<>of<>a<>space<>mission<>is<>from<>lift-off<>to<>orbit.",
+        "dictation": "The most essential phase of a space mission is from lift-off to orbit."
+    },
+    "12": {
+        "word": "situation",
+        "meaning": "状況",
+        "blank_word": "situation",
+        "blank_sentence": "The situation of that area has gotten better than it was a year ago.",
+        "reorder": "The<>situation<>of<>that<>area<>has<>gotten<>better<>than<>it<>was<>a<>year<>ago.",
+        "dictation": "The situation of that area has gotten better than it was a year ago."
+    },
+    "13": {
+        "word": "fragment",
+        "meaning": "かけら",
+        "blank_word": "fragments",
+        "blank_sentence": "The wall is made of fragments of rock.",
+        "reorder": "The<>wall<>is<>made<>of<>fragments<>of<>rock.",
+        "dictation": "The wall is made of fragments of rock."
+    },
+    "14": {
+        "word": "fault",
+        "meaning": "過失",
+        "blank_word": "fault",
+        "blank_sentence": "The accident was due to the train driver's fault.",
+        "reorder": "The<>accident<>was<>due<>to<>the<>train<>driver's<>fault.",
+        "dictation": "The accident was due to the train driver's fault."
+    },
+    "15": {
+        "word": "danger",
+        "meaning": "危険",
+        "blank_word": "danger",
+        "blank_sentence": "There is a danger of fire in some chemical experiments.",
+        "reorder": "There<>is<>a<>danger<>of<>fire<>in<>some<>chemical<>experiments.",
+        "dictation": "There is a danger of fire in some chemical experiments."
+    },
+    "16": {
+        "word": "toxin",
+        "meaning": "毒素",
+        "blank_word": "toxin",
+        "blank_sentence": "These bacteria produce a strong toxin.",
+        "reorder": "These<>bacteria<>produce<>a<>strong<>toxin.",
+        "dictation": "These bacteria produce a strong toxin."
+    },
+    "17": {
+        "word": "favor",
+        "meaning": "好意",
+        "blank_word": "favor",
+        "blank_sentence": "The people in the town welcomed us with favor.",
+        "reorder": "The<>people<>in<>the<>town<>welcomed<>us<>with<>favor.",
+        "dictation": "The people in the town welcomed us with favor."
+    },
+    "18": {
+        "word": "summit",
+        "meaning": "頂上",
+        "blank_word": "summit",
+        "blank_sentence": "We will reach the summit of the mountain soon.",
+        "reorder": "We<>will<>reach<>the<>summit<>of<>the<>mountain<>soon.",
+        "dictation": "We will reach the summit of the mountain soon."
+    },
+    "19": {
+        "word": "difficulty",
+        "meaning": "困難",
+        "blank_word": "difficulty",
+        "blank_sentence": "I have never found difficulty in my math homework.",
+        "reorder": "I<>have<>never<>found<>difficulty<>in<>my<>math<>homework.",
+        "dictation": "I have never found difficulty in my math homework."
+    },
+    "20": {
+        "word": "yield",
+        "meaning": "収穫(高)",
+        "blank_word": "yield",
+        "blank_sentence": "The new rice seeds produced a higher yield.",
+        "reorder": "The<>new<>rice<>seeds<>produced<>a<>higher<>yield.",
+        "dictation": "The new rice seeds produced a higher yield."
+    },
+    "21": {
+        "word": "regulation",
+        "meaning": "規定",
+        "blank_word": "regulations",
+        "blank_sentence": "You must follow the regulations of the contest.",
+        "reorder": "You<>must<>follow<>the<>regulations<>of<>the<>contest.",
+        "dictation": "You must follow the regulations of the contest."
+    },
+    "22": {
+        "word": "tradition",
+        "meaning": "伝統",
+        "blank_word": "tradition",
+        "blank_sentence": "Chinese medicine has a long history and tradition.",
+        "reorder": "Chinese<>medicine<>has<>a<>long<>history<>and<>tradition.",
+        "dictation": "Chinese medicine has a long history and tradition."
+    },
+    "23": {
+        "word": "obvious",
+        "meaning": "明らかな",
+        "blank_word": "obvious",
+        "blank_sentence": "It is obvious that the experiment failed.",
+        "reorder": "It<>is<>obvious<>that<>the<>experiment<>failed.",
+        "dictation": "It is obvious that the experiment failed."
+    },
+    "24": {
+        "word": "pale",
+        "meaning": "青白い",
+        "blank_word": "pale",
+        "blank_sentence": "The material emitted pale light under ultraviolet rays.",
+        "reorder": "The<>material<>emitted<>pale<>light<>under<>ultraviolet<>rays.",
+        "dictation": "The material emitted pale light under ultraviolet rays."
+    },
+    "25": {
+        "word": "severe",
+        "meaning": "激しい",
+        "blank_word": "severe",
+        "blank_sentence": "This disease causes a severe pain in your back.",
+        "reorder": "This<>disease<>causes<>a<>severe<>pain<>in<>your<>back.",
+        "dictation": "This disease causes a severe pain in your back."
+    }
+}

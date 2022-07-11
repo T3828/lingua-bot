@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "curtain",
+        "meaning": "カーテン",
+        "blank_word": "Curtains",
+        "blank_sentence": "Curtains and carpets can make the room quiet.",
+        "reorder": "Curtains<>and<>carpets<>can<>make<>the<>room<>quiet.",
+        "dictation": "Curtains and carpets can make the room quiet."
+    },
+    "2": {
+        "word": "wool",
+        "meaning": "羊毛",
+        "blank_word": "wool",
+        "blank_sentence": "He was wearing a wool coat when I saw him.",
+        "reorder": "He<>was<>wearing<>a<>wool<>coat<>when<>I<>saw<>him.",
+        "dictation": "He was wearing a wool coat when I saw him."
+    },
+    "3": {
+        "word": "stick",
+        "meaning": "棒",
+        "blank_word": "stick",
+        "blank_sentence": "You can make a sundial with only one stick.",
+        "reorder": "You<>can<>make<>a<>sundial<>with<>only<>one<>stick.",
+        "dictation": "You can make a sundial with only one stick."
+    },
+    "4": {
+        "word": "tray",
+        "meaning": "盆",
+        "blank_word": "tray",
+        "blank_sentence": "Can you help me put these dishes on the tray?",
+        "reorder": "Can<>you<>help<>me<>put<>these<>dishes<>on<>the<>tray?",
+        "dictation": "Can you help me put these dishes on the tray?"
+    },
+    "5": {
+        "word": "ceremony",
+        "meaning": "式典",
+        "blank_word": "ceremony",
+        "blank_sentence": "The ceremony will be canceled if the typhoon comes tomorrow.",
+        "reorder": "The<>ceremony<>will<>be<>canceled<>if<>the<>typhoon<>comes<>tomorrow.",
+        "dictation": "The ceremony will be canceled if the typhoon comes tomorrow."
+    },
+    "6": {
+        "word": "hall",
+        "meaning": "ホール",
+        "blank_word": "hall",
+        "blank_sentence": "The ceremony was held in the main hall.",
+        "reorder": "The<>ceremony<>was<>held<>in<>the<>main<>hall.",
+        "dictation": "The ceremony was held in the main hall."
+    },
+    "7": {
+        "word": "whole",
+        "meaning": "すべての",
+        "blank_word": "whole",
+        "blank_sentence": "The whole mountain will be covered in snow next month.",
+        "reorder": "The<>whole<>mountain<>will<>be<>covered<>in<>snow<>next<>month.",
+        "dictation": "The whole mountain will be covered in snow next month."
+    },
+    "8": {
+        "word": "sticky",
+        "meaning": "粘着性の",
+        "blank_word": "sticky",
+        "blank_sentence": "The spider web is so sticky that small bugs get stuck in it.",
+        "reorder": "The<>spider<>web<>is<>so<>sticky<>that<>small<>bugs<>get<>stuck<>in<>it.",
+        "dictation": "The spider web is so sticky that small bugs get stuck in it."
+    },
+    "9": {
+        "word": "typical",
+        "meaning": "典型的な",
+        "blank_word": "typical",
+        "blank_sentence": "The wedding ceremony was held in typical Japanese style.",
+        "reorder": "The<>wedding<>ceremony<>was<>held<>in<>typical<>Japanese<>style.",
+        "dictation": "The wedding ceremony was held in typical Japanese style."
+    },
+    "10": {
+        "word": "extra",
+        "meaning": "余分の",
+        "blank_word": "extra",
+        "blank_sentence": "I was paid extra money for working late.",
+        "reorder": "I<>was<>paid<>extra<>money<>for<>working<>late.",
+        "dictation": "I was paid extra money for working late."
+    },
+    "11": {
+        "word": "round",
+        "meaning": "丸い",
+        "blank_word": "round",
+        "blank_sentence": "We do not usually feel that the earth is round.",
+        "reorder": "We<>do<>not<>usually<>feel<>that<>the<>earth<>is<>round.",
+        "dictation": "We do not usually feel that the earth is round."
+    },
+    "12": {
+        "word": "empty",
+        "meaning": "空(から)の",
+        "blank_word": "empty",
+        "blank_sentence": "The gas tank of my car went empty.",
+        "reorder": "The<>gas<>tank<>of<>my<>car<>went<>empty.",
+        "dictation": "The gas tank of my car went empty."
+    },
+    "13": {
+        "word": "expensive",
+        "meaning": "高価な",
+        "blank_word": "expensive",
+        "blank_sentence": "You need no expensive parts to make this robot.",
+        "reorder": "You<>need<>no<>expensive<>parts<>to<>make<>this<>robot.",
+        "dictation": "You need no expensive parts to make this robot."
+    },
+    "14": {
+        "word": "cheap",
+        "meaning": "安い",
+        "blank_word": "cheaper",
+        "blank_sentence": "Diesel oil is usually cheaper than gasoline in Japan.",
+        "reorder": "Diesel<>oil<>is<>usually<>cheaper<>than<>gasoline<>in<>Japan.",
+        "dictation": "Diesel oil is usually cheaper than gasoline in Japan."
+    },
+    "15": {
+        "word": "metric",
+        "meaning": "メートル(法)の",
+        "blank_word": "metric",
+        "blank_sentence": "The metric system is used in Japan.",
+        "reorder": "The<>metric<>system<>is<>used<>in<>Japan.",
+        "dictation": "The metric system is used in Japan."
+    },
+    "16": {
+        "word": "global",
+        "meaning": "世界の",
+        "blank_word": "global",
+        "blank_sentence": "The oil market is very important for the global economy.",
+        "reorder": "The<>oil<>market<>is<>very<>important<>for<>the<>global<>economy.",
+        "dictation": "The oil market is very important for the global economy."
+    },
+    "17": {
+        "word": "original",
+        "meaning": "独創的な",
+        "blank_word": "original",
+        "blank_sentence": "This company needs people with original ideas.",
+        "reorder": "This<>company<>needs<>people<>with<>original<>ideas.",
+        "dictation": "This company needs people with original ideas."
+    },
+    "18": {
+        "word": "even",
+        "meaning": "均一な",
+        "blank_word": "even",
+        "blank_sentence": "The air pressure of each tire must be even.",
+        "reorder": "The<>air<>pressure<>of<>each<>tire<>must<>be<>even.",
+        "dictation": "The air pressure of each tire must be even."
+    },
+    "19": {
+        "word": "cell",
+        "meaning": "細胞",
+        "blank_word": "cell",
+        "blank_sentence": "An egg is a single cell.",
+        "reorder": "An<>egg<>is<>a<>single<>cell.",
+        "dictation": "An egg is a single cell."
+    },
+    "20": {
+        "word": "plant",
+        "meaning": "植物",
+        "blank_word": "plants",
+        "blank_sentence": "There are no plants on top of the mountain.",
+        "reorder": "There<>are<>no<>plants<>on<>top<>of<>the<>mountain.",
+        "dictation": "There are no plants on top of the mountain."
+    },
+    "21": {
+        "word": "seed",
+        "meaning": "種",
+        "blank_word": "seeds",
+        "blank_sentence": "Many plants grow from seeds but some don't.",
+        "reorder": "Many<>plants<>grow<>from<>seeds<>but<>some<>don't.",
+        "dictation": "Many plants grow from seeds but some don't."
+    },
+    "22": {
+        "word": "root",
+        "meaning": "根",
+        "blank_word": "root",
+        "blank_sentence": "The root of the tree was not strong enough to hold it.",
+        "reorder": "The<>root<>of<>the<>tree<>was<>not<>strong<>enough<>to<>hold<>it.",
+        "dictation": "The root of the tree was not strong enough to hold it."
+    },
+    "23": {
+        "word": "leaf",
+        "meaning": "葉",
+        "blank_word": "leaf",
+        "blank_sentence": "A leaf is part of a tree.",
+        "reorder": "A<>leaf<>is<>part<>of<>a<>tree.",
+        "dictation": "A leaf is part of a tree."
+    },
+    "24": {
+        "word": "sunlight",
+        "meaning": "日光",
+        "blank_word": "sunlight",
+        "blank_sentence": "The sunlight gives us light and heat.",
+        "reorder": "The<>sunlight<>gives<>us<>light<>and<>heat.",
+        "dictation": "The sunlight gives us light and heat."
+    },
+    "25": {
+        "word": "proportion",
+        "meaning": "割合",
+        "blank_word": "proportion",
+        "blank_sentence": "The proportion of students going on to colleges is becoming higher.",
+        "reorder": "The<>proportion<>of<>students<>going<>on<>to<>colleges<>is<>becoming<>higher.",
+        "dictation": "The proportion of students going on to colleges is becoming higher."
+    }
+}

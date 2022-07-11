@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "diet",
+        "meaning": "(日常の)食事",
+        "blank_word": "diet",
+        "blank_sentence": "Having a balanced diet is good for your health.",
+        "reorder": "Having<>a<>balanced<>diet<>is<>good<>for<>your<>health.",
+        "dictation": "Having a balanced diet is good for your health."
+    },
+    "2": {
+        "word": "tail",
+        "meaning": "尾",
+        "blank_word": "tail",
+        "blank_sentence": "The animal has a long tail and uses it for balance.",
+        "reorder": "The<>animal<>has<>a<>long<>tail<>and<>uses<>it<>for<>balance.",
+        "dictation": "The animal has a long tail and uses it for balance."
+    },
+    "3": {
+        "word": "bug",
+        "meaning": "(コンピューターの)バグ",
+        "blank_word": "bugs",
+        "blank_sentence": "As many as fifteen bugs were found in this program.",
+        "reorder": "As<>many<>as<>fifteen<>bugs<>were<>found<>in<>this<>program.",
+        "dictation": "As many as fifteen bugs were found in this program."
+    },
+    "4": {
+        "word": "wax",
+        "meaning": "蝋(ろう)",
+        "blank_word": "Wax",
+        "blank_sentence": "Wax for candles is usually made from oil.",
+        "reorder": "Wax<>for<>candles<>is<>usually<>made<>from<>oil.",
+        "dictation": "Wax for candles is usually made from oil."
+    },
+    "5": {
+        "word": "active",
+        "meaning": "活発な",
+        "blank_word": "active",
+        "blank_sentence": "Many kinds of rats are active at night.",
+        "reorder": "Many<>kinds<>of<>rats<>are<>active<>at<>night.",
+        "dictation": "Many kinds of rats are active at night."
+    },
+    "6": {
+        "word": "human",
+        "meaning": "人間の",
+        "blank_word": "human",
+        "blank_sentence": "A human egg is much smaller than that of a bird.",
+        "reorder": "A<>human<>egg<>is<>much<>smaller<>than<>that<>of<>a<>bird.",
+        "dictation": "A human egg is much smaller than that of a bird."
+    },
+    "7": {
+        "word": "physical",
+        "meaning": "身体的な",
+        "blank_word": "physical",
+        "blank_sentence": "I am in good physical condition these days.",
+        "reorder": "I<>am<>in<>good<>physical<>condition<>these<>days.",
+        "dictation": "I am in good physical condition these days."
+    },
+    "8": {
+        "word": "mental",
+        "meaning": "精神(心)の",
+        "blank_word": "mental",
+        "blank_sentence": "It is important to take care of your mental health.",
+        "reorder": "It<>is<>important<>to<>take<>care<>of<>your<>mental<>health.",
+        "dictation": "It is important to take care of your mental health."
+    },
+    "9": {
+        "word": "smart",
+        "meaning": "頭が良い",
+        "blank_word": "smart",
+        "blank_sentence": "Parrots are smart and live a long time.",
+        "reorder": "Parrots<>are<>smart<>and<>live<>a<>long<>time.",
+        "dictation": "Parrots are smart and live a long time."
+    },
+    "10": {
+        "word": "twin",
+        "meaning": "双子の",
+        "blank_word": "twin",
+        "blank_sentence": "The twin brothers are both smart.",
+        "reorder": "The<>twin<>brothers<>are<>both<>smart.",
+        "dictation": "The twin brothers are both smart."
+    },
+    "11": {
+        "word": "perfect",
+        "meaning": "完全な",
+        "blank_word": "perfect",
+        "blank_sentence": "The design of this car is perfect.",
+        "reorder": "The<>design<>of<>this<>car<>is<>perfect.",
+        "dictation": "The design of this car is perfect."
+    },
+    "12": {
+        "word": "regular",
+        "meaning": "規則正しい",
+        "blank_word": "regular",
+        "blank_sentence": "Check the monitor on a regular cycle.",
+        "reorder": "Check<>the<>monitor<>on<>a<>regular<>cycle.",
+        "dictation": "Check the monitor on a regular cycle."
+    },
+    "13": {
+        "word": "local",
+        "meaning": "地元の",
+        "blank_word": "local",
+        "blank_sentence": "The news was reported by a local news reporter.",
+        "reorder": "The<>news<>was<>reported<>by<>a<>local<>news<>reporter.",
+        "dictation": "The news was reported by a local news reporter."
+    },
+    "14": {
+        "word": "solar",
+        "meaning": "太陽の",
+        "blank_word": "Solar",
+        "blank_sentence": "Solar energy should be used more widely.",
+        "reorder": "Solar<>energy<>should<>be<>used<>more<>widely.",
+        "dictation": "Solar energy should be used more widely."
+    },
+    "15": {
+        "word": "wild",
+        "meaning": "野生の",
+        "blank_word": "Wild",
+        "blank_sentence": "Wild pandas can be seen only in China.",
+        "reorder": "Wild<>pandas<>can<>be<>seen<>only<>in<>China.",
+        "dictation": "Wild pandas can be seen only in China."
+    },
+    "16": {
+        "word": "natural",
+        "meaning": "自然な",
+        "blank_word": "natural",
+        "blank_sentence": "There is natural sweetness in fruits.",
+        "reorder": "There<>is<>natural<>sweetness<>in<>fruits.",
+        "dictation": "There is natural sweetness in fruits."
+    },
+    "17": {
+        "word": "virtual",
+        "meaning": "仮想の",
+        "blank_word": "Virtual",
+        "blank_sentence": "Virtual money is used in that game.",
+        "reorder": "Virtual<>money<>is<>used<>in<>that<>game.",
+        "dictation": "Virtual money is used in that game."
+    },
+    "18": {
+        "word": "unique",
+        "meaning": "唯一の",
+        "blank_word": "unique",
+        "blank_sentence": "Your e-mail address is unique.",
+        "reorder": "Your<>e-mail<>address<>is<>unique.",
+        "dictation": "Your e-mail address is unique."
+    },
+    "19": {
+        "word": "stupid",
+        "meaning": "馬鹿な",
+        "blank_word": "stupid",
+        "blank_sentence": "Why did you do such a stupid thing?",
+        "reorder": "Why<>did<>you<>do<>such<>a<>stupid<>thing?",
+        "dictation": "Why did you do such a stupid thing?"
+    },
+    "20": {
+        "word": "spare",
+        "meaning": "予備の",
+        "blank_word": "spare",
+        "blank_sentence": "Don't forget to put air into the spare tires as well as the other four.",
+        "reorder": "Don't<>forget<>to<>put<>air<>into<>the<>spare<>tires<>as<>well<>as<>the<>other<>four.",
+        "dictation": "Don't forget to put air into the spare tires as well as the other four."
+    },
+    "21": {
+        "word": "sharp",
+        "meaning": "鋭い",
+        "blank_word": "sharp",
+        "blank_sentence": "Cut the wire to make its end sharp.",
+        "reorder": "Cut<>the<>wire<>to<>make<>its<>end<>sharp.",
+        "dictation": "Cut the wire to make its end sharp."
+    },
+    "22": {
+        "word": "straight",
+        "meaning": "まっすぐな",
+        "blank_word": "straight",
+        "blank_sentence": "This kind of dogs have straight tails.",
+        "reorder": "This<>kind<>of<>dogs<>have<>straight<>tails.",
+        "dictation": "This kind of dogs have straight tails."
+    },
+    "23": {
+        "word": "direct",
+        "meaning": "直接の",
+        "blank_word": "direct",
+        "blank_sentence": "You can take direct control of the system from here.",
+        "reorder": "You<>can<>take<>direct<>control<>of<>the<>system<>from<>here.",
+        "dictation": "You can take direct control of the system from here."
+    },
+    "24": {
+        "word": "activity",
+        "meaning": "活動",
+        "blank_word": "activities",
+        "blank_sentence": "A balance of mental and physical activities is important for your health.",
+        "reorder": "A<>balance<>of<>mental<>and<>physical<>activities<>is<>important<>for<>your<>health.",
+        "dictation": "A balance of mental and physical activities is important for your health."
+    },
+    "25": {
+        "word": "direction",
+        "meaning": "方向",
+        "blank_word": "directions",
+        "blank_sentence": "Sound travels in all directions in the air.",
+        "reorder": "Sound<>travels<>in<>all<>directions<>in<>the<>air.",
+        "dictation": "Sound travels in all directions in the air."
+    }
+}

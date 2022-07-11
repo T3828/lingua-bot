@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "advocate",
+        "meaning": "提唱する",
+        "blank_word": "advocated",
+        "blank_sentence": "The researchers advocated a new theory.",
+        "reorder": "The<>researchers<>advocated<>a<>new<>theory.",
+        "dictation": "The researchers advocated a new theory."
+    },
+    "2": {
+        "word": "assemble",
+        "meaning": "組み立てる",
+        "blank_word": "assemble",
+        "blank_sentence": "The children tried to assemble the machine.",
+        "reorder": "The<>children<>tried<>to<>assemble<>the<>machine.",
+        "dictation": "The children tried to assemble the machine."
+    },
+    "3": {
+        "word": "emphasize",
+        "meaning": "強調する",
+        "blank_word": "emphasized",
+        "blank_sentence": "The engineer emphasized the importance of maintenance.",
+        "reorder": "The<>engineer<>emphasized<>the<>importance<>of<>maintenance.",
+        "dictation": "The engineer emphasized the importance of maintenance."
+    },
+    "4": {
+        "word": "drag",
+        "meaning": "引きずる",
+        "blank_word": "drag",
+        "blank_sentence": "Ants can drag an object fifty times heavier than their weight.",
+        "reorder": "Ants<>can<>drag<>an<>object<>fifty<>times<>heavier<>than<>their<>weight.",
+        "dictation": "Ants can drag an object fifty times heavier than their weight."
+    },
+    "5": {
+        "word": "translate",
+        "meaning": "翻訳する",
+        "blank_word": "translate",
+        "blank_sentence": "Artificial intelligence still cannot translate natural languages perfectly.",
+        "reorder": "Artificial<>intelligence<>still<>cannot<>translate<>natural<>languages<>perfectly.",
+        "dictation": "Artificial intelligence still cannot translate natural languages perfectly."
+    },
+    "6": {
+        "word": "disrupt",
+        "meaning": "乱す",
+        "blank_word": "disrupt",
+        "blank_sentence": "Impurities in the metal disrupt the flow of electrons.",
+        "reorder": "Impurities<>in<>the<>metal<>disrupt<>the<>flow<>of<>electrons.",
+        "dictation": "Impurities in the metal disrupt the flow of electrons."
+    },
+    "7": {
+        "word": "restore",
+        "meaning": "復元する",
+        "blank_word": "restore",
+        "blank_sentence": "It was the car engineers' dream to restore the 50-year-old classic car.",
+        "reorder": "It<>was<>the<>car<>engineers'<>dream<>to<>restore<>the<>50-year-old<>classic<>car.",
+        "dictation": "It was the car engineers' dream to restore the 50-year-old classic car."
+    },
+    "8": {
+        "word": "urge",
+        "meaning": "要請する",
+        "blank_word": "urged",
+        "blank_sentence": "The council urged us to reinvestigate the accident.",
+        "reorder": "The<>council<>urged<>us<>to<>reinvestigate<>the<>accident.",
+        "dictation": "The council urged us to reinvestigate the accident."
+    },
+    "9": {
+        "word": "tremble",
+        "meaning": "震える",
+        "blank_word": "trembling",
+        "blank_sentence": "The abandoned dog was trembling from hunger and cold.",
+        "reorder": "The<>abandoned<>dog<>was<>trembling<>from<>hunger<>and<>cold.",
+        "dictation": "The abandoned dog was trembling from hunger and cold."
+    },
+    "10": {
+        "word": "synchronize",
+        "meaning": "同期する",
+        "blank_word": "synchronized",
+        "blank_sentence": "The customer data are synchronized with the central server every hour.",
+        "reorder": "The<>customer<>data<>are<>synchronized<>with<>the<>central<>server<>every<>hour.",
+        "dictation": "The customer data are synchronized with the central server every hour."
+    },
+    "11": {
+        "word": "keen",
+        "meaning": "鋭い",
+        "blank_word": "keen",
+        "blank_sentence": "The leader of an army must have a keen sense of what is happening around him.",
+        "reorder": "The<>leader<>of<>an<>army<>must<>have<>a<>keen<>sense<>of<>what<>is<>happening<>around<>him.",
+        "dictation": "The leader of an army must have a keen sense of what is happening around him."
+    },
+    "12": {
+        "word": "dull",
+        "meaning": "切れ味の悪い",
+        "blank_word": "dull",
+        "blank_sentence": "It is more dangerous for a child to use a dull knife than a sharp one.",
+        "reorder": "It<>is<>more<>dangerous<>for<>a<>child<>to<>use<>a<>dull<>knife<>than<>a<>sharp<>one.",
+        "dictation": "It is more dangerous for a child to use a dull knife than a sharp one."
+    },
+    "13": {
+        "word": "confident",
+        "meaning": "自信がある",
+        "blank_word": "confident",
+        "blank_sentence": "I am confident that I will succeed in my new business.",
+        "reorder": "I<>am<>confident<>that<>I<>will<>succeed<>in<>my<>new<>business.",
+        "dictation": "I am confident that I will succeed in my new business."
+    },
+    "14": {
+        "word": "conscious",
+        "meaning": "意識している",
+        "blank_word": "conscious",
+        "blank_sentence": "We should be more conscious of environmental problems.",
+        "reorder": "We<>should<>be<>more<>conscious<>of<>environmental<>problems.",
+        "dictation": "We should be more conscious of environmental problems."
+    },
+    "15": {
+        "word": "exotic",
+        "meaning": "外来(種)の",
+        "blank_word": "exotic",
+        "blank_sentence": "There were many exotic plants in the greenhouse.",
+        "reorder": "There<>were<>many<>exotic<>plants<>in<>the<>greenhouse.",
+        "dictation": "There were many exotic plants in the greenhouse."
+    },
+    "16": {
+        "word": "elementary",
+        "meaning": "初級の",
+        "blank_word": "elementary",
+        "blank_sentence": "The course of elementary programming seemed dull for the students.",
+        "reorder": "The<>course<>of<>elementary<>programming<>seemed<>dull<>for<>the<>students.",
+        "dictation": "The course of elementary programming seemed dull for the students."
+    },
+    "17": {
+        "word": "primary",
+        "meaning": "第一の",
+        "blank_word": "primary",
+        "blank_sentence": "The primary cause of his disease is considered to be smoking.",
+        "reorder": "The<>primary<>cause<>of<>his<>disease<>is<>considered<>to<>be<>smoking.",
+        "dictation": "The primary cause of his disease is considered to be smoking."
+    },
+    "18": {
+        "word": "secondary",
+        "meaning": "二次的な",
+        "blank_word": "secondary",
+        "blank_sentence": "You must try not to panic to avoid secondary disasters.",
+        "reorder": "You<>must<>try<>not<>to<>panic<>to<>avoid<>secondary<>disasters.",
+        "dictation": "You must try not to panic to avoid secondary disasters."
+    },
+    "19": {
+        "word": "subsequent",
+        "meaning": "後に起こる",
+        "blank_word": "subsequent",
+        "blank_sentence": "If you feel an earthquake, you must be careful of a subsequent tsunami.",
+        "reorder": "If<>you<>feel<>an<>earthquake,<>you<>must<>be<>careful<>of<>a<>subsequent<>tsunami.",
+        "dictation": "If you feel an earthquake, you must be careful of a subsequent tsunami."
+    },
+    "20": {
+        "word": "routine",
+        "meaning": "日常(お決まり)の",
+        "blank_word": "Routine",
+        "blank_sentence": "Routine maintenance checks are important to keep the machine in good condition.",
+        "reorder": "Routine<>maintenance<>checks<>are<>important<>to<>keep<>the<>machine<>in<>good<>condition.",
+        "dictation": "Routine maintenance checks are important to keep the machine in good condition."
+    },
+    "21": {
+        "word": "grand",
+        "meaning": "壮大な",
+        "blank_word": "grand",
+        "blank_sentence": "He advocated a grand project to restore the ancient city.",
+        "reorder": "He<>advocated<>a<>grand<>project<>to<>restore<>the<>ancient<>city.",
+        "dictation": "He advocated a grand project to restore the ancient city."
+    },
+    "22": {
+        "word": "exterior",
+        "meaning": "外部の",
+        "blank_word": "exterior",
+        "blank_sentence": "The sum of an interior angle of a polygon and its exterior angle is always 180°.",
+        "reorder": "The<>sum<>of<>an<>interior<>angle<>of<>a<>polygon<>and<>its<>exterior<>angle<>is<>always<>180°.",
+        "dictation": "The sum of an interior angle of a polygon and its exterior angle is always 180°."
+    },
+    "23": {
+        "word": "shortage",
+        "meaning": "不足",
+        "blank_word": "shortage",
+        "blank_sentence": "A shortage of gasoline can cause a crisis.",
+        "reorder": "A<>shortage<>of<>gasoline<>can<>cause<>a<>crisis.",
+        "dictation": "A shortage of gasoline can cause a crisis."
+    },
+    "24": {
+        "word": "synthesis",
+        "meaning": "合成",
+        "blank_word": "synthesis",
+        "blank_sentence": "Synthetic rubber is produced from petroleum by synthesis.",
+        "reorder": "Synthetic<>rubber<>is<>produced<>from<>petroleum<>by<>synthesis.",
+        "dictation": "Synthetic rubber is produced from petroleum by synthesis."
+    },
+    "25": {
+        "word": "blast",
+        "meaning": "突風",
+        "blank_word": "blast",
+        "blank_sentence": "The blast from the volcanic eruption carried rocks several kilometers away.",
+        "reorder": "The<>blast<>from<>the<>volcanic<>eruption<>carried<>rocks<>several<>kilometers<>away.",
+        "dictation": "The blast from the volcanic eruption carried rocks several kilometers away."
+    }
+}

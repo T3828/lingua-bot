@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "conquer",
+        "meaning": "克服する",
+        "blank_word": "conquer",
+        "blank_sentence": "You must conquer your fear of making mistakes in your job.",
+        "reorder": "You<>must<>conquer<>your<>fear<>of<>making<>mistakes<>in<>your<>job.",
+        "dictation": "You must conquer your fear of making mistakes in your job."
+    },
+    "2": {
+        "word": "deploy",
+        "meaning": "配置する",
+        "blank_word": "deployed",
+        "blank_sentence": "Metal detectors are deployed at the gates of airports.",
+        "reorder": "Metal<>detectors<>are<>deployed<>at<>the<>gates<>of<>airports.",
+        "dictation": "Metal detectors are deployed at the gates of airports."
+    },
+    "3": {
+        "word": "relay",
+        "meaning": "伝える",
+        "blank_word": "relays",
+        "blank_sentence": "They discovered a substance which relays the information to the nervous system.",
+        "reorder": "They<>discovered<>a<>substance<>which<>relays<>the<>information<>to<>the<>nervous<>system.",
+        "dictation": "They discovered a substance which relays the information to the nervous system."
+    },
+    "4": {
+        "word": "bundle",
+        "meaning": "束",
+        "blank_word": "bundles",
+        "blank_sentence": "Break these boxes, and tie them into bundles.",
+        "reorder": "Break<>these<>boxes,<>and<>tie<>them<>into<>bundles.",
+        "dictation": "Break these boxes, and tie them into bundles."
+    },
+    "5": {
+        "word": "partition",
+        "meaning": "仕切り",
+        "blank_word": "partition",
+        "blank_sentence": "If you remove the partition between the two liquids, they react and produce a gas.",
+        "reorder": "If<>you<>remove<>the<>partition<>between<>the<>two<>liquids,<>they<>react<>and<>produce<>a<>gas.",
+        "dictation": "If you remove the partition between the two liquids, they react and produce a gas."
+    },
+    "6": {
+        "word": "conviction",
+        "meaning": "確信",
+        "blank_word": "conviction",
+        "blank_sentence": "The scientist continued his research with the conviction that he would succeed.",
+        "reorder": "The<>scientist<>continued<>his<>research<>with<>the<>conviction<>that<>he<>would<>succeed.",
+        "dictation": "The scientist continued his research with the conviction that he would succeed."
+    },
+    "7": {
+        "word": "heap",
+        "meaning": "(積み重なった)山",
+        "blank_word": "heap",
+        "blank_sentence": "There is a heap of old parts in the garage.",
+        "reorder": "There<>is<>a<>heap<>of<>old<>parts<>in<>the<>garage.",
+        "dictation": "There is a heap of old parts in the garage."
+    },
+    "8": {
+        "word": "ditch",
+        "meaning": "(灌漑用の)水路",
+        "blank_word": "ditches",
+        "blank_sentence": "The ditches are 50 centimeters wide and 30 centimeters deep.",
+        "reorder": "The<>ditches<>are<>50<>centimeters<>wide<>and<>30<>centimeters<>deep.",
+        "dictation": "The ditches are 50 centimeters wide and 30 centimeters deep."
+    },
+    "9": {
+        "word": "duct",
+        "meaning": "導管",
+        "blank_word": "duct",
+        "blank_sentence": "Clean the air duct at least once a year.",
+        "reorder": "Clean<>the<>air<>duct<>at<>least<>once<>a<>year.",
+        "dictation": "Clean the air duct at least once a year."
+    },
+    "10": {
+        "word": "luxury",
+        "meaning": "豪華さ",
+        "blank_word": "luxury",
+        "blank_sentence": "This house has no luxury , but I like its simple beautiful form.",
+        "reorder": "This<>house<>has<>no<>luxury<>,<>but<>I<>like<>its<>simple<>beautiful<>form.",
+        "dictation": "This house has no luxury , but I like its simple beautiful form."
+    },
+    "11": {
+        "word": "arithmetic",
+        "meaning": "算数",
+        "blank_word": "Arithmetic",
+        "blank_sentence": "Arithmetic is the science of numbers.",
+        "reorder": "Arithmetic<>is<>the<>science<>of<>numbers.",
+        "dictation": "Arithmetic is the science of numbers."
+    },
+    "12": {
+        "word": "coefficient",
+        "meaning": "係数",
+        "blank_word": "coefficient",
+        "blank_sentence": "The coefficient of friction depends on the material and its condition.",
+        "reorder": "The<>coefficient<>of<>friction<>depends<>on<>the<>material<>and<>its<>condition.",
+        "dictation": "The coefficient of friction depends on the material and its condition."
+    },
+    "13": {
+        "word": "coolant",
+        "meaning": "冷却剤",
+        "blank_word": "coolant",
+        "blank_sentence": "Liquid sodium is used as a coolant in some nuclear reactors.",
+        "reorder": "Liquid<>sodium<>is<>used<>as<>a<>coolant<>in<>some<>nuclear<>reactors.",
+        "dictation": "Liquid sodium is used as a coolant in some nuclear reactors."
+    },
+    "14": {
+        "word": "usage",
+        "meaning": "使用(法)",
+        "blank_word": "usage",
+        "blank_sentence": "The usage of the Internet on cell phones has been increasing.",
+        "reorder": "The<>usage<>of<>the<>Internet<>on<>cell<>phones<>has<>been<>increasing.",
+        "dictation": "The usage of the Internet on cell phones has been increasing."
+    },
+    "15": {
+        "word": "erect",
+        "meaning": "直立した",
+        "blank_word": "erect",
+        "blank_sentence": "Humans are the only mammals to walk erect.",
+        "reorder": "Humans<>are<>the<>only<>mammals<>to<>walk<>erect.",
+        "dictation": "Humans are the only mammals to walk erect."
+    },
+    "16": {
+        "word": "grateful",
+        "meaning": "感謝している",
+        "blank_word": "grateful",
+        "blank_sentence": "I am grateful to you for your support.",
+        "reorder": "I<>am<>grateful<>to<>you<>for<>your<>support.",
+        "dictation": "I am grateful to you for your support."
+    },
+    "17": {
+        "word": "elastic",
+        "meaning": "弾性の",
+        "blank_word": "elastic",
+        "blank_sentence": "This experiment aims to measure the elastic coefficient of the material.",
+        "reorder": "This<>experiment<>aims<>to<>measure<>the<>elastic<>coefficient<>of<>the<>material.",
+        "dictation": "This experiment aims to measure the elastic coefficient of the material."
+    },
+    "18": {
+        "word": "magnificent",
+        "meaning": "壮大な",
+        "blank_word": "magnificent",
+        "blank_sentence": "You can enjoy a magnificent view of the mountains from this room.",
+        "reorder": "You<>can<>enjoy<>a<>magnificent<>view<>of<>the<>mountains<>from<>this<>room.",
+        "dictation": "You can enjoy a magnificent view of the mountains from this room."
+    },
+    "19": {
+        "word": "ridiculous",
+        "meaning": "ばかげた",
+        "blank_word": "ridiculous",
+        "blank_sentence": "People used to think the idea of space travel was ridiculous.",
+        "reorder": "People<>used<>to<>think<>the<>idea<>of<>space<>travel<>was<>ridiculous.",
+        "dictation": "People used to think the idea of space travel was ridiculous."
+    },
+    "20": {
+        "word": "moist",
+        "meaning": "湿った",
+        "blank_word": "moist",
+        "blank_sentence": "You must keep the soil moist after planting the seeds.",
+        "reorder": "You<>must<>keep<>the<>soil<>moist<>after<>planting<>the<>seeds.",
+        "dictation": "You must keep the soil moist after planting the seeds."
+    },
+    "21": {
+        "word": "greedy",
+        "meaning": "貪欲な",
+        "blank_word": "greedy",
+        "blank_sentence": "The man is greedy for money.",
+        "reorder": "The<>man<>is<>greedy<>for<>money.",
+        "dictation": "The man is greedy for money."
+    },
+    "22": {
+        "word": "uneasy",
+        "meaning": "不安な",
+        "blank_word": "uneasy",
+        "blank_sentence": "I feel uneasy about using my credit cards for Internet shopping.",
+        "reorder": "I<>feel<>uneasy<>about<>using<>my<>credit<>cards<>for<>Internet<>shopping.",
+        "dictation": "I feel uneasy about using my credit cards for Internet shopping."
+    },
+    "23": {
+        "word": "tragic",
+        "meaning": "痛ましい",
+        "blank_word": "tragic",
+        "blank_sentence": "Ten people were killed in the tragic accident.",
+        "reorder": "Ten<>people<>were<>killed<>in<>the<>tragic<>accident.",
+        "dictation": "Ten people were killed in the tragic accident."
+    },
+    "24": {
+        "word": "indispensable",
+        "meaning": "必要不可欠な",
+        "blank_word": "indispensable",
+        "blank_sentence": "This instruction manual is indispensable when you use that tool.",
+        "reorder": "This<>instruction<>manual<>is<>indispensable<>when<>you<>use<>that<>tool.",
+        "dictation": "This instruction manual is indispensable when you use that tool."
+    },
+    "25": {
+        "word": "postpone",
+        "meaning": "延期する",
+        "blank_word": "postponed",
+        "blank_sentence": "The professor's lecture was postponed because he was ill.",
+        "reorder": "The<>professor's<>lecture<>was<>postponed<>because<>he<>was<>ill.",
+        "dictation": "The professor's lecture was postponed because he was ill."
+    }
+}

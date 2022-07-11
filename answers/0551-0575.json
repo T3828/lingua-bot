@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "capacity",
+        "meaning": "容量",
+        "blank_word": "capacity",
+        "blank_sentence": "The capacity of this old hard disk is only 100 MB.",
+        "reorder": "The<>capacity<>of<>this<>old<>hard<>disk<>is<>only<>100<>MB.",
+        "dictation": "The capacity of this old hard disk is only 100 MB."
+    },
+    "2": {
+        "word": "moment",
+        "meaning": "瞬間",
+        "blank_word": "moment",
+        "blank_sentence": "At that moment , I had a good idea.",
+        "reorder": "At<>that<>moment<>,<>I<>had<>a<>good<>idea.",
+        "dictation": "At that moment , I had a good idea."
+    },
+    "3": {
+        "word": "lever",
+        "meaning": "レバー",
+        "blank_word": "lever",
+        "blank_sentence": "Move the lever to the left to open the gate.",
+        "reorder": "Move<>the<>lever<>to<>the<>left<>to<>open<>the<>gate.",
+        "dictation": "Move the lever to the left to open the gate."
+    },
+    "4": {
+        "word": "cart",
+        "meaning": "手押し車",
+        "blank_word": "cart",
+        "blank_sentence": "This cart can carry up to 100 kg.",
+        "reorder": "This<>cart<>can<>carry<>up<>to<>100<>kg.",
+        "dictation": "This cart can carry up to 100 kg."
+    },
+    "5": {
+        "word": "weigh",
+        "meaning": "重さが～である",
+        "blank_word": "weigh",
+        "blank_sentence": "How much does this machine weigh?",
+        "reorder": "How<>much<>does<>this<>machine<>weigh?",
+        "dictation": "How much does this machine weigh?"
+    },
+    "6": {
+        "word": "clip",
+        "meaning": "切り抜く",
+        "blank_word": "clipped",
+        "blank_sentence": "She clipped a picture out of today's newspaper.",
+        "reorder": "She<>clipped<>a<>picture<>out<>of<>today's<>newspaper.",
+        "dictation": "She clipped a picture out of today's newspaper."
+    },
+    "7": {
+        "word": "sort",
+        "meaning": "分類する",
+        "blank_word": "sorted",
+        "blank_sentence": "The postal worker sorted the mail by weight.",
+        "reorder": "The<>postal<>worker<>sorted<>the<>mail<>by<>weight.",
+        "dictation": "The postal worker sorted the mail by weight."
+    },
+    "8": {
+        "word": "tie",
+        "meaning": "結ぶ",
+        "blank_word": "Tie",
+        "blank_sentence": "Tie these carts with the cord in order to keep them together.",
+        "reorder": "Tie<>these<>carts<>with<>the<>cord<>in<>order<>to<>keep<>them<>together.",
+        "dictation": "Tie these carts with the cord in order to keep them together."
+    },
+    "9": {
+        "word": "agree",
+        "meaning": "賛成する",
+        "blank_word": "agreed",
+        "blank_sentence": "A few people agreed with his idea, but many others disagreed.",
+        "reorder": "A<>few<>people<>agreed<>with<>his<>idea,<>but<>many<>others<>disagreed.",
+        "dictation": "A few people agreed with his idea, but many others disagreed."
+    },
+    "10": {
+        "word": "notice",
+        "meaning": "気付く",
+        "blank_word": "noticed",
+        "blank_sentence": "The engineer noticed the strange noise coming from the machine.",
+        "reorder": "The<>engineer<>noticed<>the<>strange<>noise<>coming<>from<>the<>machine.",
+        "dictation": "The engineer noticed the strange noise coming from the machine."
+    },
+    "11": {
+        "word": "discuss",
+        "meaning": "議論する",
+        "blank_word": "discussed",
+        "blank_sentence": "We discussed ways to reduce the size and weight of our new product.",
+        "reorder": "We<>discussed<>ways<>to<>reduce<>the<>size<>and<>weight<>of<>our<>new<>product.",
+        "dictation": "We discussed ways to reduce the size and weight of our new product."
+    },
+    "12": {
+        "word": "suppose",
+        "meaning": "(～であると)思う",
+        "blank_word": "suppose",
+        "blank_sentence": "I suppose we have to discuss this until we agree with each other.",
+        "reorder": "I<>suppose<>we<>have<>to<>discuss<>this<>until<>we<>agree<>with<>each<>other.",
+        "dictation": "I suppose we have to discuss this until we agree with each other."
+    },
+    "13": {
+        "word": "guess",
+        "meaning": "(言い)当てる",
+        "blank_word": "guess",
+        "blank_sentence": "Let's guess what happens next.",
+        "reorder": "Let's<>guess<>what<>happens<>next.",
+        "dictation": "Let's guess what happens next."
+    },
+    "14": {
+        "word": "serve",
+        "meaning": "(～の)役目をはたす",
+        "blank_word": "serve",
+        "blank_sentence": "Cell phones can also serve as network terminals.",
+        "reorder": "Cell<>phones<>can<>also<>serve<>as<>network<>terminals.",
+        "dictation": "Cell phones can also serve as network terminals."
+    },
+    "15": {
+        "word": "cash",
+        "meaning": "現金",
+        "blank_word": "cash",
+        "blank_sentence": "You can pay for your order either by credit card or cash.",
+        "reorder": "You<>can<>pay<>for<>your<>order<>either<>by<>credit<>card<>or<>cash.",
+        "dictation": "You can pay for your order either by credit card or cash."
+    },
+    "16": {
+        "word": "outside",
+        "meaning": "外側",
+        "blank_word": "outside",
+        "blank_sentence": "Sometimes you have to watch your country from the outside.",
+        "reorder": "Sometimes<>you<>have<>to<>watch<>your<>country<>from<>the<>outside.",
+        "dictation": "Sometimes you have to watch your country from the outside."
+    },
+    "17": {
+        "word": "grass",
+        "meaning": "草(地)",
+        "blank_word": "Grass",
+        "blank_sentence": "Grass in England stays green all year round.",
+        "reorder": "Grass<>in<>England<>stays<>green<>all<>year<>round.",
+        "dictation": "Grass in England stays green all year round."
+    },
+    "18": {
+        "word": "thought",
+        "meaning": "考え",
+        "blank_word": "thoughts",
+        "blank_sentence": "I would like to know what your thoughts are on this matter.",
+        "reorder": "I<>would<>like<>to<>know<>what<>your<>thoughts<>are<>on<>this<>matter.",
+        "dictation": "I would like to know what your thoughts are on this matter."
+    },
+    "19": {
+        "word": "theory",
+        "meaning": "理論",
+        "blank_word": "theory",
+        "blank_sentence": "His new theory is supported by many scientists.",
+        "reorder": "His<>new<>theory<>is<>supported<>by<>many<>scientists.",
+        "dictation": "His new theory is supported by many scientists."
+    },
+    "20": {
+        "word": "meal",
+        "meaning": "食事",
+        "blank_word": "meals",
+        "blank_sentence": "We usually have three meals a day.",
+        "reorder": "We<>usually<>have<>three<>meals<>a<>day.",
+        "dictation": "We usually have three meals a day."
+    },
+    "21": {
+        "word": "guest",
+        "meaning": "客",
+        "blank_word": "guests",
+        "blank_sentence": "There were hundreds of guests at the party.",
+        "reorder": "There<>were<>hundreds<>of<>guests<>at<>the<>party.",
+        "dictation": "There were hundreds of guests at the party."
+    },
+    "22": {
+        "word": "manner",
+        "meaning": "方法",
+        "blank_word": "manner",
+        "blank_sentence": "The experiment was carried out in this manner.",
+        "reorder": "The<>experiment<>was<>carried<>out<>in<>this<>manner.",
+        "dictation": "The experiment was carried out in this manner."
+    },
+    "23": {
+        "word": "gift",
+        "meaning": "贈り物",
+        "blank_word": "gift",
+        "blank_sentence": "I sent her flowers as a gift for her birthday.",
+        "reorder": "I<>sent<>her<>flowers<>as<>a<>gift<>for<>her<>birthday.",
+        "dictation": "I sent her flowers as a gift for her birthday."
+    },
+    "24": {
+        "word": "weather",
+        "meaning": "天気",
+        "blank_word": "weather",
+        "blank_sentence": "All flights were canceled because of bad weather.",
+        "reorder": "All<>flights<>were<>canceled<>because<>of<>bad<>weather.",
+        "dictation": "All flights were canceled because of bad weather."
+    },
+    "25": {
+        "word": "shower",
+        "meaning": "シャワー",
+        "blank_word": "shower",
+        "blank_sentence": "Taking a shower will wake you up quickly.",
+        "reorder": "Taking<>a<>shower<>will<>wake<>you<>up<>quickly.",
+        "dictation": "Taking a shower will wake you up quickly."
+    }
+}

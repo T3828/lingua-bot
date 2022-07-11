@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "pump",
+        "meaning": "ポンプ",
+        "blank_word": "pump",
+        "blank_sentence": "The pump is driven by the motor.",
+        "reorder": "The<>pump<>is<>driven<>by<>the<>motor.",
+        "dictation": "The pump is driven by the motor."
+    },
+    "2": {
+        "word": "goal",
+        "meaning": "目標",
+        "blank_word": "goal",
+        "blank_sentence": "When you start a project, you should make its goal clear.",
+        "reorder": "When<>you<>start<>a<>project,<>you<>should<>make<>its<>goal<>clear.",
+        "dictation": "When you start a project, you should make its goal clear."
+    },
+    "3": {
+        "word": "crystal",
+        "meaning": "結晶",
+        "blank_word": "crystals",
+        "blank_sentence": "How can I see ice crystals?",
+        "reorder": "How<>can<>I<>see<>ice<>crystals?",
+        "dictation": "How can I see ice crystals?"
+    },
+    "4": {
+        "word": "wire",
+        "meaning": "針金",
+        "blank_word": "wire",
+        "blank_sentence": "Put the wire through the tube.",
+        "reorder": "Put<>the<>wire<>through<>the<>tube.",
+        "dictation": "Put the wire through the tube."
+    },
+    "5": {
+        "word": "style",
+        "meaning": "様式",
+        "blank_word": "style",
+        "blank_sentence": "I like the Japanese style of building.",
+        "reorder": "I<>like<>the<>Japanese<>style<>of<>building.",
+        "dictation": "I like the Japanese style of building."
+    },
+    "6": {
+        "word": "sheet",
+        "meaning": "用紙",
+        "blank_word": "sheets",
+        "blank_sentence": "Give me two more answer sheets.",
+        "reorder": "Give<>me<>two<>more<>answer<>sheets.",
+        "dictation": "Give me two more answer sheets."
+    },
+    "7": {
+        "word": "film",
+        "meaning": "膜",
+        "blank_word": "film",
+        "blank_sentence": "There is a film of oil on the water.",
+        "reorder": "There<>is<>a<>film<>of<>oil<>on<>the<>water.",
+        "dictation": "There is a film of oil on the water."
+    },
+    "8": {
+        "word": "label",
+        "meaning": "ラベル",
+        "blank_word": "label",
+        "blank_sentence": "There was no label on the bottle.",
+        "reorder": "There<>was<>no<>label<>on<>the<>bottle.",
+        "dictation": "There was no label on the bottle."
+    },
+    "9": {
+        "word": "pipe",
+        "meaning": "管",
+        "blank_word": "pipe",
+        "blank_sentence": "This pipe is not for water but for oil.",
+        "reorder": "The<>pipe<>is<>not<>for<>water<>but<>for<>oil.",
+        "dictation": "The pipe is not for water but for oil."
+    },
+    "10": {
+        "word": "route",
+        "meaning": "道筋",
+        "blank_word": "route",
+        "blank_sentence": "The shortest route is not always the easiest.",
+        "reorder": "The<>shortest<>route<>is<>not<>always<>the<>easiest.",
+        "dictation": "The shortest route is not always the easiest."
+    },
+    "11": {
+        "word": "steel",
+        "meaning": "鋼鉄",
+        "blank_word": "steel",
+        "blank_sentence": "The cover of the motor is made out of a steel sheet.",
+        "reorder": "The<>cover<>of<>the<>motor<>is<>made<>out<>of<>a<>steel<>sheet.",
+        "dictation": "The cover of the motor is made out of a steel sheet."
+    },
+    "12": {
+        "word": "center",
+        "meaning": "中心",
+        "blank_word": "center",
+        "blank_sentence": "The goal of the race is in the center of the city.",
+        "reorder": "The<>goal<>of<>the<>race<>is<>in<>the<>center<>of<>the<>city.",
+        "dictation": "The goal of the race is in the center of the city."
+    },
+    "13": {
+        "word": "dial",
+        "meaning": "ダイヤル",
+        "blank_word": "dial",
+        "blank_sentence": "Set the dial to the center.",
+        "reorder": "Set<>the<>dial<>to<>the<>center.",
+        "dictation": "Set the dial to the center."
+    },
+    "14": {
+        "word": "filter",
+        "meaning": "フィルター",
+        "blank_word": "filter",
+        "blank_sentence": "A filter is set in the pump to clean up the water.",
+        "reorder": "A<>filter<>is<>set<>in<>the<>pump<>to<>clean<>up<>the<>water.",
+        "dictation": "A filter is set in the pump to clean up the water."
+    },
+    "15": {
+        "word": "condition",
+        "meaning": "条件",
+        "blank_word": "conditions",
+        "blank_sentence": "This tree can grow under bad conditions.",
+        "reorder": "This<>tree<>can<>grow<>under<>bad<>conditions.",
+        "dictation": "This tree can grow under bad conditions."
+    },
+    "16": {
+        "word": "brush",
+        "meaning": "ブラシ",
+        "blank_word": "brush",
+        "blank_sentence": "Clean the air filter with a brush.",
+        "reorder": "Clean<>the<>air<>filter<>with<>a<>brush.",
+        "dictation": "Clean the air filter with a brush."
+    },
+    "17": {
+        "word": "less",
+        "meaning": "より少ない(小さい)",
+        "blank_word": "less",
+        "blank_sentence": "This washing machine uses less water than other models.",
+        "reorder": "This<>washing<>machine<>uses<>less<>water<>than<>other<>models.",
+        "dictation": "This washing machine uses less water than other models."
+    },
+    "18": {
+        "word": "minus",
+        "meaning": "負(マイナス)の",
+        "blank_word": "Minus",
+        "blank_sentence": "Minus one is one less than zero.",
+        "reorder": "Minus<>one<>is<>one<>less<>than<>zero.",
+        "dictation": "Minus one is one less than zero."
+    },
+    "19": {
+        "word": "equal",
+        "meaning": "等しい",
+        "blank_word": "equal",
+        "blank_sentence": "Those two numbers are equal to each other.",
+        "reorder": "Those<>two<>numbers<>are<>equal<>to<>each<>other.",
+        "dictation": "Those two numbers are equal to each other."
+    },
+    "20": {
+        "word": "normal",
+        "meaning": "普通の",
+        "blank_word": "normal",
+        "blank_sentence": "Such big waves cannot be seen under normal conditions.",
+        "reorder": "Such<>big<>waves<>cannot<>be<>seen<>under<>normal<>conditions.",
+        "dictation": "Such big waves cannot be seen under normal conditions."
+    },
+    "21": {
+        "word": "single",
+        "meaning": "一つの",
+        "blank_word": "single",
+        "blank_sentence": "He did not say a single word.",
+        "reorder": "He<>did<>not<>say<>a<>single<>word.",
+        "dictation": "He did not say a single word."
+    },
+    "22": {
+        "word": "double",
+        "meaning": "倍の",
+        "blank_word": "double",
+        "blank_sentence": "The machine is playing back the video at double speed.",
+        "reorder": "The<>machine<>is<>playing<>back<>the<>video<>at<>double<>speed.",
+        "dictation": "The machine is playing back the video at double speed."
+    },
+    "23": {
+        "word": "professional",
+        "meaning": "プロの",
+        "blank_word": "professional",
+        "blank_sentence": "No professional singers can take part in this contest.",
+        "reorder": "No<>professional<>singers<>can<>take<>part<>in<>this<>contest.",
+        "dictation": "No professional singers can take part in this contest."
+    },
+    "24": {
+        "word": "total",
+        "meaning": "全体の",
+        "blank_word": "total",
+        "blank_sentence": "What was the total number of engineers who took part in the project?",
+        "reorder": "What<>was<>the<>total<>number<>of<>engineers<>who<>took<>part<>in<>the<>project?",
+        "dictation": "What was the total number of engineers who took part in the project?"
+    },
+    "25": {
+        "word": "simple",
+        "meaning": "簡単な",
+        "blank_word": "simple",
+        "blank_sentence": "Do you have a book written in simple English?",
+        "reorder": "Do<>you<>have<>a<>book<>written<>in<>simple<>English?",
+        "dictation": "Do you have a book written in simple English?"
+    }
+}

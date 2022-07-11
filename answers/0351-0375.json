@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "except",
+        "meaning": "～を除いて",
+        "blank_word": "except",
+        "blank_sentence": "Everybody in my office except me took a vacation.",
+        "reorder": "Everybody<>in<>my<>office<>except<>me<>took<>a<>vacation.",
+        "dictation": "Everybody in my office except me took a vacation."
+    },
+    "2": {
+        "word": "per",
+        "meaning": "～につき",
+        "blank_word": "per",
+        "blank_sentence": "The international call to the country is charged at 100 yen per minute.",
+        "reorder": "The<>international<>call<>to<>the<>country<>is<>charged<>at<>100<>yen<>per<>minute.",
+        "dictation": "The international call to the country is charged at 100 yen per minute."
+    },
+    "3": {
+        "word": "via",
+        "meaning": "～経由で",
+        "blank_word": "via",
+        "blank_sentence": "This airplane flies to Sydney via Singapore.",
+        "reorder": "This<>airplane<>flies<>to<>Sydney<>via<>Singapore.",
+        "dictation": "This airplane flies to Sydney via Singapore."
+    },
+    "4": {
+        "word": "unlike",
+        "meaning": "～と違って",
+        "blank_word": "Unlike",
+        "blank_sentence": "Unlike plastic, natural rubber is made from a plant.",
+        "reorder": "Unlike<>plastic,<>natural<>rubber<>is<>made<>from<>a<>plant.",
+        "dictation": "Unlike plastic, natural rubber is made from a plant."
+    },
+    "5": {
+        "word": "however",
+        "meaning": "どんなに～でも",
+        "blank_word": "However",
+        "blank_sentence": "However hot it is, you must not take off your goggles.",
+        "reorder": "However<>hot<>it<>is,<>you<>must<>not<>take<>off<>your<>goggles.",
+        "dictation": "However hot it is, you must not take off your goggles."
+    },
+    "6": {
+        "word": "probably",
+        "meaning": "たぶん",
+        "blank_word": "probably",
+        "blank_sentence": "He probably took the wrong train.",
+        "reorder": "He<>probably<>took<>the<>wrong<>train.",
+        "dictation": "He probably took the wrong train."
+    },
+    "7": {
+        "word": "perhaps",
+        "meaning": "ひょっとすると",
+        "blank_word": "perhaps",
+        "blank_sentence": "The bird's scientific name is perhaps too long for you to remember.",
+        "reorder": "The<>bird's<>scientific<>name<>is<>perhaps<>too<>long<>for<>you<>to<>remember.",
+        "dictation": "The bird's scientific name is perhaps too long for you to remember."
+    },
+    "8": {
+        "word": "quite",
+        "meaning": "まったく",
+        "blank_word": "quite",
+        "blank_sentence": "I have another plan which is quite different from yours.",
+        "reorder": "I<>have<>another<>plan<>which<>is<>quite<>different<>from<>yours.",
+        "dictation": "I have another plan which is quite different from yours."
+    },
+    "9": {
+        "word": "according",
+        "meaning": "～によれば",
+        "blank_word": "According",
+        "blank_sentence": "According to the news report, a Japanese scientist has won the Nobel Prize.",
+        "reorder": "According<>to<>the<>news<>report,<>a<>Japanese<>scientist<>has<>won<>the<>Nobel<>Prize.",
+        "dictation": "According to the news report, a Japanese scientist has won the Nobel Prize."
+    },
+    "10": {
+        "word": "rather",
+        "meaning": "むしろ",
+        "blank_word": "rather",
+        "blank_sentence": "I would rather go to school than stay home.",
+        "reorder": "I<>would<>rather<>go<>to<>school<>than<>stay<>home.",
+        "dictation": "I would rather go to school than stay home."
+    },
+    "11": {
+        "word": "instead",
+        "meaning": "代わりに",
+        "blank_word": "instead",
+        "blank_sentence": "A stone can be used instead of a hammer.",
+        "reorder": "A<>stone<>can<>be<>used<>instead<>of<>a<>hammer.",
+        "dictation": "A stone can be used instead of a hammer."
+    },
+    "12": {
+        "word": "therefore",
+        "meaning": "だから",
+        "blank_word": "therefore",
+        "blank_sentence": "I knew we had little water; therefore I drank beer instead.",
+        "reorder": "I<>knew<>we<>had<>little<>water;<>therefore<>I<>drank<>beer<>instead.",
+        "dictation": "I knew we had little water; therefore I drank beer instead."
+    },
+    "13": {
+        "word": "meanwhile",
+        "meaning": "その間に",
+        "blank_word": "meanwhile",
+        "blank_sentence": "My husband walked the dog; meanwhile , I cleaned the room.",
+        "reorder": "My<>husband<>walked<>the<>dog;<>meanwhile<>,<>I<>cleaned<>the<>room.",
+        "dictation": "My husband walked the dog; meanwhile , I cleaned the room."
+    },
+    "14": {
+        "word": "otherwise",
+        "meaning": "さもなければ",
+        "blank_word": "otherwise",
+        "blank_sentence": "Take him to the hospital now, otherwise he may die.",
+        "reorder": "Take<>him<>to<>the<>hospital<>now,<>otherwise<>he<>may<>die.",
+        "dictation": "Take him to the hospital now, otherwise he may die."
+    },
+    "15": {
+        "word": "anyway",
+        "meaning": "とにかく",
+        "blank_word": "anyway",
+        "blank_sentence": "I don't understand your idea very well, but let me listen to you anyway.",
+        "reorder": "I<>don't<>understand<>your<>idea<>very<>well,<>but<>let<>me<>listen<>to<>you<>anyway.",
+        "dictation": "I don't understand your idea very well, but let me listen to you anyway."
+    },
+    "16": {
+        "word": "past",
+        "meaning": "過去",
+        "blank_word": "past",
+        "blank_sentence": "Studying history is learning from the past.",
+        "reorder": "Studying<>history<>is<>learning<>from<>the<>past.",
+        "dictation": "Studying history is learning from the past."
+    },
+    "17": {
+        "word": "future",
+        "meaning": "未来",
+        "blank_word": "future",
+        "blank_sentence": "The future of a country is in the hands of the children.",
+        "reorder": "The<>future<>of<>a<>country<>is<>in<>the<>hands<>of<>the<>children.",
+        "dictation": "The future of a country is in the hands of the children."
+    },
+    "18": {
+        "word": "research",
+        "meaning": "研究",
+        "blank_word": "research",
+        "blank_sentence": "His research is well known throughout the world.",
+        "reorder": "His<>research<>is<>well<>known<>throughout<>the<>world.",
+        "dictation": "His research is well known throughout the world."
+    },
+    "19": {
+        "word": "experiment",
+        "meaning": "実験",
+        "blank_word": "experiment",
+        "blank_sentence": "Dry ice is needed for the experiment.",
+        "reorder": "Dry<>ice<>is<>needed<>for<>the<>experiment.",
+        "dictation": "Dry ice is needed for the experiment."
+    },
+    "20": {
+        "word": "result",
+        "meaning": "結果",
+        "blank_word": "result",
+        "blank_sentence": "This graph shows the result of the simulation.",
+        "reorder": "This<>graph<>shows<>the<>result<>of<>the<>simulation.",
+        "dictation": "This graph shows the result of the simulation."
+    },
+    "21": {
+        "word": "trial",
+        "meaning": "試行",
+        "blank_word": "trial",
+        "blank_sentence": "We made a number of trial experiments in this research.",
+        "reorder": "We<>made<>a<>number<>of<>trial<>experiments<>in<>this<>research.",
+        "dictation": "We made a number of trial experiments in this research."
+    },
+    "22": {
+        "word": "state",
+        "meaning": "状態",
+        "blank_word": "state",
+        "blank_sentence": "Water changes its state from liquid to gas at 100℃.",
+        "reorder": "Water<>changes<>its<>state<>from<>liquid<>to<>gas<>at<>100℃.",
+        "dictation": "Water changes its state from liquid to gas at 100℃."
+    },
+    "23": {
+        "word": "nation",
+        "meaning": "国",
+        "blank_word": "nations",
+        "blank_sentence": "Some nations are active against global warming, but some are not.",
+        "reorder": "Some<>nations<>are<>active<>against<>global<>warming,<>but<>some<>are<>not.",
+        "dictation": "Some nations are active against global warming, but some are not."
+    },
+    "24": {
+        "word": "schedule",
+        "meaning": "予定",
+        "blank_word": "schedule",
+        "blank_sentence": "I will check my schedule for next Wednesday.",
+        "reorder": "I<>will<>check<>my<>schedule<>for<>next<>Wednesday.",
+        "dictation": "I will check my schedule for next Wednesday."
+    },
+    "25": {
+        "word": "interest",
+        "meaning": "興味",
+        "blank_word": "interest",
+        "blank_sentence": "The engineers showed a lot of interest in the new engine.",
+        "reorder": "The<>engineers<>showed<>a<>lot<>of<>interest<>in<>the<>new<>engine.",
+        "dictation": "The engineers showed a lot of interest in the new engine."
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "interpret",
+        "meaning": "解釈する",
+        "blank_word": "interpret",
+        "blank_sentence": "You need to interpret these data in order to reach a conclusion.",
+        "reorder": "You<>need<>to<>interpret<>these<>data<>in<>order<>to<>reach<>a<>conclusion.",
+        "dictation": "You need to interpret these data in order to reach a conclusion."
+    },
+    "2": {
+        "word": "declare",
+        "meaning": "宣言する",
+        "blank_word": "declared",
+        "blank_sentence": "The authorities have declared that the war has ended.",
+        "reorder": "The<>authorities<>have<>declared<>that<>the<>war<>has<>ended.",
+        "dictation": "The authorities have declared that the war has ended."
+    },
+    "3": {
+        "word": "impose",
+        "meaning": "(義務,負担などを)課す",
+        "blank_word": "imposed",
+        "blank_sentence": "The judge imposed a fine of 400 dollars on the speeder.",
+        "reorder": "The<>judge<>imposed<>a<>fine<>of<>400<>dollars<>on<>the<>speeder.",
+        "dictation": "The judge imposed a fine of 400 dollars on the speeder."
+    },
+    "4": {
+        "word": "inform",
+        "meaning": "知らせる",
+        "blank_word": "informed",
+        "blank_sentence": "He immediately informed all his colleagues of his discovery.",
+        "reorder": "He<>immediately<>informed<>all<>his<>colleagues<>of<>his<>discovery.",
+        "dictation": "He immediately informed all his colleagues of his discovery."
+    },
+    "5": {
+        "word": "intrigue",
+        "meaning": "興味をそそる",
+        "blank_word": "intrigued",
+        "blank_sentence": "I was intrigued by the young scientist's study.",
+        "reorder": "I<>was<>intrigued<>by<>the<>young<>scientist's<>study.",
+        "dictation": "I was intrigued by the young scientist's study."
+    },
+    "6": {
+        "word": "disturb",
+        "meaning": "邪魔する",
+        "blank_word": "disturb",
+        "blank_sentence": "Don't disturb me when I am studying.",
+        "reorder": "Don't<>disturb<>me<>when<>I<>am<>studying.",
+        "dictation": "Don't disturb me when I am studying."
+    },
+    "7": {
+        "word": "resemble",
+        "meaning": "似ている",
+        "blank_word": "resembles",
+        "blank_sentence": "The motion of the robot closely resembles that of humans.",
+        "reorder": "The<>motion<>of<>the<>robot<>closely<>resembles<>that<>of<>humans.",
+        "dictation": "The motion of the robot closely resembles that of humans."
+    },
+    "8": {
+        "word": "accuse",
+        "meaning": "告訴する",
+        "blank_word": "accused",
+        "blank_sentence": "The venture corporation was accused of making illegal copies of software.",
+        "reorder": "The<>venture<>corporation<>was<>accused<>of<>making<>illegal<>copies<>of<>software.",
+        "dictation": "The venture corporation was accused of making illegal copies of software."
+    },
+    "9": {
+        "word": "manipulate",
+        "meaning": "操作する",
+        "blank_word": "manipulate",
+        "blank_sentence": "It's not so easy to manipulate this machine.",
+        "reorder": "It's<>not<>so<>easy<>to<>manipulate<>this<>machine.",
+        "dictation": "It's not so easy to manipulate this machine."
+    },
+    "10": {
+        "word": "protest",
+        "meaning": "抗議する",
+        "blank_word": "protested",
+        "blank_sentence": "Many students protested the university's decision to dismiss the student union.",
+        "reorder": "Many<>students<>protested<>the<>university's<>decision<>to<>dismiss<>the<>student<>union.",
+        "dictation": "Many students protested the university's decision to dismiss the student union."
+    },
+    "11": {
+        "word": "integrate",
+        "meaning": "統合する",
+        "blank_word": "integrated",
+        "blank_sentence": "The company integrated several functions into one new department.",
+        "reorder": "The<>company<>integrated<>several<>functions<>into<>one<>new<>department.",
+        "dictation": "The company integrated several functions into one new department."
+    },
+    "12": {
+        "word": "retain",
+        "meaning": "保持する",
+        "blank_word": "retain",
+        "blank_sentence": "This new material can retain heat much longer than the others.",
+        "reorder": "This<>new<>material<>can<>retain<>heat<>much<>longer<>than<>the<>others.",
+        "dictation": "This new material can retain heat much longer than the others."
+    },
+    "13": {
+        "word": "debris",
+        "meaning": "瓦礫",
+        "blank_word": "debris",
+        "blank_sentence": "The debris blocked the ambulance from reaching the accident scene.",
+        "reorder": "The<>debris<>blocked<>the<>ambulance<>from<>reaching<>the<>accident<>scene.",
+        "dictation": "The debris blocked the ambulance from reaching the accident scene."
+    },
+    "14": {
+        "word": "fashion",
+        "meaning": "流行",
+        "blank_word": "fashion",
+        "blank_sentence": "This type of cell phone has gone out of fashion.",
+        "reorder": "This<>type<>of<>cell<>phone<>has<>gone<>out<>of<>fashion.",
+        "dictation": "This type of cell phone has gone out of fashion."
+    },
+    "15": {
+        "word": "incident",
+        "meaning": "できごと",
+        "blank_word": "incident",
+        "blank_sentence": "The novel is based on an actual incident that took place in the past.",
+        "reorder": "The<>novel<>is<>based<>on<>an<>actual<>incident<>that<>took<>place<>in<>the<>past.",
+        "dictation": "The novel is based on an actual incident that took place in the past."
+    },
+    "16": {
+        "word": "fate",
+        "meaning": "運命",
+        "blank_word": "fate",
+        "blank_sentence": "In the future, human beings may meet a similar fate to that of dinosaurs.",
+        "reorder": "In<>the<>future,<>human<>beings<>may<>meet<>a<>similar<>fate<>to<>that<>of<>dinosaurs.",
+        "dictation": "In the future, human beings may meet a similar fate to that of dinosaurs."
+    },
+    "17": {
+        "word": "abuse",
+        "meaning": "乱用",
+        "blank_word": "abuse",
+        "blank_sentence": "Drug abuse is a big problem among young people.",
+        "reorder": "Drug<>abuse<>is<>a<>big<>problem<>among<>young<>people.",
+        "dictation": "Drug abuse is a big problem among young people."
+    },
+    "18": {
+        "word": "habit",
+        "meaning": "習慣",
+        "blank_word": "habit",
+        "blank_sentence": "I have a habit of checking my email right after waking up.",
+        "reorder": "I<>have<>a<>habit<>of<>checking<>my<>email<>right<>after<>waking<>up.",
+        "dictation": "I have a habit of checking my email right after waking up."
+    },
+    "19": {
+        "word": "bush",
+        "meaning": "茂み",
+        "blank_word": "bush",
+        "blank_sentence": "A snake crawled out of the bush.",
+        "reorder": "A<>snake<>crawled<>out<>of<>the<>bush.",
+        "dictation": "A snake crawled out of the bush."
+    },
+    "20": {
+        "word": "classic",
+        "meaning": "古典",
+        "blank_word": "classic",
+        "blank_sentence": "The book about the early Internet has become almost a classic.",
+        "reorder": "The<>book<>about<>the<>early<>Internet<>has<>become<>almost<>a<>classic.",
+        "dictation": "The book about the early Internet has become almost a classic."
+    },
+    "21": {
+        "word": "essay",
+        "meaning": "小論文",
+        "blank_word": "essay",
+        "blank_sentence": "You have to write an essay as part of the examination.",
+        "reorder": "You<>have<>to<>write<>an<>essay<>as<>part<>of<>the<>examination.",
+        "dictation": "You have to write an essay as part of the examination."
+    },
+    "22": {
+        "word": "mold",
+        "meaning": "(成形用の)型",
+        "blank_word": "mold",
+        "blank_sentence": "A mold is used to shape a soft substance into a particular form.",
+        "reorder": "A<>mold<>is<>used<>to<>shape<>a<>soft<>substance<>into<>a<>particular<>form.",
+        "dictation": "A mold is used to shape a soft substance into a particular form."
+    },
+    "23": {
+        "word": "peer",
+        "meaning": "仲間",
+        "blank_word": "peers",
+        "blank_sentence": "He completed the research with the support of his peers.",
+        "reorder": "He<>completed<>the<>research<>with<>the<>support<>of<>his<>peers.",
+        "dictation": "He completed the research with the support of his peers."
+    },
+    "24": {
+        "word": "tale",
+        "meaning": "物語",
+        "blank_word": "tales",
+        "blank_sentence": "The book contains twelve short tales.",
+        "reorder": "The<>book<>contains<>twelve<>short<>tales.",
+        "dictation": "The book contains twelve short tales."
+    },
+    "25": {
+        "word": "crew",
+        "meaning": "乗組員",
+        "blank_word": "crew",
+        "blank_sentence": "The crew of the space shuttle returned safely from space.",
+        "reorder": "The<>crew<>of<>the<>space<>shuttle<>returned<>safely<>from<>space.",
+        "dictation": "The crew of the space shuttle returned safely from space."
+    }
+}

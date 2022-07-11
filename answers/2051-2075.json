@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "interfere",
+        "meaning": "妨げる",
+        "blank_word": "interferes",
+        "blank_sentence": "Passive smoking interferes with the healthy development of children.",
+        "reorder": "Passive<>smoking<>interferes<>with<>the<>healthy<>development<>of<>children.",
+        "dictation": "Passive smoking interferes with the healthy development of children."
+    },
+    "2": {
+        "word": "inspire",
+        "meaning": "ひらめきを与える",
+        "blank_word": "inspired",
+        "blank_sentence": "The accident inspired him to invent a new type of seatbelt.",
+        "reorder": "The<>accident<>inspired<>him<>to<>invent<>a<>new<>type<>of<>seatbelt.",
+        "dictation": "The accident inspired him to invent a new type of seatbelt."
+    },
+    "3": {
+        "word": "undergo",
+        "meaning": "(治療などを)受ける",
+        "blank_word": "undergo",
+        "blank_sentence": "Most people will be scared if they have to undergo brain surgery.",
+        "reorder": "Most<>people<>will<>be<>scared<>if<>they<>have<>to<>undergo<>brain<>surgery.",
+        "dictation": "Most people will be scared if they have to undergo brain surgery."
+    },
+    "4": {
+        "word": "penetrate",
+        "meaning": "突き抜ける",
+        "blank_word": "penetrate",
+        "blank_sentence": "Gamma-rays penetrate human bodies because it is electromagnetic radiation.",
+        "reorder": "Gamma-rays<>penetrate<>human<>bodies<>because<>it<>is<>electromagnetic<>radiation.",
+        "dictation": "Gamma-rays penetrate human bodies because it is electromagnetic radiation."
+    },
+    "5": {
+        "word": "apologize",
+        "meaning": "謝罪する",
+        "blank_word": "apologized",
+        "blank_sentence": "The company apologized for not having satisfied the demands of the customers.",
+        "reorder": "The<>company<>apologized<>for<>not<>having<>satisfied<>the<>demands<>of<>the<>customers.",
+        "dictation": "The company apologized for not having satisfied the demands of the customers."
+    },
+    "6": {
+        "word": "exhibit",
+        "meaning": "見せる",
+        "blank_word": "exhibit",
+        "blank_sentence": "If you believe you are right, you must exhibit a firm attitude.",
+        "reorder": "If<>you<>believe<>you<>are<>right,<>you<>must<>exhibit<>a<>firm<>attitude.",
+        "dictation": "If you believe you are right, you must exhibit a firm attitude."
+    },
+    "7": {
+        "word": "implement",
+        "meaning": "実行する",
+        "blank_word": "implement",
+        "blank_sentence": "The president urged the government to implement its new policy immediately.",
+        "reorder": "The<>president<>urged<>the<>government<>to<>implement<>its<>new<>policy<>immediately.",
+        "dictation": "The president urged the government to implement its new policy immediately."
+    },
+    "8": {
+        "word": "diagnose",
+        "meaning": "診断する",
+        "blank_word": "diagnosed",
+        "blank_sentence": "The doctor diagnosed my father's illness as lung cancer.",
+        "reorder": "The<>doctor<>diagnosed<>my<>father's<>illness<>as<>lung<>cancer.",
+        "dictation": "The doctor diagnosed my father's illness as lung cancer."
+    },
+    "9": {
+        "word": "pour",
+        "meaning": "注ぐ",
+        "blank_word": "pour",
+        "blank_sentence": "Do not pour hot water into this paper cup.",
+        "reorder": "Do<>not<>pour<>hot<>water<>into<>this<>paper<>cup.",
+        "dictation": "Do not pour hot water into this paper cup."
+    },
+    "10": {
+        "word": "punish",
+        "meaning": "罰する",
+        "blank_word": "punished",
+        "blank_sentence": "All criminals must be punished.",
+        "reorder": "All<>criminals<>must<>be<>punished.",
+        "dictation": "All criminals must be punished."
+    },
+    "11": {
+        "word": "drift",
+        "meaning": "漂流する",
+        "blank_word": "drifted",
+        "blank_sentence": "The crew of the ship drifted in a life boat for three days.",
+        "reorder": "The<>crew<>of<>the<>ship<>drifted<>in<>a<>life<>boat<>for<>three<>days.",
+        "dictation": "The crew of the ship drifted in a life boat for three days."
+    },
+    "12": {
+        "word": "breeze",
+        "meaning": "そよ風",
+        "blank_word": "breeze",
+        "blank_sentence": "The leaves twisted in the breeze.",
+        "reorder": "The<>leaves<>twisted<>in<>the<>breeze.",
+        "dictation": "The leaves twisted in the breeze."
+    },
+    "13": {
+        "word": "basin",
+        "meaning": "洗面器",
+        "blank_word": "basin",
+        "blank_sentence": "Pour water into the basin and wash your face.",
+        "reorder": "Pour<>water<>into<>the<>basin<>and<>wash<>your<>face.",
+        "dictation": "Pour water into the basin and wash your face."
+    },
+    "14": {
+        "word": "constellation",
+        "meaning": "星座",
+        "blank_word": "constellations",
+        "blank_sentence": "Orion is one of the most distinct constellations in the winter night sky.",
+        "reorder": "Orion<>is<>one<>of<>the<>most<>distinct<>constellations<>in<>the<>winter<>night<>sky.",
+        "dictation": "Orion is one of the most distinct constellations in the winter night sky."
+    },
+    "15": {
+        "word": "pit",
+        "meaning": "穴",
+        "blank_word": "pits",
+        "blank_sentence": "There are many kinds of animals which live in pits in the ground.",
+        "reorder": "There<>are<>many<>kinds<>of<>animals<>which<>live<>in<>pits<>in<>the<>ground.",
+        "dictation": "There are many kinds of animals which live in pits in the ground."
+    },
+    "16": {
+        "word": "exhibition",
+        "meaning": "展示会",
+        "blank_word": "exhibition",
+        "blank_sentence": "There was an exhibition of new cars at the hall last week.",
+        "reorder": "There<>was<>an<>exhibition<>of<>new<>cars<>at<>the<>hall<>last<>week.",
+        "dictation": "There was an exhibition of new cars at the hall last week."
+    },
+    "17": {
+        "word": "invitation",
+        "meaning": "招待",
+        "blank_word": "invitation",
+        "blank_sentence": "I got an invitation to the special exhibition of new cars.",
+        "reorder": "I<>got<>an<>invitation<>to<>the<>special<>exhibition<>of<>new<>cars.",
+        "dictation": "I got an invitation to the special exhibition of new cars."
+    },
+    "18": {
+        "word": "conversation",
+        "meaning": "会話",
+        "blank_word": "conversation",
+        "blank_sentence": "You can have a normal telephone conversation on the Internet.",
+        "reorder": "You<>can<>have<>a<>normal<>telephone<>conversation<>on<>the<>Internet.",
+        "dictation": "You can have a normal telephone conversation on the Internet."
+    },
+    "19": {
+        "word": "footstep",
+        "meaning": "足音",
+        "blank_word": "footsteps",
+        "blank_sentence": "His loud footsteps echoed in the exhibition hall.",
+        "reorder": "His<>loud<>footsteps<>echoed<>in<>the<>exhibition<>hall.",
+        "dictation": "His loud footsteps echoed in the exhibition hall."
+    },
+    "20": {
+        "word": "absence",
+        "meaning": "不在",
+        "blank_word": "absence",
+        "blank_sentence": "We need someone who can replace the boss during his absence.",
+        "reorder": "We<>need<>someone<>who<>can<>replace<>the<>boss<>during<>his<>absence.",
+        "dictation": "We need someone who can replace the boss during his absence."
+    },
+    "21": {
+        "word": "criteria",
+        "meaning": "(評価,判断の)基準",
+        "blank_word": "criteria",
+        "blank_sentence": "What are the criteria for the diagnosis of this disease?",
+        "reorder": "What<>are<>the<>criteria<>for<>the<>diagnosis<>of<>this<>disease?",
+        "dictation": "What are the criteria for the diagnosis of this disease?"
+    },
+    "22": {
+        "word": "excess",
+        "meaning": "超過",
+        "blank_word": "excess",
+        "blank_sentence": "Profit is the excess of sales over costs.",
+        "reorder": "Profit<>is<>the<>excess<>of<>sales<>over<>costs.",
+        "dictation": "Profit is the excess of sales over costs."
+    },
+    "23": {
+        "word": "lifetime",
+        "meaning": "寿命",
+        "blank_word": "lifetime",
+        "blank_sentence": "LED lamps have a much longer lifetime than other types.",
+        "reorder": "LED<>lamps<>have<>a<>much<>longer<>lifetime<>than<>other<>types.",
+        "dictation": "LED lamps have a much longer lifetime than other types."
+    },
+    "24": {
+        "word": "trail",
+        "meaning": "軌跡",
+        "blank_word": "trails",
+        "blank_sentence": "The white trails which jet planes leave in the sky are mainly water vapor.",
+        "reorder": "The<>white<>trails<>which<>jet<>planes<>leave<>in<>the<>sky<>are<>mainly<>water<>vapor.",
+        "dictation": "The white trails which jet planes leave in the sky are mainly water vapor."
+    },
+    "25": {
+        "word": "turbine",
+        "meaning": "タービン",
+        "blank_word": "turbine",
+        "blank_sentence": "A flaw in a blade of the turbine can disrupt its steady rotation.",
+        "reorder": "A<>flaw<>in<>a<>blade<>of<>the<>turbine<>can<>disrupt<>its<>steady<>rotation.",
+        "dictation": "A flaw in a blade of the turbine can disrupt its steady rotation."
+    }
+}

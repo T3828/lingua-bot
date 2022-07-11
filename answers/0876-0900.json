@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "modulate",
+        "meaning": "調整する",
+        "blank_word": "modulates",
+        "blank_sentence": "This device modulates the room temperature automatically.",
+        "reorder": "This<>device<>modulates<>the<>room<>temperature<>automatically.",
+        "dictation": "This device modulates the room temperature automatically."
+    },
+    "2": {
+        "word": "boost",
+        "meaning": "(押し)上げる",
+        "blank_word": "boost",
+        "blank_sentence": "Adding the special fuel can boost the power of the engine.",
+        "reorder": "Adding<>the<>special<>fuel<>can<>boost<>the<>power<>of<>the<>engine.",
+        "dictation": "Adding the special fuel can boost the power of the engine."
+    },
+    "3": {
+        "word": "warn",
+        "meaning": "警告する",
+        "blank_word": "warns",
+        "blank_sentence": "That sound warns that the machine is in trouble.",
+        "reorder": "That<>sound<>warns<>that<>the<>machine<>is<>in<>trouble.",
+        "dictation": "That sound warns that the machine is in trouble."
+    },
+    "4": {
+        "word": "treat",
+        "meaning": "扱う",
+        "blank_word": "treat",
+        "blank_sentence": "My grandparents still treat me like a child.",
+        "reorder": "My<>grandparents<>still<>treat<>me<>like<>a<>child.",
+        "dictation": "My grandparents still treat me like a child."
+    },
+    "5": {
+        "word": "feed",
+        "meaning": "(餌・食べ物を)与える",
+        "blank_word": "feed",
+        "blank_sentence": "Please do not feed the birds in this park.",
+        "reorder": "Please<>do<>not<>feed<>the<>birds<>in<>this<>park.",
+        "dictation": "Please do not feed the birds in this park."
+    },
+    "6": {
+        "word": "bite",
+        "meaning": "噛む",
+        "blank_word": "bite",
+        "blank_sentence": "I can't bite an apple because I have a toothache.",
+        "reorder": "I<>can't<>bite<>an<>apple<>because<>I<>have<>a<>toothache.",
+        "dictation": "I can't bite an apple because I have a toothache."
+    },
+    "7": {
+        "word": "bark",
+        "meaning": "(犬などが)吠える",
+        "blank_word": "barks",
+        "blank_sentence": "Whenever I go to his house, his dog barks at me.",
+        "reorder": "Whenever<>I<>go<>to<>his<>house,<>his<>dog<>barks<>at<>me.",
+        "dictation": "Whenever I go to his house, his dog barks at me."
+    },
+    "8": {
+        "word": "wipe",
+        "meaning": "拭く",
+        "blank_word": "Wipe",
+        "blank_sentence": "Wipe up the oil that dropped on the floor.",
+        "reorder": "Wipe<>up<>the<>oil<>that<>dropped<>on<>the<>floor.",
+        "dictation": "Wipe up the oil that dropped on the floor."
+    },
+    "9": {
+        "word": "prefer",
+        "meaning": "好む",
+        "blank_word": "prefer",
+        "blank_sentence": "I prefer riding a bike to driving a car.",
+        "reorder": "I<>prefer<>riding<>a<>bike<>to<>driving<>a<>car.",
+        "dictation": "I prefer riding a bike to driving a car."
+    },
+    "10": {
+        "word": "survive",
+        "meaning": "生き残る",
+        "blank_word": "survive",
+        "blank_sentence": "Those animals sleep to survive the winter.",
+        "reorder": "Those<>animals<>sleep<>to<>survive<>the<>winter.",
+        "dictation": "Those animals sleep to survive the winter."
+    },
+    "11": {
+        "word": "respond",
+        "meaning": "対応する",
+        "blank_word": "respond",
+        "blank_sentence": "You must respond quickly when you hear the warning sound.",
+        "reorder": "You<>must<>respond<>quickly<>when<>you<>hear<>the<>warning<>sound.",
+        "dictation": "You must respond quickly when you hear the warning sound."
+    },
+    "12": {
+        "word": "nod",
+        "meaning": "うなずく",
+        "blank_word": "nodded",
+        "blank_sentence": "The students nodded in response to my question.",
+        "reorder": "The<>students<>nodded<>in<>response<>to<>my<>question.",
+        "dictation": "The students nodded in response to my question."
+    },
+    "13": {
+        "word": "visual",
+        "meaning": "視覚の",
+        "blank_word": "visual",
+        "blank_sentence": "Put more visual effects into your presentation.",
+        "reorder": "Put<>more<>visual<>effects<>into<>your<>presentation.",
+        "dictation": "Put more visual effects into your presentation."
+    },
+    "14": {
+        "word": "audio",
+        "meaning": "音の",
+        "blank_word": "audio",
+        "blank_sentence": "The audio signal is visualized on the screen.",
+        "reorder": "The<>audio<>signal<>is<>visualized<>on<>the<>screen.",
+        "dictation": "The audio signal is visualized on the screen."
+    },
+    "15": {
+        "word": "oral",
+        "meaning": "口の",
+        "blank_word": "oral",
+        "blank_sentence": "The oral examination is to be held next Monday.",
+        "reorder": "The<>oral<>examination<>is<>to<>be<>held<>next<>Monday.",
+        "dictation": "The oral examination is to be held next Monday."
+    },
+    "16": {
+        "word": "sensitive",
+        "meaning": "敏感な",
+        "blank_word": "sensitive",
+        "blank_sentence": "Dogs are very sensitive to sound.",
+        "reorder": "Dogs<>are<>very<>sensitive<>to<>sound.",
+        "dictation": "Dogs are very sensitive to sound."
+    },
+    "17": {
+        "word": "dizzy",
+        "meaning": "めまいがする",
+        "blank_word": "dizzy",
+        "blank_sentence": "I got dizzy from standing up too quickly.",
+        "reorder": "I<>got<>dizzy<>from<>standing<>up<>too<>quickly.",
+        "dictation": "I got dizzy from standing up too quickly."
+    },
+    "18": {
+        "word": "mild",
+        "meaning": "穏やかな",
+        "blank_word": "mild",
+        "blank_sentence": "We are having mild weather these days.",
+        "reorder": "We<>are<>having<>mild<>weather<>these<>days.",
+        "dictation": "We are having mild weather these days."
+    },
+    "19": {
+        "word": "neutral",
+        "meaning": "中立の",
+        "blank_word": "neutral",
+        "blank_sentence": "Switzerland remained neutral in the Second World War.",
+        "reorder": "Switzerland<>remained<>neutral<>in<>the<>Second<>World<>War.",
+        "dictation": "Switzerland remained neutral in the Second World War."
+    },
+    "20": {
+        "word": "wooden",
+        "meaning": "木製の",
+        "blank_word": "wooden",
+        "blank_sentence": "My grandfather loved this old wooden chair.",
+        "reorder": "My<>grandfather<>loved<>this<>old<>wooden<>chair.",
+        "dictation": "My grandfather loved this old wooden chair."
+    },
+    "21": {
+        "word": "formal",
+        "meaning": "公式の",
+        "blank_word": "formal",
+        "blank_sentence": "The president is thinking of paying a formal visit to the company.",
+        "reorder": "The<>president<>is<>thinking<>of<>paying<>a<>formal<>visit<>to<>the<>company.",
+        "dictation": "The president is thinking of paying a formal visit to the company."
+    },
+    "22": {
+        "word": "casual",
+        "meaning": "普段着の",
+        "blank_word": "casual",
+        "blank_sentence": "We went to the party in casual dress.",
+        "reorder": "We<>went<>to<>the<>party<>in<>casual<>dress.",
+        "dictation": "We went to the party in casual dress."
+    },
+    "23": {
+        "word": "manual",
+        "meaning": "手動の",
+        "blank_word": "manual",
+        "blank_sentence": "Switch to manual operation if you have any trouble.",
+        "reorder": "Switch<>to<>manual<>operation<>if<>you<>have<>any<>trouble.",
+        "dictation": "Switch to manual operation if you have any trouble."
+    },
+    "24": {
+        "word": "independent",
+        "meaning": "独立した",
+        "blank_word": "independent",
+        "blank_sentence": "The United States formally became an independent nation in 1783.",
+        "reorder": "The<>United<>States<>formally<>became<>an<>independent<>nation<>in<>1783.",
+        "dictation": "The United States formally became an independent nation in 1783."
+    },
+    "25": {
+        "word": "conventional",
+        "meaning": "従来の",
+        "blank_word": "conventional",
+        "blank_sentence": "I prefer conventional input devices such as a mouse and a keyboard.",
+        "reorder": "I<>prefer<>conventional<>input<>devices<>such<>as<>a<>mouse<>and<>a<>keyboard.",
+        "dictation": "I prefer conventional input devices such as a mouse and a keyboard."
+    }
+}

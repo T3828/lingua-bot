@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "harbor",
+        "meaning": "港",
+        "blank_word": "harbor",
+        "blank_sentence": "The harbor is always busy with boats.",
+        "reorder": "The<>harbor<>is<>always<>busy<>with<>boats.",
+        "dictation": "The harbor is always busy with boats."
+    },
+    "2": {
+        "word": "canal",
+        "meaning": "運河",
+        "blank_word": "canal",
+        "blank_sentence": "Using the canal shortens this ship's route by 20,000 km.",
+        "reorder": "Using<>the<>canal<>shortens<>this<>ship's<>route<>by<>20,000<>km.",
+        "dictation": "Using the canal shortens this ship's route by 20,000 km."
+    },
+    "3": {
+        "word": "interval",
+        "meaning": "間隔",
+        "blank_word": "intervals",
+        "blank_sentence": "This file is backed up at intervals of ten minutes.",
+        "reorder": "This<>file<>is<>backed<>up<>at<>intervals<>of<>ten<>minutes.",
+        "dictation": "This file is backed up at intervals of ten minutes."
+    },
+    "4": {
+        "word": "carrier",
+        "meaning": "運び役",
+        "blank_word": "carriers",
+        "blank_sentence": "Mosquitoes were found to be the carriers of the epidemic.",
+        "reorder": "Mosquitoes<>were<>found<>to<>be<>the<>carriers<>of<>the<>epidemic.",
+        "dictation": "Mosquitoes were found to be the carriers of the epidemic."
+    },
+    "5": {
+        "word": "heritage",
+        "meaning": "遺産",
+        "blank_word": "heritage",
+        "blank_sentence": "We hope to preserve this natural site as heritage for the future.",
+        "reorder": "We<>hope<>to<>preserve<>this<>natural<>site<>as<>heritage<>for<>the<>future.",
+        "dictation": "We hope to preserve this natural site as heritage for the future."
+    },
+    "6": {
+        "word": "erosion",
+        "meaning": "浸食",
+        "blank_word": "erosion",
+        "blank_sentence": "You can see erosion by sea water all over this shore.",
+        "reorder": "You<>can<>see<>erosion<>by<>sea<>water<>all<>over<>this<>shore.",
+        "dictation": "You can see erosion by sea water all over this shore."
+    },
+    "7": {
+        "word": "detergent",
+        "meaning": "洗剤",
+        "blank_word": "detergents",
+        "blank_sentence": "Some household detergents may pollute rivers.",
+        "reorder": "Some<>household<>detergents<>may<>pollute<>rivers.",
+        "dictation": "Some household detergents may pollute rivers."
+    },
+    "8": {
+        "word": "foam",
+        "meaning": "泡",
+        "blank_word": "foam",
+        "blank_sentence": "This fire extinguisher uses foam to extinguish fire.",
+        "reorder": "This<>fire<>extinguisher<>uses<>foam<>to<>extinguish<>fire.",
+        "dictation": "This fire extinguisher uses foam to extinguish fire."
+    },
+    "9": {
+        "word": "machinery",
+        "meaning": "機械(装置)",
+        "blank_word": "machinery",
+        "blank_sentence": "This machinery can fill a thousand cans an hour.",
+        "reorder": "This<>machinery<>can<>fill<>a<>thousand<>cans<>an<>hour.",
+        "dictation": "This machinery can fill a thousand cans an hour."
+    },
+    "10": {
+        "word": "insurance",
+        "meaning": "保険",
+        "blank_word": "insurance",
+        "blank_sentence": "You must not drive a car unless you buy insurance.",
+        "reorder": "You<>must<>not<>drive<>a<>car<>unless<>you<>buy<>insurance.",
+        "dictation": "You must not drive a car unless you buy insurance."
+    },
+    "11": {
+        "word": "breakdown",
+        "meaning": "故障",
+        "blank_word": "breakdown",
+        "blank_sentence": "This insurance covers all cases of mechanical breakdown.",
+        "reorder": "This<>insurance<>covers<>all<>cases<>of<>mechanical<>breakdown.",
+        "dictation": "This insurance covers all cases of mechanical breakdown."
+    },
+    "12": {
+        "word": "pitch",
+        "meaning": "(音の)高さ",
+        "blank_word": "pitch",
+        "blank_sentence": "Tightening the string of a guitar raises the pitch of its sound.",
+        "reorder": "Tightening<>the<>string<>of<>a<>guitar<>raises<>the<>pitch<>of<>its<>sound.",
+        "dictation": "Tightening the string of a guitar raises the pitch of its sound."
+    },
+    "13": {
+        "word": "tension",
+        "meaning": "張力",
+        "blank_word": "tension",
+        "blank_sentence": "Be sure that the tension of the sheet is even at each corner.",
+        "reorder": "Be<>sure<>that<>the<>tension<>of<>the<>sheet<>is<>even<>at<>each<>corner.",
+        "dictation": "Be sure that the tension of the sheet is even at each corner."
+    },
+    "14": {
+        "word": "constituent",
+        "meaning": "構成(物)",
+        "blank_word": "constituents",
+        "blank_sentence": "Oxygen and hydrogen are the constituents of water.",
+        "reorder": "Oxygen<>and<>hydrogen<>are<>the<>constituents<>of<>water.",
+        "dictation": "Oxygen and hydrogen are the constituents of water."
+    },
+    "15": {
+        "word": "childhood",
+        "meaning": "子供時代",
+        "blank_word": "childhood",
+        "blank_sentence": "Movies were the only entertainment he could enjoy in his childhood.",
+        "reorder": "Movies<>were<>the<>only<>entertainment<>he<>could<>enjoy<>in<>his<>childhood.",
+        "dictation": "Movies were the only entertainment he could enjoy in his childhood."
+    },
+    "16": {
+        "word": "youth",
+        "meaning": "青年期",
+        "blank_word": "youth",
+        "blank_sentence": "Our youth is the time to gather experience for our future.",
+        "reorder": "Our<>youth<>is<>the<>time<>to<>gather<>experience<>for<>our<>future.",
+        "dictation": "Our youth is the time to gather experience for our future."
+    },
+    "17": {
+        "word": "ease",
+        "meaning": "容易さ",
+        "blank_word": "ease",
+        "blank_sentence": "We maximized the ease of installation of the software.",
+        "reorder": "We<>maximized<>the<>ease<>of<>installation<>of<>the<>software.",
+        "dictation": "We maximized the ease of installation of the software."
+    },
+    "18": {
+        "word": "equator",
+        "meaning": "赤道",
+        "blank_word": "equator",
+        "blank_sentence": "The equator is the boundary between the northern and southern hemispheres.",
+        "reorder": "The<>equator<>is<>the<>boundary<>between<>the<>northern<>and<>southern<>hemispheres.",
+        "dictation": "The equator is the boundary between the northern and southern hemispheres."
+    },
+    "19": {
+        "word": "latitude",
+        "meaning": "緯度",
+        "blank_word": "latitude",
+        "blank_sentence": "The equator is located at zero degrees latitude.",
+        "reorder": "The<>equator<>is<>located<>at<>zero<>degrees<>latitude.",
+        "dictation": "The equator is located at zero degrees latitude."
+    },
+    "20": {
+        "word": "longitude",
+        "meaning": "経度",
+        "blank_word": "longitude",
+        "blank_sentence": "Akashi City is situated at a longitude of 135 degrees east.",
+        "reorder": "Akashi<>City<>is<>situated<>at<>a<>longitude<>of<>135<>degrees<>east.",
+        "dictation": "Akashi City is situated at a longitude of 135 degrees east."
+    },
+    "21": {
+        "word": "eclipse",
+        "meaning": "月食",
+        "blank_word": "eclipse",
+        "blank_sentence": "A lunar eclipse will be seen in Japan tonight.",
+        "reorder": "A<>lunar<>eclipse<>will<>be<>seen<>in<>Japan<>tonight.",
+        "dictation": "A lunar eclipse will be seen in Japan tonight."
+    },
+    "22": {
+        "word": "partial",
+        "meaning": "部分的な",
+        "blank_word": "partial",
+        "blank_sentence": "A partial eclipse of the sun will be observed in Japan this year.",
+        "reorder": "A<>partial<>eclipse<>of<>the<>sun<>will<>be<>observed<>in<>Japan<>this<>year.",
+        "dictation": "A partial eclipse of the sun will be observed in Japan this year."
+    },
+    "23": {
+        "word": "temporary",
+        "meaning": "一時的な",
+        "blank_word": "temporary",
+        "blank_sentence": "Due to a temporary shortage in stock, we have suspended taking orders.",
+        "reorder": "Due<>to<>a<>temporary<>shortage<>in<>stock,<>we<>have<>suspended<>taking<>orders.",
+        "dictation": "Due to a temporary shortage in stock, we have suspended taking orders."
+    },
+    "24": {
+        "word": "modest",
+        "meaning": "(数量などが)大きくない",
+        "blank_word": "modest",
+        "blank_sentence": "We can only expect modest single-digit growth this season.",
+        "reorder": "We<>can<>only<>expect<>modest<>single-digit<>growth<>this<>season.",
+        "dictation": "We can only expect modest single-digit growth this season."
+    },
+    "25": {
+        "word": "clever",
+        "meaning": "賢い",
+        "blank_word": "clever",
+        "blank_sentence": "This robot is so clever that it can charge itself.",
+        "reorder": "This<>robot<>is<>so<>clever<>that<>it<>can<>charge<>itself.",
+        "dictation": "This robot is so clever that it can charge itself."
+    }
+}

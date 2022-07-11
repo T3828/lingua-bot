@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "fabric",
+        "meaning": "生地",
+        "blank_word": "fabric",
+        "blank_sentence": "If you wash this skirt in a washing machine, the fabric will be damaged.",
+        "reorder": "If<>you<>wash<>this<>skirt<>in<>a<>washing<>machine,<>the<>fabric<>will<>be<>damaged.",
+        "dictation": "If you wash this skirt in a washing machine, the fabric will be damaged."
+    },
+    "2": {
+        "word": "seam",
+        "meaning": "縫い目",
+        "blank_word": "seams",
+        "blank_sentence": "They developed space clothes which has no seams.",
+        "reorder": "They<>developed<>space<>clothes<>which<>has<>no<>seams.",
+        "dictation": "They developed space clothes which has no seams."
+    },
+    "3": {
+        "word": "wrinkle",
+        "meaning": "しわ",
+        "blank_word": "wrinkles",
+        "blank_sentence": "Heat and water cause wrinkles in clothes.",
+        "reorder": "Heat<>and<>water<>cause<>wrinkles<>in<>clothes.",
+        "dictation": "Heat and water cause wrinkles in clothes."
+    },
+    "4": {
+        "word": "practice",
+        "meaning": "練習",
+        "blank_word": "practice",
+        "blank_sentence": "Try to make a practice of speaking English every day.",
+        "reorder": "Try<>to<>make<>a<>practice<>of<>speaking<>English<>every<>day.",
+        "dictation": "Try to make a practice of speaking English every day."
+    },
+    "5": {
+        "word": "equipment",
+        "meaning": "設備",
+        "blank_word": "equipment",
+        "blank_sentence": "There is no testing equipment here.",
+        "reorder": "There<>is<>no<>testing<>equipment<>here.",
+        "dictation": "There is no testing equipment here."
+    },
+    "6": {
+        "word": "distance",
+        "meaning": "距離",
+        "blank_word": "distance",
+        "blank_sentence": "Measure the distance between the two points.",
+        "reorder": "Measure<>the<>distance<>between<>the<>two<>points.",
+        "dictation": "Measure the distance between the two points."
+    },
+    "7": {
+        "word": "lap",
+        "meaning": "一周",
+        "blank_word": "lap",
+        "blank_sentence": "The car ran out of gas with one lap to go.",
+        "reorder": "The<>car<>ran<>out<>of<>gas<>with<>one<>lap<>to<>go.",
+        "dictation": "The car ran out of gas with one lap to go."
+    },
+    "8": {
+        "word": "pollution",
+        "meaning": "汚染",
+        "blank_word": "pollution",
+        "blank_sentence": "Air pollution is a serious environmental problem for us.",
+        "reorder": "Air<>pollution<>is<>a<>serious<>environmental<>problem<>for<>us.",
+        "dictation": "Air pollution is a serious environmental problem for us."
+    },
+    "9": {
+        "word": "scrap",
+        "meaning": "くず",
+        "blank_word": "Scrap",
+        "blank_sentence": "Scrap iron is recycled into a variety of products.",
+        "reorder": "Scrap<>iron<>is<>recycled<>into<>a<>variety<>of<>products.",
+        "dictation": "Scrap iron is recycled into a variety of products."
+    },
+    "10": {
+        "word": "feature",
+        "meaning": "特徴",
+        "blank_word": "feature",
+        "blank_sentence": "The best feature of this computer is its speed of data processing.",
+        "reorder": "The<>best<>feature<>of<>this<>computer<>is<>its<>speed<>of<>data<>processing.",
+        "dictation": "The best feature of this computer is its speed of data processing."
+    },
+    "11": {
+        "word": "sequence",
+        "meaning": "手順",
+        "blank_word": "sequence",
+        "blank_sentence": "The wrong sequence of operations caused the accident in the experiment.",
+        "reorder": "The<>wrong<>sequence<>of<>operations<>caused<>the<>accident<>in<>the<>experiment.",
+        "dictation": "The wrong sequence of operations caused the accident in the experiment."
+    },
+    "12": {
+        "word": "chlorine",
+        "meaning": "塩素",
+        "blank_word": "chlorine",
+        "blank_sentence": "Tap water usually contains a small amount of chlorine.",
+        "reorder": "Tap<>water<>usually<>contains<>a<>small<>amount<>of<>chlorine.",
+        "dictation": "Tap water usually contains a small amount of chlorine."
+    },
+    "13": {
+        "word": "sulfur",
+        "meaning": "硫黄",
+        "blank_word": "sulfur",
+        "blank_sentence": "This town is famous for its sulfur springs.",
+        "reorder": "This<>town<>is<>famous<>for<>its<>sulfur<>springs.",
+        "dictation": "This town is famous for its sulfur springs."
+    },
+    "14": {
+        "word": "poison",
+        "meaning": "毒",
+        "blank_word": "poison",
+        "blank_sentence": "The fish has poison in its blood.",
+        "reorder": "The<>fish<>has<>poison<>in<>its<>blood.",
+        "dictation": "The fish has poison in its blood."
+    },
+    "15": {
+        "word": "oxide",
+        "meaning": "酸化物",
+        "blank_word": "oxide",
+        "blank_sentence": "A chemical reaction in which an oxide forms is called oxidation.",
+        "reorder": "A<>chemical<>reaction<>in<>which<>an<>oxide<>forms<>is<>called<>oxidation.",
+        "dictation": "A chemical reaction in which an oxide forms is called oxidation."
+    },
+    "16": {
+        "word": "dioxide",
+        "meaning": "二酸化物",
+        "blank_word": "dioxide",
+        "blank_sentence": "A molecule of a dioxide must contain two oxygen atoms.",
+        "reorder": "A<>molecule<>of<>a<>dioxide<>must<>contain<>two<>oxygen<>atoms.",
+        "dictation": "A molecule of a dioxide must contain two oxygen atoms."
+    },
+    "17": {
+        "word": "rust",
+        "meaning": "錆",
+        "blank_word": "Rust",
+        "blank_sentence": "Rust is oxidized iron, which is called iron oxide.",
+        "reorder": "Rust<>is<>oxidized<>iron,<>which<>is<>called<>iron<>oxide.",
+        "dictation": "Rust is oxidized iron, which is called iron oxide."
+    },
+    "18": {
+        "word": "hydroxide",
+        "meaning": "水酸化物",
+        "blank_word": "hydroxide",
+        "blank_sentence": "Sodium hydroxide is a common alkaline substance.",
+        "reorder": "Sodium<>hydroxide<>is<>a<>common<>alkaline<>substance.",
+        "dictation": "Sodium hydroxide is a common alkaline substance."
+    },
+    "19": {
+        "word": "helium",
+        "meaning": "ヘリウム",
+        "blank_word": "Helium",
+        "blank_sentence": "Helium is the second lightest gas.",
+        "reorder": "Helium<>is<>the<>second<>lightest<>gas.",
+        "dictation": "Helium is the second lightest gas."
+    },
+    "20": {
+        "word": "methane",
+        "meaning": "メタン",
+        "blank_word": "Methane",
+        "blank_sentence": "Methane gas from food scraps can be used as fuel.",
+        "reorder": "Methane<>gas<>from<>food<>scraps<>can<>be<>used<>as<>fuel.",
+        "dictation": "Methane gas from food scraps can be used as fuel."
+    },
+    "21": {
+        "word": "alcohol",
+        "meaning": "アルコール",
+        "blank_word": "alcohol",
+        "blank_sentence": "Taking too much alcohol damages your liver.",
+        "reorder": "Taking<>too<>much<>alcohol<>damages<>your<>liver.",
+        "dictation": "Taking too much alcohol damages your liver."
+    },
+    "22": {
+        "word": "fermentation",
+        "meaning": "発酵",
+        "blank_word": "fermentation",
+        "blank_sentence": "Ethanol and carbon dioxide are produced in the fermentation process.",
+        "reorder": "Ethanol<>and<>carbon<>dioxide<>are<>produced<>in<>the<>fermentation<>process.",
+        "dictation": "Ethanol and carbon dioxide are produced in the fermentation process."
+    },
+    "23": {
+        "word": "vinegar",
+        "meaning": "酢",
+        "blank_word": "vinegar",
+        "blank_sentence": "A solution of vinegar and water can be used to clean gold.",
+        "reorder": "A<>solution<>of<>vinegar<>and<>water<>can<>be<>used<>to<>clean<>gold.",
+        "dictation": "A solution of vinegar and water can be used to clean gold."
+    },
+    "24": {
+        "word": "fungus",
+        "meaning": "菌類",
+        "blank_word": "fungus",
+        "blank_sentence": "One of the major causes of plant diseases is fungus.",
+        "reorder": "One<>of<>the<>major<>causes<>of<>plant<>diseases<>is<>fungus.",
+        "dictation": "One of the major causes of plant diseases is fungus."
+    },
+    "25": {
+        "word": "atmosphere",
+        "meaning": "大気",
+        "blank_word": "atmosphere",
+        "blank_sentence": "The atmosphere contains various gases such as oxygen and nitrogen.",
+        "reorder": "The<>atmosphere<>contains<>various<>gases<>such<>as<>oxygen<>and<>nitrogen.",
+        "dictation": "The atmosphere contains various gases such as oxygen and nitrogen."
+    }
+}

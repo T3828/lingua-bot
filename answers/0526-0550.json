@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "further",
+        "meaning": "さらに",
+        "blank_word": "further",
+        "blank_sentence": "The price of the old book increased further.",
+        "reorder": "The<>price<>of<>the<>old<>book<>increased<>further.",
+        "dictation": "The price of the old book increased further."
+    },
+    "2": {
+        "word": "apart",
+        "meaning": "離れて",
+        "blank_word": "apart",
+        "blank_sentence": "Tokyo and Fukuoka are about 1,000 kilometers apart.",
+        "reorder": "Tokyo<>and<>Fukuoka<>are<>about<>1,000<>kilometers<>apart.",
+        "dictation": "Tokyo and Fukuoka are about 1,000 kilometers apart."
+    },
+    "3": {
+        "word": "aside",
+        "meaning": "わきへ",
+        "blank_word": "aside",
+        "blank_sentence": "Would you please move aside for the people in wheelchairs?",
+        "reorder": "Would<>you<>please<>move<>aside<>for<>the<>people<>in<>wheelchairs?",
+        "dictation": "Would you please move aside for the people in wheelchairs?"
+    },
+    "4": {
+        "word": "abroad",
+        "meaning": "外国に",
+        "blank_word": "abroad",
+        "blank_sentence": "Do you have family or friends living abroad?",
+        "reorder": "Do<>you<>have<>family<>or<>friends<>living<>abroad?",
+        "dictation": "Do you have family or friends living abroad?"
+    },
+    "5": {
+        "word": "aboard",
+        "meaning": "乗って",
+        "blank_word": "aboard",
+        "blank_sentence": "A hundred students came aboard the ship.",
+        "reorder": "A<>hundred<>students<>came<>aboard<>the<>ship.",
+        "dictation": "A hundred students came aboard the ship."
+    },
+    "6": {
+        "word": "aloud",
+        "meaning": "声を(声に)出して",
+        "blank_word": "aloud",
+        "blank_sentence": "She read the letter aloud so that her children could hear.",
+        "reorder": "She<>read<>the<>letter<>aloud<>so<>that<>her<>children<>could<>hear.",
+        "dictation": "She read the letter aloud so that her children could hear."
+    },
+    "7": {
+        "word": "reduce",
+        "meaning": "減らす",
+        "blank_word": "reduce",
+        "blank_sentence": "We are trying to reduce the amount of paper we use in the office.",
+        "reorder": "We<>are<>trying<>to<>reduce<>the<>amount<>of<>paper<>we<>use<>in<>the<>office.",
+        "dictation": "We are trying to reduce the amount of paper we use in the office."
+    },
+    "8": {
+        "word": "introduce",
+        "meaning": "紹介する",
+        "blank_word": "introduces",
+        "blank_sentence": "This book introduces a new information technology.",
+        "reorder": "This<>book<>introduces<>a<>new<>information<>technology.",
+        "dictation": "This book introduces a new information technology."
+    },
+    "9": {
+        "word": "pick",
+        "meaning": "摘み取る",
+        "blank_word": "picks",
+        "blank_sentence": "The machine picks the fruit.",
+        "reorder": "The<>machine<>picks<>the<>fruit.",
+        "dictation": "The machine picks the fruit."
+    },
+    "10": {
+        "word": "wake",
+        "meaning": "目を覚ます",
+        "blank_word": "wake",
+        "blank_sentence": "I usually wake up before the alarm rings.",
+        "reorder": "I<>usually<>wake<>up<>before<>the<>alarm<>rings.",
+        "dictation": "I usually wake up before the alarm rings."
+    },
+    "11": {
+        "word": "lay",
+        "meaning": "敷く",
+        "blank_word": "lay",
+        "blank_sentence": "They are going to lay water pipes under the ground.",
+        "reorder": "They<>are<>going<>to<>lay<>water<>pipes<>under<>the<>ground.",
+        "dictation": "They are going to lay water pipes under the ground."
+    },
+    "12": {
+        "word": "lie",
+        "meaning": "横たわる",
+        "blank_word": "lying",
+        "blank_sentence": "The man was lying down on the ground and looking upward.",
+        "reorder": "The<>man<>was<>lying<>down<>on<>the<>ground<>and<>looking<>upward.",
+        "dictation": "The man was lying down on the ground and looking upward."
+    },
+    "13": {
+        "word": "climb",
+        "meaning": "登る",
+        "blank_word": "climbed",
+        "blank_sentence": "The monkey climbed up the tree quickly.",
+        "reorder": "The<>monkey<>climbed<>up<>the<>tree<>quickly.",
+        "dictation": "The monkey climbed up the tree quickly."
+    },
+    "14": {
+        "word": "substance",
+        "meaning": "物質",
+        "blank_word": "substances",
+        "blank_sentence": "Diamond is the hardest of all natural substances.",
+        "reorder": "Diamond<>is<>the<>hardest<>of<>all<>natural<>substances.",
+        "dictation": "Diamond is the hardest of all natural substances."
+    },
+    "15": {
+        "word": "surface",
+        "meaning": "表面",
+        "blank_word": "surface",
+        "blank_sentence": "Ice covered the surface of the lake.",
+        "reorder": "Ice<>covered<>the<>surface<>of<>the<>lake.",
+        "dictation": "Ice covered the surface of the lake."
+    },
+    "16": {
+        "word": "cartridge",
+        "meaning": "カートリッジ",
+        "blank_word": "cartridge",
+        "blank_sentence": "The ink cartridge in the printer is empty.",
+        "reorder": "The<>ink<>cartridge<>in<>the<>printer<>is<>empty.",
+        "dictation": "The ink cartridge in the printer is empty."
+    },
+    "17": {
+        "word": "scissors",
+        "meaning": "はさみ",
+        "blank_word": "scissors",
+        "blank_sentence": "These scissors do not cut well.",
+        "reorder": "These<>scissors<>do<>not<>cut<>well.",
+        "dictation": "These scissors do not cut well."
+    },
+    "18": {
+        "word": "stapler",
+        "meaning": "ホチキス",
+        "blank_word": "stapler",
+        "blank_sentence": "This stapler does not use metal staples.",
+        "reorder": "This<>stapler<>does<>not<>use<>metal<>staples.",
+        "dictation": "This stapler does not use metal staples."
+    },
+    "19": {
+        "word": "cardboard",
+        "meaning": "厚紙",
+        "blank_word": "cardboard",
+        "blank_sentence": "Cut the cardboard with these scissors and make a cube box.",
+        "reorder": "Cut<>the<>cardboard<>with<>these<>scissors<>and<>make<>a<>cube<>box.",
+        "dictation": "Cut the cardboard with these scissors and make a cube box."
+    },
+    "20": {
+        "word": "length",
+        "meaning": "長さ",
+        "blank_word": "length",
+        "blank_sentence": "Do you know the length of each side of this triangle?",
+        "reorder": "Do<>you<>know<>the<>length<>of<>each<>side<>of<>this<>triangle?",
+        "dictation": "Do you know the length of each side of this triangle?"
+    },
+    "21": {
+        "word": "height",
+        "meaning": "高さ",
+        "blank_word": "height",
+        "blank_sentence": "What is the height of this tower?",
+        "reorder": "What<>is<>the<>height<>of<>this<>tower?",
+        "dictation": "What is the height of this tower?"
+    },
+    "22": {
+        "word": "depth",
+        "meaning": "深さ",
+        "blank_word": "depth",
+        "blank_sentence": "The average depth of Lake Biwa is about 40 meters.",
+        "reorder": "The<>average<>depth<>of<>Lake<>Biwa<>is<>about<>40<>meters.",
+        "dictation": "The average depth of Lake Biwa is about 40 meters."
+    },
+    "23": {
+        "word": "width",
+        "meaning": "幅",
+        "blank_word": "width",
+        "blank_sentence": "The width of the desk is about 120 centimeters.",
+        "reorder": "The<>width<>of<>the<>desk<>is<>about<>120<>centimeters.",
+        "dictation": "The width of the desk is about 120 centimeters."
+    },
+    "24": {
+        "word": "unit",
+        "meaning": "単位",
+        "blank_word": "unit",
+        "blank_sentence": "A meter is a unit of length.",
+        "reorder": "A<>meter<>is<>a<>unit<>of<>length.",
+        "dictation": "A meter is a unit of length."
+    },
+    "25": {
+        "word": "dimension",
+        "meaning": "寸法",
+        "blank_word": "dimensions",
+        "blank_sentence": "Objects have three dimensions , which are length, width and height.",
+        "reorder": "Objects<>have<>three<>dimensions<>,<>which<>are<>length,<>width<>and<>height.",
+        "dictation": "Objects have three dimensions , which are length, width and height."
+    }
+}

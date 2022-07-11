@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "fluorescence",
+        "meaning": "蛍光",
+        "blank_word": "fluorescence",
+        "blank_sentence": "The substance emits fluorescence under ultraviolet rays.",
+        "reorder": "The<>substance<>emits<>fluorescence<>under<>ultraviolet<>rays.",
+        "dictation": "The substance emits fluorescence under ultraviolet rays."
+    },
+    "2": {
+        "word": "humble",
+        "meaning": "謙虚な",
+        "blank_word": "humble",
+        "blank_sentence": "Everybody is humble and polite in this country.",
+        "reorder": "Everybody<>is<>humble<>and<>polite<>in<>this<>country.",
+        "dictation": "Everybody is humble and polite in this country."
+    },
+    "3": {
+        "word": "evil",
+        "meaning": "悪い",
+        "blank_word": "evil",
+        "blank_sentence": "The atomic bomb is often referred to as an example of an evil use of nuclear energy.",
+        "reorder": "The<>atomic<>bomb<>is<>often<>referred<>to<>as<>an<>example<>of<>an<>evil<>use<>of<>nuclear<>energy.",
+        "dictation": "The atomic bomb is often referred to as an example of an evil use of nuclear energy."
+    },
+    "4": {
+        "word": "deliberate",
+        "meaning": "意図的な",
+        "blank_word": "deliberate",
+        "blank_sentence": "The attack on the system was quite deliberate and elaborate.",
+        "reorder": "The<>attack<>on<>the<>system<>was<>quite<>deliberate<>and<>elaborate.",
+        "dictation": "The attack on the system was quite deliberate and elaborate."
+    },
+    "5": {
+        "word": "bold",
+        "meaning": "大胆な",
+        "blank_word": "bold",
+        "blank_sentence": "The operation was executed in a bold and deliberate fashion.",
+        "reorder": "The<>operation<>was<>executed<>in<>a<>bold<>and<>deliberate<>fashion.",
+        "dictation": "The operation was executed in a bold and deliberate fashion."
+    },
+    "6": {
+        "word": "ethnic",
+        "meaning": "民族の",
+        "blank_word": "ethnic",
+        "blank_sentence": "There are many countries that consist of different ethnic groups.",
+        "reorder": "There<>are<>many<>countries<>that<>consist<>of<>different<>ethnic<>groups.",
+        "dictation": "There are many countries that consist of different ethnic groups."
+    },
+    "7": {
+        "word": "generous",
+        "meaning": "寛大な",
+        "blank_word": "generous",
+        "blank_sentence": "He always exhibits a generous attitude, even toward his opponents.",
+        "reorder": "He<>always<>exhibits<>a<>generous<>attitude,<>even<>toward<>his<>opponents.",
+        "dictation": "He always exhibits a generous attitude, even toward his opponents."
+    },
+    "8": {
+        "word": "gigantic",
+        "meaning": "巨大な",
+        "blank_word": "gigantic",
+        "blank_sentence": "The sun is like a gigantic nuclear reactor.",
+        "reorder": "The<>sun<>is<>like<>a<>gigantic<>nuclear<>reactor.",
+        "dictation": "The sun is like a gigantic nuclear reactor."
+    },
+    "9": {
+        "word": "mutual",
+        "meaning": "相互の",
+        "blank_word": "mutual",
+        "blank_sentence": "The national leaders agreed that they would promote mutual understanding.",
+        "reorder": "The<>national<>leaders<>agreed<>that<>they<>would<>promote<>mutual<>understanding.",
+        "dictation": "The national leaders agreed that they would promote mutual understanding."
+    },
+    "10": {
+        "word": "stiff",
+        "meaning": "堅い",
+        "blank_word": "stiff",
+        "blank_sentence": "Your muscles become stiff when you sit for a long time.",
+        "reorder": "Your<>muscles<>become<>stiff<>when<>you<>sit<>for<>a<>long<>time.",
+        "dictation": "Your muscles become stiff when you sit for a long time."
+    },
+    "11": {
+        "word": "empirical",
+        "meaning": "実証的な",
+        "blank_word": "empirical",
+        "blank_sentence": "I prefer empirical studies to theoretical ones.",
+        "reorder": "I<>prefer<>empirical<>studies<>to<>theoretical<>ones.",
+        "dictation": "I prefer empirical studies to theoretical ones."
+    },
+    "12": {
+        "word": "discrete",
+        "meaning": "不連続の",
+        "blank_word": "discrete",
+        "blank_sentence": "Calculate the statistics for those sets of discrete data.",
+        "reorder": "Calculate<>the<>statistics<>for<>those<>sets<>of<>discrete<>data.",
+        "dictation": "Calculate the statistics for those sets of discrete data."
+    },
+    "13": {
+        "word": "intimate",
+        "meaning": "親密な",
+        "blank_word": "intimate",
+        "blank_sentence": "We must think about an intimate relationship between humans and nature.",
+        "reorder": "We<>must<>think<>about<>an<>intimate<>relationship<>between<>humans<>and<>nature.",
+        "dictation": "We must think about an intimate relationship between humans and nature."
+    },
+    "14": {
+        "word": "pleasant",
+        "meaning": "楽しい",
+        "blank_word": "pleasant",
+        "blank_sentence": "My intimate friends gave me a pleasant farewell party.",
+        "reorder": "My<>intimate<>friends<>gave<>me<>a<>pleasant<>farewell<>party.",
+        "dictation": "My intimate friends gave me a pleasant farewell party."
+    },
+    "15": {
+        "word": "decent",
+        "meaning": "きちんとした",
+        "blank_word": "decent",
+        "blank_sentence": "You should wear decent clothes when you go for a job interview.",
+        "reorder": "You<>should<>wear<>decent<>clothes<>when<>you<>go<>for<>a<>job<>interview.",
+        "dictation": "You should wear decent clothes when you go for a job interview."
+    },
+    "16": {
+        "word": "absurd",
+        "meaning": "ばかげた",
+        "blank_word": "absurd",
+        "blank_sentence": "Everyone thought his idea was absurd , but he put it into practice.",
+        "reorder": "Everyone<>thought<>his<>idea<>was<>absurd<>,<>but<>he<>put<>it<>into<>practice.",
+        "dictation": "Everyone thought his idea was absurd , but he put it into practice."
+    },
+    "17": {
+        "word": "amuse",
+        "meaning": "楽しませる",
+        "blank_word": "amused",
+        "blank_sentence": "His humorous talk amused everybody at the party.",
+        "reorder": "His<>humorous<>talk<>amused<>everybody<>at<>the<>party.",
+        "dictation": "His humorous talk amused everybody at the party."
+    },
+    "18": {
+        "word": "boast",
+        "meaning": "自慢する",
+        "blank_word": "boasts",
+        "blank_sentence": "He occasionally boasts that he won a prize in the competition.",
+        "reorder": "He<>occasionally<>boasts<>that<>he<>won<>a<>prize<>in<>the<>competition.",
+        "dictation": "He occasionally boasts that he won a prize in the competition."
+    },
+    "19": {
+        "word": "contradict",
+        "meaning": "矛盾する",
+        "blank_word": "contradicts",
+        "blank_sentence": "His behavior contradicts what he wrote in his book.",
+        "reorder": "His<>behavior<>contradicts<>what<>he<>wrote<>in<>his<>book.",
+        "dictation": "His behavior contradicts what he wrote in his book."
+    },
+    "20": {
+        "word": "disguise",
+        "meaning": "偽装する",
+        "blank_word": "disguise",
+        "blank_sentence": "It is illegal to disguise when and where the food was made.",
+        "reorder": "It<>is<>illegal<>to<>disguise<>when<>and<>where<>the<>food<>was<>made.",
+        "dictation": "It is illegal to disguise when and where the food was made."
+    },
+    "21": {
+        "word": "accommodate",
+        "meaning": "収容する",
+        "blank_word": "accommodate",
+        "blank_sentence": "This hall is large enough to accommodate three thousand people.",
+        "reorder": "This<>hall<>is<>large<>enough<>to<>accommodate<>three<>thousand<>people.",
+        "dictation": "This hall is large enough to accommodate three thousand people."
+    },
+    "22": {
+        "word": "precede",
+        "meaning": "先行する",
+        "blank_word": "precedes",
+        "blank_sentence": "In an earthquake, P-wave shaking precedes S-wave shaking.",
+        "reorder": "In<>an<>earthquake,<>P-wave<>shaking<>precedes<>S-wave<>shaking.",
+        "dictation": "In an earthquake, P-wave shaking precedes S-wave shaking."
+    },
+    "23": {
+        "word": "endure",
+        "meaning": "耐える",
+        "blank_word": "endure",
+        "blank_sentence": "People in that country have to endure hunger and cold during the winter.",
+        "reorder": "People<>in<>that<>country<>have<>to<>endure<>hunger<>and<>cold<>during<>the<>winter.",
+        "dictation": "People in that country have to endure hunger and cold during the winter."
+    },
+    "24": {
+        "word": "glance",
+        "meaning": "ちらっと見る",
+        "blank_word": "glanced",
+        "blank_sentence": "He glanced at the clock and started getting ready to go home.",
+        "reorder": "He<>glanced<>at<>the<>clock<>and<>started<>getting<>ready<>to<>go<>home.",
+        "dictation": "He glanced at the clock and started getting ready to go home."
+    },
+    "25": {
+        "word": "presume",
+        "meaning": "推定する",
+        "blank_word": "presume",
+        "blank_sentence": "With these data, we can presume that our hypothesis is right.",
+        "reorder": "With<>these<>data,<>we<>can<>presume<>that<>our<>hypothesis<>is<>right.",
+        "dictation": "With these data, we can presume that our hypothesis is right."
+    }
+}

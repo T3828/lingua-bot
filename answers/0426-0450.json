@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "own",
+        "meaning": "所有する",
+        "blank_word": "owns",
+        "blank_sentence": "The owner of this apartment owns two more buildings besides this.",
+        "reorder": "The<>owner<>of<>this<>apartment<>owns<>two<>more<>buildings<>besides<>this.",
+        "dictation": "The owner of this apartment owns two more buildings besides this."
+    },
+    "2": {
+        "word": "belong",
+        "meaning": "(～に)所属する",
+        "blank_word": "belongs",
+        "blank_sentence": "Each of those professors belongs to different universities.",
+        "reorder": "Each<>of<>those<>professors<>belongs<>to<>different<>universities.",
+        "dictation": "Each of those professors belongs to different universities."
+    },
+    "3": {
+        "word": "borrow",
+        "meaning": "借りる",
+        "blank_word": "borrowed",
+        "blank_sentence": "I borrowed this PC from him.",
+        "reorder": "I<>borrowed<>this<>PC<>from<>him.",
+        "dictation": "I borrowed this PC from him."
+    },
+    "4": {
+        "word": "electricity",
+        "meaning": "電気",
+        "blank_word": "Electricity",
+        "blank_sentence": "Electricity is the most useful type of energy.",
+        "reorder": "Electricity<>is<>the<>most<>useful<>type<>of<>energy.",
+        "dictation": "Electricity is the most useful type of energy."
+    },
+    "5": {
+        "word": "electron",
+        "meaning": "電子",
+        "blank_word": "electrons",
+        "blank_sentence": "Electricity is the flow of electrons.",
+        "reorder": "Electricity<>is<>the<>flow<>of<>electrons.",
+        "dictation": "Electricity is the flow of electrons."
+    },
+    "6": {
+        "word": "magnet",
+        "meaning": "磁石",
+        "blank_word": "magnets",
+        "blank_sentence": "No magnets are used in this motor.",
+        "reorder": "No<>magnets<>are<>used<>in<>this<>motor.",
+        "dictation": "No magnets are used in this motor."
+    },
+    "7": {
+        "word": "circuit",
+        "meaning": "回路",
+        "blank_word": "circuit",
+        "blank_sentence": "There is something wrong in the power circuit.",
+        "reorder": "There<>is<>something<>wrong<>in<>the<>power<>circuit.",
+        "dictation": "There is something wrong in the power circuit."
+    },
+    "8": {
+        "word": "grid",
+        "meaning": "格子",
+        "blank_word": "grid",
+        "blank_sentence": "Please tell me how to display a grid pattern on the screen.",
+        "reorder": "Please<>tell<>me<>how<>to<>display<>a<>grid<>pattern<>on<>the<>screen.",
+        "dictation": "Please tell me how to display a grid pattern on the screen."
+    },
+    "9": {
+        "word": "terminal",
+        "meaning": "端子",
+        "blank_word": "terminal",
+        "blank_sentence": "Connect the red wire to the plus terminal of the battery.",
+        "reorder": "Connect<>the<>red<>wire<>to<>the<>plus<>terminal<>of<>the<>battery.",
+        "dictation": "Connect the red wire to the plus terminal of the battery."
+    },
+    "10": {
+        "word": "voltage",
+        "meaning": "電圧",
+        "blank_word": "voltage",
+        "blank_sentence": "The voltage of electricity we use at home is 100V.",
+        "reorder": "The<>voltage<>of<>electricity<>we<>use<>at<>home<>is<>100V.",
+        "dictation": "The voltage of electricity we use at home is 100V."
+    },
+    "11": {
+        "word": "resistance",
+        "meaning": "抵抗",
+        "blank_word": "resistance",
+        "blank_sentence": "The electric resistance of this metal is very low.",
+        "reorder": "The<>electric<>resistance<>of<>this<>metal<>is<>very<>low.",
+        "dictation": "The electric resistance of this metal is very low."
+    },
+    "12": {
+        "word": "range",
+        "meaning": "範囲",
+        "blank_word": "range",
+        "blank_sentence": "Set the voltage in the range of 100V to 105V.",
+        "reorder": "Set<>the<>voltage<>in<>the<>range<>of<>100V<>to<>105V.",
+        "dictation": "Set the voltage in the range of 100V to 105V."
+    },
+    "13": {
+        "word": "outlet",
+        "meaning": "(電気の)コンセント",
+        "blank_word": "outlet",
+        "blank_sentence": "Do not forget to pull out the plug from the outlet.",
+        "reorder": "Do<>not<>forget<>to<>pull<>out<>the<>plug<>from<>the<>outlet.",
+        "dictation": "Do not forget to pull out the plug from the outlet."
+    },
+    "14": {
+        "word": "object",
+        "meaning": "物体",
+        "blank_word": "object",
+        "blank_sentence": "A moving object itself has energy.",
+        "reorder": "A<>moving<>object<>itself<>has<>energy.",
+        "dictation": "A moving object itself has energy."
+    },
+    "15": {
+        "word": "force",
+        "meaning": "(物理的な)力",
+        "blank_word": "force",
+        "blank_sentence": "How much force is needed to stop the spinning wheel?",
+        "reorder": "How<>much<>force<>is<>needed<>to<>stop<>the<>spinning<>wheel?",
+        "dictation": "How much force is needed to stop the spinning wheel?"
+    },
+    "16": {
+        "word": "fuel",
+        "meaning": "燃料",
+        "blank_word": "fuel",
+        "blank_sentence": "This car runs much longer with much less fuel.",
+        "reorder": "This<>car<>runs<>much<>longer<>with<>much<>less<>fuel.",
+        "dictation": "This car runs much longer with much less fuel."
+    },
+    "17": {
+        "word": "valve",
+        "meaning": "弁",
+        "blank_word": "valve",
+        "blank_sentence": "My car had a problem with the fuel valve.",
+        "reorder": "My<>car<>had<>a<>problem<>with<>the<>fuel<>valve.",
+        "dictation": "My car had a problem with the fuel valve."
+    },
+    "18": {
+        "word": "matter",
+        "meaning": "問題",
+        "blank_word": "matter",
+        "blank_sentence": "We talked about the matter for a long time.",
+        "reorder": "We<>talked<>about<>the<>matter<>for<>a<>long<>time.",
+        "dictation": "We talked about the matter for a long time."
+    },
+    "19": {
+        "word": "degree",
+        "meaning": "度",
+        "blank_word": "degrees",
+        "blank_sentence": "These two lines cross each other at 30 degrees.",
+        "reorder": "These<>two<>lines<>cross<>each<>other<>at<>30<>degrees.",
+        "dictation": "These two lines cross each other at 30 degrees."
+    },
+    "20": {
+        "word": "temperature",
+        "meaning": "温度",
+        "blank_word": "temperature",
+        "blank_sentence": "What's the temperature of this room?",
+        "reorder": "What's<>the<>temperature<>of<>this<>room?",
+        "dictation": "What's the temperature of this room?"
+    },
+    "21": {
+        "word": "Celsius",
+        "meaning": "摂氏",
+        "blank_word": "Celsius",
+        "blank_sentence": "My normal temperature is 36.5 degrees Celsius.",
+        "reorder": "My<>normal<>temperature<>is<>36.5<>degrees<>Celsius.",
+        "dictation": "My normal temperature is 36.5 degrees Celsius."
+    },
+    "22": {
+        "word": "Fahrenheit",
+        "meaning": "華氏",
+        "blank_word": "Fahrenheit",
+        "blank_sentence": "My normal temperature is 97.7 degrees Fahrenheit.",
+        "reorder": "My<>normal<>temperature<>is<>97.7<>degrees<>Fahrenheit.",
+        "dictation": "My normal temperature is 97.7 degrees Fahrenheit."
+    },
+    "23": {
+        "word": "thermometer",
+        "meaning": "温度計",
+        "blank_word": "thermometer",
+        "blank_sentence": "The thermometer reads 25 degrees Celsius.",
+        "reorder": "The<>thermometer<>reads<>25<>degrees<>Celsius.",
+        "dictation": "The thermometer reads 25 degrees Celsius."
+    },
+    "24": {
+        "word": "chemistry",
+        "meaning": "化学",
+        "blank_word": "Chemistry",
+        "blank_sentence": "Chemistry is the science of matter.",
+        "reorder": "Chemistry<>is<>the<>science<>of<>matter.",
+        "dictation": "Chemistry is the science of matter."
+    },
+    "25": {
+        "word": "biology",
+        "meaning": "生物学",
+        "blank_word": "Biology",
+        "blank_sentence": "Biology is the study of living things.",
+        "reorder": "Biology<>is<>the<>study<>of<>living<>things.",
+        "dictation": "Biology is the study of living things."
+    }
+}

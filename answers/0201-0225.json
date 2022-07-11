@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "pound",
+        "meaning": "ポンド",
+        "blank_word": "pound",
+        "blank_sentence": "One pound is about 454 grams.",
+        "reorder": "One<>pound<>is<>about<>454<>grams.",
+        "dictation": "One pound is about 454 grams."
+    },
+    "2": {
+        "word": "hectare",
+        "meaning": "ヘクタール",
+        "blank_word": "hectare",
+        "blank_sentence": "One hectare is ten thousand square meters.",
+        "reorder": "One<>hectare<>is<>ten<>thousand<>square<>meters.",
+        "dictation": "One hectare is ten thousand square meters."
+    },
+    "3": {
+        "word": "nut",
+        "meaning": "ナット(雌ネジ)",
+        "blank_word": "nuts",
+        "blank_sentence": "These nuts are very light because they are made of aluminum.",
+        "reorder": "These<>nuts<>are<>very<>light<>because<>they<>are<>made<>of<>aluminum.",
+        "dictation": "These nuts are very light because they are made of aluminum."
+    },
+    "4": {
+        "word": "bolt",
+        "meaning": "ボルト",
+        "blank_word": "bolt",
+        "blank_sentence": "Choose the right size of nut to fit this bolt.",
+        "reorder": "Choose<>the<>right<>size<>of<>nut<>to<>fit<>this<>bolt.",
+        "dictation": "Choose the right size of nut to fit this bolt."
+    },
+    "5": {
+        "word": "cable",
+        "meaning": "ケーブル",
+        "blank_word": "cables",
+        "blank_sentence": "The cables which hold up the bridge are about 10 kilometers in total.",
+        "reorder": "The<>cables<>which<>hold<>up<>the<>bridge<>are<>about<>10<>kilometers<>in<>total.",
+        "dictation": "The cables which hold up the bridge are about 10 kilometers in total."
+    },
+    "6": {
+        "word": "greenhouse",
+        "meaning": "温室",
+        "blank_word": "greenhouse",
+        "blank_sentence": "You can see many kinds of flowers from the world in the greenhouse.",
+        "reorder": "You<>can<>see<>many<>kinds<>of<>flowers<>from<>the<>world<>in<>the<>greenhouse.",
+        "dictation": "You can see many kinds of flowers from the world in the greenhouse."
+    },
+    "7": {
+        "word": "vegetable",
+        "meaning": "野菜",
+        "blank_word": "vegetable",
+        "blank_sentence": "Only one kind of vegetable is grown in the greenhouse.",
+        "reorder": "Only<>one<>kind<>of<>vegetable<>is<>grown<>in<>the<>greenhouse.",
+        "dictation": "Only one kind of vegetable is grown in the greenhouse."
+    },
+    "8": {
+        "word": "meat",
+        "meaning": "肉",
+        "blank_word": "meat",
+        "blank_sentence": "A quarter pound of meat is on each plate.",
+        "reorder": "A<>quarter<>pound<>of<>meat<>is<>on<>each<>plate.",
+        "dictation": "A quarter pound of meat is on each plate."
+    },
+    "9": {
+        "word": "smoke",
+        "meaning": "煙",
+        "blank_word": "smoke",
+        "blank_sentence": "That smoke was coming out of the overcharged batteries.",
+        "reorder": "That<>smoke<>was<>coming<>out<>of<>the<>overcharged<>batteries.",
+        "dictation": "That smoke was coming out of the overcharged batteries."
+    },
+    "10": {
+        "word": "wind",
+        "meaning": "風",
+        "blank_word": "wind",
+        "blank_sentence": "The wind from the south brought warm air to Japan.",
+        "reorder": "The<>wind<>from<>the<>south<>brought<>warm<>air<>to<>Japan.",
+        "dictation": "The wind from the south brought warm air to Japan."
+    },
+    "11": {
+        "word": "fan",
+        "meaning": "扇風機",
+        "blank_word": "fan",
+        "blank_sentence": "This PC has a big fan to cool its CPU.",
+        "reorder": "This<>PC<>has<>a<>big<>fan<>to<>cool<>its<>CPU.",
+        "dictation": "This PC has a big fan to cool its CPU."
+    },
+    "12": {
+        "word": "noise",
+        "meaning": "騒音",
+        "blank_word": "noise",
+        "blank_sentence": "The noise comes from that big fan.",
+        "reorder": "The<>noise<>comes<>from<>that<>big<>fan.",
+        "dictation": "The noise comes from that big fan."
+    },
+    "13": {
+        "word": "tone",
+        "meaning": "調子",
+        "blank_word": "tone",
+        "blank_sentence": "I could tell that he was angry from the tone of his voice.",
+        "reorder": "I<>could<>tell<>that<>he<>was<>angry<>from<>the<>tone<>of<>his<>voice.",
+        "dictation": "I could tell that he was angry from the tone of his voice."
+    },
+    "14": {
+        "word": "radar",
+        "meaning": "レーダー",
+        "blank_word": "radar",
+        "blank_sentence": "The boat was too small to show up on the radar.",
+        "reorder": "The<>boat<>was<>too<>small<>to<>show<>up<>on<>the<>radar.",
+        "dictation": "The boat was too small to show up on the radar."
+    },
+    "15": {
+        "word": "antenna",
+        "meaning": "アンテナ",
+        "blank_word": "antenna",
+        "blank_sentence": "You usually need an antenna to watch TV.",
+        "reorder": "You<>usually<>need<>an<>antenna<>to<>watch<>TV.",
+        "dictation": "You usually need an antenna to watch TV."
+    },
+    "16": {
+        "word": "mine",
+        "meaning": "地雷",
+        "blank_word": "mines",
+        "blank_sentence": "This robot crawls on the ground and finds mines.",
+        "reorder": "This<>robot<>crawls<>on<>the<>ground<>and<>finds<>mines.",
+        "dictation": "This robot crawls on the ground and finds mines."
+    },
+    "17": {
+        "word": "coal",
+        "meaning": "石炭",
+        "blank_word": "coal",
+        "blank_sentence": "There used to be a large coal mine around here.",
+        "reorder": "There<>used<>to<>be<>a<>large<>coal<>mine<>around<>here.",
+        "dictation": "There used to be a large coal mine around here."
+    },
+    "18": {
+        "word": "tar",
+        "meaning": "タール",
+        "blank_word": "tar",
+        "blank_sentence": "One pack of this cigarette has 100mg of tar.",
+        "reorder": "One<>pack<>of<>this<>cigarette<>has<>100mg<>of<>tar.",
+        "dictation": "One pack of this cigarette has 100mg of tar."
+    },
+    "19": {
+        "word": "mirror",
+        "meaning": "鏡",
+        "blank_word": "mirror",
+        "blank_sentence": "The mirror set up on the moon is still used today.",
+        "reorder": "The<>mirror<>set<>up<>on<>the<>moon<>is<>still<>used<>today.",
+        "dictation": "The mirror set up on the moon is still used today."
+    },
+    "20": {
+        "word": "prize",
+        "meaning": "賞",
+        "blank_word": "prize",
+        "blank_sentence": "Everybody was surprised at his getting a prize in the contest.",
+        "reorder": "Everybody<>was<>surprised<>at<>his<>getting<>a<>prize<>in<>the<>contest.",
+        "dictation": "Everybody was surprised at his getting a prize in the contest."
+    },
+    "21": {
+        "word": "mistake",
+        "meaning": "間違い",
+        "blank_word": "mistake",
+        "blank_sentence": "I dialed the wrong number by mistake.",
+        "reorder": "I<>dialed<>the<>wrong<>number<>by<>mistake.",
+        "dictation": "I dialed the wrong number by mistake."
+    },
+    "22": {
+        "word": "sense",
+        "meaning": "感覚",
+        "blank_word": "sense",
+        "blank_sentence": "A dog's sense of hearing is much better than ours.",
+        "reorder": "A<>dog's<>sense<>of<>hearing<>is<>much<>better<>than<>ours.",
+        "dictation": "A dog's sense of hearing is much better than ours."
+    },
+    "23": {
+        "word": "rhythm",
+        "meaning": "リズム",
+        "blank_word": "rhythm",
+        "blank_sentence": "The dancer has a good sense of rhythm.",
+        "reorder": "The<>dancer<>has<>a<>good<>sense<>of<>rhythm.",
+        "dictation": "The dancer has a good sense of rhythm."
+    },
+    "24": {
+        "word": "accent",
+        "meaning": "アクセント",
+        "blank_word": "accent",
+        "blank_sentence": "Where is the accent placed in this word?",
+        "reorder": "Where<>is<>the<>accent<>placed<>in<>this<>word?",
+        "dictation": "Where is the accent placed in this word?"
+    },
+    "25": {
+        "word": "balance",
+        "meaning": "バランス",
+        "blank_word": "balance",
+        "blank_sentence": "A sense of balance is needed to ride a bicycle.",
+        "reorder": "A<>sense<>of<>balance<>is<>needed<>to<>ride<>a<>bicycle.",
+        "dictation": "A sense of balance is needed to ride a bicycle."
+    }
+}

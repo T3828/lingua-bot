@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "enlarge",
+        "meaning": "拡大する",
+        "blank_word": "enlarge",
+        "blank_sentence": "Please enlarge this graphical image and print it out.",
+        "reorder": "Please<>enlarge<>this<>graphical<>image<>and<>print<>it<>out.",
+        "dictation": "Please enlarge this graphical image and print it out."
+    },
+    "2": {
+        "word": "import",
+        "meaning": "輸入する",
+        "blank_word": "imports",
+        "blank_sentence": "The United States imports cars from Japan.",
+        "reorder": "The<>United<>States<>imports<>cars<>from<>Japan.",
+        "dictation": "The United States imports cars from Japan."
+    },
+    "3": {
+        "word": "export",
+        "meaning": "輸出する",
+        "blank_word": "exporting",
+        "blank_sentence": "Those ships in the port are all for exporting cars.",
+        "reorder": "Those<>ships<>in<>the<>port<>are<>all<>for<>exporting<>cars.",
+        "dictation": "Those ships in the port are all for exporting cars."
+    },
+    "4": {
+        "word": "revive",
+        "meaning": "生き返らせる",
+        "blank_word": "revived",
+        "blank_sentence": "Increasing exports of cars revived the Japanese economy.",
+        "reorder": "Increasing<>exports<>of<>cars<>revived<>the<>Japanese<>economy.",
+        "dictation": "Increasing exports of cars revived the Japanese economy."
+    },
+    "5": {
+        "word": "domestic",
+        "meaning": "国内の",
+        "blank_word": "domestic",
+        "blank_sentence": "This airport is only for domestic airlines.",
+        "reorder": "This<>airport<>is<>only<>for<>domestic<>airlines.",
+        "dictation": "This airport is only for domestic airlines."
+    },
+    "6": {
+        "word": "tight",
+        "meaning": "きつい",
+        "blank_word": "tight",
+        "blank_sentence": "The knot was so tight that no one could untie it.",
+        "reorder": "The<>knot<>was<>so<>tight<>that<>no<>one<>could<>untie<>it.",
+        "dictation": "The knot was so tight that no one could untie it."
+    },
+    "7": {
+        "word": "loose",
+        "meaning": "ゆるんだ",
+        "blank_word": "loose",
+        "blank_sentence": "Find the loose screws and tighten them again.",
+        "reorder": "Find<>the<>loose<>screws<>and<>tighten<>them<>again.",
+        "dictation": "Find the loose screws and tighten them again."
+    },
+    "8": {
+        "word": "steep",
+        "meaning": "急な",
+        "blank_word": "steep",
+        "blank_sentence": "The slope is too steep for this old car to go up.",
+        "reorder": "The<>slope<>is<>too<>steep<>for<>this<>old<>car<>to<>go<>up.",
+        "dictation": "The slope is too steep for this old car to go up."
+    },
+    "9": {
+        "word": "cruel",
+        "meaning": "残酷な",
+        "blank_word": "cruel",
+        "blank_sentence": "The experiment was banned because it was cruel to animals.",
+        "reorder": "The<>experiment<>was<>banned<>because<>it<>was<>cruel<>to<>animals.",
+        "dictation": "The experiment was banned because it was cruel to animals."
+    },
+    "10": {
+        "word": "ugly",
+        "meaning": "醜い",
+        "blank_word": "ugly",
+        "blank_sentence": "The ugly face of the monster scared the children.",
+        "reorder": "The<>ugly<>face<>of<>the<>monster<>scared<>the<>children.",
+        "dictation": "The ugly face of the monster scared the children."
+    },
+    "11": {
+        "word": "firm",
+        "meaning": "固い",
+        "blank_word": "firm",
+        "blank_sentence": "We should build our houses on firm ground.",
+        "reorder": "We<>should<>build<>our<>houses<>on<>firm<>ground.",
+        "dictation": "We should build our houses on firm ground."
+    },
+    "12": {
+        "word": "rare",
+        "meaning": "珍しい",
+        "blank_word": "rare",
+        "blank_sentence": "We can see many rare plants on the island.",
+        "reorder": "We<>can<>see<>many<>rare<>plants<>on<>the<>island.",
+        "dictation": "We can see many rare plants on the island."
+    },
+    "13": {
+        "word": "ancient",
+        "meaning": "古代の",
+        "blank_word": "ancient",
+        "blank_sentence": "A major example of an ancient animal is ammonite.",
+        "reorder": "A<>major<>example<>of<>an<>ancient<>animal<>is<>ammonite.",
+        "dictation": "A major example of an ancient animal is ammonite."
+    },
+    "14": {
+        "word": "grave",
+        "meaning": "墓",
+        "blank_word": "graves",
+        "blank_sentence": "Pyramids are thought to be graves of ancient kings.",
+        "reorder": "Pyramids<>are<>thought<>to<>be<>graves<>of<>ancient<>kings.",
+        "dictation": "Pyramids are thought to be graves of ancient kings."
+    },
+    "15": {
+        "word": "section",
+        "meaning": "区画",
+        "blank_word": "sections",
+        "blank_sentence": "There are several sections in this building that you are not allowed to enter.",
+        "reorder": "There<>are<>several<>sections<>in<>this<>building<>that<>you<>are<>not<>allowed<>to<>enter.",
+        "dictation": "There are several sections in this building that you are not allowed to enter."
+    },
+    "16": {
+        "word": "dose",
+        "meaning": "(薬の)一服",
+        "blank_word": "dose",
+        "blank_sentence": "Take one dose of the medicine after every meal.",
+        "reorder": "Take<>one<>dose<>of<>the<>medicine<>after<>every<>meal.",
+        "dictation": "Take one dose of the medicine after every meal."
+    },
+    "17": {
+        "word": "shot",
+        "meaning": "発射",
+        "blank_word": "shot",
+        "blank_sentence": "He took a shot at the bear with a shotgun.",
+        "reorder": "He<>took<>a<>shot<>at<>the<>bear<>with<>a<>shotgun.",
+        "dictation": "He took a shot at the bear with a shotgun."
+    },
+    "18": {
+        "word": "progress",
+        "meaning": "進行",
+        "blank_word": "progress",
+        "blank_sentence": "Watch the progress of the chemical reaction carefully.",
+        "reorder": "Watch<>the<>progress<>of<>the<>chemical<>reaction<>carefully.",
+        "dictation": "Watch the progress of the chemical reaction carefully."
+    },
+    "19": {
+        "word": "court",
+        "meaning": "法廷",
+        "blank_word": "court",
+        "blank_sentence": "This court is for family cases.",
+        "reorder": "This<>court<>is<>for<>family<>cases.",
+        "dictation": "This court is for family cases."
+    },
+    "20": {
+        "word": "campaign",
+        "meaning": "広報活動",
+        "blank_word": "campaign",
+        "blank_sentence": "Many students took part in the campaign against nuclear weapons.",
+        "reorder": "Many<>students<>took<>part<>in<>the<>campaign<>against<>nuclear<>weapons.",
+        "dictation": "Many students took part in the campaign against nuclear weapons."
+    },
+    "21": {
+        "word": "document",
+        "meaning": "文書",
+        "blank_word": "documents",
+        "blank_sentence": "Many official documents can be read on the Internet.",
+        "reorder": "Many<>official<>documents<>can<>be<>read<>on<>the<>Internet.",
+        "dictation": "Many official documents can be read on the Internet."
+    },
+    "22": {
+        "word": "signature",
+        "meaning": "署名",
+        "blank_word": "signature",
+        "blank_sentence": "We need your signature to complete the contract.",
+        "reorder": "We<>need<>your<>signature<>to<>complete<>the<>contract.",
+        "dictation": "We need your signature to complete the contract."
+    },
+    "23": {
+        "word": "margin",
+        "meaning": "余白",
+        "blank_word": "margin",
+        "blank_sentence": "Write your comments in the margin of the document.",
+        "reorder": "Write<>your<>comments<>in<>the<>margin<>of<>the<>document.",
+        "dictation": "Write your comments in the margin of the document."
+    },
+    "24": {
+        "word": "script",
+        "meaning": "台本",
+        "blank_word": "script",
+        "blank_sentence": "There is no script for this documentary film.",
+        "reorder": "There<>is<>no<>script<>for<>this<>documentary<>film.",
+        "dictation": "There is no script for this documentary film."
+    },
+    "25": {
+        "word": "client",
+        "meaning": "依頼人",
+        "blank_word": "client",
+        "blank_sentence": "The lawyer told his client to add a signature to the contract.",
+        "reorder": "The<>lawyer<>told<>his<>client<>to<>add<>a<>signature<>to<>the<>contract.",
+        "dictation": "The lawyer told his client to add a signature to the contract."
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "primate",
+        "meaning": "霊長類",
+        "blank_word": "primates",
+        "blank_sentence": "Human beings and monkeys are both primates.",
+        "reorder": "Human<>beings<>and<>monkeys<>are<>both<>primates.",
+        "dictation": "Human beings and monkeys are both primates."
+    },
+    "2": {
+        "word": "ape",
+        "meaning": "類人猿",
+        "blank_word": "Apes",
+        "blank_sentence": "Apes are different from monkeys.",
+        "reorder": "Apes<>are<>different<>from<>monkeys.",
+        "dictation": "Apes are different from monkeys."
+    },
+    "3": {
+        "word": "ancestor",
+        "meaning": "祖先",
+        "blank_word": "ancestor",
+        "blank_sentence": "The DNA test revealed that those two species had the same ancestor.",
+        "reorder": "The<>DNA<>test<>revealed<>that<>those<>two<>species<>had<>the<>same<>ancestor.",
+        "dictation": "The DNA test revealed that those two species had the same ancestor."
+    },
+    "4": {
+        "word": "offspring",
+        "meaning": "子孫",
+        "blank_word": "offspring",
+        "blank_sentence": "Animals produce and raise offspring for the next generation.",
+        "reorder": "Animals<>produce<>and<>raise<>offspring<>for<>the<>next<>generation.",
+        "dictation": "Animals produce and raise offspring for the next generation."
+    },
+    "5": {
+        "word": "destiny",
+        "meaning": "運命",
+        "blank_word": "destiny",
+        "blank_sentence": "I think it was his destiny to become a scientist.",
+        "reorder": "I<>think<>it<>was<>his<>destiny<>to<>become<>a<>scientist.",
+        "dictation": "I think it was his destiny to become a scientist."
+    },
+    "6": {
+        "word": "mutation",
+        "meaning": "突然変異(体)",
+        "blank_word": "mutations",
+        "blank_sentence": "Quite a few mutations have been discovered so far.",
+        "reorder": "Quite<>a<>few<>mutations<>have<>been<>discovered<>so<>far.",
+        "dictation": "Quite a few mutations have been discovered so far."
+    },
+    "7": {
+        "word": "duty",
+        "meaning": "義務",
+        "blank_word": "duty",
+        "blank_sentence": "It is the duty of parents to eliminate every possible hazard to their children.",
+        "reorder": "It<>is<>the<>duty<>of<>parents<>to<>eliminate<>every<>possible<>hazard<>to<>their<>children.",
+        "dictation": "It is the duty of parents to eliminate every possible hazard to their children."
+    },
+    "8": {
+        "word": "solvent",
+        "meaning": "溶剤",
+        "blank_word": "solvent",
+        "blank_sentence": "Thinner is a typical solvent.",
+        "reorder": "Thinner<>is<>a<>typical<>solvent.",
+        "dictation": "Thinner is a typical solvent."
+    },
+    "9": {
+        "word": "catalyst",
+        "meaning": "触媒",
+        "blank_word": "catalyst",
+        "blank_sentence": "A catalyst is a substance which controls the rate of reaction.",
+        "reorder": "A<>catalyst<>is<>a<>substance<>which<>controls<>the<>rate<>of<>reaction.",
+        "dictation": "A catalyst is a substance which controls the rate of reaction."
+    },
+    "10": {
+        "word": "harm",
+        "meaning": "害する",
+        "blank_word": "harm",
+        "blank_sentence": "Too much pesticide can harm the ecological system.",
+        "reorder": "Too<>much<>pesticide<>can<>harm<>the<>ecological<>system.",
+        "dictation": "Too much pesticide can harm the ecological system."
+    },
+    "11": {
+        "word": "inquire",
+        "meaning": "問い合わせる",
+        "blank_word": "inquired",
+        "blank_sentence": "They inquired of the local office about the situation of the construction site.",
+        "reorder": "They<>inquired<>of<>the<>local<>office<>about<>the<>situation<>of<>the<>construction<>site.",
+        "dictation": "They inquired of the local office about the situation of the construction site."
+    },
+    "12": {
+        "word": "acknowledge",
+        "meaning": "(正しいと)認める",
+        "blank_word": "acknowledged",
+        "blank_sentence": "He is acknowledged as one of the greatest scientists in the world.",
+        "reorder": "He<>is<>acknowledged<>as<>one<>of<>the<>greatest<>scientists<>in<>the<>world.",
+        "dictation": "He is acknowledged as one of the greatest scientists in the world."
+    },
+    "13": {
+        "word": "differ",
+        "meaning": "異なる",
+        "blank_word": "differ",
+        "blank_sentence": "The results of the two experiments differ from each other.",
+        "reorder": "The<>results<>of<>the<>two<>experiments<>differ<>from<>each<>other.",
+        "dictation": "The results of the two experiments differ from each other."
+    },
+    "14": {
+        "word": "lag",
+        "meaning": "遅れる",
+        "blank_word": "lag",
+        "blank_sentence": "The industries in that country still lag behind other developed countries.",
+        "reorder": "The<>industries<>in<>that<>country<>still<>lag<>behind<>other<>developed<>countries.",
+        "dictation": "The industries in that country still lag behind other developed countries."
+    },
+    "15": {
+        "word": "tune",
+        "meaning": "(波長などを)合わせる",
+        "blank_word": "Tune",
+        "blank_sentence": "Tune the receiver to the specified frequency.",
+        "reorder": "Tune<>the<>receiver<>to<>the<>specified<>frequency.",
+        "dictation": "Tune the receiver to the specified frequency."
+    },
+    "16": {
+        "word": "arrange",
+        "meaning": "並べる",
+        "blank_word": "arranged",
+        "blank_sentence": "We arranged the desks in two rows.",
+        "reorder": "We<>arranged<>the<>desks<>in<>two<>rows.",
+        "dictation": "We arranged the desks in two rows."
+    },
+    "17": {
+        "word": "afford",
+        "meaning": "(金,時間などに)余裕がある",
+        "blank_word": "afford",
+        "blank_sentence": "I can't afford to buy a car.",
+        "reorder": "I<>can't<>afford<>to<>buy<>a<>car.",
+        "dictation": "I can't afford to buy a car."
+    },
+    "18": {
+        "word": "mimic",
+        "meaning": "まねる",
+        "blank_word": "mimic",
+        "blank_sentence": "Monkeys often mimic human actions.",
+        "reorder": "Monkeys<>often<>mimic<>human<>actions.",
+        "dictation": "Monkeys often mimic human actions."
+    },
+    "19": {
+        "word": "vote",
+        "meaning": "投票する",
+        "blank_word": "vote",
+        "blank_sentence": "People aged 20 or above have the right to vote in Japan.",
+        "reorder": "People<>aged<>20<>or<>above<>have<>the<>right<>to<>vote<>in<>Japan.",
+        "dictation": "People aged 20 or above have the right to vote in Japan."
+    },
+    "20": {
+        "word": "elect",
+        "meaning": "(投票によって)選ぶ",
+        "blank_word": "elected",
+        "blank_sentence": "The people elected him the next president.",
+        "reorder": "The<>people<>elected<>him<>the<>next<>president.",
+        "dictation": "The people elected him the next president."
+    },
+    "21": {
+        "word": "bend",
+        "meaning": "曲げる",
+        "blank_word": "bend",
+        "blank_sentence": "This metal becomes easy to bend when it's heated.",
+        "reorder": "This<>metal<>becomes<>easy<>to<>bend<>when<>it's<>heated.",
+        "dictation": "This metal becomes easy to bend when it's heated."
+    },
+    "22": {
+        "word": "settle",
+        "meaning": "(問題などを)解決する",
+        "blank_word": "settle",
+        "blank_sentence": "The person who could settle this dispute must be elected as the leader.",
+        "reorder": "The<>person<>who<>could<>settle<>this<>dispute<>must<>be<>elected<>as<>the<>leader.",
+        "dictation": "The person who could settle this dispute must be elected as the leader."
+    },
+    "23": {
+        "word": "neglect",
+        "meaning": "無視する",
+        "blank_word": "neglect",
+        "blank_sentence": "You can neglect air resistance in the calculation of gravitational acceleration.",
+        "reorder": "You<>can<>neglect<>air<>resistance<>in<>the<>calculation<>of<>gravitational<>acceleration.",
+        "dictation": "You can neglect air resistance in the calculation of gravitational acceleration."
+    },
+    "24": {
+        "word": "dismiss",
+        "meaning": "解雇する",
+        "blank_word": "dismissed",
+        "blank_sentence": "He was dismissed for neglect of duty.",
+        "reorder": "He<>was<>dismissed<>for<>neglect<>of<>duty.",
+        "dictation": "He was dismissed for neglect of duty."
+    },
+    "25": {
+        "word": "cast",
+        "meaning": "投げる",
+        "blank_word": "cast",
+        "blank_sentence": "A fisherman cast a net into the water from the boat.",
+        "reorder": "A<>fisherman<>cast<>a<>net<>into<>the<>water<>from<>the<>boat.",
+        "dictation": "A fisherman cast a net into the water from the boat."
+    }
+}

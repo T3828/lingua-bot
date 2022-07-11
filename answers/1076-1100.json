@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "rib",
+        "meaning": "肋骨(ろっこつ)",
+        "blank_word": "ribs",
+        "blank_sentence": "Do you know how many ribs you have in your body",
+        "reorder": "Do<>you<>know<>how<>many<>ribs<>you<>have<>in<>your<>body",
+        "dictation": "Do you know how many ribs you have in your body?"
+    },
+    "2": {
+        "word": "shoulder",
+        "meaning": "肩",
+        "blank_word": "shoulders",
+        "blank_sentence": "He had three bags hanging from his shoulders.",
+        "reorder": "He<>had<>three<>bags<>hanging<>from<>his<>shoulders.",
+        "dictation": "He had three bags hanging from his shoulders."
+    },
+    "3": {
+        "word": "thigh",
+        "meaning": "腿(もも)",
+        "blank_word": "thighs",
+        "blank_sentence": "I feel pain in the back of my thighs.",
+        "reorder": "I<>feel<>pain<>in<>the<>back<>of<>my<>thighs.",
+        "dictation": "I feel pain in the back of my thighs."
+    },
+    "4": {
+        "word": "joint",
+        "meaning": "関節",
+        "blank_word": "joint",
+        "blank_sentence": "He put his knee out of joint.",
+        "reorder": "He<>put<>his<>knee<>out<>of<>joint.",
+        "dictation": "He put his knee out of joint."
+    },
+    "5": {
+        "word": "collar",
+        "meaning": "襟",
+        "blank_word": "collars",
+        "blank_sentence": "Men's jackets usually have collars.",
+        "reorder": "Men's<>jackets<>usually<>have<>collars.",
+        "dictation": "Men's jackets usually have collars."
+    },
+    "6": {
+        "word": "sleeve",
+        "meaning": "袖",
+        "blank_word": "sleeves",
+        "blank_sentence": "He rolled up the sleeves of his shirt.",
+        "reorder": "He<>rolled<>up<>the<>sleeves<>of<>his<>shirt.",
+        "dictation": "He rolled up the sleeves of his shirt."
+    },
+    "7": {
+        "word": "claw",
+        "meaning": "(動物の)爪",
+        "blank_word": "claws",
+        "blank_sentence": "If you cut the claws of a bird too deeply, they will bleed.",
+        "reorder": "If<>you<>cut<>the<>claws<>of<>a<>bird<>too<>deeply,<>they<>will<>bleed.",
+        "dictation": "If you cut the claws of a bird too deeply, they will bleed."
+    },
+    "8": {
+        "word": "horn",
+        "meaning": "(動物の)角(つの)",
+        "blank_word": "horns",
+        "blank_sentence": "Deer's horns grow again each year.",
+        "reorder": "Deer's<>horns<>grow<>again<>each<>year.",
+        "dictation": "Deer's horns grow again each year."
+    },
+    "9": {
+        "word": "insect",
+        "meaning": "昆虫",
+        "blank_word": "insects",
+        "blank_sentence": "Most insects have six legs and four wings.",
+        "reorder": "Most<>insects<>have<>six<>legs<>and<>four<>wings.",
+        "dictation": "Most insects have six legs and four wings."
+    },
+    "10": {
+        "word": "eventually",
+        "meaning": "やがて",
+        "blank_word": "eventually",
+        "blank_sentence": "After several years, the tree will eventually produce apples.",
+        "reorder": "After<>several<>years,<>the<>tree<>will<>eventually<>produce<>apples.",
+        "dictation": "After several years, the tree will eventually produce apples."
+    },
+    "11": {
+        "word": "gradually",
+        "meaning": "徐々に",
+        "blank_word": "gradually",
+        "blank_sentence": "The air inside the can expanded gradually with heat.",
+        "reorder": "The<>air<>inside<>the<>can<>expanded<>gradually<>with<>heat.",
+        "dictation": "The air inside the can expanded gradually with heat."
+    },
+    "12": {
+        "word": "approximately",
+        "meaning": "およそ",
+        "blank_word": "Approximately",
+        "blank_sentence": "Approximately one million kinds of insects are known to exist on earth.",
+        "reorder": "Approximately<>one<>million<>kinds<>of<>insects<>are<>known<>to<>exist<>on<>earth.",
+        "dictation": "Approximately one million kinds of insects are known to exist on earth."
+    },
+    "13": {
+        "word": "merely",
+        "meaning": "ただ(単に)",
+        "blank_word": "merely",
+        "blank_sentence": "Science is not merely a collection of facts.",
+        "reorder": "Science<>is<>not<>merely<>a<>collection<>of<>facts.",
+        "dictation": "Science is not merely a collection of facts."
+    },
+    "14": {
+        "word": "closely",
+        "meaning": "密接に",
+        "blank_word": "closely",
+        "blank_sentence": "High blood pressure is closely related to body weight.",
+        "reorder": "High<>blood<>pressure<>is<>closely<>related<>to<>body<>weight.",
+        "dictation": "High blood pressure is closely related to body weight."
+    },
+    "15": {
+        "word": "definitely",
+        "meaning": "確かに",
+        "blank_word": "definitely",
+        "blank_sentence": "According to the data, water pollution is definitely increasing.",
+        "reorder": "According<>to<>the<>data,<>water<>pollution<>is<>definitely<>increasing.",
+        "dictation": "According to the data, water pollution is definitely increasing."
+    },
+    "16": {
+        "word": "shortly",
+        "meaning": "まもなく",
+        "blank_word": "shortly",
+        "blank_sentence": "The conference began shortly after he arrived.",
+        "reorder": "The<>conference<>began<>shortly<>after<>he<>arrived.",
+        "dictation": "The conference began shortly after he arrived."
+    },
+    "17": {
+        "word": "lately",
+        "meaning": "最近は",
+        "blank_word": "lately",
+        "blank_sentence": "I haven't found any interesting programs on TV lately.",
+        "reorder": "I<>haven't<>found<>any<>interesting<>programs<>on<>TV<>lately.",
+        "dictation": "I haven't found any interesting programs on TV lately."
+    },
+    "18": {
+        "word": "nowadays",
+        "meaning": "今日では",
+        "blank_word": "Nowadays",
+        "blank_sentence": "Nowadays , Japanese comics are read around the world.",
+        "reorder": "Nowadays<>,<>Japanese<>comics<>are<>read<>around<>the<>world.",
+        "dictation": "Nowadays , Japanese comics are read around the world."
+    },
+    "19": {
+        "word": "personal",
+        "meaning": "私的な",
+        "blank_word": "personal",
+        "blank_sentence": "The information on this website is limited to personal use only.",
+        "reorder": "The<>information<>on<>this<>website<>is<>limited<>to<>personal<>use<>only.",
+        "dictation": "The information on this website is limited to personal use only."
+    },
+    "20": {
+        "word": "pure",
+        "meaning": "純粋な",
+        "blank_word": "pure",
+        "blank_sentence": "We made chemically pure water in the laboratory.",
+        "reorder": "We<>made<>chemically<>pure<>water<>in<>the<>laboratory.",
+        "dictation": "We made chemically pure water in the laboratory."
+    },
+    "21": {
+        "word": "definite",
+        "meaning": "特定の",
+        "blank_word": "definite",
+        "blank_sentence": "A pure substance melts and boils at definite temperatures.",
+        "reorder": "A<>pure<>substance<>melts<>and<>boils<>at<>definite<>temperatures.",
+        "dictation": "A pure substance melts and boils at definite temperatures."
+    },
+    "22": {
+        "word": "infinite",
+        "meaning": "無限の",
+        "blank_word": "infinite",
+        "blank_sentence": "There is an infinite number of prime numbers.",
+        "reorder": "There<>is<>an<>infinite<>number<>of<>prime<>numbers.",
+        "dictation": "There is an infinite number of prime numbers."
+    },
+    "23": {
+        "word": "finite",
+        "meaning": "有限の",
+        "blank_word": "finite",
+        "blank_sentence": "A finite sequence has a definite beginning and end.",
+        "reorder": "A<>finite<>sequence<>has<>a<>definite<>beginning<>and<>end.",
+        "dictation": "A finite sequence has a definite beginning and end."
+    },
+    "24": {
+        "word": "particular",
+        "meaning": "特有の",
+        "blank_word": "particular",
+        "blank_sentence": "This substance has a particular property.",
+        "reorder": "This<>substance<>has<>a<>particular<>property.",
+        "dictation": "This substance has a particular property."
+    },
+    "25": {
+        "word": "weak",
+        "meaning": "弱い",
+        "blank_word": "weak",
+        "blank_sentence": "This material is weak against heat.",
+        "reorder": "This<>material<>is<>weak<>against<>heat.",
+        "dictation": "This material is weak against heat."
+    }
+}

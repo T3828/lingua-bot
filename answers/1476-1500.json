@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "chop",
+        "meaning": "切り落とす",
+        "blank_word": "chop",
+        "blank_sentence": "Will you please chop off the branch?",
+        "reorder": "Will<>you<>please<>chop<>off<>the<>branch?",
+        "dictation": "Will you please chop off the branch?"
+    },
+    "2": {
+        "word": "trim",
+        "meaning": "切りそろえる",
+        "blank_word": "trim",
+        "blank_sentence": "Please trim the lower branches of the tree.",
+        "reorder": "Please<>trim<>the<>lower<>branches<>of<>the<>tree.",
+        "dictation": "Please trim the lower branches of the tree."
+    },
+    "3": {
+        "word": "flame",
+        "meaning": "炎",
+        "blank_word": "flame",
+        "blank_sentence": "The hottest part of the candle flame is about 1400 degrees Celsius.",
+        "reorder": "The<>hottest<>part<>of<>the<>candle<>flame<>is<>about<>1400<>degrees<>Celsius.",
+        "dictation": "The hottest part of the candle flame is about 1400 degrees Celsius."
+    },
+    "4": {
+        "word": "Mars",
+        "meaning": "火星",
+        "blank_word": "Mars",
+        "blank_sentence": "Mars is the fourth planet in the solar system.",
+        "reorder": "Mars<>is<>the<>fourth<>planet<>in<>the<>solar<>system.",
+        "dictation": "Mars is the fourth planet in the solar system."
+    },
+    "5": {
+        "word": "Jupiter",
+        "meaning": "木星",
+        "blank_word": "Jupiter",
+        "blank_sentence": "The mission of the spaceship is to explore the surface of Jupiter.",
+        "reorder": "The<>mission<>of<>the<>spaceship<>is<>to<>explore<>the<>surface<>of<>Jupiter.",
+        "dictation": "The mission of the spaceship is to explore the surface of Jupiter."
+    },
+    "6": {
+        "word": "comet",
+        "meaning": "彗星",
+        "blank_word": "comet",
+        "blank_sentence": "The tail of a comet appears only when it's close to the sun.",
+        "reorder": "The<>tail<>of<>a<>comet<>appears<>only<>when<>it's<>close<>to<>the<>sun.",
+        "dictation": "The tail of a comet appears only when it's close to the sun."
+    },
+    "7": {
+        "word": "asteroid",
+        "meaning": "小惑星",
+        "blank_word": "asteroid",
+        "blank_sentence": "An asteroid probe named Hayabusa reached the asteroid Itokawa.",
+        "reorder": "An<>asteroid<>probe<>named<>Hayabusa<>reached<>the<>asteroid<>Itokawa.",
+        "dictation": "An asteroid probe named Hayabusa reached the asteroid Itokawa."
+    },
+    "8": {
+        "word": "parabola",
+        "meaning": "放物線",
+        "blank_word": "parabola",
+        "blank_sentence": "The ball's path had the shape of a parabola.",
+        "reorder": "The<>ball's<>path<>had<>the<>shape<>of<>a<>parabola.",
+        "dictation": "The ball's path had the shape of a parabola."
+    },
+    "9": {
+        "word": "disaster",
+        "meaning": "災害",
+        "blank_word": "disaster",
+        "blank_sentence": "The disaster of earthquakes in 2011 was a huge blow for people in Japan.",
+        "reorder": "The<>disaster<>of<>earthquakes<>in<>2011<>was<>a<>huge<>blow<>for<>people<>in<>Japan.",
+        "dictation": "The disaster of earthquakes in 2011 was a huge blow for people in Japan."
+    },
+    "10": {
+        "word": "consequence",
+        "meaning": "結果",
+        "blank_word": "consequence",
+        "blank_sentence": "As a consequence of their efforts, they found a new comet.",
+        "reorder": "As<>a<>consequence<>of<>their<>efforts,<>they<>found<>a<>new<>comet.",
+        "dictation": "As a consequence of their efforts, they found a new comet."
+    },
+    "11": {
+        "word": "threat",
+        "meaning": "脅威",
+        "blank_word": "threat",
+        "blank_sentence": "The people in that area are always under threat of war.",
+        "reorder": "The<>people<>in<>that<>area<>are<>always<>under<>threat<>of<>war.",
+        "dictation": "The people in that area are always under threat of war."
+    },
+    "12": {
+        "word": "creature",
+        "meaning": "生き物",
+        "blank_word": "creatures",
+        "blank_sentence": "There are still many unknown creatures on earth.",
+        "reorder": "There<>are<>still<>many<>unknown<>creatures<>on<>earth.",
+        "dictation": "There are still many unknown creatures on earth."
+    },
+    "13": {
+        "word": "mammal",
+        "meaning": "哺乳類",
+        "blank_word": "mammals",
+        "blank_sentence": "Generally speaking, only mammals can be pregnant.",
+        "reorder": "Generally<>speaking,<>only<>mammals<>can<>be<>pregnant.",
+        "dictation": "Generally speaking, only mammals can be pregnant."
+    },
+    "14": {
+        "word": "reptile",
+        "meaning": "爬虫類",
+        "blank_word": "Reptiles",
+        "blank_sentence": "Reptiles had existed on earth long before mammals appeared.",
+        "reorder": "Reptiles<>had<>existed<>on<>earth<>long<>before<>mammals<>appeared.",
+        "dictation": "Reptiles had existed on earth long before mammals appeared."
+    },
+    "15": {
+        "word": "dinosaur",
+        "meaning": "恐竜",
+        "blank_word": "dinosaurs",
+        "blank_sentence": "Many fossils of dinosaurs have been found in Japan.",
+        "reorder": "Many<>fossils<>of<>dinosaurs<>have<>been<>found<>in<>Japan.",
+        "dictation": "Many fossils of dinosaurs have been found in Japan."
+    },
+    "16": {
+        "word": "shell",
+        "meaning": "(卵,貝などの)殻",
+        "blank_word": "shells",
+        "blank_sentence": "Most of these kinds of creatures have hard shells.",
+        "reorder": "Most<>of<>these<>kinds<>of<>creatures<>have<>hard<>shells.",
+        "dictation": "Most of these kinds of creatures have hard shells."
+    },
+    "17": {
+        "word": "vertebrate",
+        "meaning": "脊椎動物",
+        "blank_word": "Vertebrates",
+        "blank_sentence": "Vertebrates are creatures that have a backbone.",
+        "reorder": "Vertebrates<>are<>creatures<>that<>have<>a<>backbone.",
+        "dictation": "Vertebrates are creatures that have a backbone."
+    },
+    "18": {
+        "word": "skeleton",
+        "meaning": "骨格",
+        "blank_word": "skeleton",
+        "blank_sentence": "A complete dinosaur skeleton was found at this site.",
+        "reorder": "A<>complete<>dinosaur<>skeleton<>was<>found<>at<>this<>site.",
+        "dictation": "A complete dinosaur skeleton was found at this site."
+    },
+    "19": {
+        "word": "trust",
+        "meaning": "信用する",
+        "blank_word": "trust",
+        "blank_sentence": "We can't trust all the information on the Internet.",
+        "reorder": "We<>can't<>trust<>all<>the<>information<>on<>the<>Internet.",
+        "dictation": "We can't trust all the information on the Internet."
+    },
+    "20": {
+        "word": "classify",
+        "meaning": "分類する",
+        "blank_word": "classified",
+        "blank_sentence": "Dinosaurs are generally classified as reptiles.",
+        "reorder": "Dinosaurs<>are<>generally<>classified<>as<>reptiles.",
+        "dictation": "Dinosaurs are generally classified as reptiles."
+    },
+    "21": {
+        "word": "split",
+        "meaning": "分割する",
+        "blank_word": "split",
+        "blank_sentence": "The company split the stock.",
+        "reorder": "The<>company<>split<>the<>stock.",
+        "dictation": "The company split the stock."
+    },
+    "22": {
+        "word": "entitle",
+        "meaning": "資格を与える",
+        "blank_word": "entitled",
+        "blank_sentence": "They are entitled to take the national examination.",
+        "reorder": "They<>are<>entitled<>to<>take<>the<>national<>examination.",
+        "dictation": "They are entitled to take the national examination."
+    },
+    "23": {
+        "word": "purchase",
+        "meaning": "購入する",
+        "blank_word": "purchasing",
+        "blank_sentence": "Thank you for purchasing our product.",
+        "reorder": "Thank<>you<>for<>purchasing<>our<>product.",
+        "dictation": "Thank you for purchasing our product."
+    },
+    "24": {
+        "word": "hire",
+        "meaning": "雇う",
+        "blank_word": "hired",
+        "blank_sentence": "The company hired two lawyers to handle its legal problems.",
+        "reorder": "The<>company<>hired<>two<>lawyers<>to<>handle<>its<>legal<>problems.",
+        "dictation": "The company hired two lawyers to handle its legal problems."
+    },
+    "25": {
+        "word": "executive",
+        "meaning": "(会社の)重役",
+        "blank_word": "executives",
+        "blank_sentence": "Some executives make hundreds of times as much money as ordinary workers.",
+        "reorder": "Some<>executives<>make<>hundreds<>of<>times<>as<>much<>money<>as<>ordinary<>workers.",
+        "dictation": "Some executives make hundreds of times as much money as ordinary workers."
+    }
+}

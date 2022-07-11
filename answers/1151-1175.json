@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "analysis",
+        "meaning": "分析",
+        "blank_word": "Analysis",
+        "blank_sentence": "Analysis showed that the material was 50 percent carbon.",
+        "reorder": "Analysis<>showed<>that<>the<>material<>was<>50<>percent<>carbon.",
+        "dictation": "Analysis showed that the material was 50 percent carbon."
+    },
+    "2": {
+        "word": "analyze",
+        "meaning": "分析する",
+        "blank_word": "analyzes",
+        "blank_sentence": "This device analyzes signals from space.",
+        "reorder": "This<>device<>analyzes<>signals<>from<>space.",
+        "dictation": "This device analyzes signals from space."
+    },
+    "3": {
+        "word": "infect",
+        "meaning": "感染する",
+        "blank_word": "infects",
+        "blank_sentence": "Influenza infects people through the air.",
+        "reorder": "Influenza<>infects<>people<>through<>the<>air.",
+        "dictation": "Influenza infects people through the air."
+    },
+    "4": {
+        "word": "ensure",
+        "meaning": "保証する",
+        "blank_word": "ensure",
+        "blank_sentence": "This medicine will ensure that you have a good sleep.",
+        "reorder": "This<>medicine<>will<>ensure<>that<>you<>have<>a<>good<>sleep.",
+        "dictation": "This medicine will ensure that you have a good sleep."
+    },
+    "5": {
+        "word": "stress",
+        "meaning": "強調する",
+        "blank_word": "stressed",
+        "blank_sentence": "The doctor stressed the need for exercise.",
+        "reorder": "The<>doctor<>stressed<>the<>need<>for<>exercise.",
+        "dictation": "The doctor stressed the need for exercise."
+    },
+    "6": {
+        "word": "combine",
+        "meaning": "結合する",
+        "blank_word": "combine",
+        "blank_sentence": "Sodium and chlorine combine to form salt.",
+        "reorder": "Sodium<>and<>chlorine<>combine<>to<>form<>salt.",
+        "dictation": "Sodium and chlorine combine to form salt."
+    },
+    "7": {
+        "word": "avoid",
+        "meaning": "避ける",
+        "blank_word": "avoid",
+        "blank_sentence": "Most drivers hit the brakes hard to avoid an accident.",
+        "reorder": "Most<>drivers<>hit<>the<>brakes<>hard<>to<>avoid<>an<>accident.",
+        "dictation": "Most drivers hit the brakes hard to avoid an accident."
+    },
+    "8": {
+        "word": "escape",
+        "meaning": "脱出する",
+        "blank_word": "escape",
+        "blank_sentence": "The pilot managed to escape from the airplane before it crashed into the sea.",
+        "reorder": "The<>pilot<>managed<>to<>escape<>from<>the<>airplane<>before<>it<>crashed<>into<>the<>sea.",
+        "dictation": "The pilot managed to escape from the airplane before it crashed into the sea."
+    },
+    "9": {
+        "word": "succeed",
+        "meaning": "成功する",
+        "blank_word": "succeed",
+        "blank_sentence": "Whether you will succeed or not depends on your effort.",
+        "reorder": "Whether<>you<>will<>succeed<>or<>not<>depends<>on<>your<>effort.",
+        "dictation": "Whether you will succeed or not depends on your effort."
+    },
+    "10": {
+        "word": "reflect",
+        "meaning": "反射する",
+        "blank_word": "reflects",
+        "blank_sentence": "A mirror reflects light.",
+        "reorder": "A<>mirror<>reflects<>light.",
+        "dictation": "A mirror reflects light."
+    },
+    "11": {
+        "word": "retire",
+        "meaning": "退職する",
+        "blank_word": "retired",
+        "blank_sentence": "He retired from the company at the age of 60.",
+        "reorder": "He<>retired<>from<>the<>company<>at<>the<>age<>of<>60.",
+        "dictation": "He retired from the company at the age of 60."
+    },
+    "12": {
+        "word": "maintain",
+        "meaning": "維持する",
+        "blank_word": "maintain",
+        "blank_sentence": "It is not so easy to maintain a constant speed on the expressway.",
+        "reorder": "It<>is<>not<>so<>easy<>to<>maintain<>a<>constant<>speed<>on<>the<>expressway.",
+        "dictation": "It is not so easy to maintain a constant speed on the expressway."
+    },
+    "13": {
+        "word": "transport",
+        "meaning": "輸送する",
+        "blank_word": "transported",
+        "blank_sentence": "The finished goods are transported by truck.",
+        "reorder": "The<>finished<>goods<>are<>transported<>by<>truck.",
+        "dictation": "The finished goods are transported by truck."
+    },
+    "14": {
+        "word": "transfer",
+        "meaning": "伝える",
+        "blank_word": "transfers",
+        "blank_sentence": "This shaft transfers the power to the wheels.",
+        "reorder": "This<>shaft<>transfers<>the<>power<>to<>the<>wheels.",
+        "dictation": "This shaft transfers the power to the wheels."
+    },
+    "15": {
+        "word": "emit",
+        "meaning": "発する",
+        "blank_word": "emits",
+        "blank_sentence": "When a thing burns, it usually emits light and heat.",
+        "reorder": "When<>a<>thing<>burns,<>it<>usually<>emits<>light<>and<>heat.",
+        "dictation": "When a thing burns, it usually emits light and heat."
+    },
+    "16": {
+        "word": "surround",
+        "meaning": "(取り)囲む",
+        "blank_word": "surround",
+        "blank_sentence": "Name the seas which surround Japan.",
+        "reorder": "Name<>the<>seas<>which<>surround<>Japan.",
+        "dictation": "Name the seas which surround Japan."
+    },
+    "17": {
+        "word": "doubt",
+        "meaning": "疑う",
+        "blank_word": "doubted",
+        "blank_sentence": "Nobody doubted what he told.",
+        "reorder": "Nobody<>doubted<>what<>he<>told.",
+        "dictation": "Nobody doubted what he told."
+    },
+    "18": {
+        "word": "announce",
+        "meaning": "発表する",
+        "blank_word": "announced",
+        "blank_sentence": "The president announced his company's marketing plan.",
+        "reorder": "The<>president<>announced<>his<>company's<>marketing<>plan.",
+        "dictation": "The president announced his company's marketing plan."
+    },
+    "19": {
+        "word": "expose",
+        "meaning": "さらす",
+        "blank_word": "exposed",
+        "blank_sentence": "The accident exposed the workers to radiation.",
+        "reorder": "The<>accident<>exposed<>the<>workers<>to<>radiation.",
+        "dictation": "The accident exposed the workers to radiation."
+    },
+    "20": {
+        "word": "admit",
+        "meaning": "認める",
+        "blank_word": "admitted",
+        "blank_sentence": "He admitted his mistake.",
+        "reorder": "He<>admitted<>his<>mistake.",
+        "dictation": "He admitted his mistake."
+    },
+    "21": {
+        "word": "attend",
+        "meaning": "出席する",
+        "blank_word": "attend",
+        "blank_sentence": "I have to attend three meetings today.",
+        "reorder": "I<>have<>to<>attend<>three<>meetings<>today.",
+        "dictation": "I have to attend three meetings today."
+    },
+    "22": {
+        "word": "realize",
+        "meaning": "気付く",
+        "blank_word": "realized",
+        "blank_sentence": "He realized that he had been sleeping for a whole day.",
+        "reorder": "He<>realized<>that<>he<>had<>been<>sleeping<>for<>a<>whole<>day.",
+        "dictation": "He realized that he had been sleeping for a whole day."
+    },
+    "23": {
+        "word": "enable",
+        "meaning": "可能にする",
+        "blank_word": "enabled",
+        "blank_sentence": "The Internet has enabled us to shop at home.",
+        "reorder": "The<>Internet<>has<>enabled<>us<>to<>shop<>at<>home.",
+        "dictation": "The Internet has enabled us to shop at home."
+    },
+    "24": {
+        "word": "alter",
+        "meaning": "変更する",
+        "blank_word": "altered",
+        "blank_sentence": "This plan can no longer be altered.",
+        "reorder": "This<>plan<>can<>no<>longer<>be<>altered.",
+        "dictation": "This plan can no longer be altered."
+    },
+    "25": {
+        "word": "alternative",
+        "meaning": "替わりの",
+        "blank_word": "alternative",
+        "blank_sentence": "A home fuel cell is an alternative energy technology.",
+        "reorder": "A<>home<>fuel<>cell<>is<>an<>alternative<>energy<>technology.",
+        "dictation": "A home fuel cell is an alternative energy technology."
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "society",
+        "meaning": "社会",
+        "blank_word": "society",
+        "blank_sentence": "Japan is going to be a super aging society.",
+        "reorder": "Japan<>is<>going<>to<>be<>a<>super<>aging<>society.",
+        "dictation": "Japan is going to be a super aging society."
+    },
+    "2": {
+        "word": "border",
+        "meaning": "国境",
+        "blank_word": "border",
+        "blank_sentence": "A battle occurred near the border between the two countries.",
+        "reorder": "A<>battle<>occurred<>near<>the<>border<>between<>the<>two<>countries.",
+        "dictation": "A battle occurred near the border between the two countries."
+    },
+    "3": {
+        "word": "growth",
+        "meaning": "成長",
+        "blank_word": "growth",
+        "blank_sentence": "The medicine stopped the growth of his tumor.",
+        "reorder": "The<>medicine<>stopped<>the<>growth<>of<>his<>tumor.",
+        "dictation": "The medicine stopped the growth of his tumor."
+    },
+    "4": {
+        "word": "hypothesis",
+        "meaning": "仮説",
+        "blank_word": "hypothesis",
+        "blank_sentence": "The results of this experiment proved our hypothesis.",
+        "reorder": "The<>results<>of<>this<>experiment<>proved<>our<>hypothesis.",
+        "dictation": "The results of this experiment proved our hypothesis."
+    },
+    "5": {
+        "word": "survey",
+        "meaning": "調査",
+        "blank_word": "survey",
+        "blank_sentence": "We are planning a survey on the environment.",
+        "reorder": "We<>are<>planning<>a<>survey<>on<>the<>environment.",
+        "dictation": "We are planning a survey on the environment."
+    },
+    "6": {
+        "word": "questionnaire",
+        "meaning": "アンケート",
+        "blank_word": "questionnaire",
+        "blank_sentence": "We did a questionnaire survey on this issue.",
+        "reorder": "We<>did<>a<>questionnaire<>survey<>on<>this<>issue.",
+        "dictation": "We did a questionnaire survey on this issue."
+    },
+    "7": {
+        "word": "impact",
+        "meaning": "衝突",
+        "blank_word": "impact",
+        "blank_sentence": "This picture was taken at the moment of impact.",
+        "reorder": "This<>picture<>was<>taken<>at<>the<>moment<>of<>impact.",
+        "dictation": "This picture was taken at the moment of impact."
+    },
+    "8": {
+        "word": "lightning",
+        "meaning": "稲妻",
+        "blank_word": "Lightning",
+        "blank_sentence": "Lightning is likely to strike the tallest thing standing around.",
+        "reorder": "Lightning<>is<>likely<>to<>strike<>the<>tallest<>thing<>standing<>around.",
+        "dictation": "Lightning is likely to strike the tallest thing standing around."
+    },
+    "9": {
+        "word": "thunder",
+        "meaning": "雷",
+        "blank_word": "thunder",
+        "blank_sentence": "It looks like we are going to have a thunder shower.",
+        "reorder": "It<>looks<>like<>we<>are<>going<>to<>have<>a<>thunder<>shower.",
+        "dictation": "It looks like we are going to have a thunder shower."
+    },
+    "10": {
+        "word": "storm",
+        "meaning": "嵐",
+        "blank_word": "storm",
+        "blank_sentence": "A big storm hit the island.",
+        "reorder": "A<>big<>storm<>hit<>the<>island.",
+        "dictation": "A big storm hit the island."
+    },
+    "11": {
+        "word": "steam",
+        "meaning": "水蒸気",
+        "blank_word": "steam",
+        "blank_sentence": "Water turns into steam when it is heated.",
+        "reorder": "Water<>turns<>into<>steam<>when<>it<>is<>heated.",
+        "dictation": "Water turns into steam when it is heated."
+    },
+    "12": {
+        "word": "ray",
+        "meaning": "光線",
+        "blank_word": "rays",
+        "blank_sentence": "A hat protects you from the strong rays of the sun.",
+        "reorder": "A<>hat<>protects<>you<>from<>the<>strong<>rays<>of<>the<>sun.",
+        "dictation": "A hat protects you from the strong rays of the sun."
+    },
+    "13": {
+        "word": "radiation",
+        "meaning": "放射線",
+        "blank_word": "radiation",
+        "blank_sentence": "Each of these substances radiates some kind of radiation.",
+        "reorder": "Each<>of<>these<>substances<>radiates<>some<>kind<>of<>radiation.",
+        "dictation": "Each of these substances radiates some kind of radiation."
+    },
+    "14": {
+        "word": "layer",
+        "meaning": "層",
+        "blank_word": "layers",
+        "blank_sentence": "The X-ray revealed that the picture had three layers of paint.",
+        "reorder": "The<>X-ray<>revealed<>that<>the<>picture<>had<>three<>layers<>of<>paint.",
+        "dictation": "The X-ray revealed that the picture had three layers of paint."
+    },
+    "15": {
+        "word": "acid",
+        "meaning": "酸",
+        "blank_word": "Acid",
+        "blank_sentence": "Acid is in various kinds of food and drink.",
+        "reorder": "Acid<>is<>in<>various<>kinds<>of<>food<>and<>drink.",
+        "dictation": "Acid is in various kinds of food and drink."
+    },
+    "16": {
+        "word": "ion",
+        "meaning": "イオン",
+        "blank_word": "ions",
+        "blank_sentence": "There are two kinds of ions in the liquid.",
+        "reorder": "There<>are<>two<>kinds<>of<>ions<>in<>the<>liquid.",
+        "dictation": "There are two kinds of ions in the liquid."
+    },
+    "17": {
+        "word": "bond",
+        "meaning": "結合",
+        "blank_word": "bond",
+        "blank_sentence": "An ionic bond is a type of chemical bond.",
+        "reorder": "An<>ionic<>bond<>is<>a<>type<>of<>chemical<>bond.",
+        "dictation": "An ionic bond is a type of chemical bond."
+    },
+    "18": {
+        "word": "device",
+        "meaning": "機器",
+        "blank_word": "devices",
+        "blank_sentence": "A cellular phone is one of the most familiar electronic devices.",
+        "reorder": "A<>cellular<>phone<>is<>one<>of<>the<>most<>familiar<>electronic<>devices.",
+        "dictation": "A cellular phone is one of the most familiar electronic devices."
+    },
+    "19": {
+        "word": "beaker",
+        "meaning": "ビーカー",
+        "blank_word": "beaker",
+        "blank_sentence": "This beaker can hold strong acids.",
+        "reorder": "This<>beaker<>can<>hold<>strong<>acids.",
+        "dictation": "This beaker can hold strong acids."
+    },
+    "20": {
+        "word": "lid",
+        "meaning": "ふた",
+        "blank_word": "lid",
+        "blank_sentence": "The steam raised the lid of the pot.",
+        "reorder": "The<>steam<>raised<>the<>lid<>of<>the<>pot.",
+        "dictation": "The steam raised the lid of the pot."
+    },
+    "21": {
+        "word": "memory",
+        "meaning": "記憶(力)",
+        "blank_word": "memory",
+        "blank_sentence": "He lost his memory of the past in the accident.",
+        "reorder": "He<>lost<>his<>memory<>of<>the<>past<>in<>the<>accident.",
+        "dictation": "He lost his memory of the past in the accident."
+    },
+    "22": {
+        "word": "digit",
+        "meaning": "(数字の)桁",
+        "blank_word": "digit",
+        "blank_sentence": "Name a three- digit number that can be divided by four.",
+        "reorder": "Name<>a<>three-digit<>number<>that<>can<>be<>divided<>by<>four.",
+        "dictation": "Name a three- digit number that can be divided by four."
+    },
+    "23": {
+        "word": "aim",
+        "meaning": "目的",
+        "blank_word": "aim",
+        "blank_sentence": "The aim of this study is to know how much radiation the substance releases.",
+        "reorder": "The<>aim<>of<>this<>study<>is<>to<>know<>how<>much<>radiation<>the<>substance<>releases.",
+        "dictation": "The aim of this study is to know how much radiation the substance releases."
+    },
+    "24": {
+        "word": "affect",
+        "meaning": "影響する",
+        "blank_word": "affect",
+        "blank_sentence": "Magnetism may affect the human body in some way.",
+        "reorder": "Magnetism<>may<>affect<>the<>human<>body<>in<>some<>way.",
+        "dictation": "Magnetism may affect the human body in some way."
+    },
+    "25": {
+        "word": "launch",
+        "meaning": "発射する",
+        "blank_word": "launched",
+        "blank_sentence": "Apollo 13 was launched on Saturday, April 11, 1970 at 13:13.",
+        "reorder": "Apollo<>13<>was<>launched<>on<>Saturday,<>April<>11,<>1970<>at<>13:13.",
+        "dictation": "Apollo 13 was launched on Saturday, April 11, 1970 at 13:13."
+    }
+}

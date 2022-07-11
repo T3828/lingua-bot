@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "ecology",
+        "meaning": "生態(学)",
+        "blank_word": "ecology",
+        "blank_sentence": "We are studying the ecology of the fish.",
+        "reorder": "We<>are<>studying<>the<>ecology<>of<>the<>fish.",
+        "dictation": "We are studying the ecology of the fish."
+    },
+    "2": {
+        "word": "especially",
+        "meaning": "特に",
+        "blank_word": "especially",
+        "blank_sentence": "I often feel sleepy, especially after lunch.",
+        "reorder": "I<>often<>feel<>sleepy,<>especially<>after<>lunch.",
+        "dictation": "I often feel sleepy, especially after lunch."
+    },
+    "3": {
+        "word": "actually",
+        "meaning": "実際には",
+        "blank_word": "actually",
+        "blank_sentence": "There is actually no answer for the problem.",
+        "reorder": "There<>is<>actually<>no<>answer<>for<>the<>problem.",
+        "dictation": "There is actually no answer for the problem."
+    },
+    "4": {
+        "word": "nearly",
+        "meaning": "ほとんど",
+        "blank_word": "Nearly",
+        "blank_sentence": "Nearly all the metals are solid.",
+        "reorder": "Nearly<>all<>the<>metals<>are<>solid.",
+        "dictation": "Nearly all the metals are solid."
+    },
+    "5": {
+        "word": "partly",
+        "meaning": "部分的に",
+        "blank_word": "partly",
+        "blank_sentence": "The power of the engine has partly recovered and the car started.",
+        "reorder": "The<>power<>of<>the<>engine<>has<>partly<>recovered<>and<>the<>car<>started.",
+        "dictation": "The power of the engine has partly recovered and the car started."
+    },
+    "6": {
+        "word": "mostly",
+        "meaning": "たいていは",
+        "blank_word": "mostly",
+        "blank_sentence": "I mostly use an electronic dictionary in my English class.",
+        "reorder": "I<>mostly<>use<>an<>electronic<>dictionary<>in<>my<>English<>class.",
+        "dictation": "I mostly use an electronic dictionary in my English class."
+    },
+    "7": {
+        "word": "fortunately",
+        "meaning": "幸いに",
+        "blank_word": "Fortunately",
+        "blank_sentence": "Fortunately , the boy was found before it got dark.",
+        "reorder": "Fortunately<>,<>the<>boy<>was<>found<>before<>it<>got<>dark.",
+        "dictation": "Fortunately , the boy was found before it got dark."
+    },
+    "8": {
+        "word": "draw",
+        "meaning": "(線・図を)描く",
+        "blank_word": "Draw",
+        "blank_sentence": "Draw two straight lines which cross at 90 degrees.",
+        "reorder": "Draw<>two<>straight<>lines<>which<>cross<>at<>90<>degrees.",
+        "dictation": "Draw two straight lines which cross at 90 degrees."
+    },
+    "9": {
+        "word": "explain",
+        "meaning": "説明する",
+        "blank_word": "explained",
+        "blank_sentence": "The volunteer guide explained how the pyramid was built.",
+        "reorder": "The<>volunteer<>guide<>explained<>how<>the<>pyramid<>was<>built.",
+        "dictation": "The volunteer guide explained how the pyramid was built."
+    },
+    "10": {
+        "word": "reach",
+        "meaning": "達する",
+        "blank_word": "reached",
+        "blank_sentence": "The temperature in the city reached 40 degrees Celsius today.",
+        "reorder": "The<>temperature<>in<>the<>city<>reached<>40<>degrees<>Celsius<>today.",
+        "dictation": "The temperature in the city reached 40 degrees Celsius today."
+    },
+    "11": {
+        "word": "consist",
+        "meaning": "(～から)成る",
+        "blank_word": "consists",
+        "blank_sentence": "This machine consists of many plastic and metal parts.",
+        "reorder": "This<>machine<>consists<>of<>many<>plastic<>and<>metal<>parts.",
+        "dictation": "This machine consists of many plastic and metal parts."
+    },
+    "12": {
+        "word": "rise",
+        "meaning": "上がる",
+        "blank_word": "rise",
+        "blank_sentence": "I didn't know the water level could rise so quickly.",
+        "reorder": "I<>didn't<>know<>the<>water<>level<>could<>rise<>so<>quickly.",
+        "dictation": "I didn't know the water level could rise so quickly."
+    },
+    "13": {
+        "word": "raise",
+        "meaning": "上げる",
+        "blank_word": "raise",
+        "blank_sentence": "We still need to raise the security level of the network.",
+        "reorder": "We<>still<>need<>to<>raise<>the<>security<>level<>of<>the<>network.",
+        "dictation": "We still need to raise the security level of the network."
+    },
+    "14": {
+        "word": "lower",
+        "meaning": "下げる",
+        "blank_word": "Lower",
+        "blank_sentence": "Lower the voltage of the circuit and do the experiment again.",
+        "reorder": "Lower<>the<>voltage<>of<>the<>circuit<>and<>do<>the<>experiment<>again.",
+        "dictation": "Lower the voltage of the circuit and do the experiment again."
+    },
+    "15": {
+        "word": "increase",
+        "meaning": "増える",
+        "blank_word": "increasing",
+        "blank_sentence": "The number of children who are not interested in science is increasing.",
+        "reorder": "The<>number<>of<>children<>who<>are<>not<>interested<>in<>science<>is<>increasing.",
+        "dictation": "The number of children who are not interested in science is increasing."
+    },
+    "16": {
+        "word": "decrease",
+        "meaning": "減る",
+        "blank_word": "decreased",
+        "blank_sentence": "The number of children in this area decreased by 25 percent.",
+        "reorder": "The<>number<>of<>children<>in<>this<>area<>decreased<>by<>25<>percent.",
+        "dictation": "The number of children in this area decreased by 25 percent."
+    },
+    "17": {
+        "word": "produce",
+        "meaning": "生産する",
+        "blank_word": "produces",
+        "blank_sentence": "That car company produces thousands of cars every month.",
+        "reorder": "That<>car<>company<>produces<>thousands<>of<>cars<>every<>month.",
+        "dictation": "That car company produces thousands of cars every month."
+    },
+    "18": {
+        "word": "fill",
+        "meaning": "満たす",
+        "blank_word": "filled",
+        "blank_sentence": "A balloon filled with hot air rises.",
+        "reorder": "A<>balloon<>filled<>with<>hot<>air<>rises.",
+        "dictation": "A balloon filled with hot air rises."
+    },
+    "19": {
+        "word": "remind",
+        "meaning": "気づかせる",
+        "blank_word": "reminded",
+        "blank_sentence": "The rain reminded me that I left my umbrella on the train.",
+        "reorder": "The<>rain<>reminded<>me<>that<>I<>left<>my<>umbrella<>on<>the<>train.",
+        "dictation": "The rain reminded me that I left my umbrella on the train."
+    },
+    "20": {
+        "word": "complete",
+        "meaning": "完成させる",
+        "blank_word": "complete",
+        "blank_sentence": "Look at the graph and complete the table of data.",
+        "reorder": "Look<>at<>the<>graph<>and<>complete<>the<>table<>of<>data.",
+        "dictation": "Look at the graph and complete the table of data."
+    },
+    "21": {
+        "word": "incomplete",
+        "meaning": "未完の",
+        "blank_word": "incomplete",
+        "blank_sentence": "Our website is still incomplete.",
+        "reorder": "Our<>website<>is<>still<>incomplete.",
+        "dictation": "Our website is still incomplete."
+    },
+    "22": {
+        "word": "general",
+        "meaning": "一般的な",
+        "blank_word": "General",
+        "blank_sentence": "General information for visitors is given on the website.",
+        "reorder": "General<>information<>for<>visitors<>is<>given<>on<>the<>website.",
+        "dictation": "General information for visitors is given on the website."
+    },
+    "23": {
+        "word": "initial",
+        "meaning": "最初の",
+        "blank_word": "initial",
+        "blank_sentence": "The initial output voltage was the same in all the circuits.",
+        "reorder": "The<>initial<>output<>voltage<>was<>the<>same<>in<>all<>the<>circuits.",
+        "dictation": "The initial output voltage was the same in all the circuits."
+    },
+    "24": {
+        "word": "northern",
+        "meaning": "北の",
+        "blank_word": "northern",
+        "blank_sentence": "The research center is in the northern part of the country.",
+        "reorder": "The<>research<>center<>is<>in<>the<>northern<>part<>of<>the<>country.",
+        "dictation": "The research center is in the northern part of the country."
+    },
+    "25": {
+        "word": "southern",
+        "meaning": "南の",
+        "blank_word": "southern",
+        "blank_sentence": "She was born and raised in a southern island of Japan.",
+        "reorder": "She<>was<>born<>and<>raised<>in<>a<>southern<>island<>of<>Japan.",
+        "dictation": "She was born and raised in a southern island of Japan."
+    }
+}

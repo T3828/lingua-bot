@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "curve",
+        "meaning": "曲線",
+        "blank_word": "curve",
+        "blank_sentence": "This road is closed at the end of that curve.",
+        "reorder": "This<>road<>is<>closed<>at<>the<>end<>of<>that<>curve.",
+        "dictation": "This road is closed at the end of that curve."
+    },
+    "2": {
+        "word": "peak",
+        "meaning": "最大(値)",
+        "blank_word": "peak",
+        "blank_sentence": "The engine is now running at the peak of its power.",
+        "reorder": "The<>engine<>is<>now<>running<>at<>the<>peak<>of<>its<>power.",
+        "dictation": "The engine is now running at the peak of its power."
+    },
+    "3": {
+        "word": "graph",
+        "meaning": "グラフ",
+        "blank_word": "graph",
+        "blank_sentence": "The peak of this graph shows the hottest time of the day.",
+        "reorder": "The<>peak<>of<>this<>graph<>shows<>the<>hottest<>time<>of<>the<>day.",
+        "dictation": "The peak of this graph shows the hottest time of the day."
+    },
+    "4": {
+        "word": "bubble",
+        "meaning": "泡",
+        "blank_word": "bubbles",
+        "blank_sentence": "When you put dry ice in water, bubbles and white smoke come out.",
+        "reorder": "When<>you<>put<>dry<>ice<>in<>water,<>bubbles<>and<>white<>smoke<>come<>out.",
+        "dictation": "When you put dry ice in water, bubbles and white smoke come out."
+    },
+    "5": {
+        "word": "economy",
+        "meaning": "経済",
+        "blank_word": "economy",
+        "blank_sentence": "The economy in that country is growing very fast.",
+        "reorder": "The<>economy<>in<>that<>country<>is<>growing<>very<>fast.",
+        "dictation": "The economy in that country is growing very fast."
+    },
+    "6": {
+        "word": "item",
+        "meaning": "品物",
+        "blank_word": "item",
+        "blank_sentence": "You must not take this item onto the airplane.",
+        "reorder": "You<>must<>not<>take<>this<>item<>onto<>the<>airplane.",
+        "dictation": "You must not take this item onto the airplane."
+    },
+    "7": {
+        "word": "lens",
+        "meaning": "レンズ",
+        "blank_word": "lenses",
+        "blank_sentence": "The lenses of my glasses are made of plastic.",
+        "reorder": "The<>lenses<>of<>my<>glasses<>are<>made<>of<>plastic.",
+        "dictation": "The lenses of my glasses are made of plastic."
+    },
+    "8": {
+        "word": "web",
+        "meaning": "クモの巣",
+        "blank_word": "web",
+        "blank_sentence": "A butterfly has been caught in the web.",
+        "reorder": "A<>butterfly<>has<>been<>caught<>in<>the<>web.",
+        "dictation": "A butterfly has been caught in the web."
+    },
+    "9": {
+        "word": "score",
+        "meaning": "得点",
+        "blank_word": "score",
+        "blank_sentence": "The number of circles shows your score.",
+        "reorder": "The<>number<>of<>circles<>shows<>your<>score.",
+        "dictation": "The number of circles shows your score."
+    },
+    "10": {
+        "word": "wheel",
+        "meaning": "輪",
+        "blank_word": "wheels",
+        "blank_sentence": "Most wheelchairs have two small wheels and two large wheels.",
+        "reorder": "Most<>wheelchairs<>have<>two<>small<>wheels<>and<>two<>large<>wheels.",
+        "dictation": "Most wheelchairs have two small wheels and two large wheels."
+    },
+    "11": {
+        "word": "request",
+        "meaning": "要求",
+        "blank_word": "requests",
+        "blank_sentence": "The engineers try to answer users' requests.",
+        "reorder": "The<>engineers<>try<>to<>answer<>users'<>requests.",
+        "dictation": "The engineers try to answer users' requests."
+    },
+    "12": {
+        "word": "salt",
+        "meaning": "塩",
+        "blank_word": "Salt",
+        "blank_sentence": "Salt is still made from seawater in some areas.",
+        "reorder": "Salt<>is<>still<>made<>from<>seawater<>in<>some<>areas.",
+        "dictation": "Salt is still made from seawater in some areas."
+    },
+    "13": {
+        "word": "calcium",
+        "meaning": "カルシウム",
+        "blank_word": "calcium",
+        "blank_sentence": "Milk is rich in calcium.",
+        "reorder": "Milk<>is<>rich<>in<>calcium.",
+        "dictation": "Milk is rich in calcium."
+    },
+    "14": {
+        "word": "bag",
+        "meaning": "袋",
+        "blank_word": "bag",
+        "blank_sentence": "The paper bag in the cleaner works as a filter.",
+        "reorder": "The<>paper<>bag<>in<>the<>cleaner<>works<>as<>a<>filter.",
+        "dictation": "The paper bag in the cleaner works as a filter."
+    },
+    "15": {
+        "word": "umbrella",
+        "meaning": "雨傘",
+        "blank_word": "umbrella",
+        "blank_sentence": "She opened her umbrella as soon as the rain started falling.",
+        "reorder": "She<>opened<>her<>umbrella<>as<>soon<>as<>the<>rain<>started<>falling.",
+        "dictation": "She opened her umbrella as soon as the rain started falling."
+    },
+    "16": {
+        "word": "typhoon",
+        "meaning": "台風",
+        "blank_word": "Typhoons",
+        "blank_sentence": "Typhoons usually move from the south to the north-east.",
+        "reorder": "Typhoons<>usually<>move<>from<>the<>south<>to<>the<>north-east.",
+        "dictation": "Typhoons usually move from the south to the north-east."
+    },
+    "17": {
+        "word": "crater",
+        "meaning": "クレーター",
+        "blank_word": "craters",
+        "blank_sentence": "You can see a lot of craters on the moon.",
+        "reorder": "You<>can<>see<>a<>lot<>of<>craters<>on<>the<>moon.",
+        "dictation": "You can see a lot of craters on the moon."
+    },
+    "18": {
+        "word": "command",
+        "meaning": "命令",
+        "blank_word": "command",
+        "blank_sentence": "A command is sent to the computer by hitting the enter key.",
+        "reorder": "A<>command<>is<>sent<>to<>the<>computer<>by<>hitting<>the<>enter<>key.",
+        "dictation": "A command is sent to the computer by hitting the enter key."
+    },
+    "19": {
+        "word": "seat",
+        "meaning": "座席",
+        "blank_word": "seat",
+        "blank_sentence": "The airplane seat was too small for me.",
+        "reorder": "The<>airplane<>seat<>was<>too<>small<>for<>me.",
+        "dictation": "The airplane seat was too small for me."
+    },
+    "20": {
+        "word": "grade",
+        "meaning": "等級",
+        "blank_word": "grade",
+        "blank_sentence": "What grade are you in?",
+        "reorder": "What<>grade<>are<>you<>in?",
+        "dictation": "What grade are you in?"
+    },
+    "21": {
+        "word": "loop",
+        "meaning": "輪(状の物)",
+        "blank_word": "loop",
+        "blank_sentence": "A loop of light was seen in the night sky.",
+        "reorder": "A<>loop<>of<>light<>was<>seen<>in<>the<>night<>sky.",
+        "dictation": "A loop of light was seen in the night sky."
+    },
+    "22": {
+        "word": "dot",
+        "meaning": "点",
+        "blank_word": "dots",
+        "blank_sentence": "How many dots can you see on the card?",
+        "reorder": "How<>many<>dots<>can<>you<>see<>on<>the<>card?",
+        "dictation": "How many dots can you see on the card?"
+    },
+    "23": {
+        "word": "volunteer",
+        "meaning": "～を自発的にやる",
+        "blank_word": "volunteering",
+        "blank_sentence": "Everyone here is volunteering to take part in this project.",
+        "reorder": "Everyone<>here<>is<>volunteering<>to<>take<>part<>in<>this<>project.",
+        "dictation": "Everyone here is volunteering to take part in this project."
+    },
+    "24": {
+        "word": "shift",
+        "meaning": "変える",
+        "blank_word": "shifted",
+        "blank_sentence": "The main power of this system has been shifted to solar energy.",
+        "reorder": "The<>main<>power<>of<>this<>system<>has<>been<>shifted<>to<>solar<>energy.",
+        "dictation": "The main power of this system has been shifted to solar energy."
+    },
+    "25": {
+        "word": "shake",
+        "meaning": "振る",
+        "blank_word": "shake",
+        "blank_sentence": "Close the opening of the bag and shake it well.",
+        "reorder": "Close<>the<>opening<>of<>the<>bag<>and<>shake<>it<>well.",
+        "dictation": "Close the opening of the bag and shake it well."
+    }
+}

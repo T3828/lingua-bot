@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "voyage",
+        "meaning": "航海",
+        "blank_word": "voyage",
+        "blank_sentence": "The man is planning a solo voyage across the Pacific Ocean.",
+        "reorder": "The<>man<>is<>planning<>a<>solo<>voyage<>across<>the<>Pacific<>Ocean.",
+        "dictation": "The man is planning a solo voyage across the Pacific Ocean."
+    },
+    "2": {
+        "word": "shore",
+        "meaning": "岸",
+        "blank_word": "shore",
+        "blank_sentence": "A bottle with a message in it washed up on the shore.",
+        "reorder": "A<>bottle<>with<>a<>message<>in<>it<>washed<>up<>on<>the<>shore.",
+        "dictation": "A bottle with a message in it washed up on the shore."
+    },
+    "3": {
+        "word": "cliff",
+        "meaning": "崖",
+        "blank_word": "cliff",
+        "blank_sentence": "The lighthouse stands on top of the cliff.",
+        "reorder": "The<>lighthouse<>stands<>on<>top<>of<>the<>cliff.",
+        "dictation": "The lighthouse stands on top of the cliff."
+    },
+    "4": {
+        "word": "protocol",
+        "meaning": "議定書",
+        "blank_word": "Protocol",
+        "blank_sentence": "The Kyoto Protocol is an international treaty concerning global warming.",
+        "reorder": "The<>Kyoto<>Protocol<>is<>an<>international<>treaty<>concerning<>global<>warming.",
+        "dictation": "The Kyoto Protocol is an international treaty concerning global warming."
+    },
+    "5": {
+        "word": "controversy",
+        "meaning": "論争",
+        "blank_word": "controversy",
+        "blank_sentence": "There was a lot of controversy about the rights and wrongs of the war.",
+        "reorder": "There<>was<>a<>lot<>of<>controversy<>about<>the<>rights<>and<>wrongs<>of<>the<>war.",
+        "dictation": "There was a lot of controversy about the rights and wrongs of the war."
+    },
+    "6": {
+        "word": "discipline",
+        "meaning": "しつけ",
+        "blank_word": "Discipline",
+        "blank_sentence": "Discipline is regarded as the role of the family.",
+        "reorder": "Discipline<>is<>regarded<>as<>the<>role<>of<>the<>family.",
+        "dictation": "Discipline is regarded as the role of the family."
+    },
+    "7": {
+        "word": "ingredient",
+        "meaning": "原(材)料",
+        "blank_word": "ingredients",
+        "blank_sentence": "The ingredients of food are printed on the package.",
+        "reorder": "The<>ingredients<>of<>food<>are<>printed<>on<>the<>package.",
+        "dictation": "The ingredients of food are printed on the package."
+    },
+    "8": {
+        "word": "transition",
+        "meaning": "推移",
+        "blank_word": "transition",
+        "blank_sentence": "This graph shows the transition of each country's GDP.",
+        "reorder": "This<>graph<>shows<>the<>transition<>of<>each<>country's<>GDP.",
+        "dictation": "This graph shows the transition of each country's GDP."
+    },
+    "9": {
+        "word": "impurity",
+        "meaning": "不純物",
+        "blank_word": "impurity",
+        "blank_sentence": "The presence of an impurity in a substance lowers the melting point.",
+        "reorder": "The<>presence<>of<>an<>impurity<>in<>a<>substance<>lowers<>the<>melting<>point.",
+        "dictation": "The presence of an impurity in a substance lowers the melting point."
+    },
+    "10": {
+        "word": "opponent",
+        "meaning": "対戦相手",
+        "blank_word": "opponent",
+        "blank_sentence": "Who is my opponent in the next tennis match?",
+        "reorder": "Who<>is<>my<>opponent<>in<>the<>next<>tennis<>match?",
+        "dictation": "Who is my opponent in the next tennis match?"
+    },
+    "11": {
+        "word": "symmetry",
+        "meaning": "対称(性)",
+        "blank_word": "symmetry",
+        "blank_sentence": "Draw the axis of symmetry of this parabola.",
+        "reorder": "Draw<>the<>axis<>of<>symmetry<>of<>this<>parabola.",
+        "dictation": "Draw the axis of symmetry of this parabola."
+    },
+    "12": {
+        "word": "diagram",
+        "meaning": "図",
+        "blank_word": "diagram",
+        "blank_sentence": "According to the diagram , these parts have to be set in symmetry.",
+        "reorder": "According<>to<>the<>diagram<>,<>these<>parts<>have<>to<>be<>set<>in<>symmetry.",
+        "dictation": "According to the diagram , these parts have to be set in symmetry."
+    },
+    "13": {
+        "word": "digest",
+        "meaning": "消化する",
+        "blank_word": "digest",
+        "blank_sentence": "Some people cannot digest milk products.",
+        "reorder": "Some<>people<>cannot<>digest<>milk<>products.",
+        "dictation": "Some people cannot digest milk products."
+    },
+    "14": {
+        "word": "confuse",
+        "meaning": "混同する",
+        "blank_word": "confusing",
+        "blank_sentence": "He is confusing illusion with reality.",
+        "reorder": "He<>is<>confusing<>illusion<>with<>reality.",
+        "dictation": "He is confusing illusion with reality."
+    },
+    "15": {
+        "word": "devote",
+        "meaning": "捧げる",
+        "blank_word": "devoted",
+        "blank_sentence": "She devoted her entire life to helping poor people in the country.",
+        "reorder": "She<>devoted<>her<>entire<>life<>to<>helping<>poor<>people<>in<>the<>country.",
+        "dictation": "She devoted her entire life to helping poor people in the country."
+    },
+    "16": {
+        "word": "pursue",
+        "meaning": "追求する",
+        "blank_word": "pursued",
+        "blank_sentence": "She has pursued her dream of becoming a computer graphics engineer.",
+        "reorder": "She<>has<>pursued<>her<>dream<>of<>becoming<>a<>computer<>graphics<>engineer.",
+        "dictation": "She has pursued her dream of becoming a computer graphics engineer."
+    },
+    "17": {
+        "word": "unite",
+        "meaning": "統一する",
+        "blank_word": "united",
+        "blank_sentence": "The president united several parties to form a new government.",
+        "reorder": "The<>president<>united<>several<>parties<>to<>form<>a<>new<>government.",
+        "dictation": "The president united several parties to form a new government."
+    },
+    "18": {
+        "word": "criticize",
+        "meaning": "批判する",
+        "blank_word": "criticize",
+        "blank_sentence": "They have no right to criticize me.",
+        "reorder": "They<>have<>no<>right<>to<>criticize<>me.",
+        "dictation": "They have no right to criticize me."
+    },
+    "19": {
+        "word": "squeeze",
+        "meaning": "しぼる",
+        "blank_word": "squeeze",
+        "blank_sentence": "You have to squeeze two grapefruits to get one glass of juice.",
+        "reorder": "You<>have<>to<>squeeze<>two<>grapefruits<>to<>get<>one<>glass<>of<>juice.",
+        "dictation": "You have to squeeze two grapefruits to get one glass of juice."
+    },
+    "20": {
+        "word": "exhaust",
+        "meaning": "使い果たす",
+        "blank_word": "exhaust",
+        "blank_sentence": "We will exhaust our fuel reserves in a day unless the pipeline opens again.",
+        "reorder": "We<>will<>exhaust<>our<>fuel<>reserves<>in<>a<>day<>unless<>the<>pipeline<>opens<>again.",
+        "dictation": "We will exhaust our fuel reserves in a day unless the pipeline opens again."
+    },
+    "21": {
+        "word": "fold",
+        "meaning": "(紙などを)折る",
+        "blank_word": "Fold",
+        "blank_sentence": "Fold the paper in half and put it into the envelope.",
+        "reorder": "Fold<>the<>paper<>in<>half<>and<>put<>it<>into<>the<>envelope.",
+        "dictation": "Fold the paper in half and put it into the envelope."
+    },
+    "22": {
+        "word": "curl",
+        "meaning": "巻く",
+        "blank_word": "curled",
+        "blank_sentence": "The plastic sheet curled with the heat.",
+        "reorder": "The<>plastic<>sheet<>curled<>with<>the<>heat.",
+        "dictation": "The plastic sheet curled with the heat."
+    },
+    "23": {
+        "word": "shorten",
+        "meaning": "縮める",
+        "blank_word": "shortened",
+        "blank_sentence": "The scientist devoted herself to studying radioactivity, which shortened her life.",
+        "reorder": "The<>scientist<>devoted<>herself<>to<>studying<>radioactivity,<>which<>shortened<>her<>life.",
+        "dictation": "The scientist devoted herself to studying radioactivity, which shortened her life."
+    },
+    "24": {
+        "word": "exceed",
+        "meaning": "～を超える",
+        "blank_word": "exceeds",
+        "blank_sentence": "The temperature of the capsule during its re-entry into the atmosphere exceeds 3000℃.",
+        "reorder": "The<>temperature<>of<>the<>capsule<>during<>its<>re-entry<>into<>the<>atmosphere<>exceeds<>3000℃.",
+        "dictation": "The temperature of the capsule during its re-entry into the atmosphere exceeds 3000℃."
+    },
+    "25": {
+        "word": "satisfy",
+        "meaning": "満足させる",
+        "blank_word": "satisfy",
+        "blank_sentence": "No single solution will satisfy both of those nations.",
+        "reorder": "No<>single<>solution<>will<>satisfy<>both<>of<>those<>nations.",
+        "dictation": "No single solution will satisfy both of those nations."
+    }
+}

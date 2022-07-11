@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "petal",
+        "meaning": "花びら",
+        "blank_word": "petals",
+        "blank_sentence": "The bright color of petals attracts certain kinds of insects.",
+        "reorder": "The<>bright<>color<>of<>petals<>attracts<>certain<>kinds<>of<>insects.",
+        "dictation": "The bright color of petals attracts certain kinds of insects."
+    },
+    "2": {
+        "word": "pollen",
+        "meaning": "花粉",
+        "blank_word": "pollen",
+        "blank_sentence": "Insects transfer pollen from one flower to another.",
+        "reorder": "Insects<>transfer<>pollen<>from<>one<>flower<>to<>another.",
+        "dictation": "Insects transfer pollen from one flower to another."
+    },
+    "3": {
+        "word": "circumstance",
+        "meaning": "状況",
+        "blank_word": "circumstances",
+        "blank_sentence": "The success of the plan depends on the surrounding circumstances.",
+        "reorder": "The<>success<>of<>the<>plan<>depends<>on<>the<>surrounding<>circumstances.",
+        "dictation": "The success of the plan depends on the surrounding circumstances."
+    },
+    "4": {
+        "word": "corporation",
+        "meaning": "企業",
+        "blank_word": "corporations",
+        "blank_sentence": "They deal with a number of corporations.",
+        "reorder": "They<>deal<>with<>a<>number<>of<>corporations.",
+        "dictation": "They deal with a number of corporations."
+    },
+    "5": {
+        "word": "enterprise",
+        "meaning": "事業",
+        "blank_word": "enterprise",
+        "blank_sentence": "He began a new enterprise with a loan from a bank.",
+        "reorder": "He<>began<>a<>new<>enterprise<>with<>a<>loan<>from<>a<>bank.",
+        "dictation": "He began a new enterprise with a loan from a bank."
+    },
+    "6": {
+        "word": "venture",
+        "meaning": "冒険的事業",
+        "blank_word": "venture",
+        "blank_sentence": "Various kinds of venture industries are developing in that country.",
+        "reorder": "Various<>kinds<>of<>venture<>industries<>are<>developing<>in<>that<>country.",
+        "dictation": "Various kinds of venture industries are developing in that country."
+    },
+    "7": {
+        "word": "crisis",
+        "meaning": "危機",
+        "blank_word": "crisis",
+        "blank_sentence": "We can avoid the power crisis if the power plant works well.",
+        "reorder": "We<>can<>avoid<>the<>power<>crisis<>if<>the<>power<>plant<>works<>well.",
+        "dictation": "We can avoid the power crisis if the power plant works well."
+    },
+    "8": {
+        "word": "petrol",
+        "meaning": "ガソリン",
+        "blank_word": "petrol",
+        "blank_sentence": "This engine burns petrol to produce power.",
+        "reorder": "This<>engine<>burns<>petrol<>to<>produce<>power.",
+        "dictation": "This engine burns petrol to produce power."
+    },
+    "9": {
+        "word": "gallon",
+        "meaning": "ガロン",
+        "blank_word": "gallon",
+        "blank_sentence": "One gallon is roughly equal to 4 liters.",
+        "reorder": "One<>gallon<>is<>roughly<>equal<>to<>4<>liters.",
+        "dictation": "One gallon is roughly equal to 4 liters."
+    },
+    "10": {
+        "word": "category",
+        "meaning": "範疇",
+        "blank_word": "category",
+        "blank_sentence": "In a library, books are arranged by category.",
+        "reorder": "In<>a<>library,<>books<>are<>arranged<>by<>category.",
+        "dictation": "In a library, books are arranged by category."
+    },
+    "11": {
+        "word": "appendix",
+        "meaning": "付録",
+        "blank_word": "appendix",
+        "blank_sentence": "See the appendix at the end.",
+        "reorder": "See<>the<>appendix<>at<>the<>end.",
+        "dictation": "See the appendix at the end."
+    },
+    "12": {
+        "word": "perspective",
+        "meaning": "観点",
+        "blank_word": "perspective",
+        "blank_sentence": "Let's look at the problem from a different perspective.",
+        "reorder": "Let's<>look<>at<>the<>problem<>from<>a<>different<>perspective.",
+        "dictation": "Let's look at the problem from a different perspective."
+    },
+    "13": {
+        "word": "nutrition",
+        "meaning": "栄養",
+        "blank_word": "nutrition",
+        "blank_sentence": "We get nutrition from the food we eat every day.",
+        "reorder": "We<>get<>nutrition<>from<>the<>food<>we<>eat<>every<>day.",
+        "dictation": "We get nutrition from the food we eat every day."
+    },
+    "14": {
+        "word": "relevant",
+        "meaning": "関連した",
+        "blank_word": "relevant",
+        "blank_sentence": "This mathematical formula is relevant to the dimensions for each part.",
+        "reorder": "This<>mathematical<>formula<>is<>relevant<>to<>the<>dimensions<>for<>each<>part.",
+        "dictation": "This mathematical formula is relevant to the dimensions for each part."
+    },
+    "15": {
+        "word": "objective",
+        "meaning": "客観的な",
+        "blank_word": "Objective",
+        "blank_sentence": "Objective and logical thinking is required especially in science.",
+        "reorder": "Objective<>and<>logical<>thinking<>is<>required<>especially<>in<>science.",
+        "dictation": "Objective and logical thinking is required especially in science."
+    },
+    "16": {
+        "word": "extinct",
+        "meaning": "絶滅した",
+        "blank_word": "extinct",
+        "blank_sentence": "Many kinds of species are in danger of becoming extinct.",
+        "reorder": "Many<>kinds<>of<>species<>are<>in<>danger<>of<>becoming<>extinct.",
+        "dictation": "Many kinds of species are in danger of becoming extinct."
+    },
+    "17": {
+        "word": "plain",
+        "meaning": "簡素な",
+        "blank_word": "plain",
+        "blank_sentence": "The famous painter's work was set in a plain wooden frame.",
+        "reorder": "The<>famous<>painter's<>work<>was<>set<>in<>a<>plain<>wooden<>frame.",
+        "dictation": "The famous painter's work was set in a plain wooden frame."
+    },
+    "18": {
+        "word": "comprehensive",
+        "meaning": "包括的な",
+        "blank_word": "comprehensive",
+        "blank_sentence": "All the nations reached a comprehensive agreement at the congress.",
+        "reorder": "All<>the<>nations<>reached<>a<>comprehensive<>agreement<>at<>the<>congress.",
+        "dictation": "All the nations reached a comprehensive agreement at the congress."
+    },
+    "19": {
+        "word": "raw",
+        "meaning": "生の",
+        "blank_word": "raw",
+        "blank_sentence": "This table shows the raw data of the previous questionnaire's results.",
+        "reorder": "This<>table<>shows<>the<>raw<>data<>of<>the<>previous<>questionnaire's<>results.",
+        "dictation": "This table shows the raw data of the previous questionnaire's results."
+    },
+    "20": {
+        "word": "subtle",
+        "meaning": "微妙な",
+        "blank_word": "subtle",
+        "blank_sentence": "There is a subtle difference in meaning between the two words.",
+        "reorder": "There<>is<>a<>subtle<>difference<>in<>meaning<>between<>the<>two<>words.",
+        "dictation": "There is a subtle difference in meaning between the two words."
+    },
+    "21": {
+        "word": "extinguish",
+        "meaning": "消火する",
+        "blank_word": "extinguished",
+        "blank_sentence": "The firefighters extinguished the forest fire in a few hours.",
+        "reorder": "The<>firefighters<>extinguished<>the<>forest<>fire<>in<>a<>few<>hours.",
+        "dictation": "The firefighters extinguished the forest fire in a few hours."
+    },
+    "22": {
+        "word": "resolve",
+        "meaning": "解決する",
+        "blank_word": "resolve",
+        "blank_sentence": "This new software will resolve all the problems we have had.",
+        "reorder": "This<>new<>software<>will<>resolve<>all<>the<>problems<>we<>have<>had.",
+        "dictation": "This new software will resolve all the problems we have had."
+    },
+    "23": {
+        "word": "accompany",
+        "meaning": "伴う",
+        "blank_word": "accompanied",
+        "blank_sentence": "Decreases in temperature of a substance are usually accompanied by decreases in volume.",
+        "reorder": "Decreases<>in<>temperature<>of<>a<>substance<>are<>usually<>accompanied<>by<>decreases<>in<>volume.",
+        "dictation": "Decreases in temperature of a substance are usually accompanied by decreases in volume."
+    },
+    "24": {
+        "word": "confine",
+        "meaning": "限定する",
+        "blank_word": "confine",
+        "blank_sentence": "We should confine the topic of today's meeting to domestic issues.",
+        "reorder": "We<>should<>confine<>the<>topic<>of<>today's<>meeting<>to<>domestic<>issues.",
+        "dictation": "We should confine the topic of today's meeting to domestic issues."
+    },
+    "25": {
+        "word": "shrink",
+        "meaning": "縮む",
+        "blank_word": "shrink",
+        "blank_sentence": "Plastic films usually shrink when they are heated.",
+        "reorder": "Plastic<>films<>usually<>shrink<>when<>they<>are<>heated.",
+        "dictation": "Plastic films usually shrink when they are heated."
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "agriculture",
+        "meaning": "農業",
+        "blank_word": "agriculture",
+        "blank_sentence": "Modern agriculture is closely related to science.",
+        "reorder": "Modern<>agriculture<>is<>closely<>related<>to<>science.",
+        "dictation": "Modern agriculture is closely related to science."
+    },
+    "2": {
+        "word": "compost",
+        "meaning": "堆肥",
+        "blank_word": "compost",
+        "blank_sentence": "We use compost instead of chemical fertilizer.",
+        "reorder": "We<>use<>compost<>instead<>of<>chemical<>fertilizer.",
+        "dictation": "We use compost instead of chemical fertilizer."
+    },
+    "3": {
+        "word": "setting",
+        "meaning": "設定",
+        "blank_word": "setting",
+        "blank_sentence": "The performance of a PC largely depends on the setting.",
+        "reorder": "The<>performance<>of<>a<>PC<>largely<>depends<>on<>the<>setting.",
+        "dictation": "The performance of a PC largely depends on the setting."
+    },
+    "4": {
+        "word": "administration",
+        "meaning": "管理",
+        "blank_word": "administration",
+        "blank_sentence": "The administration building is next to the library.",
+        "reorder": "The<>administration<>building<>is<>next<>to<>the<>library.",
+        "dictation": "The administration building is next to the library."
+    },
+    "5": {
+        "word": "insist",
+        "meaning": "主張する",
+        "blank_word": "insisted",
+        "blank_sentence": "She insisted that we should change the plan.",
+        "reorder": "She<>insisted<>that<>we<>should<>change<>the<>plan.",
+        "dictation": "She insisted that we should change the plan."
+    },
+    "6": {
+        "word": "accomplish",
+        "meaning": "成しとげる",
+        "blank_word": "accomplish",
+        "blank_sentence": "We cannot accomplish this research without your cooperation.",
+        "reorder": "We<>cannot<>accomplish<>this<>research<>without<>your<>cooperation.",
+        "dictation": "We cannot accomplish this research without your cooperation."
+    },
+    "7": {
+        "word": "express",
+        "meaning": "表す",
+        "blank_word": "expresses",
+        "blank_sentence": "E=mc2 is the famous equation which expresses the relationship between mass and energy.",
+        "reorder": "E=mc2<>is<>the<>famous<>equation<>which<>expresses<>the<>relationship<>between<>mass<>and<>energy.",
+        "dictation": "E=mc2 is the famous equation which expresses the relationship between mass and energy."
+    },
+    "8": {
+        "word": "tackle",
+        "meaning": "(問題などに)取り組む",
+        "blank_word": "tackled",
+        "blank_sentence": "Mathematicians have tackled this question for over 100 years.",
+        "reorder": "Mathematicians<>have<>tackled<>this<>question<>for<>over<>100<>years.",
+        "dictation": "Mathematicians have tackled this question for over 100 years."
+    },
+    "9": {
+        "word": "gather",
+        "meaning": "集める",
+        "blank_word": "gather",
+        "blank_sentence": "Before the experiment, you have to gather all the equipment you will need.",
+        "reorder": "Before<>the<>experiment,<>you<>have<>to<>gather<>all<>the<>equipment<>you<>will<>need.",
+        "dictation": "Before the experiment, you have to gather all the equipment you will need."
+    },
+    "10": {
+        "word": "paste",
+        "meaning": "貼り付ける",
+        "blank_word": "pasted",
+        "blank_sentence": "The children cut up colored paper and pasted them onto the cardboard.",
+        "reorder": "The<>children<>cut<>up<>colored<>paper<>and<>pasted<>them<>onto<>the<>cardboard.",
+        "dictation": "The children cut up colored paper and pasted them onto the cardboard."
+    },
+    "11": {
+        "word": "suspend",
+        "meaning": "中断する",
+        "blank_word": "suspended",
+        "blank_sentence": "Operation of the plant is suspended due to a power failure.",
+        "reorder": "Operation<>of<>the<>plant<>is<>suspended<>due<>to<>a<>power<>failure.",
+        "dictation": "Operation of the plant is suspended due to a power failure."
+    },
+    "12": {
+        "word": "consume",
+        "meaning": "消費する",
+        "blank_word": "consumes",
+        "blank_sentence": "This heating system consumes a hundred liters of oil a day.",
+        "reorder": "This<>heating<>system<>consumes<>a<>hundred<>liters<>of<>oil<>a<>day.",
+        "dictation": "This heating system consumes a hundred liters of oil a day."
+    },
+    "13": {
+        "word": "revise",
+        "meaning": "改訂する",
+        "blank_word": "revised",
+        "blank_sentence": "This book has been revised several times since it was published.",
+        "reorder": "This<>book<>has<>been<>revised<>several<>times<>since<>it<>was<>published.",
+        "dictation": "This book has been revised several times since it was published."
+    },
+    "14": {
+        "word": "evaluate",
+        "meaning": "評価する",
+        "blank_word": "evaluate",
+        "blank_sentence": "The purpose of this experiment is to evaluate the effect of the new drug.",
+        "reorder": "The<>purpose<>of<>this<>experiment<>is<>to<>evaluate<>the<>effect<>of<>the<>new<>drug.",
+        "dictation": "The purpose of this experiment is to evaluate the effect of the new drug."
+    },
+    "15": {
+        "word": "appreciate",
+        "meaning": "感謝する",
+        "blank_word": "appreciate",
+        "blank_sentence": "I appreciate that you hired me as your secretary.",
+        "reorder": "I<>appreciate<>that<>you<>hired<>me<>as<>your<>secretary.",
+        "dictation": "I appreciate that you hired me as your secretary."
+    },
+    "16": {
+        "word": "bathe",
+        "meaning": "入浴する",
+        "blank_word": "bathe",
+        "blank_sentence": "All my family love to bathe in hot springs.",
+        "reorder": "All<>my<>family<>love<>to<>bathe<>in<>hot<>springs.",
+        "dictation": "All my family love to bathe in hot springs."
+    },
+    "17": {
+        "word": "breathe",
+        "meaning": "呼吸する",
+        "blank_word": "Breathe",
+        "blank_sentence": "Breathe deeply and hold your breath.",
+        "reorder": "Breathe<>deeply<>and<>hold<>your<>breath.",
+        "dictation": "Breathe deeply and hold your breath."
+    },
+    "18": {
+        "word": "vibrate",
+        "meaning": "振動する",
+        "blank_word": "vibrates",
+        "blank_sentence": "When air vibrates at the audio frequency, we hear it as sound.",
+        "reorder": "When<>air<>vibrates<>at<>the<>audio<>frequency,<>we<>hear<>it<>as<>sound.",
+        "dictation": "When air vibrates at the audio frequency, we hear it as sound."
+    },
+    "19": {
+        "word": "hunger",
+        "meaning": "飢餓",
+        "blank_word": "hunger",
+        "blank_sentence": "Many of the world's children suffer from hunger.",
+        "reorder": "Many<>of<>the<>world's<>children<>suffer<>from<>hunger.",
+        "dictation": "Many of the world's children suffer from hunger."
+    },
+    "20": {
+        "word": "dignity",
+        "meaning": "尊厳",
+        "blank_word": "dignity",
+        "blank_sentence": "All of us have the right to live with human dignity.",
+        "reorder": "All<>of<>us<>have<>the<>right<>to<>live<>with<>human<>dignity.",
+        "dictation": "All of us have the right to live with human dignity."
+    },
+    "21": {
+        "word": "calorie",
+        "meaning": "熱量",
+        "blank_word": "calories",
+        "blank_sentence": "Consuming too many calories will make you fat.",
+        "reorder": "Consuming<>too<>many<>calories<>will<>make<>you<>fat.",
+        "dictation": "Consuming too many calories will make you fat."
+    },
+    "22": {
+        "word": "organism",
+        "meaning": "微生物",
+        "blank_word": "organisms",
+        "blank_sentence": "Some kinds of organisms are useful in studying genetic engineering.",
+        "reorder": "Some<>kinds<>of<>organisms<>are<>useful<>in<>studying<>genetic<>engineering.",
+        "dictation": "Some kinds of organisms are useful in studying genetic engineering."
+    },
+    "23": {
+        "word": "enzyme",
+        "meaning": "酵素",
+        "blank_word": "enzymes",
+        "blank_sentence": "The liver produces many enzymes.",
+        "reorder": "The<>liver<>produces<>many<>enzymes.",
+        "dictation": "The liver produces many enzymes."
+    },
+    "24": {
+        "word": "antibody",
+        "meaning": "抗体",
+        "blank_word": "Antibodies",
+        "blank_sentence": "Antibodies protect your body from infection.",
+        "reorder": "Antibodies<>protect<>your<>body<>from<>infection.",
+        "dictation": "Antibodies protect your body from infection."
+    },
+    "25": {
+        "word": "antigen",
+        "meaning": "抗原",
+        "blank_word": "antigen",
+        "blank_sentence": "A specific antibody will combine with its specific antigen.",
+        "reorder": "A<>specific<>antibody<>will<>combine<>with<>its<>specific<>antigen.",
+        "dictation": "A specific antibody will combine with its specific antigen."
+    }
+}

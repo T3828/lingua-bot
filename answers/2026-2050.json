@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "furnace",
+        "meaning": "炉",
+        "blank_word": "furnace",
+        "blank_sentence": "The temperature of the blast furnace reaches about 1900 degrees at the bottom.",
+        "reorder": "The<>temperature<>of<>the<>blast<>furnace<>reaches<>about<>1900<>degrees<>at<>the<>bottom.",
+        "dictation": "The temperature of the blast furnace reaches about 1900 degrees at the bottom."
+    },
+    "2": {
+        "word": "sewage",
+        "meaning": "下水",
+        "blank_word": "Sewage",
+        "blank_sentence": "Sewage is liquid waste flowing through the sewer.",
+        "reorder": "Sewage<>is<>liquid<>waste<>flowing<>through<>the<>sewer.",
+        "dictation": "Sewage is liquid waste flowing through the sewer."
+    },
+    "3": {
+        "word": "flaw",
+        "meaning": "ひび",
+        "blank_word": "flaw",
+        "blank_sentence": "Never use a beaker with even a single flaw in it.",
+        "reorder": "Never<>use<>a<>beaker<>with<>even<>a<>single<>flaw<>in<>it.",
+        "dictation": "Never use a beaker with even a single flaw in it."
+    },
+    "4": {
+        "word": "pile",
+        "meaning": "積み重ねたもの",
+        "blank_word": "pile",
+        "blank_sentence": "He dragged the contract out of a pile of papers.",
+        "reorder": "He<>dragged<>the<>contract<>out<>of<>a<>pile<>of<>papers.",
+        "dictation": "He dragged the contract out of a pile of papers."
+    },
+    "5": {
+        "word": "stroke",
+        "meaning": "一撃(一打)",
+        "blank_word": "stroke",
+        "blank_sentence": "The concrete wall was broken by the first stroke of his hammer.",
+        "reorder": "The<>concrete<>wall<>was<>broken<>by<>the<>first<>stroke<>of<>his<>hammer.",
+        "dictation": "The concrete wall was broken by the first stroke of his hammer."
+    },
+    "6": {
+        "word": "cholesterol",
+        "meaning": "コレステロール",
+        "blank_word": "cholesterol",
+        "blank_sentence": "Animal fat is high in cholesterol.",
+        "reorder": "Animal<>fat<>is<>high<>in<>cholesterol.",
+        "dictation": "Animal fat is high in cholesterol."
+    },
+    "7": {
+        "word": "allergy",
+        "meaning": "アレルギー",
+        "blank_word": "allergy",
+        "blank_sentence": "A person who has a food allergy develops an allergic reaction to a specific food.",
+        "reorder": "A<>person<>who<>has<>a<>food<>allergy<>develops<>an<>allergic<>reaction<>to<>a<>specific<>food.",
+        "dictation": "A person who has a food allergy develops an allergic reaction to a specific food."
+    },
+    "8": {
+        "word": "asthma",
+        "meaning": "ぜんそく",
+        "blank_word": "asthma",
+        "blank_sentence": "An asthma attack makes it difficult for the patient to breathe.",
+        "reorder": "An<>asthma<>attack<>makes<>it<>difficult<>for<>the<>patient<>to<>breathe.",
+        "dictation": "An asthma attack makes it difficult for the patient to breathe."
+    },
+    "9": {
+        "word": "companion",
+        "meaning": "仲間",
+        "blank_word": "companions",
+        "blank_sentence": "People keep various kinds of animals as their close companions.",
+        "reorder": "People<>keep<>various<>kinds<>of<>animals<>as<>their<>close<>companions.",
+        "dictation": "People keep various kinds of animals as their close companions."
+    },
+    "10": {
+        "word": "counterpart",
+        "meaning": "相当する(同等の)人(もの)",
+        "blank_word": "counterpart",
+        "blank_sentence": "The Japanese counterpart of the American president is the prime minister.",
+        "reorder": "The<>Japanese<>counterpart<>of<>the<>American<>president<>is<>the<>prime<>minister.",
+        "dictation": "The Japanese counterpart of the American president is the prime minister."
+    },
+    "11": {
+        "word": "reward",
+        "meaning": "報酬",
+        "blank_word": "reward",
+        "blank_sentence": "I will do this task regardless of whether I can get a reward or not.",
+        "reorder": "I<>will<>do<>this<>task<>regardless<>of<>whether<>I<>can<>get<>a<>reward<>or<>not.",
+        "dictation": "I will do this task regardless of whether I can get a reward or not."
+    },
+    "12": {
+        "word": "fun",
+        "meaning": "楽しみ",
+        "blank_word": "fun",
+        "blank_sentence": "Chemical experiments are so much fun for me.",
+        "reorder": "Chemical<>experiments<>are<>so<>much<>fun<>for<>me.",
+        "dictation": "Chemical experiments are so much fun for me."
+    },
+    "13": {
+        "word": "charity",
+        "meaning": "慈善(事業)",
+        "blank_word": "charity",
+        "blank_sentence": "The students collected donations for charity.",
+        "reorder": "The<>students<>collected<>donations<>for<>charity.",
+        "dictation": "The students collected donations for charity."
+    },
+    "14": {
+        "word": "vertical",
+        "meaning": "縦の",
+        "blank_word": "vertical",
+        "blank_sentence": "The vertical axis in the chart represents the distance the object traveled.",
+        "reorder": "The<>vertical<>axis<>in<>the<>chart<>represents<>the<>distance<>the<>object<>traveled.",
+        "dictation": "The vertical axis in the chart represents the distance the object traveled."
+    },
+    "15": {
+        "word": "horizontal",
+        "meaning": "水平な",
+        "blank_word": "horizontal",
+        "blank_sentence": "The frame of an ordinary building consists of vertical pillars and horizontal beams.",
+        "reorder": "The<>frame<>of<>an<>ordinary<>building<>consists<>of<>vertical<>pillars<>and<>horizontal<>beams.",
+        "dictation": "The frame of an ordinary building consists of vertical pillars and horizontal beams."
+    },
+    "16": {
+        "word": "consistent",
+        "meaning": "一致した",
+        "blank_word": "consistent",
+        "blank_sentence": "The result of this experiment is consistent with the theory that he proposed.",
+        "reorder": "The<>result<>of<>this<>experiment<>is<>consistent<>with<>the<>theory<>that<>he<>proposed.",
+        "dictation": "The result of this experiment is consistent with the theory that he proposed."
+    },
+    "17": {
+        "word": "accurate",
+        "meaning": "正確な",
+        "blank_word": "accurate",
+        "blank_sentence": "We can always know the accurate time with a radio clock.",
+        "reorder": "We<>can<>always<>know<>the<>accurate<>time<>with<>a<>radio<>clock.",
+        "dictation": "We can always know the accurate time with a radio clock."
+    },
+    "18": {
+        "word": "steady",
+        "meaning": "安定した",
+        "blank_word": "steady",
+        "blank_sentence": "Accurate and steady control of temperature is necessary in this experiment.",
+        "reorder": "Accurate<>and<>steady<>control<>of<>temperature<>is<>necessary<>in<>this<>experiment.",
+        "dictation": "Accurate and steady control of temperature is necessary in this experiment."
+    },
+    "19": {
+        "word": "extraordinary",
+        "meaning": "並みはずれた",
+        "blank_word": "extraordinary",
+        "blank_sentence": "The charity concert collected an extraordinary amount of donations.",
+        "reorder": "The<>charity<>concert<>collected<>an<>extraordinary<>amount<>of<>donations.",
+        "dictation": "The charity concert collected an extraordinary amount of donations."
+    },
+    "20": {
+        "word": "principal",
+        "meaning": "主要な",
+        "blank_word": "principal",
+        "blank_sentence": "Carbon is one of the principal components of organic compounds.",
+        "reorder": "Carbon<>is<>one<>of<>the<>principal<>components<>of<>organic<>compounds.",
+        "dictation": "Carbon is one of the principal components of organic compounds."
+    },
+    "21": {
+        "word": "distinct",
+        "meaning": "明らかな",
+        "blank_word": "distinct",
+        "blank_sentence": "A distinct advantage of fuel cells is that they produce no carbon dioxide.",
+        "reorder": "A<>distinct<>advantage<>of<>fuel<>cells<>is<>that<>they<>produce<>no<>carbon<>dioxide.",
+        "dictation": "A distinct advantage of fuel cells is that they produce no carbon dioxide."
+    },
+    "22": {
+        "word": "unexpected",
+        "meaning": "意外な",
+        "blank_word": "unexpected",
+        "blank_sentence": "She resolved the technical problem in an unexpected way.",
+        "reorder": "She<>resolved<>the<>technical<>problem<>in<>an<>unexpected<>way.",
+        "dictation": "She resolved the technical problem in an unexpected way."
+    },
+    "23": {
+        "word": "passive",
+        "meaning": "消極的な",
+        "blank_word": "passive",
+        "blank_sentence": "Many nations criticize our country's passive attitude to the treaty.",
+        "reorder": "Many<>nations<>criticize<>our<>country's<>passive<>attitude<>to<>the<>treaty.",
+        "dictation": "Many nations criticize our country's passive attitude to the treaty."
+    },
+    "24": {
+        "word": "lean",
+        "meaning": "傾く",
+        "blank_word": "leaning",
+        "blank_sentence": "The tower is leaning 10 degrees from the vertical.",
+        "reorder": "The<>tower<>is<>leaning<>10<>degrees<>from<>the<>vertical.",
+        "dictation": "The tower is leaning 10 degrees from the vertical."
+    },
+    "25": {
+        "word": "attribute",
+        "meaning": "～のせい(おかげ)だと思う",
+        "blank_word": "attributes",
+        "blank_sentence": "He attributes his success to the help of his friends.",
+        "reorder": "He<>attributes<>his<>success<>to<>the<>help<>of<>his<>friends.",
+        "dictation": "He attributes his success to the help of his friends."
+    }
+}

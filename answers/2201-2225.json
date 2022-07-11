@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "alike",
+        "meaning": "似ている",
+        "blank_word": "alike",
+        "blank_sentence": "The molecular structures of these substances are alike but not the same.",
+        "reorder": "The<>molecular<>structures<>of<>these<>substances<>are<>alike<>but<>not<>the<>same.",
+        "dictation": "The molecular structures of these substances are alike but not the same."
+    },
+    "2": {
+        "word": "valid",
+        "meaning": "有効な",
+        "blank_word": "valid",
+        "blank_sentence": "Your ID will be valid until the end of March.",
+        "reorder": "Your<>ID<>will<>be<>valid<>until<>the<>end<>of<>March.",
+        "dictation": "Your ID will be valid until the end of March."
+    },
+    "3": {
+        "word": "instant",
+        "meaning": "即座(即時)の",
+        "blank_word": "instant",
+        "blank_sentence": "Thousands of people gave instant reactions to his message.",
+        "reorder": "Thousands<>of<>people<>gave<>instant<>reactions<>to<>his<>message.",
+        "dictation": "Thousands of people gave instant reactions to his message."
+    },
+    "4": {
+        "word": "simultaneous",
+        "meaning": "同時の",
+        "blank_word": "Simultaneous",
+        "blank_sentence": "Simultaneous interpretation requires great powers of concentration.",
+        "reorder": "Simultaneous<>interpretation<>requires<>great<>powers<>of<>concentration.",
+        "dictation": "Simultaneous interpretation requires great powers of concentration."
+    },
+    "5": {
+        "word": "authorize",
+        "meaning": "認可する",
+        "blank_word": "authorized",
+        "blank_sentence": "The government authorized the new medicine after a long period of examination.",
+        "reorder": "The<>government<>authorized<>the<>new<>medicine<>after<>a<>long<>period<>of<>examination.",
+        "dictation": "The government authorized the new medicine after a long period of examination."
+    },
+    "6": {
+        "word": "guard",
+        "meaning": "守る",
+        "blank_word": "guards",
+        "blank_sentence": "The program guards the sensitive files from unauthorized access.",
+        "reorder": "The<>program<>guards<>the<>sensitive<>files<>from<>unauthorized<>access.",
+        "dictation": "The program guards the sensitive files from unauthorized access."
+    },
+    "7": {
+        "word": "dispose",
+        "meaning": "処理する",
+        "blank_word": "disposed",
+        "blank_sentence": "Radioactive materials must be disposed of carefully.",
+        "reorder": "Radioactive<>materials<>must<>be<>disposed<>of<>carefully.",
+        "dictation": "Radioactive materials must be disposed of carefully."
+    },
+    "8": {
+        "word": "steer",
+        "meaning": "運転する",
+        "blank_word": "steers",
+        "blank_sentence": "The car steers itself detecting obstacles.",
+        "reorder": "The<>car<>steers<>itself<>detecting<>obstacles.",
+        "dictation": "The car steers itself detecting obstacles."
+    },
+    "9": {
+        "word": "grab",
+        "meaning": "つかむ",
+        "blank_word": "grabbed",
+        "blank_sentence": "The man in the passenger seat suddenly grabbed the steering wheel.",
+        "reorder": "The<>man<>in<>the<>passenger<>seat<>suddenly<>grabbed<>the<>steering<>wheel.",
+        "dictation": "The man in the passenger seat suddenly grabbed the steering wheel."
+    },
+    "10": {
+        "word": "stir",
+        "meaning": "かき混ぜる",
+        "blank_word": "Stir",
+        "blank_sentence": "Stir the solution until the solid compound is completely dissolved.",
+        "reorder": "Stir<>the<>solution<>until<>the<>solid<>compound<>is<>completely<>dissolved.",
+        "dictation": "Stir the solution until the solid compound is completely dissolved."
+    },
+    "11": {
+        "word": "dip",
+        "meaning": "(液体に)つける",
+        "blank_word": "dipped",
+        "blank_sentence": "The worker dipped the heated iron bar into water.",
+        "reorder": "The<>worker<>dipped<>the<>heated<>iron<>bar<>into<>water.",
+        "dictation": "The worker dipped the heated iron bar into water."
+    },
+    "12": {
+        "word": "pop",
+        "meaning": "(ポンと)はじける",
+        "blank_word": "popped",
+        "blank_sentence": "The wine cork popped out.",
+        "reorder": "The<>wine<>cork<>popped<>out.",
+        "dictation": "The wine cork popped out."
+    },
+    "13": {
+        "word": "snap",
+        "meaning": "(パチンと)音を立てる",
+        "blank_word": "snap",
+        "blank_sentence": "Heat the beans in a pan until they snap.",
+        "reorder": "Heat<>the<>beans<>in<>a<>pan<>until<>they<>snap.",
+        "dictation": "Heat the beans in a pan until they snap."
+    },
+    "14": {
+        "word": "omit",
+        "meaning": "省く",
+        "blank_word": "omit",
+        "blank_sentence": "Let me omit the details because we don't have enough time.",
+        "reorder": "Let<>me<>omit<>the<>details<>because<>we<>don't<>have<>enough<>time.",
+        "dictation": "Let me omit the details because we don't have enough time."
+    },
+    "15": {
+        "word": "orientation",
+        "meaning": "方向(性)",
+        "blank_word": "orientation",
+        "blank_sentence": "That organization has not shown any clear orientation of its activities yet.",
+        "reorder": "That<>organization<>has<>not<>shown<>any<>clear<>orientation<>of<>its<>activities<>yet.",
+        "dictation": "That organization has not shown any clear orientation of its activities yet."
+    },
+    "16": {
+        "word": "resort",
+        "meaning": "保養地",
+        "blank_word": "resorts",
+        "blank_sentence": "There are many famous resorts on the Mediterranean.",
+        "reorder": "There<>are<>many<>famous<>resorts<>on<>the<>Mediterranean.",
+        "dictation": "There are many famous resorts on the Mediterranean."
+    },
+    "17": {
+        "word": "outline",
+        "meaning": "概要",
+        "blank_word": "outline",
+        "blank_sentence": "Would you please give us a brief outline of your research?",
+        "reorder": "Would<>you<>please<>give<>us<>a<>brief<>outline<>of<>your<>research?",
+        "dictation": "Would you please give us a brief outline of your research?"
+    },
+    "18": {
+        "word": "mantle",
+        "meaning": "マントル",
+        "blank_word": "mantle",
+        "blank_sentence": "The mantle makes up 83 percent of the earth's whole volume.",
+        "reorder": "The<>mantle<>makes<>up<>83<>percent<>of<>the<>earth's<>whole<>volume.",
+        "dictation": "The mantle makes up 83 percent of the earth's whole volume."
+    },
+    "19": {
+        "word": "interface",
+        "meaning": "接続器",
+        "blank_word": "interface",
+        "blank_sentence": "USB is the standard interface used in most modern computer devices.",
+        "reorder": "USB<>is<>the<>standard<>interface<>used<>in<>most<>modern<>computer<>devices.",
+        "dictation": "USB is the standard interface used in most modern computer devices."
+    },
+    "20": {
+        "word": "node",
+        "meaning": "交点",
+        "blank_word": "nodes",
+        "blank_sentence": "In the beginning, the Internet had only four nodes.",
+        "reorder": "In<>the<>beginning,<>the<>Internet<>had<>only<>four<>nodes.",
+        "dictation": "In the beginning, the Internet had only four nodes."
+    },
+    "21": {
+        "word": "slit",
+        "meaning": "切り込み",
+        "blank_word": "slit",
+        "blank_sentence": "This box has a slit on the front side.",
+        "reorder": "This<>box<>has<>a<>slit<>on<>the<>front<>side.",
+        "dictation": "This box has a slit on the front side."
+    },
+    "22": {
+        "word": "merit",
+        "meaning": "利点",
+        "blank_word": "merit",
+        "blank_sentence": "The merit of using LED lights is that you can significantly reduce electricity consumption.",
+        "reorder": "The<>merit<>of<>using<>LED<>lights<>is<>that<>you<>can<>significantly<>reduce<>electricity<>consumption.",
+        "dictation": "The merit of using LED lights is that you can significantly reduce electricity consumption."
+    },
+    "23": {
+        "word": "beauty",
+        "meaning": "美しさ",
+        "blank_word": "beauty",
+        "blank_sentence": "A good machine has a beauty of its own.",
+        "reorder": "A<>good<>machine<>has<>a<>beauty<>of<>its<>own.",
+        "dictation": "A good machine has a beauty of its own."
+    },
+    "24": {
+        "word": "pleasure",
+        "meaning": "喜び",
+        "blank_word": "pleasure",
+        "blank_sentence": "He accepted my assistance with pleasure.",
+        "reorder": "He<>accepted<>my<>assistance<>with<>pleasure.",
+        "dictation": "He accepted my assistance with pleasure."
+    },
+    "25": {
+        "word": "theater",
+        "meaning": "劇場",
+        "blank_word": "theater",
+        "blank_sentence": "The entertainer owns his own theater.",
+        "reorder": "The<>entertainer<>owns<>his<>own<>theater.",
+        "dictation": "The entertainer owns his own theater."
+    }
+}

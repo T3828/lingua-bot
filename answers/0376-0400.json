@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "humor",
+        "meaning": "ユーモア",
+        "blank_word": "humor",
+        "blank_sentence": "He has no sense of humor at all.",
+        "reorder": "He<>has<>no<>sense<>of<>humor<>at<>all.",
+        "dictation": "He has no sense of humor at all."
+    },
+    "2": {
+        "word": "field",
+        "meaning": "分野",
+        "blank_word": "field",
+        "blank_sentence": "What is your main field of study?",
+        "reorder": "What<>is<>your<>main<>field<>of<>study?",
+        "dictation": "What is your main field of study?"
+    },
+    "3": {
+        "word": "university",
+        "meaning": "大学",
+        "blank_word": "universities",
+        "blank_sentence": "There are about 80 national universities in Japan.",
+        "reorder": "There<>are<>about<>80<>national<>universities<>in<>Japan.",
+        "dictation": "There are about 80 national universities in Japan."
+    },
+    "4": {
+        "word": "professor",
+        "meaning": "教授",
+        "blank_word": "professor",
+        "blank_sentence": "The professor will be the president of this university next year.",
+        "reorder": "The<>professor<>will<>be<>the<>president<>of<>this<>university<>next<>year.",
+        "dictation": "The professor will be the president of this university next year."
+    },
+    "5": {
+        "word": "apartment",
+        "meaning": "アパート",
+        "blank_word": "apartment",
+        "blank_sentence": "I have to find an apartment to live in after I enter university.",
+        "reorder": "I<>have<>to<>find<>an<>apartment<>to<>live<>in<>after<>I<>enter<>university.",
+        "dictation": "I have to find an apartment to live in after I enter university."
+    },
+    "6": {
+        "word": "temple",
+        "meaning": "寺院",
+        "blank_word": "temples",
+        "blank_sentence": "Have you ever been to the temples of Kyoto?",
+        "reorder": "Have<>you<>ever<>been<>to<>the<>temples<>of<>Kyoto?",
+        "dictation": "Have you ever been to the temples of Kyoto?"
+    },
+    "7": {
+        "word": "castle",
+        "meaning": "城",
+        "blank_word": "castles",
+        "blank_sentence": "Japanese castles look very different from those in Europe.",
+        "reorder": "Japanese<>castles<>look<>very<>different<>from<>those<>in<>Europe.",
+        "dictation": "Japanese castles look very different from those in Europe."
+    },
+    "8": {
+        "word": "allow",
+        "meaning": "許す",
+        "blank_word": "allowed",
+        "blank_sentence": "You will be allowed to get a driver's license at the age of 18 in Japan.",
+        "reorder": "You<>will<>be<>allowed<>to<>get<>a<>driver's<>license<>at<>the<>age<>of<>18<>in<>Japan.",
+        "dictation": "You will be allowed to get a driver's license at the age of 18 in Japan."
+    },
+    "9": {
+        "word": "cause",
+        "meaning": "～の原因になる",
+        "blank_word": "caused",
+        "blank_sentence": "A program error caused the damage to the system.",
+        "reorder": "A<>program<>error<>caused<>the<>damage<>to<>the<>system.",
+        "dictation": "A program error caused the damage to the system."
+    },
+    "10": {
+        "word": "count",
+        "meaning": "数える",
+        "blank_word": "Count",
+        "blank_sentence": "Count the red dots in the small square.",
+        "reorder": "Count<>the<>red<>dots<>in<>the<>small<>square.",
+        "dictation": "Count the red dots in the small square."
+    },
+    "11": {
+        "word": "include",
+        "meaning": "含む",
+        "blank_word": "includes",
+        "blank_sentence": "The new project includes a plan for security of the network.",
+        "reorder": "The<>new<>project<>includes<>a<>plan<>for<>security<>of<>the<>network.",
+        "dictation": "The new project includes a plan for security of the network."
+    },
+    "12": {
+        "word": "exclude",
+        "meaning": "除外する",
+        "blank_word": "Exclude",
+        "blank_sentence": "Exclude the children when you count the members of the group.",
+        "reorder": "Exclude<>the<>children<>when<>you<>count<>the<>members<>of<>the<>group.",
+        "dictation": "Exclude the children when you count the members of the group."
+    },
+    "13": {
+        "word": "save",
+        "meaning": "救う",
+        "blank_word": "saved",
+        "blank_sentence": "The rescue team has ever saved hundreds of lives.",
+        "reorder": "The<>rescue<>team<>has<>ever<>saved<>hundreds<>of<>lives.",
+        "dictation": "The rescue team has ever saved hundreds of lives."
+    },
+    "14": {
+        "word": "lead",
+        "meaning": "～につながる",
+        "blank_word": "leads",
+        "blank_sentence": "Some people say too much use of energy leads to global warming.",
+        "reorder": "Some<>people<>say<>too<>much<>use<>of<>energy<>leads<>to<>global<>warming.",
+        "dictation": "Some people say too much use of energy leads to global warming."
+    },
+    "15": {
+        "word": "seem",
+        "meaning": "～に見える",
+        "blank_word": "seem",
+        "blank_sentence": "This problem doesn't seem so difficult.",
+        "reorder": "This<>problem<>doesn't<>seem<>so<>difficult.",
+        "dictation": "This problem doesn't seem so difficult."
+    },
+    "16": {
+        "word": "remain",
+        "meaning": "～のままでいる",
+        "blank_word": "remain",
+        "blank_sentence": "We had to remain standing until the experiment was finished.",
+        "reorder": "We<>had<>to<>remain<>standing<>until<>the<>experiment<>was<>finished.",
+        "dictation": "We had to remain standing until the experiment was finished."
+    },
+    "17": {
+        "word": "dive",
+        "meaning": "潜る",
+        "blank_word": "dived",
+        "blank_sentence": "The bird dived into water to catch fish.",
+        "reorder": "The<>bird<>dived<>into<>water<>to<>catch<>fish.",
+        "dictation": "The bird dived into water to catch fish."
+    },
+    "18": {
+        "word": "slip",
+        "meaning": "滑る",
+        "blank_word": "slipped",
+        "blank_sentence": "The car slipped on the ice and crashed into the wall.",
+        "reorder": "The<>car<>slipped<>on<>the<>ice<>and<>crashed<>into<>the<>wall.",
+        "dictation": "The car slipped on the ice and crashed into the wall."
+    },
+    "19": {
+        "word": "drown",
+        "meaning": "おぼれる",
+        "blank_word": "drown",
+        "blank_sentence": "Watch your kids so that they don't drown.",
+        "reorder": "Watch<>your<>kids<>so<>that<>they<>don't<>drown.",
+        "dictation": "Watch your kids so that they don't drown."
+    },
+    "20": {
+        "word": "proud",
+        "meaning": "誇りにしている",
+        "blank_word": "proud",
+        "blank_sentence": "They are proud of having won the prize.",
+        "reorder": "They<>are<>proud<>of<>having<>won<>the<>prize.",
+        "dictation": "They are proud of having won the prize."
+    },
+    "21": {
+        "word": "brave",
+        "meaning": "勇敢な",
+        "blank_word": "brave",
+        "blank_sentence": "The brave student dived into the river to save the drowning child.",
+        "reorder": "The<>brave<>student<>dived<>into<>the<>river<>to<>save<>the<>drowning<>child.",
+        "dictation": "The brave student dived into the river to save the drowning child."
+    },
+    "22": {
+        "word": "calm",
+        "meaning": "穏やかな",
+        "blank_word": "calm",
+        "blank_sentence": "The sea is calm tonight.",
+        "reorder": "The<>sea<>is<>calm<>tonight.",
+        "dictation": "The sea is calm tonight."
+    },
+    "23": {
+        "word": "several",
+        "meaning": "いくつかの",
+        "blank_word": "several",
+        "blank_sentence": "He visited several castles and temples during his stay in Japan.",
+        "reorder": "He<>visited<>several<>castles<>and<>temples<>during<>his<>stay<>in<>Japan.",
+        "dictation": "He visited several castles and temples during his stay in Japan."
+    },
+    "24": {
+        "word": "public",
+        "meaning": "公共の",
+        "blank_word": "public",
+        "blank_sentence": "This is the oldest public library in Japan.",
+        "reorder": "This<>is<>the<>oldest<>public<>library<>in<>Japan.",
+        "dictation": "This is the oldest public library in Japan."
+    },
+    "25": {
+        "word": "foreign",
+        "meaning": "外国の",
+        "blank_word": "foreign",
+        "blank_sentence": "You'll need a passport to travel to a foreign country.",
+        "reorder": "You'll<>need<>a<>passport<>to<>travel<>to<>a<>foreign<>country.",
+        "dictation": "You'll need a passport to travel to a foreign country."
+    }
+}

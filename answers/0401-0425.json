@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "correct",
+        "meaning": "正しい",
+        "blank_word": "correct",
+        "blank_sentence": "All your answers seem to be correct.",
+        "reorder": "All<>your<>answers<>seem<>to<>be<>correct.",
+        "dictation": "All your answers seem to be correct."
+    },
+    "2": {
+        "word": "careful",
+        "meaning": "注意深い",
+        "blank_word": "careful",
+        "blank_sentence": "Be careful when you clean the lens or you will damage it.",
+        "reorder": "Be<>careful<>when<>you<>clean<>the<>lens<>or<>you<>will<>damage<>it.",
+        "dictation": "Be careful when you clean the lens or you will damage it."
+    },
+    "3": {
+        "word": "dead",
+        "meaning": "死んでいる",
+        "blank_word": "dead",
+        "blank_sentence": "Hundreds of dead fish were found in the river.",
+        "reorder": "Hundreds<>of<>dead<>fish<>were<>found<>in<>the<>river.",
+        "dictation": "Hundreds of dead fish were found in the river."
+    },
+    "4": {
+        "word": "alive",
+        "meaning": "生きている",
+        "blank_word": "alive",
+        "blank_sentence": "Everybody thought he had drowned, but he was alive.",
+        "reorder": "Everybody<>thought<>he<>had<>drowned,<>but<>he<>was<>alive.",
+        "dictation": "Everybody thought he had drowned, but he was alive."
+    },
+    "5": {
+        "word": "fat",
+        "meaning": "太った",
+        "blank_word": "fat",
+        "blank_sentence": "A fat man has too much fat on his body.",
+        "reorder": "A<>fat<>man<>has<>too<>much<>fat<>on<>his<>body.",
+        "dictation": "A fat man has too much fat on his body."
+    },
+    "6": {
+        "word": "huge",
+        "meaning": "巨大な",
+        "blank_word": "huge",
+        "blank_sentence": "The sun is a huge ball of fire.",
+        "reorder": "The<>sun<>is<>a<>huge<>ball<>of<>fire.",
+        "dictation": "The sun is a huge ball of fire."
+    },
+    "7": {
+        "word": "tiny",
+        "meaning": "微小な",
+        "blank_word": "tiny",
+        "blank_sentence": "The water looks white because of tiny bubbles in it.",
+        "reorder": "The<>water<>looks<>white<>because<>of<>tiny<>bubbles<>in<>it.",
+        "dictation": "The water looks white because of tiny bubbles in it."
+    },
+    "8": {
+        "word": "compact",
+        "meaning": "小型の",
+        "blank_word": "compact",
+        "blank_sentence": "More and more people drive a compact car to save money on gas.",
+        "reorder": "More<>and<>more<>people<>drive<>a<>compact<>car<>to<>save<>money<>on<>gas.",
+        "dictation": "More and more people drive a compact car to save money on gas."
+    },
+    "9": {
+        "word": "safe",
+        "meaning": "安全な",
+        "blank_word": "safe",
+        "blank_sentence": "All these tools are safe and easy to use.",
+        "reorder": "All<>these<>tools<>are<>safe<>and<>easy<>to<>use.",
+        "dictation": "All these tools are safe and easy to use."
+    },
+    "10": {
+        "word": "silent",
+        "meaning": "無音の",
+        "blank_word": "silent",
+        "blank_sentence": "The recording room needs to be silent.",
+        "reorder": "The<>recording<>room<>needs<>to<>be<>silent.",
+        "dictation": "The recording room needs to be silent."
+    },
+    "11": {
+        "word": "serious",
+        "meaning": "深刻な",
+        "blank_word": "serious",
+        "blank_sentence": "This report tells us the serious conditions of that country.",
+        "reorder": "This<>report<>tells<>us<>the<>serious<>conditions<>of<>that<>country.",
+        "dictation": "This report tells us the serious conditions of that country."
+    },
+    "12": {
+        "word": "worse",
+        "meaning": "より悪い",
+        "blank_word": "worse",
+        "blank_sentence": "His health got worse , so he went to see the doctor.",
+        "reorder": "His<>health<>got<>worse<>,<>so<>he<>went<>to<>see<>the<>doctor.",
+        "dictation": "His health got worse , so he went to see the doctor."
+    },
+    "13": {
+        "word": "measure",
+        "meaning": "測定する",
+        "blank_word": "measure",
+        "blank_sentence": "What do you have to measure to find the area of a triangle?",
+        "reorder": "What<>do<>you<>have<>to<>measure<>to<>find<>the<>area<>of<>a<>triangle?",
+        "dictation": "What do you have to measure to find the area of a triangle?"
+    },
+    "14": {
+        "word": "examine",
+        "meaning": "調べる",
+        "blank_word": "examined",
+        "blank_sentence": "The engineer examined the machine to see why it didn't work.",
+        "reorder": "The<>engineer<>examined<>the<>machine<>to<>see<>why<>it<>didn't<>work.",
+        "dictation": "The engineer examined the machine to see why it didn't work."
+    },
+    "15": {
+        "word": "follow",
+        "meaning": "ついて行く",
+        "blank_word": "follow",
+        "blank_sentence": "He walks so fast that I can't follow him.",
+        "reorder": "He<>walks<>so<>fast<>that<>I<>can't<>follow<>him.",
+        "dictation": "He walks so fast that I can't follow him."
+    },
+    "16": {
+        "word": "spend",
+        "meaning": "費やす",
+        "blank_word": "spend",
+        "blank_sentence": "I usually spend more than an hour reading a newspaper every day.",
+        "reorder": "I<>usually<>spend<>more<>than<>an<>hour<>reading<>a<>newspaper<>every<>day.",
+        "dictation": "I usually spend more than an hour reading a newspaper every day."
+    },
+    "17": {
+        "word": "create",
+        "meaning": "創造する",
+        "blank_word": "create",
+        "blank_sentence": "Science and technology have helped humans to create many things.",
+        "reorder": "Science<>and<>technology<>have<>helped<>humans<>to<>create<>many<>things.",
+        "dictation": "Science and technology have helped humans to create many things."
+    },
+    "18": {
+        "word": "add",
+        "meaning": "加える",
+        "blank_word": "Add",
+        "blank_sentence": "Add the same number to both sides.",
+        "reorder": "Add<>the<>same<>number<>to<>both<>sides.",
+        "dictation": "Add the same number to both sides."
+    },
+    "19": {
+        "word": "subtract",
+        "meaning": "引く(減ずる)",
+        "blank_word": "Subtract",
+        "blank_sentence": "Subtract three from eleven, and you have eight.",
+        "reorder": "Subtract<>three<>from<>eleven,<>and<>you<>have<>eight.",
+        "dictation": "Subtract three from eleven, and you have eight."
+    },
+    "20": {
+        "word": "multiply",
+        "meaning": "掛ける(乗ずる)",
+        "blank_word": "multiplied",
+        "blank_sentence": "Six multiplied by three is eighteen.",
+        "reorder": "Six<>multiplied<>by<>three<>is<>eighteen.",
+        "dictation": "Six multiplied by three is eighteen."
+    },
+    "21": {
+        "word": "divide",
+        "meaning": "分ける",
+        "blank_word": "Divide",
+        "blank_sentence": "Divide the triangle by one line and make the two areas equal.",
+        "reorder": "Divide<>the<>triangle<>by<>one<>line<>and<>make<>the<>two<>areas<>equal.",
+        "dictation": "Divide the triangle by one line and make the two areas equal."
+    },
+    "22": {
+        "word": "remove",
+        "meaning": "取り除く",
+        "blank_word": "remove",
+        "blank_sentence": "Use this soap to remove the oil on your hands.",
+        "reorder": "Use<>this<>soap<>to<>remove<>the<>oil<>on<>your<>hands.",
+        "dictation": "Use this soap to remove the oil on your hands."
+    },
+    "23": {
+        "word": "connect",
+        "meaning": "つなぐ",
+        "blank_word": "connected",
+        "blank_sentence": "Is this computer connected to the Internet?",
+        "reorder": "Is<>this<>computer<>connected<>to<>the<>Internet?",
+        "dictation": "Is this computer connected to the Internet?"
+    },
+    "24": {
+        "word": "delete",
+        "meaning": "削除する",
+        "blank_word": "deleted",
+        "blank_sentence": "I have deleted those files by mistake.",
+        "reorder": "I<>have<>deleted<>those<>files<>by<>mistake.",
+        "dictation": "I have deleted those files by mistake."
+    },
+    "25": {
+        "word": "solve",
+        "meaning": "(問題を)解く",
+        "blank_word": "solved",
+        "blank_sentence": "This is how he solved the difficult problem.",
+        "reorder": "This<>is<>how<>he<>solved<>the<>difficult<>problem.",
+        "dictation": "This is how he solved the difficult problem."
+    }
+}

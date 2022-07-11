@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "evacuate",
+        "meaning": "避難する",
+        "blank_word": "evacuate",
+        "blank_sentence": "In an emergency, the center door will be opened for the passengers to evacuate.",
+        "reorder": "In<>an<>emergency,<>the<>center<>door<>will<>be<>opened<>for<>the<>passengers<>to<>evacuate.",
+        "dictation": "In an emergency, the center door will be opened for the passengers to evacuate."
+    },
+    "2": {
+        "word": "bunch",
+        "meaning": "束",
+        "blank_word": "bunch",
+        "blank_sentence": "My boss told me to keep a bunch of keys.",
+        "reorder": "My<>boss<>told<>me<>to<>keep<>a<>bunch<>of<>keys.",
+        "dictation": "My boss told me to keep a bunch of keys."
+    },
+    "3": {
+        "word": "deficit",
+        "meaning": "赤字",
+        "blank_word": "deficit",
+        "blank_sentence": "The country is suffering a big trade deficit.",
+        "reorder": "The<>country<>is<>suffering<>a<>big<>trade<>deficit.",
+        "dictation": "The country is suffering a big trade deficit."
+    },
+    "4": {
+        "word": "duration",
+        "meaning": "継続(時間)",
+        "blank_word": "duration",
+        "blank_sentence": "The duration of sunshine in winter is shorter than in summer.",
+        "reorder": "The<>duration<>of<>sunshine<>in<>winter<>is<>shorter<>than<>in<>summer.",
+        "dictation": "The duration of sunshine in winter is shorter than in summer."
+    },
+    "5": {
+        "word": "faculty",
+        "meaning": "学部",
+        "blank_word": "faculty",
+        "blank_sentence": "There are several foreign professors in the faculty of engineering.",
+        "reorder": "There<>are<>several<>foreign<>professors<>in<>the<>faculty<>of<>engineering.",
+        "dictation": "There are several foreign professors in the faculty of engineering."
+    },
+    "6": {
+        "word": "dictator",
+        "meaning": "独裁者",
+        "blank_word": "dictator",
+        "blank_sentence": "A dictator is a ruler who exerts an absolute power.",
+        "reorder": "A<>dictator<>is<>a<>ruler<>who<>exerts<>an<>absolute<>power.",
+        "dictation": "A dictator is a ruler who exerts an absolute power."
+    },
+    "7": {
+        "word": "rim",
+        "meaning": "周縁",
+        "blank_word": "rim",
+        "blank_sentence": "The tire is attached to the rim of the wheel.",
+        "reorder": "The<>tire<>is<>attached<>to<>the<>rim<>of<>the<>wheel.",
+        "dictation": "The tire is attached to the rim of the wheel."
+    },
+    "8": {
+        "word": "ambition",
+        "meaning": "望み",
+        "blank_word": "ambition",
+        "blank_sentence": "He had had the ambition to become an astronaut since his childhood.",
+        "reorder": "He<>had<>had<>the<>ambition<>to<>become<>an<>astronaut<>since<>his<>childhood.",
+        "dictation": "He had had the ambition to become an astronaut since his childhood."
+    },
+    "9": {
+        "word": "spontaneous",
+        "meaning": "自然発生的な",
+        "blank_word": "spontaneous",
+        "blank_sentence": "The cause of the fire was the spontaneous combustion of coal.",
+        "reorder": "The<>cause<>of<>the<>fire<>was<>the<>spontaneous<>combustion<>of<>coal.",
+        "dictation": "The cause of the fire was the spontaneous combustion of coal."
+    },
+    "10": {
+        "word": "arbitrary",
+        "meaning": "任意の",
+        "blank_word": "arbitrary",
+        "blank_sentence": "Make a three-digit number with three arbitrary numbers.",
+        "reorder": "Make<>a<>three-digit<>number<>with<>three<>arbitrary<>numbers.",
+        "dictation": "Make a three-digit number with three arbitrary numbers."
+    },
+    "11": {
+        "word": "adjacent",
+        "meaning": "隣り合う",
+        "blank_word": "adjacent",
+        "blank_sentence": "Add adjacent numbers to each other.",
+        "reorder": "Add<>adjacent<>numbers<>to<>each<>other.",
+        "dictation": "Add adjacent numbers to each other."
+    },
+    "12": {
+        "word": "supreme",
+        "meaning": "最高の",
+        "blank_word": "supreme",
+        "blank_sentence": "It's my supreme joy to make a speech here.",
+        "reorder": "It's<>my<>supreme<>joy<>to<>make<>a<>speech<>here.",
+        "dictation": "It's my supreme joy to make a speech here."
+    },
+    "13": {
+        "word": "stern",
+        "meaning": "厳格な",
+        "blank_word": "stern",
+        "blank_sentence": "He is very stern , particularly when his children behave badly.",
+        "reorder": "He<>is<>very<>stern<>,<>particularly<>when<>his<>children<>behave<>badly.",
+        "dictation": "He is very stern , particularly when his children behave badly."
+    },
+    "14": {
+        "word": "splendid",
+        "meaning": "すばらしい",
+        "blank_word": "splendid",
+        "blank_sentence": "That small factory has a splendid grinding technique.",
+        "reorder": "That<>small<>factory<>has<>a<>splendid<>grinding<>technique.",
+        "dictation": "That small factory has a splendid grinding technique."
+    },
+    "15": {
+        "word": "spoil",
+        "meaning": "損なう",
+        "blank_word": "spoiled",
+        "blank_sentence": "What he said at the conference spoiled the relationship between the participants.",
+        "reorder": "What<>he<>said<>at<>the<>conference<>spoiled<>the<>relationship<>between<>the<>participants.",
+        "dictation": "What he said at the conference spoiled the relationship between the participants."
+    },
+    "16": {
+        "word": "supervise",
+        "meaning": "監督(指導)する",
+        "blank_word": "supervise",
+        "blank_sentence": "It's a tough job to supervise the newcomers.",
+        "reorder": "It's<>a<>tough<>job<>to<>supervise<>the<>newcomers.",
+        "dictation": "It's a tough job to supervise the newcomers."
+    },
+    "17": {
+        "word": "deflect",
+        "meaning": "屈折させる",
+        "blank_word": "deflects",
+        "blank_sentence": "Water in the fish bowl deflects light and the fish in it look bigger.",
+        "reorder": "Water<>in<>the<>fish<>bowl<>deflects<>light<>and<>the<>fish<>in<>it<>look<>bigger.",
+        "dictation": "Water in the fish bowl deflects light and the fish in it look bigger."
+    },
+    "18": {
+        "word": "diffuse",
+        "meaning": "拡散する",
+        "blank_word": "diffuse",
+        "blank_sentence": "The concert hall is designed for sound to diffuse efficiently.",
+        "reorder": "The<>concert<>hall<>is<>designed<>for<>sound<>to<>diffuse<>efficiently.",
+        "dictation": "The concert hall is designed for sound to diffuse efficiently."
+    },
+    "19": {
+        "word": "enclose",
+        "meaning": "同封する",
+        "blank_word": "enclose",
+        "blank_sentence": "Please enclose the money with your order form.",
+        "reorder": "Please<>enclose<>the<>money<>with<>your<>order<>form.",
+        "dictation": "Please enclose the money with your order form."
+    },
+    "20": {
+        "word": "mend",
+        "meaning": "直す",
+        "blank_word": "mended",
+        "blank_sentence": "My grandmother mended my torn skirt quickly.",
+        "reorder": "My<>grandmother<>mended<>my<>torn<>skirt<>quickly.",
+        "dictation": "My grandmother mended my torn skirt quickly."
+    },
+    "21": {
+        "word": "annoy",
+        "meaning": "うるさがらせる",
+        "blank_word": "annoyed",
+        "blank_sentence": "The noise leaking from his earphones annoyed the other people.",
+        "reorder": "The<>noise<>leaking<>from<>his<>earphones<>annoyed<>the<>other<>people.",
+        "dictation": "The noise leaking from his earphones annoyed the other people."
+    },
+    "22": {
+        "word": "clap",
+        "meaning": "(手を)たたく",
+        "blank_word": "Clap",
+        "blank_sentence": "Clap your hands when you hear my voice.",
+        "reorder": "Clap<>your<>hands<>when<>you<>hear<>my<>voice.",
+        "dictation": "Clap your hands when you hear my voice."
+    },
+    "23": {
+        "word": "flutter",
+        "meaning": "はためく",
+        "blank_word": "fluttering",
+        "blank_sentence": "The national flag of Japan is fluttering in the strong wind.",
+        "reorder": "The<>national<>flag<>of<>Japan<>is<>fluttering<>in<>the<>strong<>wind.",
+        "dictation": "The national flag of Japan is fluttering in the strong wind."
+    },
+    "24": {
+        "word": "plunge",
+        "meaning": "飛び込む",
+        "blank_word": "plunged",
+        "blank_sentence": "The man plunged into the water to save the baby.",
+        "reorder": "The<>man<>plunged<>into<>the<>water<>to<>save<>the<>baby.",
+        "dictation": "The man plunged into the water to save the baby."
+    },
+    "25": {
+        "word": "kidnap",
+        "meaning": "誘拐する",
+        "blank_word": "kidnapped",
+        "blank_sentence": "A small boy was kidnapped here yesterday.",
+        "reorder": "A<>small<>boy<>was<>kidnapped<>here<>yesterday.",
+        "dictation": "A small boy was kidnapped here yesterday."
+    }
+}

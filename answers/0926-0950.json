@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "manuscript",
+        "meaning": "原稿",
+        "blank_word": "manuscript",
+        "blank_sentence": "She rewrote her manuscript twice, but it's not finished yet.",
+        "reorder": "She<>rewrote<>her<>manuscript<>twice,<>but<>it's<>not<>finished<>yet.",
+        "dictation": "She rewrote her manuscript twice, but it's not finished yet."
+    },
+    "2": {
+        "word": "paragraph",
+        "meaning": "段落",
+        "blank_word": "paragraph",
+        "blank_sentence": "The result of this experiment is explained in the third paragraph.",
+        "reorder": "The<>result<>of<>this<>experiment<>is<>explained<>in<>the<>third<>paragraph.",
+        "dictation": "The result of this experiment is explained in the third paragraph."
+    },
+    "3": {
+        "word": "draft",
+        "meaning": "下書き",
+        "blank_word": "draft",
+        "blank_sentence": "He has not finished a draft of the report yet.",
+        "reorder": "He<>has<>not<>finished<>a<>draft<>of<>the<>report<>yet.",
+        "dictation": "He has not finished a draft of the report yet."
+    },
+    "4": {
+        "word": "author",
+        "meaning": "著者",
+        "blank_word": "author",
+        "blank_sentence": "The author of this article sent me a copy of it.",
+        "reorder": "The<>author<>of<>this<>article<>sent<>me<>a<>copy<>of<>it.",
+        "dictation": "The author of this article sent me a copy of it."
+    },
+    "5": {
+        "word": "journal",
+        "meaning": "雑誌",
+        "blank_word": "journal",
+        "blank_sentence": "His research was published in an academic journal.",
+        "reorder": "His<>research<>was<>published<>in<>an<>academic<>journal.",
+        "dictation": "His research was published in an academic journal."
+    },
+    "6": {
+        "word": "envelope",
+        "meaning": "封筒",
+        "blank_word": "envelope",
+        "blank_sentence": "Put your experiment reports in this envelope.",
+        "reorder": "Put<>your<>experiment<>reports<>in<>this<>envelope.",
+        "dictation": "Put your experiment reports in this envelope."
+    },
+    "7": {
+        "word": "whistle",
+        "meaning": "笛",
+        "blank_word": "whistle",
+        "blank_sentence": "Humans can't hear a dog whistle because its frequency is too high.",
+        "reorder": "Humans<>can't<>hear<>a<>dog<>whistle<>because<>its<>frequency<>is<>too<>high.",
+        "dictation": "Humans can't hear a dog whistle because its frequency is too high."
+    },
+    "8": {
+        "word": "dust",
+        "meaning": "ほこり",
+        "blank_word": "dust",
+        "blank_sentence": "The floor is covered with dust.",
+        "reorder": "The<>floor<>is<>covered<>with<>dust.",
+        "dictation": "The floor is covered with dust."
+    },
+    "9": {
+        "word": "desert",
+        "meaning": "砂漠",
+        "blank_word": "desert",
+        "blank_sentence": "The desert is spreading rapidly.",
+        "reorder": "The<>desert<>is<>spreading<>rapidly.",
+        "dictation": "The desert is spreading rapidly."
+    },
+    "10": {
+        "word": "climate",
+        "meaning": "気候",
+        "blank_word": "climates",
+        "blank_sentence": "Human beings have survived in various climates on the earth.",
+        "reorder": "Human<>beings<>have<>survived<>in<>various<>climates<>on<>the<>earth.",
+        "dictation": "Human beings have survived in various climates on the earth."
+    },
+    "11": {
+        "word": "fog",
+        "meaning": "霧",
+        "blank_word": "fog",
+        "blank_sentence": "The fog prevented us from going further.",
+        "reorder": "The<>fog<>prevented<>us<>from<>going<>further.",
+        "dictation": "The fog prevented us from going further."
+    },
+    "12": {
+        "word": "frost",
+        "meaning": "霜",
+        "blank_word": "frost",
+        "blank_sentence": "Many plants were damaged by the heavy frost.",
+        "reorder": "Many<>plants<>were<>damaged<>by<>the<>heavy<>frost.",
+        "dictation": "Many plants were damaged by the heavy frost."
+    },
+    "13": {
+        "word": "soil",
+        "meaning": "土",
+        "blank_word": "soil",
+        "blank_sentence": "Acid rain affects the pH of soil.",
+        "reorder": "Acid<>rain<>affects<>the<>pH<>of<>soil.",
+        "dictation": "Acid rain affects the pH of soil."
+    },
+    "14": {
+        "word": "crop",
+        "meaning": "収穫(量)",
+        "blank_word": "crop",
+        "blank_sentence": "The cold weather damaged the apple crop in that region.",
+        "reorder": "The<>cold<>weather<>damaged<>the<>apple<>crop<>in<>that<>region.",
+        "dictation": "The cold weather damaged the apple crop in that region."
+    },
+    "15": {
+        "word": "wheat",
+        "meaning": "小麦",
+        "blank_word": "wheat",
+        "blank_sentence": "Bread and noodles are both made from wheat.",
+        "reorder": "Bread<>and<>noodles<>are<>both<>made<>from<>wheat.",
+        "dictation": "Bread and noodles are both made from wheat."
+    },
+    "16": {
+        "word": "cereal",
+        "meaning": "穀物",
+        "blank_word": "cereal",
+        "blank_sentence": "Hokkaido has a good climate for cereal crops such as wheat and corn.",
+        "reorder": "Hokkaido<>has<>a<>good<>climate<>for<>cereal<>crops<>such<>as<>wheat<>and<>corn.",
+        "dictation": "Hokkaido has a good climate for cereal crops such as wheat and corn."
+    },
+    "17": {
+        "word": "harvest",
+        "meaning": "収穫",
+        "blank_word": "harvest",
+        "blank_sentence": "We had a very good harvest this autumn.",
+        "reorder": "We<>had<>a<>very<>good<>harvest<>this<>autumn.",
+        "dictation": "We had a very good harvest this autumn."
+    },
+    "18": {
+        "word": "oven",
+        "meaning": "オーブン",
+        "blank_word": "oven",
+        "blank_sentence": "Set the temperature of the oven to 300 degrees.",
+        "reorder": "Set<>the<>temperature<>of<>the<>oven<>to<>300<>degrees.",
+        "dictation": "Set the temperature of the oven to 300 degrees."
+    },
+    "19": {
+        "word": "refrigerator",
+        "meaning": "冷蔵庫",
+        "blank_word": "refrigerator",
+        "blank_sentence": "A refrigerator is used for keeping things cold.",
+        "reorder": "A<>refrigerator<>is<>used<>for<>keeping<>things<>cold.",
+        "dictation": "A refrigerator is used for keeping things cold."
+    },
+    "20": {
+        "word": "roast",
+        "meaning": "焼く",
+        "blank_word": "Roast",
+        "blank_sentence": "Roast the beef at 200 degrees in the oven.",
+        "reorder": "Roast<>the<>beef<>at<>200<>degrees<>in<>the<>oven.",
+        "dictation": "Roast the beef at 200 degrees in the oven."
+    },
+    "21": {
+        "word": "advance",
+        "meaning": "進歩する",
+        "blank_word": "advanced",
+        "blank_sentence": "Cell phone technology has advanced a lot in the last few years.",
+        "reorder": "Cell<>phone<>technology<>has<>advanced<>a<>lot<>in<>the<>last<>few<>years.",
+        "dictation": "Cell phone technology has advanced a lot in the last few years."
+    },
+    "22": {
+        "word": "search",
+        "meaning": "さがす",
+        "blank_word": "searched",
+        "blank_sentence": "They searched the desert for fossils.",
+        "reorder": "They<>searched<>the<>desert<>for<>fossils.",
+        "dictation": "They searched the desert for fossils."
+    },
+    "23": {
+        "word": "destroy",
+        "meaning": "破壊する",
+        "blank_word": "destroyed",
+        "blank_sentence": "Hundreds of houses were destroyed by the earthquake.",
+        "reorder": "Hundreds<>of<>houses<>were<>destroyed<>by<>the<>earthquake.",
+        "dictation": "Hundreds of houses were destroyed by the earthquake."
+    },
+    "24": {
+        "word": "predict",
+        "meaning": "予測する",
+        "blank_word": "predict",
+        "blank_sentence": "It is almost impossible to predict when an earthquake will occur.",
+        "reorder": "It<>is<>almost<>impossible<>to<>predict<>when<>an<>earthquake<>will<>occur.",
+        "dictation": "It is almost impossible to predict when an earthquake will occur."
+    },
+    "25": {
+        "word": "observe",
+        "meaning": "観察する",
+        "blank_word": "observed",
+        "blank_sentence": "We observed the night sky at the city observatory.",
+        "reorder": "We<>observed<>the<>night<>sky<>at<>the<>city<>observatory.",
+        "dictation": "We observed the night sky at the city observatory."
+    }
+}

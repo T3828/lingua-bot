@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "security",
+        "meaning": "安全",
+        "blank_word": "security",
+        "blank_sentence": "For your security , change your password at least every two months.",
+        "reorder": "For<>your<>security<>,<>change<>your<>password<>at<>least<>every<>two<>months.",
+        "dictation": "For your security , change your password at least every two months."
+    },
+    "2": {
+        "word": "code",
+        "meaning": "符号",
+        "blank_word": "codes",
+        "blank_sentence": "These small dots are the codes to be scanned with a scanner.",
+        "reorder": "These<>small<>dots<>are<>the<>codes<>to<>be<>scanned<>with<>a<>scanner.",
+        "dictation": "These small dots are the codes to be scanned with a scanner."
+    },
+    "3": {
+        "word": "simulation",
+        "meaning": "シミュレーション",
+        "blank_word": "simulation",
+        "blank_sentence": "A computer simulation can tell where the typhoon goes.",
+        "reorder": "A<>computer<>simulation<>can<>tell<>where<>the<>typhoon<>goes.",
+        "dictation": "A computer simulation can tell where the typhoon goes."
+    },
+    "4": {
+        "word": "battle",
+        "meaning": "戦い",
+        "blank_word": "Battle",
+        "blank_sentence": "The Battle of Sekigahara took place in 1600.",
+        "reorder": "The<>Battle<>of<>Sekigahara<>took<>place<>in<>1600.",
+        "dictation": "The Battle of Sekigahara took place in 1600."
+    },
+    "5": {
+        "word": "art",
+        "meaning": "芸術",
+        "blank_word": "art",
+        "blank_sentence": "Computer graphics is not only a part of technology but also an art.",
+        "reorder": "Computer<>graphics<>is<>not<>only<>a<>part<>of<>technology<>but<>also<>an<>art.",
+        "dictation": "Computer graphics is not only a part of technology but also an art."
+    },
+    "6": {
+        "word": "laundry",
+        "meaning": "洗濯",
+        "blank_word": "laundry",
+        "blank_sentence": "I am too busy to do laundry every day.",
+        "reorder": "I<>am<>too<>busy<>to<>do<>laundry<>every<>day.",
+        "dictation": "I am too busy to do laundry every day."
+    },
+    "7": {
+        "word": "garage",
+        "meaning": "ガレージ",
+        "blank_word": "garage",
+        "blank_sentence": "He pulled his car into the garage.",
+        "reorder": "He<>pulled<>his<>car<>into<>the<>garage.",
+        "dictation": "He pulled his car into the garage."
+    },
+    "8": {
+        "word": "platform",
+        "meaning": "基盤",
+        "blank_word": "platform",
+        "blank_sentence": "The Internet has already become a platform for studying science.",
+        "reorder": "The<>Internet<>has<>already<>become<>a<>platform<>for<>studying<>science.",
+        "dictation": "The Internet has already become a platform for studying science."
+    },
+    "9": {
+        "word": "although",
+        "meaning": "～だけれども",
+        "blank_word": "Although",
+        "blank_sentence": "Although the typhoon hit our area, we had no damage.",
+        "reorder": "Although<>the<>typhoon<>hit<>our<>area,<>we<>had<>no<>damage.",
+        "dictation": "Although the typhoon hit our area, we had no damage."
+    },
+    "10": {
+        "word": "while",
+        "meaning": "～する間に",
+        "blank_word": "while",
+        "blank_sentence": "Do not start the engine while the battery is being charged.",
+        "reorder": "Do<>not<>start<>the<>engine<>while<>the<>battery<>is<>being<>charged.",
+        "dictation": "Do not start the engine while the battery is being charged."
+    },
+    "11": {
+        "word": "unless",
+        "meaning": "もし～なければ",
+        "blank_word": "unless",
+        "blank_sentence": "The robot does not do anything unless you give it an order.",
+        "reorder": "The<>robot<>does<>not<>do<>anything<>unless<>you<>give<>it<>an<>order.",
+        "dictation": "The robot does not do anything unless you give it an order."
+    },
+    "12": {
+        "word": "whether",
+        "meaning": "～かどうか",
+        "blank_word": "whether",
+        "blank_sentence": "No one knows whether the plan will work or not.",
+        "reorder": "No<>one<>knows<>whether<>the<>plan<>will<>work<>or<>not.",
+        "dictation": "No one knows whether the plan will work or not."
+    },
+    "13": {
+        "word": "despite",
+        "meaning": "～にもかかわらず",
+        "blank_word": "Despite",
+        "blank_sentence": "Despite its price, more than one million copies of the software sold.",
+        "reorder": "Despite<>its<>price,<>more<>than<>one<>million<>copies<>of<>the<>software<>sold.",
+        "dictation": "Despite its price, more than one million copies of the software sold."
+    },
+    "14": {
+        "word": "against",
+        "meaning": "～に反して",
+        "blank_word": "against",
+        "blank_sentence": "He had to keep working for the plant against his will.",
+        "reorder": "He<>had<>to<>keep<>working<>for<>the<>plant<>against<>his<>will.",
+        "dictation": "He had to keep working for the plant against his will."
+    },
+    "15": {
+        "word": "across",
+        "meaning": "向こう(反対)側へ(の)",
+        "blank_word": "across",
+        "blank_sentence": "I saw many birds fly across the sky.",
+        "reorder": "I<>saw<>many<>birds<>fly<>across<>the<>sky.",
+        "dictation": "I saw many birds fly across the sky."
+    },
+    "16": {
+        "word": "until",
+        "meaning": "～まで",
+        "blank_word": "until",
+        "blank_sentence": "Do not restart the engine until it cools down.",
+        "reorder": "Do<>not<>restart<>the<>engine<>until<>it<>cools<>down.",
+        "dictation": "Do not restart the engine until it cools down."
+    },
+    "17": {
+        "word": "toward",
+        "meaning": "～に向かって",
+        "blank_word": "toward",
+        "blank_sentence": "The fish swam toward the river where they were born.",
+        "reorder": "The<>fish<>swam<>toward<>the<>river<>where<>they<>were<>born.",
+        "dictation": "The fish swam toward the river where they were born."
+    },
+    "18": {
+        "word": "among",
+        "meaning": "～のあいだ(中)で",
+        "blank_word": "Among",
+        "blank_sentence": "Among the metals we usually see, gold is one of the heaviest.",
+        "reorder": "Among<>the<>metals<>we<>usually<>see,<>gold<>is<>one<>of<>the<>heaviest.",
+        "dictation": "Among the metals we usually see, gold is one of the heaviest."
+    },
+    "19": {
+        "word": "above",
+        "meaning": "上に",
+        "blank_word": "above",
+        "blank_sentence": "Keep your arm above the level of your heart.",
+        "reorder": "Keep<>your<>arm<>above<>the<>level<>of<>your<>heart.",
+        "dictation": "Keep your arm above the level of your heart."
+    },
+    "20": {
+        "word": "below",
+        "meaning": "～の下に",
+        "blank_word": "below",
+        "blank_sentence": "Write your name below your address.",
+        "reorder": "Write<>your<>name<>below<>your<>address.",
+        "dictation": "Write your name below your address."
+    },
+    "21": {
+        "word": "beside",
+        "meaning": "～のそば(横)に",
+        "blank_word": "beside",
+        "blank_sentence": "Can you see the tower standing beside the hotel?",
+        "reorder": "Can<>you<>see<>the<>tower<>standing<>beside<>the<>hotel?",
+        "dictation": "Can you see the tower standing beside the hotel?"
+    },
+    "22": {
+        "word": "besides",
+        "meaning": "～以外に",
+        "blank_word": "besides",
+        "blank_sentence": "There are two more items besides this one to buy at this store.",
+        "reorder": "There<>are<>two<>more<>items<>besides<>this<>one<>to<>buy<>at<>this<>store.",
+        "dictation": "There are two more items besides this one to buy at this store."
+    },
+    "23": {
+        "word": "beyond",
+        "meaning": "～を越えて",
+        "blank_word": "beyond",
+        "blank_sentence": "Any reports beyond the page limit will not be read.",
+        "reorder": "Any<>reports<>beyond<>the<>page<>limit<>will<>not<>be<>read.",
+        "dictation": "Any reports beyond the page limit will not be read."
+    },
+    "24": {
+        "word": "beneath",
+        "meaning": "下の",
+        "blank_word": "beneath",
+        "blank_sentence": "The fish must be beneath the stones.",
+        "reorder": "The<>fish<>must<>be<>beneath<>the<>stones.",
+        "dictation": "The fish must be beneath the stones."
+    },
+    "25": {
+        "word": "throughout",
+        "meaning": "～を通して(ずっと)",
+        "blank_word": "throughout",
+        "blank_sentence": "The leaves of the tree are always green throughout the year.",
+        "reorder": "The<>leaves<>of<>the<>tree<>are<>always<>green<>throughout<>the<>year.",
+        "dictation": "The leaves of the tree are always green throughout the year."
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "skeptical",
+        "meaning": "懐疑的な",
+        "blank_word": "skeptical",
+        "blank_sentence": "Many scientists are still skeptical about the result of his experiment.",
+        "reorder": "Many<>scientists<>are<>still<>skeptical<>about<>the<>result<>of<>his<>experiment.",
+        "dictation": "Many scientists are still skeptical about the result of his experiment."
+    },
+    "2": {
+        "word": "glow",
+        "meaning": "光る",
+        "blank_word": "glowing",
+        "blank_sentence": "Mars was glowing red in the dark night sky.",
+        "reorder": "Mars<>was<>glowing<>red<>in<>the<>dark<>night<>sky.",
+        "dictation": "Mars was glowing red in the dark night sky."
+    },
+    "3": {
+        "word": "illuminate",
+        "meaning": "照らす",
+        "blank_word": "illuminating",
+        "blank_sentence": "The glowing light of candles was illuminating the ceiling and corridor.",
+        "reorder": "The<>glowing<>light<>of<>candles<>was<>illuminating<>the<>ceiling<>and<>corridor.",
+        "dictation": "The glowing light of candles was illuminating the ceiling and corridor."
+    },
+    "4": {
+        "word": "blink",
+        "meaning": "点滅する",
+        "blank_word": "blink",
+        "blank_sentence": "When you see the warning lamp blink , stop the machine immediately.",
+        "reorder": "When<>you<>see<>the<>warning<>lamp<>blink<>,<>stop<>the<>machine<>immediately.",
+        "dictation": "When you see the warning lamp blink , stop the machine immediately."
+    },
+    "5": {
+        "word": "deposit",
+        "meaning": "預金する",
+        "blank_word": "deposit",
+        "blank_sentence": "I deposit 10,000 yen in the bank every month.",
+        "reorder": "I<>deposit<>10,000<>yen<>in<>the<>bank<>every<>month.",
+        "dictation": "I deposit 10,000 yen in the bank every month."
+    },
+    "6": {
+        "word": "withdraw",
+        "meaning": "撤退する",
+        "blank_word": "withdraw",
+        "blank_sentence": "The chief engineer decided to withdraw from the project.",
+        "reorder": "The<>chief<>engineer<>decided<>to<>withdraw<>from<>the<>project.",
+        "dictation": "The chief engineer decided to withdraw from the project."
+    },
+    "7": {
+        "word": "inhibit",
+        "meaning": "抑制する",
+        "blank_word": "inhibits",
+        "blank_sentence": "A lack of oxygen inhibits the bacteria from multiplying.",
+        "reorder": "A<>lack<>of<>oxygen<>inhibits<>the<>bacteria<>from<>multiplying.",
+        "dictation": "A lack of oxygen inhibits the bacteria from multiplying."
+    },
+    "8": {
+        "word": "qualify",
+        "meaning": "資格を与える",
+        "blank_word": "qualified",
+        "blank_sentence": "He was qualified as an aircraft mechanic.",
+        "reorder": "He<>was<>qualified<>as<>an<>aircraft<>mechanic.",
+        "dictation": "He was qualified as an aircraft mechanic."
+    },
+    "9": {
+        "word": "weave",
+        "meaning": "編む",
+        "blank_word": "weave",
+        "blank_sentence": "It's a lot of fun for me to weave baskets out of pieces of bamboo.",
+        "reorder": "It's<>a<>lot<>of<>fun<>for<>me<>to<>weave<>baskets<>out<>of<>pieces<>of<>bamboo.",
+        "dictation": "It's a lot of fun for me to weave baskets out of pieces of bamboo."
+    },
+    "10": {
+        "word": "encode",
+        "meaning": "符号化する",
+        "blank_word": "encodes",
+        "blank_sentence": "An AD converter encodes an analog waveform into binary data.",
+        "reorder": "An<>AD<>converter<>encodes<>an<>analog<>waveform<>into<>binary<>data.",
+        "dictation": "An AD converter encodes an analog waveform into binary data."
+    },
+    "11": {
+        "word": "allocate",
+        "meaning": "配分する",
+        "blank_word": "allocate",
+        "blank_sentence": "The company has decided to allocate extra research funds to the project.",
+        "reorder": "The<>company<>has<>decided<>to<>allocate<>extra<>research<>funds<>to<>the<>project.",
+        "dictation": "The company has decided to allocate extra research funds to the project."
+    },
+    "12": {
+        "word": "bounce",
+        "meaning": "はね返る",
+        "blank_word": "bounce",
+        "blank_sentence": "When sound waves bounce off an object, we hear them as an echo.",
+        "reorder": "When<>sound<>waves<>bounce<>off<>an<>object,<>we<>hear<>them<>as<>an<>echo.",
+        "dictation": "When sound waves bounce off an object, we hear them as an echo."
+    },
+    "13": {
+        "word": "engage",
+        "meaning": "参加する",
+        "blank_word": "engage",
+        "blank_sentence": "You need your parents' permission to engage in volunteer activities.",
+        "reorder": "You<>need<>your<>parents'<>permission<>to<>engage<>in<>volunteer<>activities.",
+        "dictation": "You need your parents' permission to engage in volunteer activities."
+    },
+    "14": {
+        "word": "negotiate",
+        "meaning": "交渉する",
+        "blank_word": "negotiate",
+        "blank_sentence": "We tried to negotiate for a pay raise, but the negotiations failed.",
+        "reorder": "We<>tried<>to<>negotiate<>for<>a<>pay<>raise,<>but<>the<>negotiations<>failed.",
+        "dictation": "We tried to negotiate for a pay raise, but the negotiations failed."
+    },
+    "15": {
+        "word": "deserve",
+        "meaning": "～にふさわしい",
+        "blank_word": "deserves",
+        "blank_sentence": "The firefighter who died in the line of his duty deserves to be called a hero.",
+        "reorder": "The<>firefighter<>who<>died<>in<>the<>line<>of<>his<>duty<>deserves<>to<>be<>called<>a<>hero.",
+        "dictation": "The firefighter who died in the line of his duty deserves to be called a hero."
+    },
+    "16": {
+        "word": "provoke",
+        "meaning": "誘発する",
+        "blank_word": "provoked",
+        "blank_sentence": "Asthma attack is provoked by an allergy.",
+        "reorder": "Asthma<>attack<>is<>provoked<>by<>an<>allergy.",
+        "dictation": "Asthma attack is provoked by an allergy."
+    },
+    "17": {
+        "word": "delight",
+        "meaning": "喜ばせる",
+        "blank_word": "delighted",
+        "blank_sentence": "The employees were delighted with the success of the negotiation.",
+        "reorder": "The<>employees<>were<>delighted<>with<>the<>success<>of<>the<>negotiation.",
+        "dictation": "The employees were delighted with the success of the negotiation."
+    },
+    "18": {
+        "word": "liberty",
+        "meaning": "自由",
+        "blank_word": "liberty",
+        "blank_sentence": "The cruel war was the fight for liberty of the people in the colony.",
+        "reorder": "The<>cruel<>war<>was<>the<>fight<>for<>liberty<>of<>the<>people<>in<>the<>colony.",
+        "dictation": "The cruel war was the fight for liberty of the people in the colony."
+    },
+    "19": {
+        "word": "justice",
+        "meaning": "正義",
+        "blank_word": "justice",
+        "blank_sentence": "His sense of justice didn't allow him to sit by and watch the man's rude behavior.",
+        "reorder": "His<>sense<>of<>justice<>didn't<>allow<>him<>to<>sit<>by<>and<>watch<>the<>man's<>rude<>behavior.",
+        "dictation": "His sense of justice didn't allow him to sit by and watch the man's rude behavior."
+    },
+    "20": {
+        "word": "constitution",
+        "meaning": "憲法",
+        "blank_word": "constitution",
+        "blank_sentence": "Our constitution guarantees the right to pursue liberty.",
+        "reorder": "Our<>constitution<>guarantees<>the<>right<>to<>pursue<>liberty.",
+        "dictation": "Our constitution guarantees the right to pursue liberty."
+    },
+    "21": {
+        "word": "obstacle",
+        "meaning": "障害(物)",
+        "blank_word": "obstacles",
+        "blank_sentence": "Bats avoid obstacles by using sound echoes.",
+        "reorder": "Bats<>avoid<>obstacles<>by<>using<>sound<>echoes.",
+        "dictation": "Bats avoid obstacles by using sound echoes."
+    },
+    "22": {
+        "word": "breakthrough",
+        "meaning": "大きな進歩",
+        "blank_word": "breakthrough",
+        "blank_sentence": "They made a breakthrough in space technology.",
+        "reorder": "They<>made<>a<>breakthrough<>in<>space<>technology.",
+        "dictation": "They made a breakthrough in space technology."
+    },
+    "23": {
+        "word": "momentum",
+        "meaning": "(物理的)運動量",
+        "blank_word": "momentum",
+        "blank_sentence": "An object's momentum is the product of its mass and velocity.",
+        "reorder": "An<>object's<>momentum<>is<>the<>product<>of<>its<>mass<>and<>velocity.",
+        "dictation": "An object's momentum is the product of its mass and velocity."
+    },
+    "24": {
+        "word": "inertia",
+        "meaning": "慣性",
+        "blank_word": "inertia",
+        "blank_sentence": "The more mass an object has, the more inertia it has.",
+        "reorder": "The<>more<>mass<>an<>object<>has,<>the<>more<>inertia<>it<>has.",
+        "dictation": "The more mass an object has, the more inertia it has."
+    },
+    "25": {
+        "word": "bulk",
+        "meaning": "大部分",
+        "blank_word": "bulk",
+        "blank_sentence": "Ships carry the great bulk of international trade.",
+        "reorder": "Ships<>carry<>the<>great<>bulk<>of<>international<>trade.",
+        "dictation": "Ships carry the great bulk of international trade."
+    }
+}

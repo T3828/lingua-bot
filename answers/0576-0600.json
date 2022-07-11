@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "tornado",
+        "meaning": "竜巻",
+        "blank_word": "tornado",
+        "blank_sentence": "A big tornado is coming to the village.",
+        "reorder": "A<>big<>tornado<>is<>coming<>to<>the<>village.",
+        "dictation": "A big tornado is coming to the village."
+    },
+    "2": {
+        "word": "shape",
+        "meaning": "形",
+        "blank_word": "shape",
+        "blank_sentence": "The shape of the graph shows that the experiment went well.",
+        "reorder": "The<>shape<>of<>the<>graph<>shows<>that<>the<>experiment<>went<>well.",
+        "dictation": "The shape of the graph shows that the experiment went well."
+    },
+    "3": {
+        "word": "bare",
+        "meaning": "裸の",
+        "blank_word": "bare",
+        "blank_sentence": "Don't use bare wires to connect high voltage terminals.",
+        "reorder": "Don't<>use<>bare<>wires<>to<>connect<>high<>voltage<>terminals.",
+        "dictation": "Don't use bare wires to connect high voltage terminals."
+    },
+    "4": {
+        "word": "flat",
+        "meaning": "平らな",
+        "blank_word": "flat",
+        "blank_sentence": "The robot can walk only on a flat surface.",
+        "reorder": "The<>robot<>can<>walk<>only<>on<>a<>flat<>surface.",
+        "dictation": "The robot can walk only on a flat surface."
+    },
+    "5": {
+        "word": "shallow",
+        "meaning": "浅い",
+        "blank_word": "shallow",
+        "blank_sentence": "That river is shallow enough for you to walk across.",
+        "reorder": "That<>river<>is<>shallow<>enough<>for<>you<>to<>walk<>across.",
+        "dictation": "That river is shallow enough for you to walk across."
+    },
+    "6": {
+        "word": "smooth",
+        "meaning": "なめらかな",
+        "blank_word": "smooth",
+        "blank_sentence": "It is not easy to make a perfectly smooth surface.",
+        "reorder": "It<>is<>not<>easy<>to<>make<>a<>perfectly<>smooth<>surface.",
+        "dictation": "It is not easy to make a perfectly smooth surface."
+    },
+    "7": {
+        "word": "rough",
+        "meaning": "ざらざらした",
+        "blank_word": "rough",
+        "blank_sentence": "This floor was made rough so that you won't slip.",
+        "reorder": "This<>floor<>was<>made<>rough<>so<>that<>you<>won't<>slip.",
+        "dictation": "This floor was made rough so that you won't slip."
+    },
+    "8": {
+        "word": "rear",
+        "meaning": "後ろの",
+        "blank_word": "rear",
+        "blank_sentence": "The rear tire of my car went flat.",
+        "reorder": "The<>rear<>tire<>of<>my<>car<>went<>flat.",
+        "dictation": "The rear tire of my car went flat."
+    },
+    "9": {
+        "word": "oval",
+        "meaning": "楕円形の",
+        "blank_word": "oval",
+        "blank_sentence": "The eggs of birds are mostly oval in shape.",
+        "reorder": "The<>eggs<>of<>birds<>are<>mostly<>oval<>in<>shape.",
+        "dictation": "The eggs of birds are mostly oval in shape."
+    },
+    "10": {
+        "word": "linear",
+        "meaning": "直線の",
+        "blank_word": "linear",
+        "blank_sentence": "The cart is moving smoothly along a linear track.",
+        "reorder": "The<>cart<>is<>moving<>smoothly<>along<>a<>linear<>track.",
+        "dictation": "The cart is moving smoothly along a linear track."
+    },
+    "11": {
+        "word": "constant",
+        "meaning": "一定の",
+        "blank_word": "constant",
+        "blank_sentence": "Driving at a constant speed can save gas.",
+        "reorder": "Driving<>at<>a<>constant<>speed<>can<>save<>gas.",
+        "dictation": "Driving at a constant speed can save gas."
+    },
+    "12": {
+        "word": "dirty",
+        "meaning": "汚れた",
+        "blank_word": "dirty",
+        "blank_sentence": "I bought some shoe care tools to clean my dirty shoes.",
+        "reorder": "I<>bought<>some<>shoe<>care<>tools<>to<>clean<>my<>dirty<>shoes.",
+        "dictation": "I bought some shoe care tools to clean my dirty shoes."
+    },
+    "13": {
+        "word": "terrible",
+        "meaning": "ひどい",
+        "blank_word": "terrible",
+        "blank_sentence": "A tornado can sometimes cause terrible damage.",
+        "reorder": "A<>tornado<>can<>sometimes<>cause<>terrible<>damage.",
+        "dictation": "A tornado can sometimes cause terrible damage."
+    },
+    "14": {
+        "word": "possible",
+        "meaning": "可能な",
+        "blank_word": "possible",
+        "blank_sentence": "Do you think it's possible to complete this work in a day?",
+        "reorder": "Do<>you<>think<>it's<>possible<>to<>complete<>this<>work<>in<>a<>day?",
+        "dictation": "Do you think it's possible to complete this work in a day?"
+    },
+    "15": {
+        "word": "impossible",
+        "meaning": "不可能な",
+        "blank_word": "impossible",
+        "blank_sentence": "It is impossible to travel faster than the speed of light.",
+        "reorder": "It<>is<>impossible<>to<>travel<>faster<>than<>the<>speed<>of<>light.",
+        "dictation": "It is impossible to travel faster than the speed of light."
+    },
+    "16": {
+        "word": "likely",
+        "meaning": "～しそうな",
+        "blank_word": "likely",
+        "blank_sentence": "It's likely to snow on the north side of the mountain.",
+        "reorder": "It's<>likely<>to<>snow<>on<>the<>north<>side<>of<>the<>mountain.",
+        "dictation": "It's likely to snow on the north side of the mountain."
+    },
+    "17": {
+        "word": "similar",
+        "meaning": "似ている",
+        "blank_word": "similar",
+        "blank_sentence": "The design of the new car was similar to the one that I saw in my dream.",
+        "reorder": "The<>design<>of<>the<>new<>car<>was<>similar<>to<>the<>one<>that<>I<>saw<>in<>my<>dream.",
+        "dictation": "The design of the new car was similar to the one that I saw in my dream."
+    },
+    "18": {
+        "word": "individual",
+        "meaning": "個々の",
+        "blank_word": "individual",
+        "blank_sentence": "Our service will fit the guests' individual needs.",
+        "reorder": "Our<>service<>will<>fit<>the<>guests'<>individual<>needs.",
+        "dictation": "Our service will fit the guests' individual needs."
+    },
+    "19": {
+        "word": "male",
+        "meaning": "雄(オス)の",
+        "blank_word": "male",
+        "blank_sentence": "Most queens and male ants have wings.",
+        "reorder": "Most<>queens<>and<>male<>ants<>have<>wings.",
+        "dictation": "Most queens and male ants have wings."
+    },
+    "20": {
+        "word": "female",
+        "meaning": "雌(メス)の",
+        "blank_word": "female",
+        "blank_sentence": "The worker bees are all female.",
+        "reorder": "The<>worker<>bees<>are<>all<>female.",
+        "dictation": "The worker bees are all female."
+    },
+    "21": {
+        "word": "thick",
+        "meaning": "厚い",
+        "blank_word": "thick",
+        "blank_sentence": "This board is one centimeter thick.",
+        "reorder": "This<>board<>is<>one<>centimeter<>thick.",
+        "dictation": "This board is one centimeter thick."
+    },
+    "22": {
+        "word": "thin",
+        "meaning": "薄い",
+        "blank_word": "thin",
+        "blank_sentence": "This film is very thin but strong.",
+        "reorder": "This<>film<>is<>very<>thin<>but<>strong.",
+        "dictation": "This film is very thin but strong."
+    },
+    "23": {
+        "word": "mad",
+        "meaning": "怒っている",
+        "blank_word": "mad",
+        "blank_sentence": "I got mad at him because he came late again.",
+        "reorder": "I<>got<>mad<>at<>him<>because<>he<>came<>late<>again.",
+        "dictation": "I got mad at him because he came late again."
+    },
+    "24": {
+        "word": "shy",
+        "meaning": "恥ずかしがり屋の",
+        "blank_word": "shy",
+        "blank_sentence": "Though he is shy , he has many friends.",
+        "reorder": "Though<>he<>is<>shy<>,<>he<>has<>many<>friends.",
+        "dictation": "Though he is shy , he has many friends."
+    },
+    "25": {
+        "word": "lonely",
+        "meaning": "寂しい",
+        "blank_word": "lonely",
+        "blank_sentence": "She felt lonely after he had left her room.",
+        "reorder": "She<>felt<>lonely<>after<>he<>had<>left<>her<>room.",
+        "dictation": "She felt lonely after he had left her room."
+    }
+}

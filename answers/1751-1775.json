@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "bypass",
+        "meaning": "迂回する",
+        "blank_word": "bypassed",
+        "blank_sentence": "Our bus bypassed the urban area to reach the destination early.",
+        "reorder": "Our<>bus<>bypassed<>the<>urban<>area<>to<>reach<>the<>destination<>early.",
+        "dictation": "Our bus bypassed the urban area to reach the destination early."
+    },
+    "2": {
+        "word": "drain",
+        "meaning": "(液体などを)排出する",
+        "blank_word": "drain",
+        "blank_sentence": "Open the upper valve to drain air.",
+        "reorder": "Open<>the<>upper<>valve<>to<>drain<>air.",
+        "dictation": "Open the upper valve to drain air."
+    },
+    "3": {
+        "word": "complain",
+        "meaning": "不平(不満)を言う",
+        "blank_word": "complain",
+        "blank_sentence": "Don't complain about your own choice.",
+        "reorder": "Don't<>complain<>about<>your<>own<>choice.",
+        "dictation": "Don't complain about your own choice."
+    },
+    "4": {
+        "word": "reply",
+        "meaning": "返事をする",
+        "blank_word": "reply",
+        "blank_sentence": "Please reply as quickly as possible.",
+        "reorder": "Please<>reply<>as<>quickly<>as<>possible.",
+        "dictation": "Please reply as quickly as possible."
+    },
+    "5": {
+        "word": "admire",
+        "meaning": "賞賛する",
+        "blank_word": "admired",
+        "blank_sentence": "All the executives admired the new car's design.",
+        "reorder": "All<>the<>executives<>admired<>the<>new<>car's<>design.",
+        "dictation": "All the executives admired the new car's design."
+    },
+    "6": {
+        "word": "accumulate",
+        "meaning": "蓄積する",
+        "blank_word": "accumulate",
+        "blank_sentence": "It is essential to accumulate facts in solving a problem.",
+        "reorder": "It<>is<>essential<>to<>accumulate<>facts<>in<>solving<>a<>problem.",
+        "dictation": "It is essential to accumulate facts in solving a problem."
+    },
+    "7": {
+        "word": "quote",
+        "meaning": "引用する",
+        "blank_word": "quotes",
+        "blank_sentence": "The teacher often quotes passages from the Bible.",
+        "reorder": "The<>teacher<>often<>quotes<>passages<>from<>the<>Bible.",
+        "dictation": "The teacher often quotes passages from the Bible."
+    },
+    "8": {
+        "word": "distribute",
+        "meaning": "分配する",
+        "blank_word": "distributed",
+        "blank_sentence": "The company distributed the accumulated profits to its stockholders.",
+        "reorder": "The<>company<>distributed<>the<>accumulated<>profits<>to<>its<>stockholders.",
+        "dictation": "The company distributed the accumulated profits to its stockholders."
+    },
+    "9": {
+        "word": "sink",
+        "meaning": "沈む",
+        "blank_word": "sink",
+        "blank_sentence": "The ship began to sink soon after the collision.",
+        "reorder": "The<>ship<>began<>to<>sink<>soon<>after<>the<>collision.",
+        "dictation": "The ship began to sink soon after the collision."
+    },
+    "10": {
+        "word": "distill",
+        "meaning": "蒸留する",
+        "blank_word": "distilled",
+        "blank_sentence": "They distilled seawater to get drinking water.",
+        "reorder": "They<>distilled<>seawater<>to<>get<>drinking<>water.",
+        "dictation": "They distilled seawater to get drinking water."
+    },
+    "11": {
+        "word": "grin",
+        "meaning": "(にやっと)笑う",
+        "blank_word": "grin",
+        "blank_sentence": "Seeing him grin , I became aware of what he was thinking.",
+        "reorder": "Seeing<>him<>grin<>,<>I<>became<>aware<>of<>what<>he<>was<>thinking.",
+        "dictation": "Seeing him grin , I became aware of what he was thinking."
+    },
+    "12": {
+        "word": "ignite",
+        "meaning": "点火する",
+        "blank_word": "ignite",
+        "blank_sentence": "Electrical sparks are often used to ignite a gas cooker.",
+        "reorder": "Electrical<>sparks<>are<>often<>used<>to<>ignite<>a<>gas<>cooker.",
+        "dictation": "Electrical sparks are often used to ignite a gas cooker."
+    },
+    "13": {
+        "word": "explode",
+        "meaning": "爆発する",
+        "blank_word": "exploded",
+        "blank_sentence": "The explosive gas was ignited by static electricity spark and exploded.",
+        "reorder": "The<>explosive<>gas<>was<>ignited<>by<>static<>electricity<>spark<>and<>exploded.",
+        "dictation": "The explosive gas was ignited by static electricity spark and exploded."
+    },
+    "14": {
+        "word": "recall",
+        "meaning": "思い出す",
+        "blank_word": "recall",
+        "blank_sentence": "I can't recall where I kept the document.",
+        "reorder": "I<>can't<>recall<>where<>I<>kept<>the<>document.",
+        "dictation": "I can't recall where I kept the document."
+    },
+    "15": {
+        "word": "consult",
+        "meaning": "～に相談する",
+        "blank_word": "consult",
+        "blank_sentence": "I recommend you consult a lawyer before you sign the contract.",
+        "reorder": "I<>recommend<>you<>consult<>a<>lawyer<>before<>you<>sign<>the<>contract.",
+        "dictation": "I recommend you consult a lawyer before you sign the contract."
+    },
+    "16": {
+        "word": "illustrate",
+        "meaning": "(図で)説明する",
+        "blank_word": "illustrate",
+        "blank_sentence": "I'll illustrate my idea with this chart.",
+        "reorder": "I'll<>illustrate<>my<>idea<>with<>this<>chart.",
+        "dictation": "I'll illustrate my idea with this chart."
+    },
+    "17": {
+        "word": "interact",
+        "meaning": "交流する",
+        "blank_word": "interacting",
+        "blank_sentence": "You can't develop your communication skills without interacting with other people.",
+        "reorder": "You<>can't<>develop<>your<>communication<>skills<>without<>interacting<>with<>other<>people.",
+        "dictation": "You can't develop your communication skills without interacting with other people."
+    },
+    "18": {
+        "word": "hesitate",
+        "meaning": "ためらう",
+        "blank_word": "hesitate",
+        "blank_sentence": "Don't hesitate to put your new idea into practice.",
+        "reorder": "Don't<>hesitate<>to<>put<>your<>new<>idea<>into<>practice.",
+        "dictation": "Don't hesitate to put your new idea into practice."
+    },
+    "19": {
+        "word": "bury",
+        "meaning": "埋める",
+        "blank_word": "buried",
+        "blank_sentence": "They buried industrial waste here.",
+        "reorder": "They<>buried<>industrial<>waste<>here.",
+        "dictation": "They buried industrial waste here."
+    },
+    "20": {
+        "word": "treasure",
+        "meaning": "宝物",
+        "blank_word": "treasure",
+        "blank_sentence": "The man illustrated how to discover the treasure under the sea.",
+        "reorder": "The<>man<>illustrated<>how<>to<>discover<>the<>treasure<>under<>the<>sea.",
+        "dictation": "The man illustrated how to discover the treasure under the sea."
+    },
+    "21": {
+        "word": "valley",
+        "meaning": "谷",
+        "blank_word": "valley",
+        "blank_sentence": "There was a massive landslide in the valley , and many houses were buried.",
+        "reorder": "There<>was<>a<>massive<>landslide<>in<>the<>valley<>,<>and<>many<>houses<>were<>buried.",
+        "dictation": "There was a massive landslide in the valley , and many houses were buried."
+    },
+    "22": {
+        "word": "epidemic",
+        "meaning": "(伝染病などの)流行",
+        "blank_word": "epidemic",
+        "blank_sentence": "We are afraid that there may be a flu epidemic this winter.",
+        "reorder": "We<>are<>afraid<>that<>there<>may<>be<>a<>flu<>epidemic<>this<>winter.",
+        "dictation": "We are afraid that there may be a flu epidemic this winter."
+    },
+    "23": {
+        "word": "trend",
+        "meaning": "傾向",
+        "blank_word": "trend",
+        "blank_sentence": "There has been a trend toward environmental awareness recently.",
+        "reorder": "There<>has<>been<>a<>trend<>toward<>environmental<>awareness<>recently.",
+        "dictation": "There has been a trend toward environmental awareness recently."
+    },
+    "24": {
+        "word": "outbreak",
+        "meaning": "発生",
+        "blank_word": "outbreak",
+        "blank_sentence": "No one had expected the outbreak of the epidemic.",
+        "reorder": "No<>one<>had<>expected<>the<>outbreak<>of<>the<>epidemic.",
+        "dictation": "No one had expected the outbreak of the epidemic."
+    },
+    "25": {
+        "word": "innovation",
+        "meaning": "革新",
+        "blank_word": "innovations",
+        "blank_sentence": "Technology brought innovations to various industries.",
+        "reorder": "Technology<>brought<>innovations<>to<>various<>industries.",
+        "dictation": "Technology brought innovations to various industries."
+    }
+}

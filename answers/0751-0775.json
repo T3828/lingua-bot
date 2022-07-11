@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "mass",
+        "meaning": "質量",
+        "blank_word": "mass",
+        "blank_sentence": "The mass of an object does not change even on the moon.",
+        "reorder": "The<>mass<>of<>an<>object<>does<>not<>change<>even<>on<>the<>moon.",
+        "dictation": "The mass of an object does not change even on the moon."
+    },
+    "2": {
+        "word": "density",
+        "meaning": "密度",
+        "blank_word": "density",
+        "blank_sentence": "The density of an object is its mass per unit volume.",
+        "reorder": "The<>density<>of<>an<>object<>is<>its<>mass<>per<>unit<>volume.",
+        "dictation": "The density of an object is its mass per unit volume."
+    },
+    "3": {
+        "word": "purpose",
+        "meaning": "目的",
+        "blank_word": "purpose",
+        "blank_sentence": "The purpose of our experiment is to measure the density of this substance.",
+        "reorder": "The<>purpose<>of<>our<>experiment<>is<>to<>measure<>the<>density<>of<>this<>substance.",
+        "dictation": "The purpose of our experiment is to measure the density of this substance."
+    },
+    "4": {
+        "word": "method",
+        "meaning": "方法",
+        "blank_word": "methods",
+        "blank_sentence": "There are many methods of solving the equation.",
+        "reorder": "There<>are<>many<>methods<>of<>solving<>the<>equation.",
+        "dictation": "There are many methods of solving the equation."
+    },
+    "5": {
+        "word": "difference",
+        "meaning": "違い",
+        "blank_word": "difference",
+        "blank_sentence": "Find the difference between the two mean values.",
+        "reorder": "Find<>the<>difference<>between<>the<>two<>mean<>values.",
+        "dictation": "Find the difference between the two mean values."
+    },
+    "6": {
+        "word": "garbage",
+        "meaning": "ごみ",
+        "blank_word": "garbage",
+        "blank_sentence": "I found garbage left in the park.",
+        "reorder": "I<>found<>garbage<>left<>in<>the<>park.",
+        "dictation": "I found garbage left in the park."
+    },
+    "7": {
+        "word": "waste",
+        "meaning": "廃棄物",
+        "blank_word": "waste",
+        "blank_sentence": "The factory produces a mass of waste every day.",
+        "reorder": "The<>factory<>produces<>a<>mass<>of<>waste<>every<>day.",
+        "dictation": "The factory produces a mass of waste every day."
+    },
+    "8": {
+        "word": "crane",
+        "meaning": "クレーン",
+        "blank_word": "crane",
+        "blank_sentence": "We need a crane to move that industrial waste.",
+        "reorder": "We<>need<>a<>crane<>to<>move<>that<>industrial<>waste.",
+        "dictation": "We need a crane to move that industrial waste."
+    },
+    "9": {
+        "word": "demand",
+        "meaning": "需要",
+        "blank_word": "demand",
+        "blank_sentence": "Global demand for oil is expected to increase further next year.",
+        "reorder": "Global<>demand<>for<>oil<>is<>expected<>to<>increase<>further<>next<>year.",
+        "dictation": "Global demand for oil is expected to increase further next year."
+    },
+    "10": {
+        "word": "supply",
+        "meaning": "供給",
+        "blank_word": "supply",
+        "blank_sentence": "The human body needs a constant supply of water.",
+        "reorder": "The<>human<>body<>needs<>a<>constant<>supply<>of<>water.",
+        "dictation": "The human body needs a constant supply of water."
+    },
+    "11": {
+        "word": "effort",
+        "meaning": "努力",
+        "blank_word": "effort",
+        "blank_sentence": "The scientist made an effort to find the unknown virus.",
+        "reorder": "The<>scientist<>made<>an<>effort<>to<>find<>the<>unknown<>virus.",
+        "dictation": "The scientist made an effort to find the unknown virus."
+    },
+    "12": {
+        "word": "react",
+        "meaning": "反応する",
+        "blank_word": "reacts",
+        "blank_sentence": "When sodium reacts with water, it produces hydrogen.",
+        "reorder": "When<>sodium<>reacts<>with<>water,<>it<>produces<>hydrogen.",
+        "dictation": "When sodium reacts with water, it produces hydrogen."
+    },
+    "13": {
+        "word": "reaction",
+        "meaning": "反応",
+        "blank_word": "reaction",
+        "blank_sentence": "The fish showed no reaction to the blue light.",
+        "reorder": "The<>fish<>showed<>no<>reaction<>to<>the<>blue<>light.",
+        "dictation": "The fish showed no reaction to the blue light."
+    },
+    "14": {
+        "word": "conserve",
+        "meaning": "保護する",
+        "blank_word": "conserve",
+        "blank_sentence": "We must make every effort to conserve nature.",
+        "reorder": "We<>must<>make<>every<>effort<>to<>conserve<>nature.",
+        "dictation": "We must make every effort to conserve nature."
+    },
+    "15": {
+        "word": "skip",
+        "meaning": "省く",
+        "blank_word": "skip",
+        "blank_sentence": "Let me skip the details not to waste time.",
+        "reorder": "Let<>me<>skip<>the<>details<>not<>to<>waste<>time.",
+        "dictation": "Let me skip the details not to waste time."
+    },
+    "16": {
+        "word": "generate",
+        "meaning": "発生させる",
+        "blank_word": "generates",
+        "blank_sentence": "This solar cell generates 1.5 volts of electricity.",
+        "reorder": "This<>solar<>cell<>generates<>1.5<>volts<>of<>electricity.",
+        "dictation": "This solar cell generates 1.5 volts of electricity."
+    },
+    "17": {
+        "word": "concern",
+        "meaning": "関係する",
+        "blank_word": "concerns",
+        "blank_sentence": "The problem concerns both you and me.",
+        "reorder": "The<>problem<>concerns<>both<>you<>and<>me.",
+        "dictation": "The problem concerns both you and me."
+    },
+    "18": {
+        "word": "offer",
+        "meaning": "提供する",
+        "blank_word": "offered",
+        "blank_sentence": "The research center offered him a job.",
+        "reorder": "The<>research<>center<>offered<>him<>a<>job.",
+        "dictation": "The research center offered him a job."
+    },
+    "19": {
+        "word": "apply",
+        "meaning": "応用する",
+        "blank_word": "applied",
+        "blank_sentence": "They applied the new technology to their new products.",
+        "reorder": "They<>applied<>the<>new<>technology<>to<>their<>new<>products.",
+        "dictation": "They applied the new technology to their new products."
+    },
+    "20": {
+        "word": "quit",
+        "meaning": "やめる",
+        "blank_word": "quit",
+        "blank_sentence": "I decided to quit my current job because I got an offer from the laboratory.",
+        "reorder": "I<>decided<>to<>quit<>my<>current<>job<>because<>I<>got<>an<>offer<>from<>the<>laboratory.",
+        "dictation": "I decided to quit my current job because I got an offer from the laboratory."
+    },
+    "21": {
+        "word": "submit",
+        "meaning": "提出する",
+        "blank_word": "submit",
+        "blank_sentence": "You must submit your report within a week.",
+        "reorder": "You<>must<>submit<>your<>report<>within<>a<>week.",
+        "dictation": "You must submit your report within a week."
+    },
+    "22": {
+        "word": "collect",
+        "meaning": "集める",
+        "blank_word": "collecting",
+        "blank_sentence": "I am collecting information for my report.",
+        "reorder": "I<>am<>collecting<>information<>for<>my<>report.",
+        "dictation": "I am collecting information for my report."
+    },
+    "23": {
+        "word": "estimate",
+        "meaning": "推定する",
+        "blank_word": "estimate",
+        "blank_sentence": "We don't have enough data to estimate the damage.",
+        "reorder": "We<>don't<>have<>enough<>data<>to<>estimate<>the<>damage.",
+        "dictation": "We don't have enough data to estimate the damage."
+    },
+    "24": {
+        "word": "underestimate",
+        "meaning": "過小評価する",
+        "blank_word": "underestimated",
+        "blank_sentence": "We underestimated the cost of building.",
+        "reorder": "We<>underestimated<>the<>cost<>of<>building.",
+        "dictation": "We underestimated the cost of building."
+    },
+    "25": {
+        "word": "consider",
+        "meaning": "よく考える",
+        "blank_word": "considered",
+        "blank_sentence": "He carefully considered the method of collecting data in his experiment.",
+        "reorder": "He<>carefully<>considered<>the<>method<>of<>collecting<>data<>in<>his<>experiment.",
+        "dictation": "He carefully considered the method of collecting data in his experiment."
+    }
+}

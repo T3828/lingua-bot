@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "vinyl",
+        "meaning": "ビニール",
+        "blank_word": "vinyl",
+        "blank_sentence": "A vinyl sofa is much cheaper than a leather one.",
+        "reorder": "A<>vinyl<>sofa<>is<>much<>cheaper<>than<>a<>leather<>one.",
+        "dictation": "A vinyl sofa is much cheaper than a leather one."
+    },
+    "2": {
+        "word": "silk",
+        "meaning": "絹",
+        "blank_word": "Silk",
+        "blank_sentence": "Silk is not a plant material but an animal material.",
+        "reorder": "Silk<>is<>not<>a<>plant<>material<>but<>an<>animal<>material.",
+        "dictation": "Silk is not a plant material but an animal material."
+    },
+    "3": {
+        "word": "cotton",
+        "meaning": "綿",
+        "blank_word": "Cotton",
+        "blank_sentence": "Cotton absorbs sweat and keeps your body cool.",
+        "reorder": "Cotton<>absorbs<>sweat<>and<>keeps<>your<>body<>cool.",
+        "dictation": "Cotton absorbs sweat and keeps your body cool."
+    },
+    "4": {
+        "word": "laboratory",
+        "meaning": "研究所",
+        "blank_word": "laboratory",
+        "blank_sentence": "A new material was developed in the laboratory.",
+        "reorder": "A<>new<>material<>was<>developed<>in<>the<>laboratory.",
+        "dictation": "A new material was developed in the laboratory."
+    },
+    "5": {
+        "word": "factory",
+        "meaning": "工場",
+        "blank_word": "factory",
+        "blank_sentence": "This factory produces television sets.",
+        "reorder": "This<>factory<>produces<>television<>sets.",
+        "dictation": "This factory produces television sets."
+    },
+    "6": {
+        "word": "fund",
+        "meaning": "基金",
+        "blank_word": "fund",
+        "blank_sentence": "The fund was started in order to help poor children.",
+        "reorder": "The<>fund<>was<>started<>in<>order<>to<>help<>poor<>children.",
+        "dictation": "The fund was started in order to help poor children."
+    },
+    "7": {
+        "word": "patent",
+        "meaning": "特許(権)",
+        "blank_word": "patent",
+        "blank_sentence": "She got a patent for her invention.",
+        "reorder": "She<>got<>a<>patent<>for<>her<>invention.",
+        "dictation": "She got a patent for her invention."
+    },
+    "8": {
+        "word": "evidence",
+        "meaning": "証拠",
+        "blank_word": "evidence",
+        "blank_sentence": "There is no single piece of evidence to show that his theory is right.",
+        "reorder": "There<>is<>no<>single<>piece<>of<>evidence<>to<>show<>that<>his<>theory<>is<>right.",
+        "dictation": "There is no single piece of evidence to show that his theory is right."
+    },
+    "9": {
+        "word": "colleague",
+        "meaning": "同僚",
+        "blank_word": "colleagues",
+        "blank_sentence": "Her colleagues have always supported her research work.",
+        "reorder": "Her<>colleagues<>have<>always<>supported<>her<>research<>work.",
+        "dictation": "Her colleagues have always supported her research work."
+    },
+    "10": {
+        "word": "department",
+        "meaning": "学部",
+        "blank_word": "departments",
+        "blank_sentence": "The university has seven departments.",
+        "reorder": "The<>university<>has<>seven<>departments.",
+        "dictation": "The university has seven departments."
+    },
+    "11": {
+        "word": "technique",
+        "meaning": "技術",
+        "blank_word": "technique",
+        "blank_sentence": "We developed a new technique , which got patented.",
+        "reorder": "We<>developed<>a<>new<>technique<>,<>which<>got<>patented.",
+        "dictation": "We developed a new technique , which got patented."
+    },
+    "12": {
+        "word": "population",
+        "meaning": "人口",
+        "blank_word": "population",
+        "blank_sentence": "The population of this city is larger than that of ours.",
+        "reorder": "The<>population<>of<>this<>city<>is<>larger<>than<>that<>of<>ours.",
+        "dictation": "The population of this city is larger than that of ours."
+    },
+    "13": {
+        "word": "issue",
+        "meaning": "問題点",
+        "blank_word": "issue",
+        "blank_sentence": "Security is an important issue for users of computer networks.",
+        "reorder": "Security<>is<>an<>important<>issue<>for<>users<>of<>computer<>networks.",
+        "dictation": "Security is an important issue for users of computer networks."
+    },
+    "14": {
+        "word": "earthquake",
+        "meaning": "地震",
+        "blank_word": "earthquake",
+        "blank_sentence": "The earthquake was not big enough to cause damage to the city.",
+        "reorder": "The<>earthquake<>was<>not<>big<>enough<>to<>cause<>damage<>to<>the<>city.",
+        "dictation": "The earthquake was not big enough to cause damage to the city."
+    },
+    "15": {
+        "word": "environment",
+        "meaning": "環境",
+        "blank_word": "environment",
+        "blank_sentence": "Some people say the global environment is getting worse.",
+        "reorder": "Some<>people<>say<>the<>global<>environment<>is<>getting<>worse.",
+        "dictation": "Some people say the global environment is getting worse."
+    },
+    "16": {
+        "word": "adult",
+        "meaning": "成人",
+        "blank_word": "adults",
+        "blank_sentence": "The number of Japanese adults who smoke is decreasing.",
+        "reorder": "The<>number<>of<>Japanese<>adults<>who<>smoke<>is<>decreasing.",
+        "dictation": "The number of Japanese adults who smoke is decreasing."
+    },
+    "17": {
+        "word": "gene",
+        "meaning": "遺伝子",
+        "blank_word": "Genes",
+        "blank_sentence": "Genes are passed from parents to children.",
+        "reorder": "Genes<>are<>passed<>from<>parents<>to<>children.",
+        "dictation": "Genes are passed from parents to children."
+    },
+    "18": {
+        "word": "species",
+        "meaning": "種(しゅ)",
+        "blank_word": "species",
+        "blank_sentence": "All these dogs are of the same species.",
+        "reorder": "All<>these<>dogs<>are<>of<>the<>same<>species.",
+        "dictation": "All these dogs are of the same species."
+    },
+    "19": {
+        "word": "blood",
+        "meaning": "血液",
+        "blank_word": "blood",
+        "blank_sentence": "The heart pumps blood throughout the body.",
+        "reorder": "The<>heart<>pumps<>blood<>throughout<>the<>body.",
+        "dictation": "The heart pumps blood throughout the body."
+    },
+    "20": {
+        "word": "flesh",
+        "meaning": "肉",
+        "blank_word": "flesh",
+        "blank_sentence": "The cut in his leg was deep enough for flesh to be seen.",
+        "reorder": "The<>cut<>in<>his<>leg<>was<>deep<>enough<>for<>flesh<>to<>be<>seen.",
+        "dictation": "The cut in his leg was deep enough for flesh to be seen."
+    },
+    "21": {
+        "word": "tear",
+        "meaning": "涙",
+        "blank_word": "tears",
+        "blank_sentence": "You need tears to keep your eyes healthy.",
+        "reorder": "You<>need<>tears<>to<>keep<>your<>eyes<>healthy.",
+        "dictation": "You need tears to keep your eyes healthy."
+    },
+    "22": {
+        "word": "anger",
+        "meaning": "怒り",
+        "blank_word": "Anger",
+        "blank_sentence": "Anger can raise blood pressure.",
+        "reorder": "Anger<>can<>raise<>blood<>pressure.",
+        "dictation": "Anger can raise blood pressure."
+    },
+    "23": {
+        "word": "pain",
+        "meaning": "痛み",
+        "blank_word": "pain",
+        "blank_sentence": "This operation gives you almost no pain.",
+        "reorder": "This<>operation<>gives<>you<>almost<>no<>pain.",
+        "dictation": "This operation gives you almost no pain."
+    },
+    "24": {
+        "word": "brain",
+        "meaning": "脳",
+        "blank_word": "brain",
+        "blank_sentence": "Even a baby's brain has more than 10 billion cells.",
+        "reorder": "Even<>a<>baby's<>brain<>has<>more<>than<>10<>billion<>cells.",
+        "dictation": "Even a baby's brain has more than 10 billion cells."
+    },
+    "25": {
+        "word": "bone",
+        "meaning": "骨",
+        "blank_word": "bone",
+        "blank_sentence": "The doctor said that a bone in my arm was broken.",
+        "reorder": "The<>doctor<>said<>that<>a<>bone<>in<>my<>arm<>was<>broken.",
+        "dictation": "The doctor said that a bone in my arm was broken."
+    }
+}

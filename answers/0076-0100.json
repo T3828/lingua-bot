@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "fork",
+        "meaning": "フォーク",
+        "blank_word": "forks",
+        "blank_sentence": "These forks are made of silver.",
+        "reorder": "These<>forks<>are<>made<>of<>silver.",
+        "dictation": "These forks are made of silver."
+    },
+    "2": {
+        "word": "tile",
+        "meaning": "タイル",
+        "blank_word": "tiles",
+        "blank_sentence": "The walls of the building are covered with tiles.",
+        "reorder": "The<>walls<>of<>the<>building<>are<>covered<>with<>tiles.",
+        "dictation": "The walls of the building are covered with tiles."
+    },
+    "3": {
+        "word": "socket",
+        "meaning": "差し込み口",
+        "blank_word": "socket",
+        "blank_sentence": "This LED light can be put in the socket on the wall.",
+        "reorder": "This<>LED<>light<>can<>be<>put<>in<>the<>socket<>on<>the<>wall.",
+        "dictation": "This LED light can be put in the socket on the wall."
+    },
+    "4": {
+        "word": "compass",
+        "meaning": "コンパス",
+        "blank_word": "compass",
+        "blank_sentence": "You need a compass when you fly over the ocean.",
+        "reorder": "You<>need<>a<>compass<>when<>you<>fly<>over<>the<>ocean.",
+        "dictation": "You need a compass when you fly over the ocean."
+    },
+    "5": {
+        "word": "flask",
+        "meaning": "フラスコ",
+        "blank_word": "flask",
+        "blank_sentence": "This flask is made of glass.",
+        "reorder": "This<>flask<>is<>made<>of<>glass.",
+        "dictation": "This flask is made of glass."
+    },
+    "6": {
+        "word": "pattern",
+        "meaning": "模様",
+        "blank_word": "pattern",
+        "blank_sentence": "The data changed in the same pattern.",
+        "reorder": "The<>data<>changed<>in<>the<>same<>pattern.",
+        "dictation": "The data changed in the same pattern."
+    },
+    "7": {
+        "word": "rule",
+        "meaning": "規則",
+        "blank_word": "rules",
+        "blank_sentence": "You need to know the rules before playing a game.",
+        "reorder": "You<>need<>to<>know<>the<>rules<>before<>playing<>a<>game.",
+        "dictation": "You need to know the rules before playing a game."
+    },
+    "8": {
+        "word": "order",
+        "meaning": "順序",
+        "blank_word": "order",
+        "blank_sentence": "The pictures are shown in order of date.",
+        "reorder": "The<>pictures<>are<>shown<>in<>order<>of<>date.",
+        "dictation": "The pictures are shown in order of date."
+    },
+    "9": {
+        "word": "sale",
+        "meaning": "販売",
+        "blank_word": "sales",
+        "blank_sentence": "The software company started sales on the Internet.",
+        "reorder": "The<>software<>company<>started<>sales<>on<>the<>Internet.",
+        "dictation": "The software company started sales on the Internet."
+    },
+    "10": {
+        "word": "middle",
+        "meaning": "真ん中",
+        "blank_word": "middle",
+        "blank_sentence": "Don't stop in the middle of the street.",
+        "reorder": "Don't<>stop<>in<>the<>middle<>of<>the<>street.",
+        "dictation": "Don't stop in the middle of the street."
+    },
+    "11": {
+        "word": "trouble",
+        "meaning": "故障",
+        "blank_word": "trouble",
+        "blank_sentence": "So far, there has been no trouble in the new system.",
+        "reorder": "So<>far,<>there<>has<>been<>no<>trouble<>in<>the<>new<>system.",
+        "dictation": "So far, there has been no trouble in the new system."
+    },
+    "12": {
+        "word": "level",
+        "meaning": "高さ",
+        "blank_word": "level",
+        "blank_sentence": "The level of the sea is usually 0 m.",
+        "reorder": "The<>level<>of<>the<>sea<>is<>usually<>0m.",
+        "dictation": "The level of the sea is usually 0 m."
+    },
+    "13": {
+        "word": "engineering",
+        "meaning": "工学",
+        "blank_word": "engineering",
+        "blank_sentence": "The study of engineering is the basis of technology.",
+        "reorder": "The<>study<>of<>engineering<>is<>the<>basis<>of<>technology.",
+        "dictation": "The study of engineering is the basis of technology."
+    },
+    "14": {
+        "word": "drug",
+        "meaning": "薬",
+        "blank_word": "drug",
+        "blank_sentence": "Ask the doctor if you can take this drug.",
+        "reorder": "Ask<>the<>doctor<>if<>you<>can<>take<>this<>drug.",
+        "dictation": "Ask the doctor if you can take this drug."
+    },
+    "15": {
+        "word": "heat",
+        "meaning": "熱",
+        "blank_word": "heat",
+        "blank_sentence": "Something hot has more heat than something cold.",
+        "reorder": "Something<>hot<>has<>more<>heat<>than<>something<>cold.",
+        "dictation": "Something hot has more heat than something cold."
+    },
+    "16": {
+        "word": "gas",
+        "meaning": "気体",
+        "blank_word": "gas",
+        "blank_sentence": "Water changes into gas when it's heated.",
+        "reorder": "Water<>changes<>into<>gas<>when<>it's<>heated.",
+        "dictation": "Water changes into gas when it's heated."
+    },
+    "17": {
+        "word": "liquid",
+        "meaning": "液体",
+        "blank_word": "liquid",
+        "blank_sentence": "Water is a kind of liquid.",
+        "reorder": "Water<>is<>a<>kind<>of<>liquid.",
+        "dictation": "Water is a kind of liquid."
+    },
+    "18": {
+        "word": "solid",
+        "meaning": "固体",
+        "blank_word": "solid",
+        "blank_sentence": "If water becomes solid , it's called ice.",
+        "reorder": "If<>water<>becomes<>solid<>,<>it's<>called<>ice.",
+        "dictation": "If water becomes solid , it's called ice."
+    },
+    "19": {
+        "word": "damage",
+        "meaning": "損害",
+        "blank_word": "damage",
+        "blank_sentence": "How bad was the damage?",
+        "reorder": "How<>bad<>was<>the<>damage?",
+        "dictation": "How bad was the damage?"
+    },
+    "20": {
+        "word": "health",
+        "meaning": "健康",
+        "blank_word": "health",
+        "blank_sentence": "Taking too much drug can damage your health.",
+        "reorder": "Taking<>too<>much<>drug<>can<>damage<>your<>health.",
+        "dictation": "Taking too much drug can damage your health."
+    },
+    "21": {
+        "word": "image",
+        "meaning": "画像",
+        "blank_word": "images",
+        "blank_sentence": "Please send the images over the Internet.",
+        "reorder": "Please<>send<>the<>images<>over<>the<>Internet.",
+        "dictation": "Please send the images over the Internet."
+    },
+    "22": {
+        "word": "size",
+        "meaning": "規模",
+        "blank_word": "size",
+        "blank_sentence": "The size of the image must be the same as this one.",
+        "reorder": "The<>size<>of<>the<>image<>must<>be<>the<>same<>as<>this<>one.",
+        "dictation": "The size of the image must be the same as this one."
+    },
+    "23": {
+        "word": "signal",
+        "meaning": "信号",
+        "blank_word": "signal",
+        "blank_sentence": "If the pattern of signal changes, it is the sign of some trouble.",
+        "reorder": "If<>the<>pattern<>of<>signal<>changes,<>it<>is<>the<>sign<>of<>some<>trouble.",
+        "dictation": "If the pattern of signal changes, it is the sign of some trouble."
+    },
+    "24": {
+        "word": "million",
+        "meaning": "百万",
+        "blank_word": "million",
+        "blank_sentence": "More than a million people were killed in the war.",
+        "reorder": "More<>than<>a<>million<>people<>were<>killed<>in<>the<>war.",
+        "dictation": "More than a million people were killed in the war."
+    },
+    "25": {
+        "word": "link",
+        "meaning": "関連",
+        "blank_word": "link",
+        "blank_sentence": "There is no link between the two pieces of information.",
+        "reorder": "There<>is<>no<>link<>between<>the<>two<>pieces<>of<>information.",
+        "dictation": "There is no link between the two pieces of information."
+    }
+}

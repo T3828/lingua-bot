@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "release",
+        "meaning": "放出する",
+        "blank_word": "released",
+        "blank_sentence": "When you put on the brake, the energy will be released as heat.",
+        "reorder": "When<>you<>put<>on<>the<>brake,<>the<>energy<>will<>be<>released<>as<>heat.",
+        "dictation": "When you put on the brake, the energy will be released as heat."
+    },
+    "2": {
+        "word": "aid",
+        "meaning": "助ける",
+        "blank_word": "aid",
+        "blank_sentence": "Despite the risk of unknown disease, he approached the patient to aid him.",
+        "reorder": "Despite<>the<>risk<>of<>unknown<>disease,<>he<>approached<>the<>patient<>to<>aid<>him.",
+        "dictation": "Despite the risk of unknown disease, he approached the patient to aid him."
+    },
+    "3": {
+        "word": "argue",
+        "meaning": "議論する",
+        "blank_word": "argue",
+        "blank_sentence": "My colleagues always argue about the matter.",
+        "reorder": "My<>colleagues<>always<>argue<>about<>the<>matter.",
+        "dictation": "My colleagues always argue about the matter."
+    },
+    "4": {
+        "word": "continue",
+        "meaning": "続ける",
+        "blank_word": "continued",
+        "blank_sentence": "He continued studying till late at night.",
+        "reorder": "He<>continued<>studying<>till<>late<>at<>night.",
+        "dictation": "He continued studying till late at night."
+    },
+    "5": {
+        "word": "exist",
+        "meaning": "存在する",
+        "blank_word": "exists",
+        "blank_sentence": "They believe that water exists on the moon.",
+        "reorder": "They<>believe<>that<>water<>exists<>on<>the<>moon.",
+        "dictation": "They believe that water exists on the moon."
+    },
+    "6": {
+        "word": "freeze",
+        "meaning": "凍る",
+        "blank_word": "freezes",
+        "blank_sentence": "Water freezes at zero degrees Celsius under normal conditions.",
+        "reorder": "Water<>freezes<>at<>zero<>degrees<>Celsius<>under<>normal<>conditions.",
+        "dictation": "Water freezes at zero degrees Celsius under normal conditions."
+    },
+    "7": {
+        "word": "boil",
+        "meaning": "沸騰する",
+        "blank_word": "boiling",
+        "blank_sentence": "The temperature at which a liquid boils is called its boiling point.",
+        "reorder": "The<>temperature<>at<>which<>a<>liquid<>boils<>is<>called<>its<>boiling<>point.",
+        "dictation": "The temperature at which a liquid boils is called its boiling point."
+    },
+    "8": {
+        "word": "melt",
+        "meaning": "溶ける",
+        "blank_word": "melt",
+        "blank_sentence": "Ice begins to melt at thirty-two degrees Fahrenheit, or zero degrees Celsius.",
+        "reorder": "Ice<>begins<>to<>melt<>at<>thirty-two<>degrees<>Fahrenheit,<>or<>zero<>degrees<>Celsius.",
+        "dictation": "Ice begins to melt at thirty-two degrees Fahrenheit, or zero degrees Celsius."
+    },
+    "9": {
+        "word": "flash",
+        "meaning": "点滅する",
+        "blank_word": "flashing",
+        "blank_sentence": "It seemed to me that the lighthouse was flashing every 30 seconds.",
+        "reorder": "It<>seemed<>to<>me<>that<>the<>lighthouse<>was<>flashing<>every<>30<>seconds.",
+        "dictation": "It seemed to me that the lighthouse was flashing every 30 seconds."
+    },
+    "10": {
+        "word": "depend",
+        "meaning": "～によって変わる",
+        "blank_word": "depends",
+        "blank_sentence": "The temperature at which water boils depends on the air pressure.",
+        "reorder": "The<>temperature<>at<>which<>water<>boils<>depends<>on<>the<>air<>pressure.",
+        "dictation": "The temperature at which water boils depends on the air pressure."
+    },
+    "11": {
+        "word": "kit",
+        "meaning": "道具一式",
+        "blank_word": "kit",
+        "blank_sentence": "This box contains a kit of parts and tools for building a PC.",
+        "reorder": "This<>box<>contains<>a<>kit<>of<>parts<>and<>tools<>for<>building<>a<>PC.",
+        "dictation": "This box contains a kit of parts and tools for building a PC."
+    },
+    "12": {
+        "word": "luck",
+        "meaning": "運",
+        "blank_word": "luck",
+        "blank_sentence": "You should not depend on luck to pass examinations.",
+        "reorder": "You<>should<>not<>depend<>on<>luck<>to<>pass<>examinations.",
+        "dictation": "You should not depend on luck to pass examinations."
+    },
+    "13": {
+        "word": "atom",
+        "meaning": "原子",
+        "blank_word": "atom",
+        "blank_sentence": "The size of an atom is about 1 nanometer.",
+        "reorder": "The<>size<>of<>an<>atom<>is<>about<>1<>nanometer.",
+        "dictation": "The size of an atom is about 1 nanometer."
+    },
+    "14": {
+        "word": "molecule",
+        "meaning": "分子",
+        "blank_word": "molecule",
+        "blank_sentence": "A molecule of water consists of two different atoms.",
+        "reorder": "A<>molecule<>of<>water<>consists<>of<>two<>different<>atoms.",
+        "dictation": "A molecule of water consists of two different atoms."
+    },
+    "15": {
+        "word": "carbon",
+        "meaning": "炭素",
+        "blank_word": "carbon",
+        "blank_sentence": "All living things have carbon in them.",
+        "reorder": "All<>living<>things<>have<>carbon<>in<>them.",
+        "dictation": "All living things have carbon in them."
+    },
+    "16": {
+        "word": "oxygen",
+        "meaning": "酸素",
+        "blank_word": "Oxygen",
+        "blank_sentence": "Oxygen does not burn, but it helps other things burn.",
+        "reorder": "Oxygen<>does<>not<>burn,<>but<>it<>helps<>other<>things<>burn.",
+        "dictation": "Oxygen does not burn, but it helps other things burn."
+    },
+    "17": {
+        "word": "hydrogen",
+        "meaning": "水素",
+        "blank_word": "Hydrogen",
+        "blank_sentence": "Hydrogen is the lightest and simplest substance on earth.",
+        "reorder": "Hydrogen<>is<>the<>lightest<>and<>simplest<>substance<>on<>earth.",
+        "dictation": "Hydrogen is the lightest and simplest substance on earth."
+    },
+    "18": {
+        "word": "nitrogen",
+        "meaning": "窒素",
+        "blank_word": "nitrogen",
+        "blank_sentence": "Almost 80 percent of the air is nitrogen.",
+        "reorder": "Almost<>80<>percent<>of<>the<>air<>is<>nitrogen.",
+        "dictation": "Almost 80 percent of the air is nitrogen."
+    },
+    "19": {
+        "word": "sodium",
+        "meaning": "ナトリウム",
+        "blank_word": "Sodium",
+        "blank_sentence": "Sodium metal is soft enough to be cut with a knife.",
+        "reorder": "Sodium<>metal<>is<>soft<>enough<>to<>be<>cut<>with<>a<>knife.",
+        "dictation": "Sodium metal is soft enough to be cut with a knife."
+    },
+    "20": {
+        "word": "magnesium",
+        "meaning": "マグネシウム",
+        "blank_word": "Magnesium",
+        "blank_sentence": "Magnesium was once used in flashes for cameras.",
+        "reorder": "Magnesium<>was<>once<>used<>in<>flashes<>for<>cameras.",
+        "dictation": "Magnesium was once used in flashes for cameras."
+    },
+    "21": {
+        "word": "lattice",
+        "meaning": "格子",
+        "blank_word": "lattice",
+        "blank_sentence": "The structure of this molecule is a lattice.",
+        "reorder": "The<>structure<>of<>this<>molecule<>is<>a<>lattice.",
+        "dictation": "The structure of this molecule is a lattice."
+    },
+    "22": {
+        "word": "source",
+        "meaning": "源",
+        "blank_word": "source",
+        "blank_sentence": "The Internet is a good source of information.",
+        "reorder": "The<>Internet<>is<>a<>good<>source<>of<>information.",
+        "dictation": "The Internet is a good source of information."
+    },
+    "23": {
+        "word": "current",
+        "meaning": "電流",
+        "blank_word": "current",
+        "blank_sentence": "A current of 1A is flowing here.",
+        "reorder": "A<>current<>of<>1A<>is<>flowing<>here.",
+        "dictation": "A current of 1A is flowing here."
+    },
+    "24": {
+        "word": "spark",
+        "meaning": "火花",
+        "blank_word": "sparks",
+        "blank_sentence": "Electric sparks often cause house fires.",
+        "reorder": "Electric<>sparks<>often<>cause<>house<>fires.",
+        "dictation": "Electric sparks often cause house fires."
+    },
+    "25": {
+        "word": "detail",
+        "meaning": "詳細",
+        "blank_word": "details",
+        "blank_sentence": "We studied the details of the trial.",
+        "reorder": "We<>studied<>the<>details<>of<>the<>trial.",
+        "dictation": "We studied the details of the trial."
+    }
+}

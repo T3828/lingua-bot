@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "secretary",
+        "meaning": "秘書",
+        "blank_word": "secretaries",
+        "blank_sentence": "The executives of this company have their own secretaries.",
+        "reorder": "The<>executives<>of<>this<>company<>have<>their<>own<>secretaries.",
+        "dictation": "The executives of this company have their own secretaries."
+    },
+    "2": {
+        "word": "clerk",
+        "meaning": "係員",
+        "blank_word": "clerk",
+        "blank_sentence": "If you have any questions, ask a clerk at the information desk.",
+        "reorder": "If<>you<>have<>any<>questions,<>ask<>a<>clerk<>at<>the<>information<>desk.",
+        "dictation": "If you have any questions, ask a clerk at the information desk."
+    },
+    "3": {
+        "word": "facility",
+        "meaning": "施設",
+        "blank_word": "facilities",
+        "blank_sentence": "All the facilities of the library are open to everybody.",
+        "reorder": "All<>the<>facilities<>of<>the<>library<>are<>open<>to<>everybody.",
+        "dictation": "All the facilities of the library are open to everybody."
+    },
+    "4": {
+        "word": "comfort",
+        "meaning": "快適さ",
+        "blank_word": "comfort",
+        "blank_sentence": "Riding comfort is an important factor in purchasing a car.",
+        "reorder": "Riding<>comfort<>is<>an<>important<>factor<>in<>purchasing<>a<>car.",
+        "dictation": "Riding comfort is an important factor in purchasing a car."
+    },
+    "5": {
+        "word": "importance",
+        "meaning": "重要性",
+        "blank_word": "importance",
+        "blank_sentence": "I learned the importance of safety at the driving school.",
+        "reorder": "I<>learned<>the<>importance<>of<>safety<>at<>the<>driving<>school.",
+        "dictation": "I learned the importance of safety at the driving school."
+    },
+    "6": {
+        "word": "strength",
+        "meaning": "強さ",
+        "blank_word": "strength",
+        "blank_sentence": "The strength of a magnetic field is inversely proportional to the square of the distance from the source.",
+        "reorder": "The<>strength<>of<>a<>magnetic<>field<>is<>inversely<>proportional<>to<>the<>square<>of<>the<>distance<>from<>the<>source.",
+        "dictation": "The strength of a magnetic field is inversely proportional to the square of the distance from the source."
+    },
+    "7": {
+        "word": "cooperation",
+        "meaning": "協力",
+        "blank_word": "cooperation",
+        "blank_sentence": "Thank you for your cooperation.",
+        "reorder": "Thank<>you<>for<>your<>cooperation.",
+        "dictation": "Thank you for your cooperation."
+    },
+    "8": {
+        "word": "congress",
+        "meaning": "会議",
+        "blank_word": "congress",
+        "blank_sentence": "I will attend an international congress next month.",
+        "reorder": "I<>will<>attend<>an<>international<>congress<>next<>month.",
+        "dictation": "I will attend an international congress next month."
+    },
+    "9": {
+        "word": "agenda",
+        "meaning": "議題",
+        "blank_word": "agenda",
+        "blank_sentence": "Everything on today's agenda is of great importance.",
+        "reorder": "Everything<>on<>today's<>agenda<>is<>of<>great<>importance.",
+        "dictation": "Everything on today's agenda is of great importance."
+    },
+    "10": {
+        "word": "cabinet",
+        "meaning": "戸棚",
+        "blank_word": "cabinets",
+        "blank_sentence": "The facility section purchased three steel cabinets.",
+        "reorder": "The<>facility<>section<>purchased<>three<>steel<>cabinets.",
+        "dictation": "The facility section purchased three steel cabinets."
+    },
+    "11": {
+        "word": "priority",
+        "meaning": "優先事項",
+        "blank_word": "priority",
+        "blank_sentence": "Safety is the first priority in public transportation.",
+        "reorder": "Safety<>is<>the<>first<>priority<>in<>public<>transportation.",
+        "dictation": "Safety is the first priority in public transportation."
+    },
+    "12": {
+        "word": "intelligence",
+        "meaning": "知能",
+        "blank_word": "intelligence",
+        "blank_sentence": "There are different types of tests to examine human intelligence.",
+        "reorder": "There<>are<>different<>types<>of<>tests<>to<>examine<>human<>intelligence.",
+        "dictation": "There are different types of tests to examine human intelligence."
+    },
+    "13": {
+        "word": "instinct",
+        "meaning": "本能",
+        "blank_word": "instinct",
+        "blank_sentence": "All creatures have an instinct for survival.",
+        "reorder": "All<>creatures<>have<>an<>instinct<>for<>survival.",
+        "dictation": "All creatures have an instinct for survival."
+    },
+    "14": {
+        "word": "athlete",
+        "meaning": "(運動)選手",
+        "blank_word": "athlete",
+        "blank_sentence": "The track athlete has a combination of keen instinct and intelligence.",
+        "reorder": "The<>track<>athlete<>has<>a<>combination<>of<>keen<>instinct<>and<>intelligence.",
+        "dictation": "The track athlete has a combination of keen instinct and intelligence."
+    },
+    "15": {
+        "word": "furniture",
+        "meaning": "家具",
+        "blank_word": "furniture",
+        "blank_sentence": "There was no furniture in that room.",
+        "reorder": "There<>was<>no<>furniture<>in<>that<>room.",
+        "dictation": "There was no furniture in that room."
+    },
+    "16": {
+        "word": "stair",
+        "meaning": "階段",
+        "blank_word": "stairs",
+        "blank_sentence": "The athlete is climbing up and down the stairs to train his body.",
+        "reorder": "The<>athlete<>is<>climbing<>up<>and<>down<>the<>stairs<>to<>train<>his<>body.",
+        "dictation": "The athlete is climbing up and down the stairs to train his body."
+    },
+    "17": {
+        "word": "pillar",
+        "meaning": "柱",
+        "blank_word": "pillars",
+        "blank_sentence": "Not only pillars but also walls work to support the house.",
+        "reorder": "Not<>only<>pillars<>but<>also<>walls<>work<>to<>support<>the<>house.",
+        "dictation": "Not only pillars but also walls work to support the house."
+    },
+    "18": {
+        "word": "ceiling",
+        "meaning": "天井",
+        "blank_word": "ceiling",
+        "blank_sentence": "No pillars are used to support the ceiling of the dome.",
+        "reorder": "No<>pillars<>are<>used<>to<>support<>the<>ceiling<>of<>the<>dome.",
+        "dictation": "No pillars are used to support the ceiling of the dome."
+    },
+    "19": {
+        "word": "corridor",
+        "meaning": "廊下",
+        "blank_word": "corridor",
+        "blank_sentence": "We walked along the underground corridor.",
+        "reorder": "We<>walked<>along<>the<>underground<>corridor.",
+        "dictation": "We walked along the underground corridor."
+    },
+    "20": {
+        "word": "basement",
+        "meaning": "地下室",
+        "blank_word": "basement",
+        "blank_sentence": "The temperature in the basement is almost the same throughout the year.",
+        "reorder": "The<>temperature<>in<>the<>basement<>is<>almost<>the<>same<>throughout<>the<>year.",
+        "dictation": "The temperature in the basement is almost the same throughout the year."
+    },
+    "21": {
+        "word": "doorway",
+        "meaning": "出入り口",
+        "blank_word": "doorway",
+        "blank_sentence": "The doorway to the basement is blocked with furniture.",
+        "reorder": "The<>doorway<>to<>the<>basement<>is<>blocked<>with<>furniture.",
+        "dictation": "The doorway to the basement is blocked with furniture."
+    },
+    "22": {
+        "word": "shelf",
+        "meaning": "棚",
+        "blank_word": "shelf",
+        "blank_sentence": "Please put these test tubes on the shelf over there.",
+        "reorder": "Please<>put<>these<>test<>tubes<>on<>the<>shelf<>over<>there.",
+        "dictation": "Please put these test tubes on the shelf over there."
+    },
+    "23": {
+        "word": "wedge",
+        "meaning": "くさび",
+        "blank_word": "wedge",
+        "blank_sentence": "The carpenter drove a wedge into the log.",
+        "reorder": "The<>carpenter<>drove<>a<>wedge<>into<>the<>log.",
+        "dictation": "The carpenter drove a wedge into the log."
+    },
+    "24": {
+        "word": "chimney",
+        "meaning": "煙突",
+        "blank_word": "chimneys",
+        "blank_sentence": "Thermal power stations have very tall chimneys.",
+        "reorder": "Thermal<>power<>stations<>have<>very<>tall<>chimneys.",
+        "dictation": "Thermal power stations have very tall chimneys."
+    },
+    "25": {
+        "word": "architecture",
+        "meaning": "建築(学)",
+        "blank_word": "architecture",
+        "blank_sentence": "He taught himself architecture and became a famous architect.",
+        "reorder": "He<>taught<>himself<>architecture<>and<>became<>a<>famous<>architect.",
+        "dictation": "He taught himself architecture and became a famous architect."
+    }
+}

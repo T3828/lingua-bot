@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "republic",
+        "meaning": "共和国",
+        "blank_word": "republic",
+        "blank_sentence": "Although the nation calls itself a republic , its national system does not meet the definition of it.",
+        "reorder": "Although<>the<>nation<>calls<>itself<>a<>republic<>,<>its<>national<>system<>does<>not<>meet<>the<>definition<>of<>it.",
+        "dictation": "Although the nation calls itself a republic , its national system does not meet the definition of it."
+    },
+    "2": {
+        "word": "kingdom",
+        "meaning": "王国",
+        "blank_word": "kingdoms",
+        "blank_sentence": "Malaysia and Thailand are both kingdoms.",
+        "reorder": "Malaysia<>and<>Thailand<>are<>both<>kingdoms.",
+        "dictation": "Malaysia and Thailand are both kingdoms."
+    },
+    "3": {
+        "word": "immigration",
+        "meaning": "入国管理",
+        "blank_word": "immigration",
+        "blank_sentence": "You must go to the immigration office to get a new visa.",
+        "reorder": "You<>must<>go<>to<>the<>immigration<>office<>to<>get<>a<>new<>visa.",
+        "dictation": "You must go to the immigration office to get a new visa."
+    },
+    "4": {
+        "word": "torture",
+        "meaning": "拷問",
+        "blank_word": "torture",
+        "blank_sentence": "The experiment looked like torture for the animals.",
+        "reorder": "The<>experiment<>looked<>like<>torture<>for<>the<>animals.",
+        "dictation": "The experiment looked like torture for the animals."
+    },
+    "5": {
+        "word": "endeavor",
+        "meaning": "努力",
+        "blank_word": "endeavor",
+        "blank_sentence": "The engineers made every endeavor to minimize the damage from the power failure.",
+        "reorder": "The<>engineers<>made<>every<>endeavor<>to<>minimize<>the<>damage<>from<>the<>power<>failure.",
+        "dictation": "The engineers made every endeavor to minimize the damage from the power failure."
+    },
+    "6": {
+        "word": "sacrifice",
+        "meaning": "犠牲",
+        "blank_word": "sacrifice",
+        "blank_sentence": "They succeeded in minimizing the size of the PC without sacrifice of performance.",
+        "reorder": "They<>succeeded<>in<>minimizing<>the<>size<>of<>the<>PC<>without<>sacrifice<>of<>performance.",
+        "dictation": "They succeeded in minimizing the size of the PC without sacrifice of performance."
+    },
+    "7": {
+        "word": "distress",
+        "meaning": "悩ます",
+        "blank_word": "distressed",
+        "blank_sentence": "The residents have been distressed by the traffic noise since the highway was built.",
+        "reorder": "The<>residents<>have<>been<>distressed<>by<>the<>traffic<>noise<>since<>the<>highway<>was<>built.",
+        "dictation": "The residents have been distressed by the traffic noise since the highway was built."
+    },
+    "8": {
+        "word": "exile",
+        "meaning": "追放する",
+        "blank_word": "exiled",
+        "blank_sentence": "Some scientists escaped from the country before being exiled.",
+        "reorder": "Some<>scientists<>escaped<>from<>the<>country<>before<>being<>exiled.",
+        "dictation": "Some scientists escaped from the country before being exiled."
+    },
+    "9": {
+        "word": "inspect",
+        "meaning": "調査する",
+        "blank_word": "inspect",
+        "blank_sentence": "The city officials came to inspect the factory.",
+        "reorder": "The<>city<>officials<>came<>to<>inspect<>the<>factory.",
+        "dictation": "The city officials came to inspect the factory."
+    },
+    "10": {
+        "word": "intervene",
+        "meaning": "介入する",
+        "blank_word": "intervene",
+        "blank_sentence": "The government couldn't intervene in the problem any longer.",
+        "reorder": "The<>government<>couldn't<>intervene<>in<>the<>problem<>any<>longer.",
+        "dictation": "The government couldn't intervene in the problem any longer."
+    },
+    "11": {
+        "word": "pause",
+        "meaning": "(一時)停止する",
+        "blank_word": "pause",
+        "blank_sentence": "This command makes the program pause until you hit a key.",
+        "reorder": "This<>command<>makes<>the<>program<>pause<>until<>you<>hit<>a<>key.",
+        "dictation": "This command makes the program pause until you hit a key."
+    },
+    "12": {
+        "word": "snatch",
+        "meaning": "ひったくる",
+        "blank_word": "snatched",
+        "blank_sentence": "The thief snatched my wallet.",
+        "reorder": "The<>thief<>snatched<>my<>wallet.",
+        "dictation": "The thief snatched my wallet."
+    },
+    "13": {
+        "word": "clutch",
+        "meaning": "つかむ",
+        "blank_word": "Clutch",
+        "blank_sentence": "Clutch your bag tightly and try not to have it snatched.",
+        "reorder": "Clutch<>your<>bag<>tightly<>and<>try<>not<>to<>have<>it<>snatched.",
+        "dictation": "Clutch your bag tightly and try not to have it snatched."
+    },
+    "14": {
+        "word": "bump",
+        "meaning": "ぶつかる",
+        "blank_word": "bumped",
+        "blank_sentence": "He bumped into something in the dark.",
+        "reorder": "He<>bumped<>into<>something<>in<>the<>dark.",
+        "dictation": "He bumped into something in the dark."
+    },
+    "15": {
+        "word": "grasp",
+        "meaning": "把握する",
+        "blank_word": "grasp",
+        "blank_sentence": "People in that era couldn't grasp the concept of zero.",
+        "reorder": "People<>in<>that<>era<>couldn't<>grasp<>the<>concept<>of<>zero.",
+        "dictation": "People in that era couldn't grasp the concept of zero."
+    },
+    "16": {
+        "word": "amplify",
+        "meaning": "拡大する",
+        "blank_word": "amplified",
+        "blank_sentence": "The delay in issuing a warning amplified the damage of the tsunami.",
+        "reorder": "The<>delay<>in<>issuing<>a<>warning<>amplified<>the<>damage<>of<>the<>tsunami.",
+        "dictation": "The delay in issuing a warning amplified the damage of the tsunami."
+    },
+    "17": {
+        "word": "furnish",
+        "meaning": "(必要物を)備える",
+        "blank_word": "furnish",
+        "blank_sentence": "Residents are not allowed to furnish their rooms without the owner's permission.",
+        "reorder": "Residents<>are<>not<>allowed<>to<>furnish<>their<>rooms<>without<>the<>owner's<>permission.",
+        "dictation": "Residents are not allowed to furnish their rooms without the owner's permission."
+    },
+    "18": {
+        "word": "surrender",
+        "meaning": "降伏する",
+        "blank_word": "surrendered",
+        "blank_sentence": "On August 15, 1945, Japan surrendered unconditionally and ceased fighting.",
+        "reorder": "On<>August<>15,<>1945,<>Japan<>surrendered<>unconditionally<>and<>ceased<>fighting.",
+        "dictation": "On August 15, 1945, Japan surrendered unconditionally and ceased fighting."
+    },
+    "19": {
+        "word": "owe",
+        "meaning": "借りがある",
+        "blank_word": "owe",
+        "blank_sentence": "I owe my friends some money.",
+        "reorder": "I<>owe<>my<>friends<>some<>money.",
+        "dictation": "I owe my friends some money."
+    },
+    "20": {
+        "word": "descend",
+        "meaning": "降下する",
+        "blank_word": "descend",
+        "blank_sentence": "The airplane began to descend right after it ascended to an altitude of 10,000 meters.",
+        "reorder": "The<>airplane<>began<>to<>descend<>right<>after<>it<>ascended<>to<>an<>altitude<>of<>10,000<>meters.",
+        "dictation": "The airplane began to descend right after it ascended to an altitude of 10,000 meters."
+    },
+    "21": {
+        "word": "chase",
+        "meaning": "追跡する",
+        "blank_word": "chased",
+        "blank_sentence": "The police chased a speeding car and arrested the driver.",
+        "reorder": "The<>police<>chased<>a<>speeding<>car<>and<>arrested<>the<>driver.",
+        "dictation": "The police chased a speeding car and arrested the driver."
+    },
+    "22": {
+        "word": "flourish",
+        "meaning": "栄える",
+        "blank_word": "flourished",
+        "blank_sentence": "The old town flourished in the Edo era, but there are few people now.",
+        "reorder": "The<>old<>town<>flourished<>in<>the<>Edo<>era,<>but<>there<>are<>few<>people<>now.",
+        "dictation": "The old town flourished in the Edo era, but there are few people now."
+    },
+    "23": {
+        "word": "rot",
+        "meaning": "腐る",
+        "blank_word": "rot",
+        "blank_sentence": "The kitchen garbage will rot unless you dump it at least every two days.",
+        "reorder": "The<>kitchen<>garbage<>will<>rot<>unless<>you<>dump<>it<>at<>least<>every<>two<>days.",
+        "dictation": "The kitchen garbage will rot unless you dump it at least every two days."
+    },
+    "24": {
+        "word": "fatigue",
+        "meaning": "疲労",
+        "blank_word": "fatigue",
+        "blank_sentence": "Moderate exercise helps you recover from fatigue.",
+        "reorder": "Moderate<>exercise<>helps<>you<>recover<>from<>fatigue.",
+        "dictation": "Moderate exercise helps you recover from fatigue."
+    },
+    "25": {
+        "word": "commerce",
+        "meaning": "商業",
+        "blank_word": "commerce",
+        "blank_sentence": "My town is a city of commerce with a population of two million.",
+        "reorder": "My<>town<>is<>a<>city<>of<>commerce<>with<>a<>population<>of<>two<>million.",
+        "dictation": "My town is a city of commerce with a population of two million."
+    }
+}

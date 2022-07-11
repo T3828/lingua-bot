@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "version",
+        "meaning": "版",
+        "blank_word": "version",
+        "blank_sentence": "The latest version of the software is now on sale.",
+        "reorder": "The<>latest<>version<>of<>the<>software<>is<>now<>on<>sale.",
+        "dictation": "The latest version of the software is now on sale."
+    },
+    "2": {
+        "word": "property",
+        "meaning": "特性",
+        "blank_word": "properties",
+        "blank_sentence": "This chart shows electrical properties of metals.",
+        "reorder": "This<>chart<>shows<>electrical<>properties<>of<>metals.",
+        "dictation": "This chart shows electrical properties of metals."
+    },
+    "3": {
+        "word": "scheme",
+        "meaning": "計画",
+        "blank_word": "scheme",
+        "blank_sentence": "There was once a scheme to build a bridge over the river.",
+        "reorder": "There<>was<>once<>a<>scheme<>to<>build<>a<>bridge<>over<>the<>river.",
+        "dictation": "There was once a scheme to build a bridge over the river."
+    },
+    "4": {
+        "word": "budget",
+        "meaning": "予算",
+        "blank_word": "budget",
+        "blank_sentence": "The cost of this project will be almost equal to the budget of a small country.",
+        "reorder": "The<>cost<>of<>this<>project<>will<>be<>almost<>equal<>to<>the<>budget<>of<>a<>small<>country.",
+        "dictation": "The cost of this project will be almost equal to the budget of a small country."
+    },
+    "5": {
+        "word": "receptor",
+        "meaning": "受容体",
+        "blank_word": "receptors",
+        "blank_sentence": "Humans have light-sensitive receptors in their eyes.",
+        "reorder": "Humans<>have<>light-sensitive<>receptors<>in<>their<>eyes.",
+        "dictation": "Humans have light-sensitive receptors in their eyes."
+    },
+    "6": {
+        "word": "tissue",
+        "meaning": "(体・細胞の)組織",
+        "blank_word": "tissue",
+        "blank_sentence": "He didn't know how much of his brain tissue has been damaged.",
+        "reorder": "He<>didn't<>know<>how<>much<>of<>his<>brain<>tissue<>has<>been<>damaged.",
+        "dictation": "He didn't know how much of his brain tissue has been damaged."
+    },
+    "7": {
+        "word": "pulse",
+        "meaning": "パルス",
+        "blank_word": "Pulses",
+        "blank_sentence": "Pulses of light can be used as a signal to carry information.",
+        "reorder": "Pulses<>of<>light<>can<>be<>used<>as<>a<>signal<>to<>carry<>information.",
+        "dictation": "Pulses of light can be used as a signal to carry information."
+    },
+    "8": {
+        "word": "evolution",
+        "meaning": "進化",
+        "blank_word": "evolution",
+        "blank_sentence": "The evolution of the computer has been still accelerating.",
+        "reorder": "The<>evolution<>of<>the<>computer<>has<>been<>still<>accelerating.",
+        "dictation": "The evolution of the computer has been still accelerating."
+    },
+    "9": {
+        "word": "ankle",
+        "meaning": "足首",
+        "blank_word": "ankle",
+        "blank_sentence": "Her ankle was broken during the dance lesson.",
+        "reorder": "Her<>ankle<>was<>broken<>during<>the<>dance<>lesson.",
+        "dictation": "Her ankle was broken during the dance lesson."
+    },
+    "10": {
+        "word": "wrist",
+        "meaning": "手首",
+        "blank_word": "wrist",
+        "blank_sentence": "You can feel your pulse on your wrist.",
+        "reorder": "You<>can<>feel<>your<>pulse<>on<>your<>wrist.",
+        "dictation": "You can feel your pulse on your wrist."
+    },
+    "11": {
+        "word": "thumb",
+        "meaning": "親指",
+        "blank_word": "thumb",
+        "blank_sentence": "She pressed her wrist with her thumb to stop the bleeding.",
+        "reorder": "She<>pressed<>her<>wrist<>with<>her<>thumb<>to<>stop<>the<>bleeding.",
+        "dictation": "She pressed her wrist with her thumb to stop the bleeding."
+    },
+    "12": {
+        "word": "palm",
+        "meaning": "手のひら",
+        "blank_word": "palms",
+        "blank_sentence": "Place your palms together.",
+        "reorder": "Place<>your<>palms<>together.",
+        "dictation": "Place your palms together."
+    },
+    "13": {
+        "word": "fingerprint",
+        "meaning": "指紋",
+        "blank_word": "fingerprints",
+        "blank_sentence": "The thief left his fingerprints on the glass window.",
+        "reorder": "The<>thief<>left<>his<>fingerprints<>on<>the<>glass<>window.",
+        "dictation": "The thief left his fingerprints on the glass window."
+    },
+    "14": {
+        "word": "toe",
+        "meaning": "つま先",
+        "blank_word": "toes",
+        "blank_sentence": "She could only reach the bar when she stood on her toes.",
+        "reorder": "She<>could<>only<>reach<>the<>bar<>when<>she<>stood<>on<>her<>toes.",
+        "dictation": "She could only reach the bar when she stood on her toes."
+    },
+    "15": {
+        "word": "cheek",
+        "meaning": "頬(ほほ)",
+        "blank_word": "cheeks",
+        "blank_sentence": "Tears ran down her cheeks.",
+        "reorder": "Tears<>ran<>down<>her<>cheeks.",
+        "dictation": "Tears ran down her cheeks."
+    },
+    "16": {
+        "word": "forehead",
+        "meaning": "額(ひたい)",
+        "blank_word": "forehead",
+        "blank_sentence": "Our boss has a high forehead.",
+        "reorder": "Our<>boss<>has<>a<>high<>forehead.",
+        "dictation": "Our boss has a high forehead."
+    },
+    "17": {
+        "word": "throat",
+        "meaning": "喉(のど)",
+        "blank_word": "throat",
+        "blank_sentence": "I got a fish bone stuck in my throat.",
+        "reorder": "I<>got<>a<>fish<>bone<>stuck<>in<>my<>throat.",
+        "dictation": "I got a fish bone stuck in my throat."
+    },
+    "18": {
+        "word": "elbow",
+        "meaning": "肘(ひじ)",
+        "blank_word": "elbow",
+        "blank_sentence": "She hurt her elbow because she played tennis too hard.",
+        "reorder": "She<>hurt<>her<>elbow<>because<>she<>played<>tennis<>too<>hard.",
+        "dictation": "She hurt her elbow because she played tennis too hard."
+    },
+    "19": {
+        "word": "knee",
+        "meaning": "膝(ひざ)",
+        "blank_word": "knee",
+        "blank_sentence": "The damage in his knee was more serious than he thought.",
+        "reorder": "The<>damage<>in<>his<>knee<>was<>more<>serious<>than<>he<>thought.",
+        "dictation": "The damage in his knee was more serious than he thought."
+    },
+    "20": {
+        "word": "neck",
+        "meaning": "首",
+        "blank_word": "neck",
+        "blank_sentence": "He broke his neck in the accident.",
+        "reorder": "He<>broke<>his<>neck<>in<>the<>accident.",
+        "dictation": "He broke his neck in the accident."
+    },
+    "21": {
+        "word": "lip",
+        "meaning": "唇",
+        "blank_word": "lips",
+        "blank_sentence": "Human lips are very sensitive to temperature change.",
+        "reorder": "Human<>lips<>are<>very<>sensitive<>to<>temperature<>change.",
+        "dictation": "Human lips are very sensitive to temperature change."
+    },
+    "22": {
+        "word": "waist",
+        "meaning": "腰",
+        "blank_word": "waist",
+        "blank_sentence": "You must reduce the fat around your waist.",
+        "reorder": "You<>must<>reduce<>the<>fat<>around<>your<>waist.",
+        "dictation": "You must reduce the fat around your waist."
+    },
+    "23": {
+        "word": "jaw",
+        "meaning": "あご",
+        "blank_word": "jaws",
+        "blank_sentence": "The shark has powerful jaws.",
+        "reorder": "The<>shark<>has<>powerful<>jaws.",
+        "dictation": "The shark has powerful jaws."
+    },
+    "24": {
+        "word": "tongue",
+        "meaning": "舌",
+        "blank_word": "tongue",
+        "blank_sentence": "There are thousands of taste receptors on your tongue.",
+        "reorder": "There<>are<>thousands<>of<>taste<>receptors<>on<>your<>tongue.",
+        "dictation": "There are thousands of taste receptors on your tongue."
+    },
+    "25": {
+        "word": "breast",
+        "meaning": "胸",
+        "blank_word": "breast",
+        "blank_sentence": "The woman stood holding her baby at her breast.",
+        "reorder": "The<>woman<>stood<>holding<>her<>baby<>at<>her<>breast.",
+        "dictation": "The woman stood holding her baby at her breast."
+    }
+}

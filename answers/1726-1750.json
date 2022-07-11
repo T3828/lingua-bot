@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "surgery",
+        "meaning": "(外科)手術",
+        "blank_word": "surgery",
+        "blank_sentence": "The boy has just had heart surgery.",
+        "reorder": "The<>boy<>has<>just<>had<>heart<>surgery.",
+        "dictation": "The boy has just had heart surgery."
+    },
+    "2": {
+        "word": "notion",
+        "meaning": "概念",
+        "blank_word": "notion",
+        "blank_sentence": "The notion of a vector can be expressed with the length and direction of a line.",
+        "reorder": "The<>notion<>of<>a<>vector<>can<>be<>expressed<>with<>the<>length<>and<>direction<>of<>a<>line.",
+        "dictation": "The notion of a vector can be expressed with the length and direction of a line."
+    },
+    "3": {
+        "word": "grain",
+        "meaning": "穀物",
+        "blank_word": "grain",
+        "blank_sentence": "The country imported more grain than last year.",
+        "reorder": "The<>country<>imported<>more<>grain<>than<>last<>year.",
+        "dictation": "The country imported more grain than last year."
+    },
+    "4": {
+        "word": "status",
+        "meaning": "状態",
+        "blank_word": "status",
+        "blank_sentence": "We are monitoring the status of the nuclear reactor with these indicators.",
+        "reorder": "We<>are<>monitoring<>the<>status<>of<>the<>nuclear<>reactor<>with<>these<>indicators.",
+        "dictation": "We are monitoring the status of the nuclear reactor with these indicators."
+    },
+    "5": {
+        "word": "chamber",
+        "meaning": "部屋",
+        "blank_word": "chamber",
+        "blank_sentence": "The space beneath the floor is the secret chamber to hide from the enemy.",
+        "reorder": "The<>space<>beneath<>the<>floor<>is<>the<>secret<>chamber<>to<>hide<>from<>the<>enemy.",
+        "dictation": "The space beneath the floor is the secret chamber to hide from the enemy."
+    },
+    "6": {
+        "word": "passage",
+        "meaning": "通り道",
+        "blank_word": "passage",
+        "blank_sentence": "The car is blocking the passage of the ambulance.",
+        "reorder": "The<>car<>is<>blocking<>the<>passage<>of<>the<>ambulance.",
+        "dictation": "The car is blocking the passage of the ambulance."
+    },
+    "7": {
+        "word": "row",
+        "meaning": "列",
+        "blank_word": "row",
+        "blank_sentence": "The TAB key is in the second row from the top.",
+        "reorder": "The<>TAB<>key<>is<>in<>the<>second<>row<>from<>the<>top.",
+        "dictation": "The TAB key is in the second row from the top."
+    },
+    "8": {
+        "word": "column",
+        "meaning": "柱",
+        "blank_word": "columns",
+        "blank_sentence": "Many cracks in the concrete columns were found in the investigation.",
+        "reorder": "Many<>cracks<>in<>the<>concrete<>columns<>were<>found<>in<>the<>investigation.",
+        "dictation": "Many cracks in the concrete columns were found in the investigation."
+    },
+    "9": {
+        "word": "textile",
+        "meaning": "織物",
+        "blank_word": "textiles",
+        "blank_sentence": "Many factories in this area produce a variety of textiles.",
+        "reorder": "Many<>factories<>in<>this<>area<>produce<>a<>variety<>of<>textiles.",
+        "dictation": "Many factories in this area produce a variety of textiles."
+    },
+    "10": {
+        "word": "copper",
+        "meaning": "銅",
+        "blank_word": "Copper",
+        "blank_sentence": "Copper is a good conductor of electricity.",
+        "reorder": "Copper<>is<>a<>good<>conductor<>of<>electricity.",
+        "dictation": "Copper is a good conductor of electricity."
+    },
+    "11": {
+        "word": "platinum",
+        "meaning": "白金",
+        "blank_word": "Platinum",
+        "blank_sentence": "Platinum will stay shiny because it doesn't react with oxygen.",
+        "reorder": "Platinum<>will<>stay<>shiny<>because<>it<>doesn't<>react<>with<>oxygen.",
+        "dictation": "Platinum will stay shiny because it doesn't react with oxygen."
+    },
+    "12": {
+        "word": "zinc",
+        "meaning": "亜鉛",
+        "blank_word": "Zinc",
+        "blank_sentence": "Zinc has a lower boiling point than copper.",
+        "reorder": "Zinc<>has<>a<>lower<>boiling<>point<>than<>copper.",
+        "dictation": "Zinc has a lower boiling point than copper."
+    },
+    "13": {
+        "word": "mercury",
+        "meaning": "水銀",
+        "blank_word": "Mercury",
+        "blank_sentence": "Mercury is the only metal that is liquid at room temperature.",
+        "reorder": "Mercury<>is<>the<>only<>metal<>that<>is<>liquid<>at<>room<>temperature.",
+        "dictation": "Mercury is the only metal that is liquid at room temperature."
+    },
+    "14": {
+        "word": "ecosystem",
+        "meaning": "生態系",
+        "blank_word": "ecosystem",
+        "blank_sentence": "Greenhouse gases affect our ecosystem.",
+        "reorder": "Greenhouse<>gases<>affect<>our<>ecosystem.",
+        "dictation": "Greenhouse gases affect our ecosystem."
+    },
+    "15": {
+        "word": "diversity",
+        "meaning": "多様性",
+        "blank_word": "Diversity",
+        "blank_sentence": "Diversity of species is essential for the survival of creatures.",
+        "reorder": "Diversity<>of<>species<>is<>essential<>for<>the<>survival<>of<>creatures.",
+        "dictation": "Diversity of species is essential for the survival of creatures."
+    },
+    "16": {
+        "word": "encounter",
+        "meaning": "出会い",
+        "blank_word": "encounter",
+        "blank_sentence": "It was my first encounter with the creature.",
+        "reorder": "It<>was<>my<>first<>encounter<>with<>the<>creature.",
+        "dictation": "It was my first encounter with the creature."
+    },
+    "17": {
+        "word": "destination",
+        "meaning": "目的地",
+        "blank_word": "destination",
+        "blank_sentence": "Be sure to buy a ticket to your destination.",
+        "reorder": "Be<>sure<>to<>buy<>a<>ticket<>to<>your<>destination.",
+        "dictation": "Be sure to buy a ticket to your destination."
+    },
+    "18": {
+        "word": "extreme",
+        "meaning": "極端な",
+        "blank_word": "extreme",
+        "blank_sentence": "This is an extreme example of what happens if a person never sleeps.",
+        "reorder": "This<>is<>an<>extreme<>example<>of<>what<>happens<>if<>a<>person<>never<>sleeps.",
+        "dictation": "This is an extreme example of what happens if a person never sleeps."
+    },
+    "19": {
+        "word": "disgusting",
+        "meaning": "気持ち悪い",
+        "blank_word": "disgusting",
+        "blank_sentence": "Some of the scenes in that TV program were disgusting.",
+        "reorder": "Some<>of<>the<>scenes<>in<>that<>TV<>program<>were<>disgusting.",
+        "dictation": "Some of the scenes in that TV program were disgusting."
+    },
+    "20": {
+        "word": "aware",
+        "meaning": "(～に)気付いている",
+        "blank_word": "aware",
+        "blank_sentence": "As you get older, you will be aware of the importance of exercise.",
+        "reorder": "As<>you<>get<>older,<>you<>will<>be<>aware<>of<>the<>importance<>of<>exercise.",
+        "dictation": "As you get older, you will be aware of the importance of exercise."
+    },
+    "21": {
+        "word": "brief",
+        "meaning": "簡潔な",
+        "blank_word": "brief",
+        "blank_sentence": "The professor gave us a brief explanation of the experimental procedure.",
+        "reorder": "The<>professor<>gave<>us<>a<>brief<>explanation<>of<>the<>experimental<>procedure.",
+        "dictation": "The professor gave us a brief explanation of the experimental procedure."
+    },
+    "22": {
+        "word": "upper",
+        "meaning": "上部の",
+        "blank_word": "upper",
+        "blank_sentence": "Write your name on the upper left corner of the paper.",
+        "reorder": "Write<>your<>name<>on<>the<>upper<>left<>corner<>of<>the<>paper.",
+        "dictation": "Write your name on the upper left corner of the paper."
+    },
+    "23": {
+        "word": "excellent",
+        "meaning": "優れた",
+        "blank_word": "excellent",
+        "blank_sentence": "The actor was awarded for his excellent performance.",
+        "reorder": "The<>actor<>was<>awarded<>for<>his<>excellent<>performance.",
+        "dictation": "The actor was awarded for his excellent performance."
+    },
+    "24": {
+        "word": "apparent",
+        "meaning": "見かけ上の",
+        "blank_word": "apparent",
+        "blank_sentence": "Seen from the earth, the apparent diameter of the sun is almost the same as that of the moon.",
+        "reorder": "Seen<>from<>the<>earth,<>the<>apparent<>diameter<>of<>the<>sun<>is<>almost<>the<>same<>as<>that<>of<>the<>moon.",
+        "dictation": "Seen from the earth, the apparent diameter of the sun is almost the same as that of the moon."
+    },
+    "25": {
+        "word": "fair",
+        "meaning": "公正な",
+        "blank_word": "fair",
+        "blank_sentence": "The trial was entirely fair.",
+        "reorder": "The<>trial<>was<>entirely<>fair.",
+        "dictation": "The trial was entirely fair."
+    }
+}

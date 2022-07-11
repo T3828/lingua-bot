@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "plug",
+        "meaning": "差し込む",
+        "blank_word": "Plug",
+        "blank_sentence": "Plug this DVD drive into the USB port.",
+        "reorder": "Plug<>this<>DVD<>drive<>into<>the<>USB<>port.",
+        "dictation": "Plug this DVD drive into the USB port."
+    },
+    "2": {
+        "word": "seal",
+        "meaning": "封をする",
+        "blank_word": "seal",
+        "blank_sentence": "Close the bag and seal it with tape.",
+        "reorder": "Close<>the<>bag<>and<>seal<>it<>with<>tape.",
+        "dictation": "Close the bag and seal it with tape."
+    },
+    "3": {
+        "word": "swing",
+        "meaning": "揺れる",
+        "blank_word": "swinging",
+        "blank_sentence": "I felt the bridge swinging in the strong wind.",
+        "reorder": "I<>felt<>the<>bridge<>swinging<>in<>the<>strong<>wind.",
+        "dictation": "I felt the bridge swinging in the strong wind."
+    },
+    "4": {
+        "word": "spin",
+        "meaning": "回転する",
+        "blank_word": "spins",
+        "blank_sentence": "The earth spins by itself.",
+        "reorder": "The<>earth<>spins<>by<>itself.",
+        "dictation": "The earth spins by itself."
+    },
+    "5": {
+        "word": "cancel",
+        "meaning": "中止する",
+        "blank_word": "canceled",
+        "blank_sentence": "The game was canceled because of the heavy rain.",
+        "reorder": "The<>game<>was<>canceled<>because<>of<>the<>heavy<>rain.",
+        "dictation": "The game was canceled because of the heavy rain."
+    },
+    "6": {
+        "word": "slice",
+        "meaning": "薄切りにする",
+        "blank_word": "slices",
+        "blank_sentence": "This laser cutter slices the metal piece.",
+        "reorder": "This<>laser<>cutter<>slices<>the<>metal<>piece.",
+        "dictation": "This laser cutter slices the metal piece."
+    },
+    "7": {
+        "word": "rank",
+        "meaning": "位置づける",
+        "blank_word": "ranked",
+        "blank_sentence": "It is ranked as one of the most powerful typhoons that ever hit Japan.",
+        "reorder": "It<>is<>ranked<>as<>one<>of<>the<>most<>powerful<>typhoons<>that<>ever<>hit<>Japan.",
+        "dictation": "It is ranked as one of the most powerful typhoons that ever hit Japan."
+    },
+    "8": {
+        "word": "rescue",
+        "meaning": "救う",
+        "blank_word": "rescued",
+        "blank_sentence": "The dog rescued a boy from under the snow.",
+        "reorder": "The<>dog<>rescued<>a<>boy<>from<>under<>the<>snow.",
+        "dictation": "The dog rescued a boy from under the snow."
+    },
+    "9": {
+        "word": "recover",
+        "meaning": "復元する",
+        "blank_word": "recover",
+        "blank_sentence": "I could not recover the files in that old PC.",
+        "reorder": "I<>could<>not<>recover<>the<>files<>in<>that<>old<>PC.",
+        "dictation": "I could not recover the files in that old PC."
+    },
+    "10": {
+        "word": "hurry",
+        "meaning": "急ぐ",
+        "blank_word": "hurried",
+        "blank_sentence": "She hurried to the hospital after the phone call.",
+        "reorder": "She<>hurried<>to<>the<>hospital<>after<>the<>phone<>call.",
+        "dictation": "She hurried to the hospital after the phone call."
+    },
+    "11": {
+        "word": "hate",
+        "meaning": "嫌う",
+        "blank_word": "hate",
+        "blank_sentence": "I hate being ranked by grades.",
+        "reorder": "I<>hate<>being<>ranked<>by<>grades.",
+        "dictation": "I hate being ranked by grades."
+    },
+    "12": {
+        "word": "envy",
+        "meaning": "うらやむ",
+        "blank_word": "envy",
+        "blank_sentence": "I envy you for having a brand-new computer.",
+        "reorder": "I<>envy<>you<>for<>having<>a<>brand-new<>computer.",
+        "dictation": "I envy you for having a brand-new computer."
+    },
+    "13": {
+        "word": "lose",
+        "meaning": "失う",
+        "blank_word": "lost",
+        "blank_sentence": "I lost the important data by mistake.",
+        "reorder": "I<>lost<>the<>important<>data<>by<>mistake.",
+        "dictation": "I lost the important data by mistake."
+    },
+    "14": {
+        "word": "win",
+        "meaning": "勝つ",
+        "blank_word": "win",
+        "blank_sentence": "The car could not win the race.",
+        "reorder": "The<>car<>could<>not<>win<>the<>race.",
+        "dictation": "The car could not win the race."
+    },
+    "15": {
+        "word": "echo",
+        "meaning": "反響",
+        "blank_word": "echo",
+        "blank_sentence": "You can hear the echo of your voice in the tunnel.",
+        "reorder": "You<>can<>hear<>the<>echo<>of<>your<>voice<>in<>the<>tunnel.",
+        "dictation": "You can hear the echo of your voice in the tunnel."
+    },
+    "16": {
+        "word": "powder",
+        "meaning": "粉",
+        "blank_word": "powder",
+        "blank_sentence": "The white powder that he had was not a drug.",
+        "reorder": "The<>white<>powder<>that<>he<>had<>was<>not<>a<>drug.",
+        "dictation": "The white powder that he had was not a drug."
+    },
+    "17": {
+        "word": "rubber",
+        "meaning": "ゴム",
+        "blank_word": "rubber",
+        "blank_sentence": "The plug of the water tank is made of hard rubber.",
+        "reorder": "The<>plug<>of<>the<>water<>tank<>is<>made<>of<>hard<>rubber.",
+        "dictation": "The plug of the water tank is made of hard rubber."
+    },
+    "18": {
+        "word": "vitamin",
+        "meaning": "ビタミン",
+        "blank_word": "vitamin",
+        "blank_sentence": "You can get vitamin C by eating fruit.",
+        "reorder": "You<>can<>get<>vitamin<>C<>by<>eating<>fruit.",
+        "dictation": "You can get vitamin C by eating fruit."
+    },
+    "19": {
+        "word": "button",
+        "meaning": "ボタン",
+        "blank_word": "button",
+        "blank_sentence": "Push the red button when you need help.",
+        "reorder": "Push<>the<>red<>button<>when<>you<>need<>help.",
+        "dictation": "Push the red button when you need help."
+    },
+    "20": {
+        "word": "workshop",
+        "meaning": "作業場",
+        "blank_word": "workshop",
+        "blank_sentence": "We must always keep the workshop clean.",
+        "reorder": "We<>must<>always<>keep<>the<>workshop<>clean.",
+        "dictation": "We must always keep the workshop clean."
+    },
+    "21": {
+        "word": "pan",
+        "meaning": "鍋",
+        "blank_word": "pan",
+        "blank_sentence": "The handle of this pan is covered with rubber.",
+        "reorder": "The<>handle<>of<>this<>pan<>is<>covered<>with<>rubber.",
+        "dictation": "The handle of this pan is covered with rubber."
+    },
+    "22": {
+        "word": "stove",
+        "meaning": "(調理用)コンロ",
+        "blank_word": "stove",
+        "blank_sentence": "Put a pan of water on the stove to heat.",
+        "reorder": "Put<>a<>pan<>of<>water<>on<>the<>stove<>to<>heat.",
+        "dictation": "Put a pan of water on the stove to heat."
+    },
+    "23": {
+        "word": "foil",
+        "meaning": "(金属の)箔",
+        "blank_word": "foil",
+        "blank_sentence": "The walls of this tearoom are covered with gold foil.",
+        "reorder": "The<>walls<>of<>this<>tearoom<>are<>covered<>with<>gold<>foil.",
+        "dictation": "The walls of this tearoom are covered with gold foil."
+    },
+    "24": {
+        "word": "soap",
+        "meaning": "石鹸",
+        "blank_word": "soap",
+        "blank_sentence": "This soap is not very good for your baby's skin.",
+        "reorder": "This<>soap<>is<>not<>very<>good<>for<>your<>baby's<>skin.",
+        "dictation": "This soap is not very good for your baby's skin."
+    },
+    "25": {
+        "word": "cork",
+        "meaning": "コルク",
+        "blank_word": "Cork",
+        "blank_sentence": "Cork is often used for making caps of bottles.",
+        "reorder": "Cork<>is<>often<>used<>for<>making<>caps<>of<>bottles.",
+        "dictation": "Cork is often used for making caps of bottles."
+    }
+}

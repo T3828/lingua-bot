@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "lecture",
+        "meaning": "講義",
+        "blank_word": "lecture",
+        "blank_sentence": "I have heard his lecture at the university.",
+        "reorder": "I<>have<>heard<>his<>lecture<>at<>the<>university.",
+        "dictation": "I have heard his lecture at the university."
+    },
+    "2": {
+        "word": "movement",
+        "meaning": "運動",
+        "blank_word": "movement",
+        "blank_sentence": "The sensor detects the movement of animals and turns the lights on.",
+        "reorder": "The<>sensor<>detects<>the<>movement<>of<>animals<>and<>turns<>the<>lights<>on.",
+        "dictation": "The sensor detects the movement of animals and turns the lights on."
+    },
+    "3": {
+        "word": "politics",
+        "meaning": "政治(学)",
+        "blank_word": "politics",
+        "blank_sentence": "Although the politician didn't major in politics , he is now a good political leader.",
+        "reorder": "Although<>the<>politician<>didn't<>major<>in<>politics<>,<>he<>is<>now<>a<>good<>political<>leader.",
+        "dictation": "Although the politician didn't major in politics , he is now a good political leader."
+    },
+    "4": {
+        "word": "copyright",
+        "meaning": "著作権",
+        "blank_word": "copyright",
+        "blank_sentence": "Who has the copyright on this book?",
+        "reorder": "Who<>has<>the<>copyright<>on<>this<>book?",
+        "dictation": "Who has the copyright on this book?"
+    },
+    "5": {
+        "word": "law",
+        "meaning": "法律",
+        "blank_word": "law",
+        "blank_sentence": "The lawyer knows copyright law well.",
+        "reorder": "The<>lawyer<>knows<>copyright<>law<>well.",
+        "dictation": "The lawyer knows copyright law well."
+    },
+    "6": {
+        "word": "policy",
+        "meaning": "方針",
+        "blank_word": "policy",
+        "blank_sentence": "Our president has a solid policy on business.",
+        "reorder": "Our<>president<>has<>a<>solid<>policy<>on<>business.",
+        "dictation": "Our president has a solid policy on business."
+    },
+    "7": {
+        "word": "ministry",
+        "meaning": "省庁",
+        "blank_word": "Ministry",
+        "blank_sentence": "The news was released by the Foreign Ministry.",
+        "reorder": "The<>news<>was<>released<>by<>the<>Foreign<>Ministry.",
+        "dictation": "The news was released by the Foreign Ministry."
+    },
+    "8": {
+        "word": "expert",
+        "meaning": "専門家",
+        "blank_word": "experts",
+        "blank_sentence": "Many computer experts work in this company.",
+        "reorder": "Many<>computer<>experts<>work<>in<>this<>company.",
+        "dictation": "Many computer experts work in this company."
+    },
+    "9": {
+        "word": "domain",
+        "meaning": "領域",
+        "blank_word": "domain",
+        "blank_sentence": "His expertise is in the domain of educational technology.",
+        "reorder": "His<>expertise<>is<>in<>the<>domain<>of<>educational<>technology.",
+        "dictation": "His expertise is in the domain of educational technology."
+    },
+    "10": {
+        "word": "region",
+        "meaning": "地方",
+        "blank_word": "region",
+        "blank_sentence": "A strong earthquake and tsunami hit the Tohoku region in March 2011.",
+        "reorder": "A<>strong<>earthquake<>and<>tsunami<>hit<>the<>Tohoku<>region<>in<>March<>2011.",
+        "dictation": "A strong earthquake and tsunami hit the Tohoku region in March 2011."
+    },
+    "11": {
+        "word": "trade",
+        "meaning": "取引",
+        "blank_word": "trade",
+        "blank_sentence": "Our company is interested in foreign trade.",
+        "reorder": "Our<>company<>is<>interested<>in<>foreign<>trade.",
+        "dictation": "Our company is interested in foreign trade."
+    },
+    "12": {
+        "word": "tax",
+        "meaning": "税金",
+        "blank_word": "tax",
+        "blank_sentence": "About two thirds of a cigarette's price is tax.",
+        "reorder": "About<>two<>thirds<>of<>a<>cigarette's<>price<>is<>tax.",
+        "dictation": "About two thirds of a cigarette's price is tax."
+    },
+    "13": {
+        "word": "bank",
+        "meaning": "銀行",
+        "blank_word": "bank",
+        "blank_sentence": "A bank does not always lend you money.",
+        "reorder": "A<>bank<>does<>not<>always<>lend<>you<>money.",
+        "dictation": "A bank does not always lend you money."
+    },
+    "14": {
+        "word": "institute",
+        "meaning": "研究所",
+        "blank_word": "Institute",
+        "blank_sentence": "Noguchi Hideyo once worked at the Rockefeller Institute for Medical Research.",
+        "reorder": "Noguchi<>Hideyo<>once<>worked<>at<>the<>Rockefeller<>Institute<>for<>Medical<>Research.",
+        "dictation": "Noguchi Hideyo once worked at the Rockefeller Institute for Medical Research."
+    },
+    "15": {
+        "word": "government",
+        "meaning": "政府",
+        "blank_word": "government",
+        "blank_sentence": "The government passed a new tax law.",
+        "reorder": "The<>government<>passed<>a<>new<>tax<>law.",
+        "dictation": "The government passed a new tax law."
+    },
+    "16": {
+        "word": "bureau",
+        "meaning": "事務局",
+        "blank_word": "bureau",
+        "blank_sentence": "She is working in the bureau in the city hall.",
+        "reorder": "She<>is<>working<>in<>the<>bureau<>in<>the<>city<>hall.",
+        "dictation": "She is working in the bureau in the city hall."
+    },
+    "17": {
+        "word": "account",
+        "meaning": "(銀行の)口座",
+        "blank_word": "account",
+        "blank_sentence": "I opened an account at the bank.",
+        "reorder": "I<>opened<>an<>account<>at<>the<>bank.",
+        "dictation": "I opened an account at the bank."
+    },
+    "18": {
+        "word": "community",
+        "meaning": "地域社会",
+        "blank_word": "community",
+        "blank_sentence": "The community has its own cable TV network.",
+        "reorder": "The<>community<>has<>its<>own<>cable<>TV<>network.",
+        "dictation": "The community has its own cable TV network."
+    },
+    "19": {
+        "word": "committee",
+        "meaning": "委員会",
+        "blank_word": "committee",
+        "blank_sentence": "The government formed a committee of experts.",
+        "reorder": "The<>government<>formed<>a<>committee<>of<>experts.",
+        "dictation": "The government formed a committee of experts."
+    },
+    "20": {
+        "word": "subject",
+        "meaning": "主題",
+        "blank_word": "subject",
+        "blank_sentence": "The subject of our presentation is the history of community.",
+        "reorder": "The<>subject<>of<>our<>presentation<>is<>the<>history<>of<>community.",
+        "dictation": "The subject of our presentation is the history of community."
+    },
+    "21": {
+        "word": "experience",
+        "meaning": "経験",
+        "blank_word": "experiences",
+        "blank_sentence": "He wrote a book about his own experiences.",
+        "reorder": "He<>wrote<>a<>book<>about<>his<>own<>experiences.",
+        "dictation": "He wrote a book about his own experiences."
+    },
+    "22": {
+        "word": "pond",
+        "meaning": "池",
+        "blank_word": "ponds",
+        "blank_sentence": "There are many artificial ponds in this region.",
+        "reorder": "There<>are<>many<>artificial<>ponds<>in<>this<>region.",
+        "dictation": "There are many artificial ponds in this region."
+    },
+    "23": {
+        "word": "forest",
+        "meaning": "森林",
+        "blank_word": "forest",
+        "blank_sentence": "The largest area of forest in the world is in Russia.",
+        "reorder": "The<>largest<>area<>of<>forest<>in<>the<>world<>is<>in<>Russia.",
+        "dictation": "The largest area of forest in the world is in Russia."
+    },
+    "24": {
+        "word": "period",
+        "meaning": "期間",
+        "blank_word": "period",
+        "blank_sentence": "The nuclear reactor will stop for the period of January to March.",
+        "reorder": "The<>nuclear<>reactor<>will<>stop<>for<>the<>period<>of<>January<>to<>March.",
+        "dictation": "The nuclear reactor will stop for the period of January to March."
+    },
+    "25": {
+        "word": "vapor",
+        "meaning": "蒸気",
+        "blank_word": "vapor",
+        "blank_sentence": "When water is heated, it changes into vapor.",
+        "reorder": "When<>water<>is<>heated,<>it<>changes<>into<>vapor.",
+        "dictation": "When water is heated, it changes into vapor."
+    }
+}

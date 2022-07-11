@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "band",
+        "meaning": "帯",
+        "blank_word": "band",
+        "blank_sentence": "The athlete wrapped a support band around his waist to avoid injuries.",
+        "reorder": "The<>athlete<>wrapped<>a<>support<>band<>around<>his<>waist<>to<>avoid<>injuries.",
+        "dictation": "The athlete wrapped a support band around his waist to avoid injuries."
+    },
+    "2": {
+        "word": "funny",
+        "meaning": "愉快な",
+        "blank_word": "funny",
+        "blank_sentence": "If you breathe helium, your voice becomes funny.",
+        "reorder": "If<>you<>breathe<>helium,<>your<>voice<>becomes<>funny.",
+        "dictation": "If you breathe helium, your voice becomes funny."
+    },
+    "3": {
+        "word": "polite",
+        "meaning": "丁寧な",
+        "blank_word": "polite",
+        "blank_sentence": "Use polite expressions when you talk to the customers.",
+        "reorder": "Use<>polite<>expressions<>when<>you<>talk<>to<>the<>customers.",
+        "dictation": "Use polite expressions when you talk to the customers."
+    },
+    "4": {
+        "word": "unusual",
+        "meaning": "異常な",
+        "blank_word": "unusual",
+        "blank_sentence": "The earthquake recorder detected an unusual vibration.",
+        "reorder": "The<>earthquake<>recorder<>detected<>an<>unusual<>vibration.",
+        "dictation": "The earthquake recorder detected an unusual vibration."
+    },
+    "5": {
+        "word": "alert",
+        "meaning": "警戒している",
+        "blank_word": "alert",
+        "blank_sentence": "We should always stay alert for disasters.",
+        "reorder": "We<>should<>always<>stay<>alert<>for<>disasters.",
+        "dictation": "We should always stay alert for disasters."
+    },
+    "6": {
+        "word": "civil",
+        "meaning": "市民の",
+        "blank_word": "civil",
+        "blank_sentence": "The people fought for their civil rights.",
+        "reorder": "The<>people<>fought<>for<>their<>civil<>rights.",
+        "dictation": "The people fought for their civil rights."
+    },
+    "7": {
+        "word": "native",
+        "meaning": "(その場所に)固有の",
+        "blank_word": "native",
+        "blank_sentence": "Australia has native animals such as koalas and kangaroos.",
+        "reorder": "Australia<>has<>native<>animals<>such<>as<>koalas<>and<>kangaroos.",
+        "dictation": "Australia has native animals such as koalas and kangaroos."
+    },
+    "8": {
+        "word": "capable",
+        "meaning": "能力がある",
+        "blank_word": "capable",
+        "blank_sentence": "This enzyme is capable of breaking down fat.",
+        "reorder": "This<>enzyme<>is<>capable<>of<>breaking<>down<>fat.",
+        "dictation": "This enzyme is capable of breaking down fat."
+    },
+    "9": {
+        "word": "enormous",
+        "meaning": "膨大な",
+        "blank_word": "enormous",
+        "blank_sentence": "I have an enormous amount of work to finish by Monday.",
+        "reorder": "I<>have<>an<>enormous<>amount<>of<>work<>to<>finish<>by<>Monday.",
+        "dictation": "I have an enormous amount of work to finish by Monday."
+    },
+    "10": {
+        "word": "appropriate",
+        "meaning": "適切な",
+        "blank_word": "appropriate",
+        "blank_sentence": "You should always apply the appropriate method for the experiment.",
+        "reorder": "You<>should<>always<>apply<>the<>appropriate<>method<>for<>the<>experiment.",
+        "dictation": "You should always apply the appropriate method for the experiment."
+    },
+    "11": {
+        "word": "immediate",
+        "meaning": "即座の",
+        "blank_word": "immediate",
+        "blank_sentence": "The patient requires immediate treatment.",
+        "reorder": "The<>patient<>requires<>immediate<>treatment.",
+        "dictation": "The patient requires immediate treatment."
+    },
+    "12": {
+        "word": "shuttle",
+        "meaning": "定期往復便",
+        "blank_word": "shuttle",
+        "blank_sentence": "You can take the shuttle bus from the station to the museum.",
+        "reorder": "You<>can<>take<>the<>shuttle<>bus<>from<>the<>station<>to<>the<>museum.",
+        "dictation": "You can take the shuttle bus from the station to the museum."
+    },
+    "13": {
+        "word": "astronaut",
+        "meaning": "宇宙飛行士",
+        "blank_word": "astronaut",
+        "blank_sentence": "The training of an astronaut is very hard.",
+        "reorder": "The<>training<>of<>an<>astronaut<>is<>very<>hard.",
+        "dictation": "The training of an astronaut is very hard."
+    },
+    "14": {
+        "word": "astronomy",
+        "meaning": "天文学",
+        "blank_word": "Astronomy",
+        "blank_sentence": "Astronomy is the scientific study of the universe.",
+        "reorder": "Astronomy<>is<>the<>scientific<>study<>of<>the<>universe.",
+        "dictation": "Astronomy is the scientific study of the universe."
+    },
+    "15": {
+        "word": "psychology",
+        "meaning": "心理学",
+        "blank_word": "Psychology",
+        "blank_sentence": "Psychology is the study of the mind and how it works.",
+        "reorder": "Psychology<>is<>the<>study<>of<>the<>mind<>and<>how<>it<>works.",
+        "dictation": "Psychology is the study of the mind and how it works."
+    },
+    "16": {
+        "word": "literature",
+        "meaning": "文献",
+        "blank_word": "literature",
+        "blank_sentence": "It is important to study the technical literature before starting on your thesis.",
+        "reorder": "It<>is<>important<>to<>study<>the<>technical<>literature<>before<>starting<>on<>your<>thesis.",
+        "dictation": "It is important to study the technical literature before starting on your thesis."
+    },
+    "17": {
+        "word": "philosophy",
+        "meaning": "信条",
+        "blank_word": "philosophy",
+        "blank_sentence": "Our philosophy is to keep providing the best products.",
+        "reorder": "Our<>philosophy<>is<>to<>keep<>providing<>the<>best<>products.",
+        "dictation": "Our philosophy is to keep providing the best products."
+    },
+    "18": {
+        "word": "victim",
+        "meaning": "犠牲者",
+        "blank_word": "victims",
+        "blank_sentence": "There is no war which has no victims.",
+        "reorder": "There<>is<>no<>war<>which<>has<>no<>victims.",
+        "dictation": "There is no war which has no victims."
+    },
+    "19": {
+        "word": "assessment",
+        "meaning": "査定",
+        "blank_word": "assessment",
+        "blank_sentence": "A damage assessment was carefully carried out after the earthquake.",
+        "reorder": "A<>damage<>assessment<>was<>carefully<>carried<>out<>after<>the<>earthquake.",
+        "dictation": "A damage assessment was carefully carried out after the earthquake."
+    },
+    "20": {
+        "word": "sight",
+        "meaning": "視界",
+        "blank_word": "sight",
+        "blank_sentence": "The jet plane disappeared from my sight shortly after its takeoff.",
+        "reorder": "The<>jet<>plane<>disappeared<>from<>my<>sight<>shortly<>after<>its<>takeoff.",
+        "dictation": "The jet plane disappeared from my sight shortly after its takeoff."
+    },
+    "21": {
+        "word": "vision",
+        "meaning": "視覚",
+        "blank_word": "vision",
+        "blank_sentence": "The psychologist studies the psychology of vision.",
+        "reorder": "The<>psychologist<>studies<>the<>psychology<>of<>vision.",
+        "dictation": "The psychologist studies the psychology of vision."
+    },
+    "22": {
+        "word": "boundary",
+        "meaning": "境界(線)",
+        "blank_word": "boundary",
+        "blank_sentence": "The center line is the boundary between opposite lanes of traffic.",
+        "reorder": "The<>center<>line<>is<>the<>boundary<>between<>opposite<>lanes<>of<>traffic.",
+        "dictation": "The center line is the boundary between opposite lanes of traffic."
+    },
+    "23": {
+        "word": "shadow",
+        "meaning": "影",
+        "blank_word": "shadow",
+        "blank_sentence": "The length of a shadow depends on the angle at which the light hits the object.",
+        "reorder": "The<>length<>of<>a<>shadow<>depends<>on<>the<>angle<>at<>which<>the<>light<>hits<>the<>object.",
+        "dictation": "The length of a shadow depends on the angle at which the light hits the object."
+    },
+    "24": {
+        "word": "income",
+        "meaning": "収入",
+        "blank_word": "income",
+        "blank_sentence": "His income decreased five percent from last year.",
+        "reorder": "His<>income<>decreased<>five<>percent<>from<>last<>year.",
+        "dictation": "His income decreased five percent from last year."
+    },
+    "25": {
+        "word": "expenditure",
+        "meaning": "支出",
+        "blank_word": "expenditure",
+        "blank_sentence": "The government should not cut expenditure on education.",
+        "reorder": "The<>government<>should<>not<>cut<>expenditure<>on<>education.",
+        "dictation": "The government should not cut expenditure on education."
+    }
+}

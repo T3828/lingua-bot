@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "fever",
+        "meaning": "熱",
+        "blank_word": "fever",
+        "blank_sentence": "A high fever can be signals of possibly dangerous infection.",
+        "reorder": "A<>high<>fever<>can<>be<>signals<>of<>possibly<>dangerous<>infection.",
+        "dictation": "A high fever can be signals of possibly dangerous infection."
+    },
+    "2": {
+        "word": "appetite",
+        "meaning": "食欲",
+        "blank_word": "appetite",
+        "blank_sentence": "I had no appetite because of a high fever.",
+        "reorder": "I<>had<>no<>appetite<>because<>of<>a<>high<>fever.",
+        "dictation": "I had no appetite because of a high fever."
+    },
+    "3": {
+        "word": "combustion",
+        "meaning": "燃焼",
+        "blank_word": "combustion",
+        "blank_sentence": "The combustion of hydrogen produces no carbon dioxide.",
+        "reorder": "The<>combustion<>of<>hydrogen<>produces<>no<>carbon<>dioxide.",
+        "dictation": "The combustion of hydrogen produces no carbon dioxide."
+    },
+    "4": {
+        "word": "symptom",
+        "meaning": "徴候",
+        "blank_word": "symptom",
+        "blank_sentence": "Fever can be a symptom of a serious disease.",
+        "reorder": "Fever<>can<>be<>a<>symptom<>of<>a<>serious<>disease.",
+        "dictation": "Fever can be a symptom of a serious disease."
+    },
+    "5": {
+        "word": "membrane",
+        "meaning": "膜",
+        "blank_word": "membrane",
+        "blank_sentence": "When milk is heated, a white membrane of protein forms on the top.",
+        "reorder": "When<>milk<>is<>heated,<>a<>white<>membrane<>of<>protein<>forms<>on<>the<>top.",
+        "dictation": "When milk is heated, a white membrane of protein forms on the top."
+    },
+    "6": {
+        "word": "prototype",
+        "meaning": "試作品",
+        "blank_word": "prototype",
+        "blank_sentence": "They produced a prototype of the new engine.",
+        "reorder": "They<>produced<>a<>prototype<>of<>the<>new<>engine.",
+        "dictation": "They produced a prototype of the new engine."
+    },
+    "7": {
+        "word": "random",
+        "meaning": "無作為の",
+        "blank_word": "random",
+        "blank_sentence": "We made a random selection of 100 students for the questionnaire.",
+        "reorder": "We<>made<>a<>random<>selection<>of<>100<>students<>for<>the<>questionnaire.",
+        "dictation": "We made a random selection of 100 students for the questionnaire."
+    },
+    "8": {
+        "word": "internal",
+        "meaning": "内部の",
+        "blank_word": "internal",
+        "blank_sentence": "The teacher explained the internal structure of a hard disk.",
+        "reorder": "The<>teacher<>explained<>the<>internal<>structure<>of<>a<>hard<>disk.",
+        "dictation": "The teacher explained the internal structure of a hard disk."
+    },
+    "9": {
+        "word": "external",
+        "meaning": "外部の",
+        "blank_word": "external",
+        "blank_sentence": "This PC has no external memory drives.",
+        "reorder": "This<>PC<>has<>no<>external<>memory<>drives.",
+        "dictation": "This PC has no external memory drives."
+    },
+    "10": {
+        "word": "odd",
+        "meaning": "奇妙な",
+        "blank_word": "odd",
+        "blank_sentence": "I saw my dog show odd behavior before the earthquake.",
+        "reorder": "I<>saw<>my<>dog<>show<>odd<>behavior<>before<>the<>earthquake.",
+        "dictation": "I saw my dog show odd behavior before the earthquake."
+    },
+    "11": {
+        "word": "stable",
+        "meaning": "安定した",
+        "blank_word": "stable",
+        "blank_sentence": "The weather is fine today because the air is stable.",
+        "reorder": "The<>weather<>is<>fine<>today<>because<>the<>air<>is<>stable.",
+        "dictation": "The weather is fine today because the air is stable."
+    },
+    "12": {
+        "word": "widespread",
+        "meaning": "幅広い",
+        "blank_word": "widespread",
+        "blank_sentence": "There is widespread interest in this issue.",
+        "reorder": "There<>is<>widespread<>interest<>in<>this<>issue.",
+        "dictation": "There is widespread interest in this issue."
+    },
+    "13": {
+        "word": "maximum",
+        "meaning": "最大の",
+        "blank_word": "maximum",
+        "blank_sentence": "One hundred kilometers per hour is the maximum legal speed in Japan.",
+        "reorder": "One<>hundred<>kilometers<>per<>hour<>is<>the<>maximum<>legal<>speed<>in<>Japan.",
+        "dictation": "One hundred kilometers per hour is the maximum legal speed in Japan."
+    },
+    "14": {
+        "word": "minimum",
+        "meaning": "最小の",
+        "blank_word": "Minimum",
+        "blank_sentence": "Minimum turning radius is the minimum radius required to turn the car in a circle.",
+        "reorder": "Minimum<>turning<>radius<>is<>the<>minimum<>radius<>required<>to<>turn<>the<>car<>in<>a<>circle.",
+        "dictation": "Minimum turning radius is the minimum radius required to turn the car in a circle."
+    },
+    "15": {
+        "word": "slight",
+        "meaning": "わずかな",
+        "blank_word": "slight",
+        "blank_sentence": "There is a slight difference in color between the two prototypes.",
+        "reorder": "There<>is<>a<>slight<>difference<>in<>color<>between<>the<>two<>prototypes.",
+        "dictation": "There is a slight difference in color between the two prototypes."
+    },
+    "16": {
+        "word": "violent",
+        "meaning": "激しい",
+        "blank_word": "violent",
+        "blank_sentence": "A violent storm hit the island.",
+        "reorder": "A<>violent<>storm<>hit<>the<>island.",
+        "dictation": "A violent storm hit the island."
+    },
+    "17": {
+        "word": "edit",
+        "meaning": "編集する",
+        "blank_word": "edited",
+        "blank_sentence": "I was one of the staff members who edited the newspaper.",
+        "reorder": "I<>was<>one<>of<>the<>staff<>members<>who<>edited<>the<>newspaper.",
+        "dictation": "I was one of the staff members who edited the newspaper."
+    },
+    "18": {
+        "word": "appeal",
+        "meaning": "訴える",
+        "blank_word": "appealed",
+        "blank_sentence": "His speech greatly appealed to the audience.",
+        "reorder": "His<>speech<>greatly<>appealed<>to<>the<>audience.",
+        "dictation": "His speech greatly appealed to the audience."
+    },
+    "19": {
+        "word": "pose",
+        "meaning": "(問題などを)引き起こす",
+        "blank_word": "posed",
+        "blank_sentence": "The event posed a new threat to international security.",
+        "reorder": "The<>event<>posed<>a<>new<>threat<>to<>international<>security.",
+        "dictation": "The event posed a new threat to international security."
+    },
+    "20": {
+        "word": "capture",
+        "meaning": "とらえる",
+        "blank_word": "captured",
+        "blank_sentence": "The sensor captured the light from the remote star.",
+        "reorder": "The<>sensor<>captured<>the<>light<>from<>the<>remote<>star.",
+        "dictation": "The sensor captured the light from the remote star."
+    },
+    "21": {
+        "word": "swallow",
+        "meaning": "飲み込む",
+        "blank_word": "swallow",
+        "blank_sentence": "A newborn baby does not have enough ability to swallow solid food.",
+        "reorder": "A<>newborn<>baby<>does<>not<>have<>enough<>ability<>to<>swallow<>solid<>food.",
+        "dictation": "A newborn baby does not have enough ability to swallow solid food."
+    },
+    "22": {
+        "word": "persuade",
+        "meaning": "説得する",
+        "blank_word": "persuaded",
+        "blank_sentence": "We persuaded him not to give up his job.",
+        "reorder": "We<>persuaded<>him<>not<>to<>give<>up<>his<>job.",
+        "dictation": "We persuaded him not to give up his job."
+    },
+    "23": {
+        "word": "construct",
+        "meaning": "組み立てる",
+        "blank_word": "constructs",
+        "blank_sentence": "The company constructs bridges and dams throughout Japan.",
+        "reorder": "The<>company<>constructs<>bridges<>and<>dams<>throughout<>Japan.",
+        "dictation": "The company constructs bridges and dams throughout Japan."
+    },
+    "24": {
+        "word": "endanger",
+        "meaning": "おびやかす",
+        "blank_word": "endanger",
+        "blank_sentence": "Human actions sometimes endanger the survival of animal species.",
+        "reorder": "Human<>actions<>sometimes<>endanger<>the<>survival<>of<>animal<>species.",
+        "dictation": "Human actions sometimes endanger the survival of animal species."
+    },
+    "25": {
+        "word": "contaminate",
+        "meaning": "汚染する",
+        "blank_word": "contaminated",
+        "blank_sentence": "They are doing research on purifying contaminated water.",
+        "reorder": "They<>are<>doing<>research<>on<>purifying<>contaminated<>water.",
+        "dictation": "They are doing research on purifying contaminated water."
+    }
+}

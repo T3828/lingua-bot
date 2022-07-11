@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "assume",
+        "meaning": "仮定する",
+        "blank_word": "Assuming",
+        "blank_sentence": "Assuming that x is zero, what will y be?",
+        "reorder": "Assuming<>that<>x<>is<>zero,<>what<>will<>y<>be?",
+        "dictation": "Assuming that x is zero, what will y be?"
+    },
+    "2": {
+        "word": "intend",
+        "meaning": "意図する",
+        "blank_word": "intended",
+        "blank_sentence": "That is not what we intended.",
+        "reorder": "That<>is<>not<>what<>we<>intended.",
+        "dictation": "That is not what we intended."
+    },
+    "3": {
+        "word": "confirm",
+        "meaning": "確認する",
+        "blank_word": "confirm",
+        "blank_sentence": "Please confirm your ID number.",
+        "reorder": "Please<>confirm<>your<>ID<>number.",
+        "dictation": "Please confirm your ID number."
+    },
+    "4": {
+        "word": "define",
+        "meaning": "定義する",
+        "blank_word": "define",
+        "blank_sentence": "You must define the terms before discussion.",
+        "reorder": "You<>must<>define<>the<>terms<>before<>discussion.",
+        "dictation": "You must define the terms before discussion."
+    },
+    "5": {
+        "word": "transmit",
+        "meaning": "送信する",
+        "blank_word": "transmitted",
+        "blank_sentence": "The information is transmitted directly to the computers.",
+        "reorder": "The<>information<>is<>transmitted<>directly<>to<>the<>computers.",
+        "dictation": "The information is transmitted directly to the computers."
+    },
+    "6": {
+        "word": "attach",
+        "meaning": "付ける",
+        "blank_word": "Attach",
+        "blank_sentence": "Attach a recent photograph to your application form.",
+        "reorder": "Attach<>a<>recent<>photograph<>to<>your<>application<>form.",
+        "dictation": "Attach a recent photograph to your application form."
+    },
+    "7": {
+        "word": "attract",
+        "meaning": "引きつける",
+        "blank_word": "attract",
+        "blank_sentence": "Objects with different electrical charges attract each other.",
+        "reorder": "Objects<>with<>different<>electrical<>charges<>attract<>each<>other.",
+        "dictation": "Objects with different electrical charges attract each other."
+    },
+    "8": {
+        "word": "repel",
+        "meaning": "反発する",
+        "blank_word": "repel",
+        "blank_sentence": "The same poles of magnets repel each other.",
+        "reorder": "The<>same<>poles<>of<>magnets<>repel<>each<>other.",
+        "dictation": "The same poles of magnets repel each other."
+    },
+    "9": {
+        "word": "trap",
+        "meaning": "罠",
+        "blank_word": "traps",
+        "blank_sentence": "There are many traps on the Internet to steal your private information.",
+        "reorder": "There<>are<>many<>traps<>on<>the<>Internet<>to<>steal<>your<>private<>information.",
+        "dictation": "There are many traps on the Internet to steal your private information."
+    },
+    "10": {
+        "word": "scope",
+        "meaning": "範囲",
+        "blank_word": "scope",
+        "blank_sentence": "It was beyond the scope of our assumptions.",
+        "reorder": "It<>was<>beyond<>the<>scope<>of<>our<>assumptions.",
+        "dictation": "It was beyond the scope of our assumptions."
+    },
+    "11": {
+        "word": "illusion",
+        "meaning": "錯覚",
+        "blank_word": "illusion",
+        "blank_sentence": "It's an optical illusion that the line looks curved.",
+        "reorder": "It's<>an<>optical<>illusion<>that<>the<>line<>looks<>curved.",
+        "dictation": "It's an optical illusion that the line looks curved."
+    },
+    "12": {
+        "word": "wavelength",
+        "meaning": "波長",
+        "blank_word": "wavelength",
+        "blank_sentence": "The wavelength is inversely proportional to the frequency.",
+        "reorder": "The<>wavelength<>is<>inversely<>proportional<>to<>the<>frequency.",
+        "dictation": "The wavelength is inversely proportional to the frequency."
+    },
+    "13": {
+        "word": "amplitude",
+        "meaning": "振幅",
+        "blank_word": "amplitude",
+        "blank_sentence": "The larger the amplitude of a sound wave is, the louder its volume becomes.",
+        "reorder": "The<>larger<>the<>amplitude<>of<>a<>sound<>wave<>is,<>the<>louder<>its<>volume<>becomes.",
+        "dictation": "The larger the amplitude of a sound wave is, the louder its volume becomes."
+    },
+    "14": {
+        "word": "infrared",
+        "meaning": "赤外線",
+        "blank_word": "infrared",
+        "blank_sentence": "Substances which receive infrared rays become hot.",
+        "reorder": "Substances<>which<>receive<>infrared<>rays<>become<>hot.",
+        "dictation": "Substances which receive infrared rays become hot."
+    },
+    "15": {
+        "word": "ultraviolet",
+        "meaning": "紫外線",
+        "blank_word": "ultraviolet",
+        "blank_sentence": "The wavelength of ultraviolet rays is shorter than that of visible light.",
+        "reorder": "The<>wavelength<>of<>ultraviolet<>rays<>is<>shorter<>than<>that<>of<>visible<>light.",
+        "dictation": "The wavelength of ultraviolet rays is shorter than that of visible light."
+    },
+    "16": {
+        "word": "ultrasound",
+        "meaning": "超音波",
+        "blank_word": "Ultrasound",
+        "blank_sentence": "Ultrasound is often utilized for physical examinations.",
+        "reorder": "Ultrasound<>is<>often<>utilized<>for<>physical<>examinations.",
+        "dictation": "Ultrasound is often utilized for physical examinations."
+    },
+    "17": {
+        "word": "ripple",
+        "meaning": "さざ波",
+        "blank_word": "ripple",
+        "blank_sentence": "The loud sound from the speaker caused a ripple on the water surface.",
+        "reorder": "The<>loud<>sound<>from<>the<>speaker<>caused<>a<>ripple<>on<>the<>water<>surface.",
+        "dictation": "The loud sound from the speaker caused a ripple on the water surface."
+    },
+    "18": {
+        "word": "attention",
+        "meaning": "注意",
+        "blank_word": "attention",
+        "blank_sentence": "You must always pay attention to the device during the experiment.",
+        "reorder": "You<>must<>always<>pay<>attention<>to<>the<>device<>during<>the<>experiment.",
+        "dictation": "You must always pay attention to the device during the experiment."
+    },
+    "19": {
+        "word": "statement",
+        "meaning": "声明(書)",
+        "blank_word": "statement",
+        "blank_sentence": "The Prime Minister made a statement to the newspapers.",
+        "reorder": "The<>Prime<>Minister<>made<>a<>statement<>to<>the<>newspapers.",
+        "dictation": "The Prime Minister made a statement to the newspapers."
+    },
+    "20": {
+        "word": "gravity",
+        "meaning": "重力",
+        "blank_word": "gravity",
+        "blank_sentence": "The gravity on the moon is about one sixth of that on the earth.",
+        "reorder": "The<>gravity<>on<>the<>moon<>is<>about<>one<>sixth<>of<>that<>on<>the<>earth.",
+        "dictation": "The gravity on the moon is about one sixth of that on the earth."
+    },
+    "21": {
+        "word": "velocity",
+        "meaning": "速度",
+        "blank_word": "velocity",
+        "blank_sentence": "The mean velocity of the train is about 80 kilometers per hour.",
+        "reorder": "The<>mean<>velocity<>of<>the<>train<>is<>about<>80<>kilometers<>per<>hour.",
+        "dictation": "The mean velocity of the train is about 80 kilometers per hour."
+    },
+    "22": {
+        "word": "phenomenon",
+        "meaning": "現象",
+        "blank_word": "phenomenon",
+        "blank_sentence": "Illusion is a phenomenon where the visual image is different from the actual image.",
+        "reorder": "Illusion<>is<>a<>phenomenon<>where<>the<>visual<>image<>is<>different<>from<>the<>actual<>image.",
+        "dictation": "Illusion is a phenomenon where the visual image is different from the actual image."
+    },
+    "23": {
+        "word": "glue",
+        "meaning": "接着剤",
+        "blank_word": "glue",
+        "blank_sentence": "Apply glue to each part and attach them together.",
+        "reorder": "Apply<>glue<>to<>each<>part<>and<>attach<>them<>together.",
+        "dictation": "Apply glue to each part and attach them together."
+    },
+    "24": {
+        "word": "carbohydrate",
+        "meaning": "炭水化物",
+        "blank_word": "carbohydrates",
+        "blank_sentence": "She avoids eating carbohydrates such as bread and potatoes.",
+        "reorder": "She<>avoids<>eating<>carbohydrates<>such<>as<>bread<>and<>potatoes.",
+        "dictation": "She avoids eating carbohydrates such as bread and potatoes."
+    },
+    "25": {
+        "word": "glucose",
+        "meaning": "ブドウ糖",
+        "blank_word": "Glucose",
+        "blank_sentence": "Glucose and oxygen are necessary for muscles to move.",
+        "reorder": "Glucose<>and<>oxygen<>are<>necessary<>for<>muscles<>to<>move.",
+        "dictation": "Glucose and oxygen are necessary for muscles to move."
+    }
+}

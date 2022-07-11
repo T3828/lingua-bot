@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "trace",
+        "meaning": "たどる",
+        "blank_word": "traces",
+        "blank_sentence": "This robot traces a line on the floor.",
+        "reorder": "This<>robot<>traces<>a<>line<>on<>the<>floor.",
+        "dictation": "This robot traces a line on the floor."
+    },
+    "2": {
+        "word": "recycle",
+        "meaning": "再利用する",
+        "blank_word": "recycled",
+        "blank_sentence": "Some metals such as iron and aluminum can be recycled.",
+        "reorder": "Some<>metals<>such<>as<>iron<>and<>aluminum<>can<>be<>recycled.",
+        "dictation": "Some metals such as iron and aluminum can be recycled."
+    },
+    "3": {
+        "word": "pack",
+        "meaning": "包装する",
+        "blank_word": "packed",
+        "blank_sentence": "The batteries are packed in a plastic package.",
+        "reorder": "The<>batteries<>are<>packed<>in<>a<>plastic<>package.",
+        "dictation": "The batteries are packed in a plastic package."
+    },
+    "4": {
+        "word": "reverse",
+        "meaning": "逆にする",
+        "blank_word": "Reverse",
+        "blank_sentence": "Reverse the order of the numbers.",
+        "reorder": "Reverse<>the<>order<>of<>the<>numbers.",
+        "dictation": "Reverse the order of the numbers."
+    },
+    "5": {
+        "word": "slide",
+        "meaning": "滑る",
+        "blank_word": "slides",
+        "blank_sentence": "Put oil on the rail so that the door slides freely.",
+        "reorder": "Put<>oil<>on<>the<>rail<>so<>that<>the<>door<>slides<>freely.",
+        "dictation": "Put oil on the rail so that the door slides freely."
+    },
+    "6": {
+        "word": "grip",
+        "meaning": "握る",
+        "blank_word": "Grip",
+        "blank_sentence": "Grip the handle and turn it to the right.",
+        "reorder": "Grip<>the<>handle<>and<>turn<>it<>to<>the<>right.",
+        "dictation": "Grip the handle and turn it to the right."
+    },
+    "7": {
+        "word": "push",
+        "meaning": "押す",
+        "blank_word": "pushed",
+        "blank_sentence": "We pushed the broken-down car to the gas station.",
+        "reorder": "We<>pushed<>the<>broken-down<>car<>to<>the<>gas<>station.",
+        "dictation": "We pushed the broken-down car to the gas station."
+    },
+    "8": {
+        "word": "pull",
+        "meaning": "引く",
+        "blank_word": "Pull",
+        "blank_sentence": "Pull the door to open it.",
+        "reorder": "Pull<>the<>door<>to<>open<>it.",
+        "dictation": "Pull the door to open it."
+    },
+    "9": {
+        "word": "drop",
+        "meaning": "落ちる",
+        "blank_word": "dropped",
+        "blank_sentence": "The machine's power dropped by 10%.",
+        "reorder": "The<>machine's<>power<>dropped<>by<>10%.",
+        "dictation": "The machine's power dropped by 10%."
+    },
+    "10": {
+        "word": "crash",
+        "meaning": "衝突する",
+        "blank_word": "crashed",
+        "blank_sentence": "The old car crashed into a bus.",
+        "reorder": "The<>old<>car<>crashed<>into<>a<>bus.",
+        "dictation": "The old car crashed into a bus."
+    },
+    "11": {
+        "word": "crawl",
+        "meaning": "這う",
+        "blank_word": "crawls",
+        "blank_sentence": "This robot crawls on the ground like a snake.",
+        "reorder": "This<>robot<>crawls<>on<>the<>ground<>like<>a<>snake.",
+        "dictation": "This robot crawls on the ground like a snake."
+    },
+    "12": {
+        "word": "cord",
+        "meaning": "ひも",
+        "blank_word": "cord",
+        "blank_sentence": "Pull this cord quickly to start the engine.",
+        "reorder": "Pull<>this<>cord<>quickly<>to<>start<>the<>engine.",
+        "dictation": "Pull this cord quickly to start the engine."
+    },
+    "13": {
+        "word": "cursor",
+        "meaning": "カーソル",
+        "blank_word": "cursor",
+        "blank_sentence": "Move the cursor onto the icon and double-click it.",
+        "reorder": "Move<>the<>cursor<>onto<>the<>icon<>and<>double-click<>it.",
+        "dictation": "Move the cursor onto the icon and double-click it."
+    },
+    "14": {
+        "word": "plate",
+        "meaning": "板",
+        "blank_word": "plate",
+        "blank_sentence": "The plate shows the date when the engine was made.",
+        "reorder": "The<>plate<>shows<>the<>date<>when<>the<>engine<>was<>made.",
+        "dictation": "The plate shows the date when the engine was made."
+    },
+    "15": {
+        "word": "contrast",
+        "meaning": "対比",
+        "blank_word": "contrast",
+        "blank_sentence": "That painting shows a beautiful contrast between red and black.",
+        "reorder": "That<>painting<>shows<>a<>beautiful<>contrast<>between<>red<>and<>black.",
+        "dictation": "That painting shows a beautiful contrast between red and black."
+    },
+    "16": {
+        "word": "background",
+        "meaning": "背景",
+        "blank_word": "background",
+        "blank_sentence": "The background of her computer screen is a picture of her baby.",
+        "reorder": "The<>background<>of<>her<>computer<>screen<>is<>a<>picture<>of<>her<>baby.",
+        "dictation": "The background of her computer screen is a picture of her baby."
+    },
+    "17": {
+        "word": "bottom",
+        "meaning": "最下部",
+        "blank_word": "bottom",
+        "blank_sentence": "Write your name and number at the bottom of the sheet.",
+        "reorder": "Write<>your<>name<>and<>number<>at<>the<>bottom<>of<>the<>sheet.",
+        "dictation": "Write your name and number at the bottom of the sheet."
+    },
+    "18": {
+        "word": "gap",
+        "meaning": "すき間",
+        "blank_word": "gap",
+        "blank_sentence": "Make a small gap between the two metal plates.",
+        "reorder": "Make<>a<>small<>gap<>between<>the<>two<>metal<>plates.",
+        "dictation": "Make a small gap between the two metal plates."
+    },
+    "19": {
+        "word": "couple",
+        "meaning": "一組",
+        "blank_word": "couples",
+        "blank_sentence": "One of the three couples is married.",
+        "reorder": "One<>of<>the<>three<>couples<>is<>married.",
+        "dictation": "One of the three couples is married."
+    },
+    "20": {
+        "word": "choice",
+        "meaning": "選択",
+        "blank_word": "choice",
+        "blank_sentence": "I think you made a good choice.",
+        "reorder": "I<>think<>you<>made<>a<>good<>choice.",
+        "dictation": "I think you made a good choice."
+    },
+    "21": {
+        "word": "option",
+        "meaning": "選択肢",
+        "blank_word": "options",
+        "blank_sentence": "You have three options to choose from.",
+        "reorder": "You<>have<>three<>options<>to<>choose<>from.",
+        "dictation": "You have three options to choose from."
+    },
+    "22": {
+        "word": "quarter",
+        "meaning": "4分の1",
+        "blank_word": "quarter",
+        "blank_sentence": "A quarter of one hour is 15 minutes.",
+        "reorder": "A<>quarter<>of<>one<>hour<>is<>15<>minutes.",
+        "dictation": "A quarter of one hour is 15 minutes."
+    },
+    "23": {
+        "word": "percent",
+        "meaning": "パーセント",
+        "blank_word": "percent",
+        "blank_sentence": "More than 97 percent of the earth's water is the seawater.",
+        "reorder": "More<>than<>97<>percent<>of<>the<>earth's<>water<>is<>the<>seawater.",
+        "dictation": "More than 97 percent of the earth's water is the seawater."
+    },
+    "24": {
+        "word": "inch",
+        "meaning": "インチ",
+        "blank_word": "inch",
+        "blank_sentence": "An inch is about 2.54 centimeters and is one-twelfth of a foot.",
+        "reorder": "An<>inch<>is<>about<>2.54<>centimeters<>and<>is<>one-twelfth<>of<>a<>foot.",
+        "dictation": "An inch is about 2.54 centimeters and is one-twelfth of a foot."
+    },
+    "25": {
+        "word": "liter",
+        "meaning": "リットル",
+        "blank_word": "liter",
+        "blank_sentence": "This car runs about 20 kilometers on one liter of gasoline.",
+        "reorder": "This<>car<>runs<>about<>20<>kilometers<>on<>one<>liter<>of<>gasoline.",
+        "dictation": "This car runs about 20 kilometers on one liter of gasoline."
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "mist",
+        "meaning": "霧",
+        "blank_word": "mist",
+        "blank_sentence": "The temperature can be lowered by making artificial mist.",
+        "reorder": "The<>temperature<>can<>be<>lowered<>by<>making<>artificial<>mist.",
+        "dictation": "The temperature can be lowered by making artificial mist."
+    },
+    "2": {
+        "word": "agency",
+        "meaning": "作用",
+        "blank_word": "agency",
+        "blank_sentence": "Water becomes vapor by the agency of heat.",
+        "reorder": "Water<>becomes<>vapor<>by<>the<>agency<>of<>heat.",
+        "dictation": "Water becomes vapor by the agency of heat."
+    },
+    "3": {
+        "word": "attempt",
+        "meaning": "試みる",
+        "blank_word": "attempting",
+        "blank_sentence": "He is attempting to clarify the mechanism of aging.",
+        "reorder": "He<>is<>attempting<>to<>clarify<>the<>mechanism<>of<>aging.",
+        "dictation": "He is attempting to clarify the mechanism of aging."
+    },
+    "4": {
+        "word": "injure",
+        "meaning": "けがをさせる",
+        "blank_word": "injured",
+        "blank_sentence": "A lot of people were injured in the accident.",
+        "reorder": "A<>lot<>of<>people<>were<>injured<>in<>the<>accident.",
+        "dictation": "A lot of people were injured in the accident."
+    },
+    "5": {
+        "word": "protect",
+        "meaning": "守る",
+        "blank_word": "protect",
+        "blank_sentence": "Wear the helmet to protect your head from falling rocks.",
+        "reorder": "Wear<>the<>helmet<>to<>protect<>your<>head<>from<>falling<>rocks.",
+        "dictation": "Wear the helmet to protect your head from falling rocks."
+    },
+    "6": {
+        "word": "heal",
+        "meaning": "治る",
+        "blank_word": "heal",
+        "blank_sentence": "It took two weeks for my eye injury to heal.",
+        "reorder": "It<>took<>two<>weeks<>for<>my<>eye<>injury<>to<>heal.",
+        "dictation": "It took two weeks for my eye injury to heal."
+    },
+    "7": {
+        "word": "master",
+        "meaning": "習得する",
+        "blank_word": "master",
+        "blank_sentence": "Don't think you can master English in such a short period.",
+        "reorder": "Don't<>think<>you<>can<>master<>English<>in<>such<>a<>short<>period.",
+        "dictation": "Don't think you can master English in such a short period."
+    },
+    "8": {
+        "word": "lock",
+        "meaning": "施錠する",
+        "blank_word": "locked",
+        "blank_sentence": "All the doors in this building can be locked with this master key.",
+        "reorder": "All<>the<>doors<>in<>this<>building<>can<>be<>locked<>with<>this<>master<>key.",
+        "dictation": "All the doors in this building can be locked with this master key."
+    },
+    "9": {
+        "word": "reveal",
+        "meaning": "明らかにする",
+        "blank_word": "revealed",
+        "blank_sentence": "The newspaper revealed our company's scandal.",
+        "reorder": "The<>newspaper<>revealed<>our<>company's<>scandal.",
+        "dictation": "The newspaper revealed our company's scandal."
+    },
+    "10": {
+        "word": "strike",
+        "meaning": "打つ",
+        "blank_word": "strike",
+        "blank_sentence": "With this tool, you can strike nails much faster than with a hammer.",
+        "reorder": "With<>this<>tool,<>you<>can<>strike<>nails<>much<>faster<>than<>with<>a<>hammer.",
+        "dictation": "With this tool, you can strike nails much faster than with a hammer."
+    },
+    "11": {
+        "word": "occur",
+        "meaning": "起こる",
+        "blank_word": "occurred",
+        "blank_sentence": "Serious nuclear accidents have occurred in America, Russia, and Japan.",
+        "reorder": "Serious<>nuclear<>accidents<>have<>occurred<>in<>America,<>Russia,<>and<>Japan.",
+        "dictation": "Serious nuclear accidents have occurred in America, Russia, and Japan."
+    },
+    "12": {
+        "word": "oppose",
+        "meaning": "反対する",
+        "blank_word": "opposed",
+        "blank_sentence": "The local people opposed the building of a nuclear plant.",
+        "reorder": "The<>local<>people<>opposed<>the<>building<>of<>a<>nuclear<>plant.",
+        "dictation": "The local people opposed the building of a nuclear plant."
+    },
+    "13": {
+        "word": "spread",
+        "meaning": "広げる",
+        "blank_word": "spread",
+        "blank_sentence": "The children spread a large sheet of paper and drew a map of their town.",
+        "reorder": "The<>children<>spread<>a<>large<>sheet<>of<>paper<>and<>drew<>a<>map<>of<>their<>town.",
+        "dictation": "The children spread a large sheet of paper and drew a map of their town."
+    },
+    "14": {
+        "word": "suffer",
+        "meaning": "苦しむ",
+        "blank_word": "suffering",
+        "blank_sentence": "He is suffering from a bad cold right now.",
+        "reorder": "He<>is<>suffering<>from<>a<>bad<>cold<>right<>now.",
+        "dictation": "He is suffering from a bad cold right now."
+    },
+    "15": {
+        "word": "deal",
+        "meaning": "扱う",
+        "blank_word": "deals",
+        "blank_sentence": "Do you know any travel agency that deals with trips to China?",
+        "reorder": "Do<>you<>know<>any<>travel<>agency<>that<>deals<>with<>trips<>to<>China?",
+        "dictation": "Do you know any travel agency that deals with trips to China?"
+    },
+    "16": {
+        "word": "sponsor",
+        "meaning": "後援する",
+        "blank_word": "sponsored",
+        "blank_sentence": "This research is sponsored by the national government.",
+        "reorder": "This<>research<>is<>sponsored<>by<>the<>national<>government.",
+        "dictation": "This research is sponsored by the national government."
+    },
+    "17": {
+        "word": "celebrate",
+        "meaning": "祝う",
+        "blank_word": "celebrate",
+        "blank_sentence": "The institute had a ceremony to celebrate its hundredth birthday.",
+        "reorder": "The<>institute<>had<>a<>ceremony<>to<>celebrate<>its<>hundredth<>birthday.",
+        "dictation": "The institute had a ceremony to celebrate its hundredth birthday."
+    },
+    "18": {
+        "word": "precious",
+        "meaning": "大切な",
+        "blank_word": "precious",
+        "blank_sentence": "Nothing is more precious to me than our children.",
+        "reorder": "Nothing<>is<>more<>precious<>to<>me<>than<>our<>children.",
+        "dictation": "Nothing is more precious to me than our children."
+    },
+    "19": {
+        "word": "amazing",
+        "meaning": "素晴らしい",
+        "blank_word": "amazing",
+        "blank_sentence": "This video shows the amazing world of the deep sea.",
+        "reorder": "This<>video<>shows<>the<>amazing<>world<>of<>the<>deep<>sea.",
+        "dictation": "This video shows the amazing world of the deep sea."
+    },
+    "20": {
+        "word": "complex",
+        "meaning": "複雑な",
+        "blank_word": "complex",
+        "blank_sentence": "It is good to solve a complex problem step by step.",
+        "reorder": "It<>is<>good<>to<>solve<>a<>complex<>problem<>step<>by<>step.",
+        "dictation": "It is good to solve a complex problem step by step."
+    },
+    "21": {
+        "word": "special",
+        "meaning": "特別な",
+        "blank_word": "special",
+        "blank_sentence": "You need a special account to access this server.",
+        "reorder": "You<>need<>a<>special<>account<>to<>access<>this<>server.",
+        "dictation": "You need a special account to access this server."
+    },
+    "22": {
+        "word": "official",
+        "meaning": "公式の",
+        "blank_word": "official",
+        "blank_sentence": "Our company was an official sponsor of the event.",
+        "reorder": "Our<>company<>was<>an<>official<>sponsor<>of<>the<>event.",
+        "dictation": "Our company was an official sponsor of the event."
+    },
+    "23": {
+        "word": "familiar",
+        "meaning": "よく知っている",
+        "blank_word": "familiar",
+        "blank_sentence": "Everybody here is familiar with computers.",
+        "reorder": "Everybody<>here<>is<>familiar<>with<>computers.",
+        "dictation": "Everybody here is familiar with computers."
+    },
+    "24": {
+        "word": "honest",
+        "meaning": "正直な",
+        "blank_word": "honest",
+        "blank_sentence": "You must be honest when you pay taxes.",
+        "reorder": "You<>must<>be<>honest<>when<>you<>pay<>taxes.",
+        "dictation": "You must be honest when you pay taxes."
+    },
+    "25": {
+        "word": "social",
+        "meaning": "社会の",
+        "blank_word": "social",
+        "blank_sentence": "Some social problems were discussed at the meeting.",
+        "reorder": "Some<>social<>problems<>were<>discussed<>at<>the<>meeting.",
+        "dictation": "Some social problems were discussed at the meeting."
+    }
+}

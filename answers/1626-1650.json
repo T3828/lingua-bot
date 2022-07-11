@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "adapt",
+        "meaning": "適合させる",
+        "blank_word": "adapting",
+        "blank_sentence": "Living things survive by adapting themselves to the environment.",
+        "reorder": "Living<>things<>survive<>by<>adapting<>themselves<>to<>the<>environment.",
+        "dictation": "Living things survive by adapting themselves to the environment."
+    },
+    "2": {
+        "word": "register",
+        "meaning": "登録する",
+        "blank_word": "registered",
+        "blank_sentence": "This car has been registered as an emergency vehicle.",
+        "reorder": "This<>car<>has<>been<>registered<>as<>an<>emergency<>vehicle.",
+        "dictation": "This car has been registered as an emergency vehicle."
+    },
+    "3": {
+        "word": "acquire",
+        "meaning": "習得する",
+        "blank_word": "acquire",
+        "blank_sentence": "How can I acquire programming skills?",
+        "reorder": "How<>can<>I<>acquire<>programming<>skills?",
+        "dictation": "How can I acquire programming skills?"
+    },
+    "4": {
+        "word": "compete",
+        "meaning": "競う",
+        "blank_word": "compete",
+        "blank_sentence": "Ten teams of the students will compete at the presentation contest.",
+        "reorder": "Ten<>teams<>of<>the<>students<>will<>compete<>at<>the<>presentation<>contest.",
+        "dictation": "Ten teams of the students will compete at the presentation contest."
+    },
+    "5": {
+        "word": "array",
+        "meaning": "配列する",
+        "blank_word": "arrayed",
+        "blank_sentence": "Lots of tiny probes are arrayed on this plastic board.",
+        "reorder": "Lots<>of<>tiny<>probes<>are<>arrayed<>on<>this<>plastic<>board.",
+        "dictation": "Lots of tiny probes are arrayed on this plastic board."
+    },
+    "6": {
+        "word": "crack",
+        "meaning": "割れ目",
+        "blank_word": "cracks",
+        "blank_sentence": "The ice caused a number of cracks in the road.",
+        "reorder": "The<>ice<>caused<>a<>number<>of<>cracks<>in<>the<>road.",
+        "dictation": "The ice caused a number of cracks in the road."
+    },
+    "7": {
+        "word": "fusion",
+        "meaning": "融合",
+        "blank_word": "fusion",
+        "blank_sentence": "No fusion reactors have yet been in practical use.",
+        "reorder": "No<>fusion<>reactors<>have<>yet<>been<>in<>practical<>use.",
+        "dictation": "No fusion reactors have yet been in practical use."
+    },
+    "8": {
+        "word": "fission",
+        "meaning": "分裂",
+        "blank_word": "fission",
+        "blank_sentence": "Nuclear energy is created through the fission of unstable atoms.",
+        "reorder": "Nuclear<>energy<>is<>created<>through<>the<>fission<>of<>unstable<>atoms.",
+        "dictation": "Nuclear energy is created through the fission of unstable atoms."
+    },
+    "9": {
+        "word": "disorder",
+        "meaning": "(心身の)障害",
+        "blank_word": "disorder",
+        "blank_sentence": "Some illegal drugs can cause a crucial brain disorder.",
+        "reorder": "Some<>illegal<>drugs<>can<>cause<>a<>crucial<>brain<>disorder.",
+        "dictation": "Some illegal drugs can cause a crucial brain disorder."
+    },
+    "10": {
+        "word": "defect",
+        "meaning": "欠陥",
+        "blank_word": "defect",
+        "blank_sentence": "A serious defect was found in the device.",
+        "reorder": "A<>serious<>defect<>was<>found<>in<>the<>device.",
+        "dictation": "A serious defect was found in the device."
+    },
+    "11": {
+        "word": "dialogue",
+        "meaning": "対話",
+        "blank_word": "dialogue",
+        "blank_sentence": "The dialogue between the political leaders was very constructive.",
+        "reorder": "The<>dialogue<>between<>the<>political<>leaders<>was<>very<>constructive.",
+        "dictation": "The dialogue between the political leaders was very constructive."
+    },
+    "12": {
+        "word": "sigh",
+        "meaning": "ため息",
+        "blank_word": "sigh",
+        "blank_sentence": "The fans in the stadium gave a big sigh when the player missed the goal.",
+        "reorder": "The<>fans<>in<>the<>stadium<>gave<>a<>big<>sigh<>when<>the<>player<>missed<>the<>goal.",
+        "dictation": "The fans in the stadium gave a big sigh when the player missed the goal."
+    },
+    "13": {
+        "word": "nest",
+        "meaning": "巣",
+        "blank_word": "nests",
+        "blank_sentence": "Swallows have built nests under the roof of the station.",
+        "reorder": "Swallows<>have<>built<>nests<>under<>the<>roof<>of<>the<>station.",
+        "dictation": "Swallows have built nests under the roof of the station."
+    },
+    "14": {
+        "word": "navy",
+        "meaning": "海軍",
+        "blank_word": "navy",
+        "blank_sentence": "Both of her sons joined the navy.",
+        "reorder": "Both<>of<>her<>sons<>joined<>the<>navy.",
+        "dictation": "Both of her sons joined the navy."
+    },
+    "15": {
+        "word": "army",
+        "meaning": "陸軍",
+        "blank_word": "army",
+        "blank_sentence": "Japan had both an army and a navy until the Pacific War ended.",
+        "reorder": "Japan<>had<>both<>an<>army<>and<>a<>navy<>until<>the<>Pacific<>War<>ended.",
+        "dictation": "Japan had both an army and a navy until the Pacific War ended."
+    },
+    "16": {
+        "word": "troop",
+        "meaning": "軍隊",
+        "blank_word": "troops",
+        "blank_sentence": "The foreign troops stayed in the country for peacekeeping operations.",
+        "reorder": "The<>foreign<>troops<>stayed<>in<>the<>country<>for<>peacekeeping<>operations.",
+        "dictation": "The foreign troops stayed in the country for peacekeeping operations."
+    },
+    "17": {
+        "word": "coalition",
+        "meaning": "連合",
+        "blank_word": "Coalition",
+        "blank_sentence": "Coalition troops have been fighting with the anti-government forces for weeks.",
+        "reorder": "Coalition<>troops<>have<>been<>fighting<>with<>the<>anti-government<>forces<>for<>weeks.",
+        "dictation": "Coalition troops have been fighting with the anti-government forces for weeks."
+    },
+    "18": {
+        "word": "officer",
+        "meaning": "役人",
+        "blank_word": "officer",
+        "blank_sentence": "The officer of the government is in charge of nuclear energy policy.",
+        "reorder": "The<>officer<>of<>the<>government<>is<>in<>charge<>of<>nuclear<>energy<>policy.",
+        "dictation": "The officer of the government is in charge of nuclear energy policy."
+    },
+    "19": {
+        "word": "missile",
+        "meaning": "ミサイル",
+        "blank_word": "missile",
+        "blank_sentence": "A missile and a rocket are basically the same.",
+        "reorder": "A<>missile<>and<>a<>rocket<>are<>basically<>the<>same.",
+        "dictation": "A missile and a rocket are basically the same."
+    },
+    "20": {
+        "word": "bomb",
+        "meaning": "爆弾",
+        "blank_word": "bombs",
+        "blank_sentence": "Hundreds of bombs are loaded onto each bomber.",
+        "reorder": "Hundreds<>of<>bombs<>are<>loaded<>onto<>each<>bomber.",
+        "dictation": "Hundreds of bombs are loaded onto each bomber."
+    },
+    "21": {
+        "word": "submarine",
+        "meaning": "潜水艦",
+        "blank_word": "submarine",
+        "blank_sentence": "The navy officer admitted that the submarine carried nuclear missiles.",
+        "reorder": "The<>navy<>officer<>admitted<>that<>the<>submarine<>carried<>nuclear<>missiles.",
+        "dictation": "The navy officer admitted that the submarine carried nuclear missiles."
+    },
+    "22": {
+        "word": "enemy",
+        "meaning": "敵",
+        "blank_word": "enemy",
+        "blank_sentence": "My best friend was once my enemy.",
+        "reorder": "My<>best<>friend<>was<>once<>my<>enemy.",
+        "dictation": "My best friend was once my enemy."
+    },
+    "23": {
+        "word": "conflict",
+        "meaning": "対立",
+        "blank_word": "conflicts",
+        "blank_sentence": "There have been conflicts between the two nations for years.",
+        "reorder": "There<>have<>been<>conflicts<>between<>the<>two<>nations<>for<>years.",
+        "dictation": "There have been conflicts between the two nations for years."
+    },
+    "24": {
+        "word": "religion",
+        "meaning": "宗教",
+        "blank_word": "religion",
+        "blank_sentence": "In the world, there are so many conflicts based on religion.",
+        "reorder": "In<>the<>world,<>there<>are<>so<>many<>conflicts<>based<>on<>religion.",
+        "dictation": "In the world, there are so many conflicts based on religion."
+    },
+    "25": {
+        "word": "myth",
+        "meaning": "神話",
+        "blank_word": "myth",
+        "blank_sentence": "This story is based on a religious myth.",
+        "reorder": "This<>story<>is<>based<>on<>a<>religious<>myth.",
+        "dictation": "This story is based on a religious myth."
+    }
+}

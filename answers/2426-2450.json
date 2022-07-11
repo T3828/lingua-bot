@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "knit",
+        "meaning": "編む",
+        "blank_word": "knit",
+        "blank_sentence": "The machine can knit sweaters automatically.",
+        "reorder": "The<>machine<>can<>knit<>sweaters<>automatically.",
+        "dictation": "The machine can knit sweaters automatically."
+    },
+    "2": {
+        "word": "condense",
+        "meaning": "凝結する",
+        "blank_word": "condenses",
+        "blank_sentence": "Water vapor in the air condenses into liquid water when it's cooled.",
+        "reorder": "Water<>vapor<>in<>the<>air<>condenses<>into<>liquid<>water<>when<>it's<>cooled.",
+        "dictation": "Water vapor in the air condenses into liquid water when it's cooled."
+    },
+    "3": {
+        "word": "inhabit",
+        "meaning": "～に生息する",
+        "blank_word": "inhabit",
+        "blank_sentence": "The fish can inhabit fresh water as well as seawater.",
+        "reorder": "The<>fish<>can<>inhabit<>fresh<>water<>as<>well<>as<>seawater.",
+        "dictation": "The fish can inhabit fresh water as well as seawater."
+    },
+    "4": {
+        "word": "praise",
+        "meaning": "ほめる",
+        "blank_word": "praised",
+        "blank_sentence": "The teacher praised his students' research paper.",
+        "reorder": "The<>teacher<>praised<>his<>students'<>research<>paper.",
+        "dictation": "The teacher praised his students' research paper."
+    },
+    "5": {
+        "word": "creep",
+        "meaning": "這う",
+        "blank_word": "creep",
+        "blank_sentence": "Insects creep out of their nests in spring.",
+        "reorder": "Insects<>creep<>out<>of<>their<>nests<>in<>spring.",
+        "dictation": "Insects creep out of their nests in spring."
+    },
+    "6": {
+        "word": "tolerate",
+        "meaning": "～に耐える",
+        "blank_word": "tolerate",
+        "blank_sentence": "He could somehow tolerate the pain in his knee during the game.",
+        "reorder": "He<>could<>somehow<>tolerate<>the<>pain<>in<>his<>knee<>during<>the<>game.",
+        "dictation": "He could somehow tolerate the pain in his knee during the game."
+    },
+    "7": {
+        "word": "nasty",
+        "meaning": "不快な",
+        "blank_word": "nasty",
+        "blank_sentence": "This nasty smell reminds me of the factories in my neighborhood.",
+        "reorder": "This<>nasty<>smell<>reminds<>me<>of<>the<>factories<>in<>my<>neighborhood.",
+        "dictation": "This nasty smell reminds me of the factories in my neighborhood."
+    },
+    "8": {
+        "word": "noble",
+        "meaning": "高貴な",
+        "blank_word": "Noble",
+        "blank_sentence": "Noble metals are chemically very stable.",
+        "reorder": "Noble<>metals<>are<>chemically<>very<>stable.",
+        "dictation": "Noble metals are chemically very stable."
+    },
+    "9": {
+        "word": "sincere",
+        "meaning": "誠実な",
+        "blank_word": "sincere",
+        "blank_sentence": "He is so sincere that everybody likes him.",
+        "reorder": "He<>is<>so<>sincere<>that<>everybody<>likes<>him.",
+        "dictation": "He is so sincere that everybody likes him."
+    },
+    "10": {
+        "word": "silly",
+        "meaning": "くだらない",
+        "blank_word": "silly",
+        "blank_sentence": "I asked him a silly question, but he answered sincerely.",
+        "reorder": "I<>asked<>him<>a<>silly<>question,<>but<>he<>answered<>sincerely.",
+        "dictation": "I asked him a silly question, but he answered sincerely."
+    },
+    "11": {
+        "word": "brittle",
+        "meaning": "もろい",
+        "blank_word": "brittle",
+        "blank_sentence": "The bones of older women are likely to become brittle through the loss of calcium.",
+        "reorder": "The<>bones<>of<>older<>women<>are<>likely<>to<>become<>brittle<>through<>the<>loss<>of<>calcium.",
+        "dictation": "The bones of older women are likely to become brittle through the loss of calcium."
+    },
+    "12": {
+        "word": "eager",
+        "meaning": "熱望している",
+        "blank_word": "eager",
+        "blank_sentence": "We are eager for the project to succeed.",
+        "reorder": "We<>are<>eager<>for<>the<>project<>to<>succeed.",
+        "dictation": "We are eager for the project to succeed."
+    },
+    "13": {
+        "word": "awkward",
+        "meaning": "ぎこちない",
+        "blank_word": "awkward",
+        "blank_sentence": "The new students are still awkward at experimenting.",
+        "reorder": "The<>new<>students<>are<>still<>awkward<>at<>experimenting.",
+        "dictation": "The new students are still awkward at experimenting."
+    },
+    "14": {
+        "word": "mess",
+        "meaning": "散らかった物・状態",
+        "blank_word": "mess",
+        "blank_sentence": "Clean up the mess you made in this room.",
+        "reorder": "Clean<>up<>the<>mess<>you<>made<>in<>this<>room.",
+        "dictation": "Clean up the mess you made in this room."
+    },
+    "15": {
+        "word": "quarrel",
+        "meaning": "口論",
+        "blank_word": "quarrels",
+        "blank_sentence": "The couple always has quarrels about their child.",
+        "reorder": "The<>couple<>always<>has<>quarrels<>about<>their<>child.",
+        "dictation": "The couple always has quarrels about their child."
+    },
+    "16": {
+        "word": "honor",
+        "meaning": "光栄",
+        "blank_word": "honor",
+        "blank_sentence": "It is a great honor to meet you.",
+        "reorder": "It<>is<>a<>great<>honor<>to<>meet<>you.",
+        "dictation": "It is a great honor to meet you."
+    },
+    "17": {
+        "word": "shame",
+        "meaning": "恥",
+        "blank_word": "shame",
+        "blank_sentence": "It's a shame that you said such a silly thing.",
+        "reorder": "It's<>a<>shame<>that<>you<>said<>such<>a<>silly<>thing.",
+        "dictation": "It's a shame that you said such a silly thing."
+    },
+    "18": {
+        "word": "revenge",
+        "meaning": "復讐",
+        "blank_word": "revenge",
+        "blank_sentence": "They took revenge for an unreasonable attack.",
+        "reorder": "They<>took<>revenge<>for<>an<>unreasonable<>attack.",
+        "dictation": "They took revenge for an unreasonable attack."
+    },
+    "19": {
+        "word": "misuse",
+        "meaning": "乱用",
+        "blank_word": "misuse",
+        "blank_sentence": "The city organized a campaign to prevent the misuse of drugs.",
+        "reorder": "The<>city<>organized<>a<>campaign<>to<>prevent<>the<>misuse<>of<>drugs.",
+        "dictation": "The city organized a campaign to prevent the misuse of drugs."
+    },
+    "20": {
+        "word": "pity",
+        "meaning": "哀れみ",
+        "blank_word": "pity",
+        "blank_sentence": "She felt pity for the abandoned dog and fed it every day.",
+        "reorder": "She<>felt<>pity<>for<>the<>abandoned<>dog<>and<>fed<>it<>every<>day.",
+        "dictation": "She felt pity for the abandoned dog and fed it every day."
+    },
+    "21": {
+        "word": "slate",
+        "meaning": "スレート",
+        "blank_word": "Slate",
+        "blank_sentence": "Slate is often used as roofing tiles.",
+        "reorder": "Slate<>is<>often<>used<>as<>roofing<>tiles.",
+        "dictation": "Slate is often used as roofing tiles."
+    },
+    "22": {
+        "word": "estate",
+        "meaning": "不動産(権)",
+        "blank_word": "estate",
+        "blank_sentence": "A lot of companies invest in real estate.",
+        "reorder": "A<>lot<>of<>companies<>invest<>in<>real<>estate.",
+        "dictation": "A lot of companies invest in real estate."
+    },
+    "23": {
+        "word": "monument",
+        "meaning": "記念碑",
+        "blank_word": "monument",
+        "blank_sentence": "A monument for the soldiers was set up at the old battle site.",
+        "reorder": "A<>monument<>for<>the<>soldiers<>was<>set<>up<>at<>the<>old<>battle<>site.",
+        "dictation": "A monument for the soldiers was set up at the old battle site."
+    },
+    "24": {
+        "word": "statue",
+        "meaning": "像",
+        "blank_word": "statue",
+        "blank_sentence": "The stone statue has been damaged by acid rain.",
+        "reorder": "The<>stone<>statue<>has<>been<>damaged<>by<>acid<>rain.",
+        "dictation": "The stone statue has been damaged by acid rain."
+    },
+    "25": {
+        "word": "complement",
+        "meaning": "補うもの",
+        "blank_word": "complement",
+        "blank_sentence": "This web site can be a perfect complement to newspapers.",
+        "reorder": "This<>web<>site<>can<>be<>a<>perfect<>complement<>to<>newspapers.",
+        "dictation": "This web site can be a perfect complement to newspapers."
+    }
+}

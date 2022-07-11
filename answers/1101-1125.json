@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "fluent",
+        "meaning": "流ちょうな",
+        "blank_word": "fluent",
+        "blank_sentence": "That foreign professor speaks fluent Japanese.",
+        "reorder": "That<>foreign<>professor<>speaks<>fluent<>Japanese.",
+        "dictation": "That foreign professor speaks fluent Japanese."
+    },
+    "2": {
+        "word": "immense",
+        "meaning": "広大な",
+        "blank_word": "immense",
+        "blank_sentence": "The earth is like a piece of dust in the immense universe.",
+        "reorder": "The<>earth<>is<>like<>a<>piece<>of<>dust<>in<>the<>immense<>universe.",
+        "dictation": "The earth is like a piece of dust in the immense universe."
+    },
+    "3": {
+        "word": "tremendous",
+        "meaning": "途方もない",
+        "blank_word": "tremendous",
+        "blank_sentence": "Genetic engineering has tremendous potential to provide benefits for human beings.",
+        "reorder": "Genetic<>engineering<>has<>tremendous<>potential<>to<>provide<>benefits<>for<>human<>beings.",
+        "dictation": "Genetic engineering has tremendous potential to provide benefits for human beings."
+    },
+    "4": {
+        "word": "due",
+        "meaning": "～することになっている",
+        "blank_word": "due",
+        "blank_sentence": "He is due to return from Europe this weekend.",
+        "reorder": "He<>is<>due<>to<>return<>from<>Europe<>this<>weekend.",
+        "dictation": "He is due to return from Europe this weekend."
+    },
+    "5": {
+        "word": "lick",
+        "meaning": "舐める",
+        "blank_word": "licked",
+        "blank_sentence": "He licked the stamp to stick it on the envelope.",
+        "reorder": "He<>licked<>the<>stamp<>to<>stick<>it<>on<>the<>envelope.",
+        "dictation": "He licked the stamp to stick it on the envelope."
+    },
+    "6": {
+        "word": "cough",
+        "meaning": "咳をする",
+        "blank_word": "coughing",
+        "blank_sentence": "Take this medicine when you want to stop coughing.",
+        "reorder": "Take<>this<>medicine<>when<>you<>want<>to<>stop<>coughing.",
+        "dictation": "Take this medicine when you want to stop coughing."
+    },
+    "7": {
+        "word": "sneeze",
+        "meaning": "くしゃみをする",
+        "blank_word": "sneeze",
+        "blank_sentence": "Cover your mouth when you sneeze.",
+        "reorder": "Cover<>your<>mouth<>when<>you<>sneeze.",
+        "dictation": "Cover your mouth when you sneeze."
+    },
+    "8": {
+        "word": "yawn",
+        "meaning": "あくびする",
+        "blank_word": "yawn",
+        "blank_sentence": "I tried hard not to yawn during the class.",
+        "reorder": "I<>tried<>hard<>not<>to<>yawn<>during<>the<>class.",
+        "dictation": "I tried hard not to yawn during the class."
+    },
+    "9": {
+        "word": "tend",
+        "meaning": "～する傾向がある",
+        "blank_word": "tend",
+        "blank_sentence": "Japanese people tend to work long hours.",
+        "reorder": "Japanese<>people<>tend<>to<>work<>long<>hours.",
+        "dictation": "Japanese people tend to work long hours."
+    },
+    "10": {
+        "word": "promise",
+        "meaning": "約束する",
+        "blank_word": "promised",
+        "blank_sentence": "They promised to reduce the electric rate.",
+        "reorder": "They<>promised<>to<>reduce<>the<>electric<>rate.",
+        "dictation": "They promised to reduce the electric rate."
+    },
+    "11": {
+        "word": "establish",
+        "meaning": "設立する",
+        "blank_word": "established",
+        "blank_sentence": "This college was established a hundred years ago.",
+        "reorder": "This<>college<>was<>established<>a<>hundred<>years<>ago.",
+        "dictation": "This college was established a hundred years ago."
+    },
+    "12": {
+        "word": "slash",
+        "meaning": "切る",
+        "blank_word": "slash",
+        "blank_sentence": "The president decided to slash the research budget.",
+        "reorder": "The<>president<>decided<>to<>slash<>the<>research<>budget.",
+        "dictation": "The president decided to slash the research budget."
+    },
+    "13": {
+        "word": "peel",
+        "meaning": "はがれる",
+        "blank_word": "peeling",
+        "blank_sentence": "The paint of the car is partly peeling.",
+        "reorder": "The<>paint<>of<>the<>car<>is<>partly<>peeling.",
+        "dictation": "The paint of the car is partly peeling."
+    },
+    "14": {
+        "word": "fry",
+        "meaning": "揚げる",
+        "blank_word": "fry",
+        "blank_sentence": "We use vegetable oil to fry potatoes.",
+        "reorder": "We<>use<>vegetable<>oil<>to<>fry<>potatoes.",
+        "dictation": "We use vegetable oil to fry potatoes."
+    },
+    "15": {
+        "word": "achieve",
+        "meaning": "達成する",
+        "blank_word": "achieved",
+        "blank_sentence": "Our company achieved its goal of selling one million cars a year.",
+        "reorder": "Our<>company<>achieved<>its<>goal<>of<>selling<>one<>million<>cars<>a<>year.",
+        "dictation": "Our company achieved its goal of selling one million cars a year."
+    },
+    "16": {
+        "word": "replace",
+        "meaning": "取り替える",
+        "blank_word": "replaced",
+        "blank_sentence": "The factory replaced all its lights with LED lamps.",
+        "reorder": "The<>factory<>replaced<>all<>its<>lights<>with<>LED<>lamps.",
+        "dictation": "The factory replaced all its lights with LED lamps."
+    },
+    "17": {
+        "word": "emerge",
+        "meaning": "現れる",
+        "blank_word": "emerged",
+        "blank_sentence": "We study how life emerged on the earth.",
+        "reorder": "We<>study<>how<>life<>emerged<>on<>the<>earth.",
+        "dictation": "We study how life emerged on the earth."
+    },
+    "18": {
+        "word": "scare",
+        "meaning": "おびえさせる",
+        "blank_word": "scare",
+        "blank_sentence": "A doctor in a white coat alone can scare small children.",
+        "reorder": "A<>doctor<>in<>a<>white<>coat<>alone<>can<>scare<>small<>children.",
+        "dictation": "A doctor in a white coat alone can scare small children."
+    },
+    "19": {
+        "word": "communicate",
+        "meaning": "伝える",
+        "blank_word": "communicate",
+        "blank_sentence": "It is difficult to communicate personal feelings in a foreign language.",
+        "reorder": "It<>is<>difficult<>to<>communicate<>personal<>feelings<>in<>a<>foreign<>language.",
+        "dictation": "It is difficult to communicate personal feelings in a foreign language."
+    },
+    "20": {
+        "word": "interview",
+        "meaning": "面接",
+        "blank_word": "interview",
+        "blank_sentence": "The interview is due after the written test.",
+        "reorder": "The<>interview<>is<>due<>after<>the<>written<>test.",
+        "dictation": "The interview is due after the written test."
+    },
+    "21": {
+        "word": "bit",
+        "meaning": "少量",
+        "blank_word": "bit",
+        "blank_sentence": "Just a tiny bit of this chemical can kill hundreds of people.",
+        "reorder": "Just<>a<>tiny<>bit<>of<>this<>chemical<>can<>kill<>hundreds<>of<>people.",
+        "dictation": "Just a tiny bit of this chemical can kill hundreds of people."
+    },
+    "22": {
+        "word": "ability",
+        "meaning": "能力",
+        "blank_word": "ability",
+        "blank_sentence": "I want to have the ability to speak English fluently.",
+        "reorder": "I<>want<>to<>have<>the<>ability<>to<>speak<>English<>fluently.",
+        "dictation": "I want to have the ability to speak English fluently."
+    },
+    "23": {
+        "word": "fame",
+        "meaning": "名声",
+        "blank_word": "fame",
+        "blank_sentence": "The mathematician established his fame in his twenties.",
+        "reorder": "The<>mathematician<>established<>his<>fame<>in<>his<>twenties.",
+        "dictation": "The mathematician established his fame in his twenties."
+    },
+    "24": {
+        "word": "feedback",
+        "meaning": "意見",
+        "blank_word": "feedback",
+        "blank_sentence": "We welcome your feedback at any time.",
+        "reorder": "We<>welcome<>your<>feedback<>at<>any<>time.",
+        "dictation": "We welcome your feedback at any time."
+    },
+    "25": {
+        "word": "culture",
+        "meaning": "文化",
+        "blank_word": "culture",
+        "blank_sentence": "Technology and culture are closely related.",
+        "reorder": "Technology<>and<>culture<>are<>closely<>related.",
+        "dictation": "Technology and culture are closely related."
+    }
+}

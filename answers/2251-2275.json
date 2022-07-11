@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "hormone",
+        "meaning": "ホルモン",
+        "blank_word": "hormone",
+        "blank_sentence": "Scientists were looking for the hormone that controls sleep in humans.",
+        "reorder": "Scientists<>were<>looking<>for<>the<>hormone<>that<>controls<>sleep<>in<>humans.",
+        "dictation": "Scientists were looking for the hormone that controls sleep in humans."
+    },
+    "2": {
+        "word": "insulin",
+        "meaning": "インシュリン",
+        "blank_word": "Insulin",
+        "blank_sentence": "Insulin is a hormone that controls the blood glucose level.",
+        "reorder": "Insulin<>is<>a<>hormone<>that<>controls<>the<>blood<>glucose<>level.",
+        "dictation": "Insulin is a hormone that controls the blood glucose level."
+    },
+    "3": {
+        "word": "ammonia",
+        "meaning": "アンモニア",
+        "blank_word": "Ammonia",
+        "blank_sentence": "Ammonia is a gas which dissolves easily in water.",
+        "reorder": "Ammonia<>is<>a<>gas<>which<>dissolves<>easily<>in<>water.",
+        "dictation": "Ammonia is a gas which dissolves easily in water."
+    },
+    "4": {
+        "word": "urine",
+        "meaning": "尿",
+        "blank_word": "urine",
+        "blank_sentence": "A urine test is part of the medical check-up.",
+        "reorder": "A<>urine<>test<>is<>part<>of<>the<>medical<>check-up.",
+        "dictation": "A urine test is part of the medical check-up."
+    },
+    "5": {
+        "word": "lime",
+        "meaning": "石灰",
+        "blank_word": "lime",
+        "blank_sentence": "We must decide how much lime to add to raise the soil's pH.",
+        "reorder": "We<>must<>decide<>how<>much<>lime<>to<>add<>to<>raise<>the<>soil's<>pH.",
+        "dictation": "We must decide how much lime to add to raise the soil's pH."
+    },
+    "6": {
+        "word": "ash",
+        "meaning": "灰",
+        "blank_word": "ash",
+        "blank_sentence": "The whole city was covered with ash after the volcanic eruption.",
+        "reorder": "The<>whole<>city<>was<>covered<>with<>ash<>after<>the<>volcanic<>eruption.",
+        "dictation": "The whole city was covered with ash after the volcanic eruption."
+    },
+    "7": {
+        "word": "apparatus",
+        "meaning": "装置",
+        "blank_word": "apparatus",
+        "blank_sentence": "The apparatus is used to monitor reaction rate.",
+        "reorder": "The<>apparatus<>is<>used<>to<>monitor<>reaction<>rate.",
+        "dictation": "The apparatus is used to monitor reaction rate."
+    },
+    "8": {
+        "word": "thrust",
+        "meaning": "推力",
+        "blank_word": "thrust",
+        "blank_sentence": "The aircraft accelerates when its thrust is greater than the air resistance.",
+        "reorder": "The<>aircraft<>accelerates<>when<>its<>thrust<>is<>greater<>than<>the<>air<>resistance.",
+        "dictation": "The aircraft accelerates when its thrust is greater than the air resistance."
+    },
+    "9": {
+        "word": "convection",
+        "meaning": "対流",
+        "blank_word": "convection",
+        "blank_sentence": "Heat travels by convection in air and water.",
+        "reorder": "Heat<>travels<>by<>convection<>in<>air<>and<>water.",
+        "dictation": "Heat travels by convection in air and water."
+    },
+    "10": {
+        "word": "district",
+        "meaning": "地区",
+        "blank_word": "district",
+        "blank_sentence": "Ten thousand people live in this district.",
+        "reorder": "Ten<>thousand<>people<>live<>in<>this<>district.",
+        "dictation": "Ten thousand people live in this district."
+    },
+    "11": {
+        "word": "wisdom",
+        "meaning": "知恵",
+        "blank_word": "wisdom",
+        "blank_sentence": "You gain wisdom through the experiences in your life.",
+        "reorder": "You<>gain<>wisdom<>through<>the<>experiences<>in<>your<>life.",
+        "dictation": "You gain wisdom through the experiences in your life."
+    },
+    "12": {
+        "word": "compensate",
+        "meaning": "補う",
+        "blank_word": "compensate",
+        "blank_sentence": "When you sweat, you have to drink water to compensate for the fluid loss.",
+        "reorder": "When<>you<>sweat,<>you<>have<>to<>drink<>water<>to<>compensate<>for<>the<>fluid<>loss.",
+        "dictation": "When you sweat, you have to drink water to compensate for the fluid loss."
+    },
+    "13": {
+        "word": "swear",
+        "meaning": "誓う",
+        "blank_word": "swear",
+        "blank_sentence": "I swear that I will never make the same mistake again.",
+        "reorder": "I<>swear<>that<>I<>will<>never<>make<>the<>same<>mistake<>again.",
+        "dictation": "I swear that I will never make the same mistake again."
+    },
+    "14": {
+        "word": "astonish",
+        "meaning": "驚かす",
+        "blank_word": "astonished",
+        "blank_sentence": "We were all astonished by his promotion.",
+        "reorder": "We<>were<>all<>astonished<>by<>his<>promotion.",
+        "dictation": "We were all astonished by his promotion."
+    },
+    "15": {
+        "word": "possess",
+        "meaning": "保有する",
+        "blank_word": "possess",
+        "blank_sentence": "We don't know exactly the number of nations that possess nuclear weapons.",
+        "reorder": "We<>don't<>know<>exactly<>the<>number<>of<>nations<>that<>possess<>nuclear<>weapons.",
+        "dictation": "We don't know exactly the number of nations that possess nuclear weapons."
+    },
+    "16": {
+        "word": "exploit",
+        "meaning": "開発する",
+        "blank_word": "exploit",
+        "blank_sentence": "The company is going to exploit domestic natural resources.",
+        "reorder": "The<>company<>is<>going<>to<>exploit<>domestic<>natural<>resources.",
+        "dictation": "The company is going to exploit domestic natural resources."
+    },
+    "17": {
+        "word": "retreat",
+        "meaning": "退却する",
+        "blank_word": "retreated",
+        "blank_sentence": "The army retreated from the battlefield to the safety of the forest.",
+        "reorder": "The<>army<>retreated<>from<>the<>battlefield<>to<>the<>safety<>of<>the<>forest.",
+        "dictation": "The army retreated from the battlefield to the safety of the forest."
+    },
+    "18": {
+        "word": "assure",
+        "meaning": "保証する",
+        "blank_word": "assure",
+        "blank_sentence": "The government should assure the safety and quality of food.",
+        "reorder": "The<>government<>should<>assure<>the<>safety<>and<>quality<>of<>food.",
+        "dictation": "The government should assure the safety and quality of food."
+    },
+    "19": {
+        "word": "starve",
+        "meaning": "飢えに苦しむ",
+        "blank_word": "starving",
+        "blank_sentence": "Many people in the world are still starving.",
+        "reorder": "Many<>people<>in<>the<>world<>are<>still<>starving.",
+        "dictation": "Many people in the world are still starving."
+    },
+    "20": {
+        "word": "wreck",
+        "meaning": "破壊する",
+        "blank_word": "wrecked",
+        "blank_sentence": "My car was wrecked when it crashed into the wall.",
+        "reorder": "My<>car<>was<>wrecked<>when<>it<>crashed<>into<>the<>wall.",
+        "dictation": "My car was wrecked when it crashed into the wall."
+    },
+    "21": {
+        "word": "rational",
+        "meaning": "合理的な",
+        "blank_word": "rational",
+        "blank_sentence": "There is no rational explanation for this mysterious phenomenon.",
+        "reorder": "There<>is<>no<>rational<>explanation<>for<>this<>mysterious<>phenomenon.",
+        "dictation": "There is no rational explanation for this mysterious phenomenon."
+    },
+    "22": {
+        "word": "innocent",
+        "meaning": "無実の",
+        "blank_word": "innocent",
+        "blank_sentence": "He was found innocent of the crime which he was accused of.",
+        "reorder": "He<>was<>found<>innocent<>of<>the<>crime<>which<>he<>was<>accused<>of.",
+        "dictation": "He was found innocent of the crime which he was accused of."
+    },
+    "23": {
+        "word": "aggressive",
+        "meaning": "強引な",
+        "blank_word": "aggressive",
+        "blank_sentence": "You must be aggressive in a sense to succeed in this industry.",
+        "reorder": "You<>must<>be<>aggressive<>in<>a<>sense<>to<>succeed<>in<>this<>industry.",
+        "dictation": "You must be aggressive in a sense to succeed in this industry."
+    },
+    "24": {
+        "word": "brilliant",
+        "meaning": "素晴らしい",
+        "blank_word": "brilliant",
+        "blank_sentence": "Putting cameras in cell phones was a brilliant idea.",
+        "reorder": "Putting<>cameras<>in<>cell<>phones<>was<>a<>brilliant<>idea.",
+        "dictation": "Putting cameras in cell phones was a brilliant idea."
+    },
+    "25": {
+        "word": "abundant",
+        "meaning": "豊かな",
+        "blank_word": "abundant",
+        "blank_sentence": "Giant pandas need abundant bamboo forest to live in.",
+        "reorder": "Giant<>pandas<>need<>abundant<>bamboo<>forest<>to<>live<>in.",
+        "dictation": "Giant pandas need abundant bamboo forest to live in."
+    }
+}

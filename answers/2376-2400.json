@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "merchant",
+        "meaning": "商人",
+        "blank_word": "merchant",
+        "blank_sentence": "The merchant distributed all the merchandise in storage to the people in the disaster area.",
+        "reorder": "The<>merchant<>distributed<>all<>the<>merchandise<>in<>storage<>to<>the<>people<>in<>the<>disaster<>area.",
+        "dictation": "The merchant distributed all the merchandise in storage to the people in the disaster area."
+    },
+    "2": {
+        "word": "lump",
+        "meaning": "こぶ",
+        "blank_word": "lump",
+        "blank_sentence": "I bumped my head and developed a lump on my forehead.",
+        "reorder": "I<>bumped<>my<>head<>and<>developed<>a<>lump<>on<>my<>forehead.",
+        "dictation": "I bumped my head and developed a lump on my forehead."
+    },
+    "3": {
+        "word": "jar",
+        "meaning": "びん",
+        "blank_word": "jar",
+        "blank_sentence": "Magnesium burned brightly in a gas jar of pure oxygen.",
+        "reorder": "Magnesium<>burned<>brightly<>in<>a<>gas<>jar<>of<>pure<>oxygen.",
+        "dictation": "Magnesium burned brightly in a gas jar of pure oxygen."
+    },
+    "4": {
+        "word": "stain",
+        "meaning": "しみ",
+        "blank_word": "stains",
+        "blank_sentence": "Water is not good for removing oil stains.",
+        "reorder": "Water<>is<>not<>good<>for<>removing<>oil<>stains.",
+        "dictation": "Water is not good for removing oil stains."
+    },
+    "5": {
+        "word": "odor",
+        "meaning": "におい",
+        "blank_word": "odor",
+        "blank_sentence": "You can tell this milk is sour by its odor.",
+        "reorder": "You<>can<>tell<>this<>milk<>is<>sour<>by<>its<>odor.",
+        "dictation": "You can tell this milk is sour by its odor."
+    },
+    "6": {
+        "word": "foul",
+        "meaning": "不快な",
+        "blank_word": "foul",
+        "blank_sentence": "The flower releases a foul odor, but some insects are attracted to it.",
+        "reorder": "The<>flower<>releases<>a<>foul<>odor,<>but<>some<>insects<>are<>attracted<>to<>it.",
+        "dictation": "The flower releases a foul odor, but some insects are attracted to it."
+    },
+    "7": {
+        "word": "fierce",
+        "meaning": "激しい",
+        "blank_word": "fierce",
+        "blank_sentence": "Researchers in genetic engineering are engaging in fierce competition.",
+        "reorder": "Researchers<>in<>genetic<>engineering<>are<>engaging<>in<>fierce<>competition.",
+        "dictation": "Researchers in genetic engineering are engaging in fierce competition."
+    },
+    "8": {
+        "word": "elaborate",
+        "meaning": "精巧な",
+        "blank_word": "elaborate",
+        "blank_sentence": "The factory became famous for its elaborate finishing of metal surfaces.",
+        "reorder": "The<>factory<>became<>famous<>for<>its<>elaborate<>finishing<>of<>metal<>surfaces.",
+        "dictation": "The factory became famous for its elaborate finishing of metal surfaces."
+    },
+    "9": {
+        "word": "hostile",
+        "meaning": "敵意のある",
+        "blank_word": "hostile",
+        "blank_sentence": "The two nations used to be hostile to each other.",
+        "reorder": "The<>two<>nations<>used<>to<>be<>hostile<>to<>each<>other.",
+        "dictation": "The two nations used to be hostile to each other."
+    },
+    "10": {
+        "word": "optimum",
+        "meaning": "最適の",
+        "blank_word": "optimum",
+        "blank_sentence": "What is the optimum temperature for this reaction?",
+        "reorder": "What<>is<>the<>optimum<>temperature<>for<>this<>reaction?",
+        "dictation": "What is the optimum temperature for this reaction?"
+    },
+    "11": {
+        "word": "outstanding",
+        "meaning": "すぐれた",
+        "blank_word": "outstanding",
+        "blank_sentence": "This prize is awarded for outstanding study results.",
+        "reorder": "This<>prize<>is<>awarded<>for<>outstanding<>study<>results.",
+        "dictation": "This prize is awarded for outstanding study results."
+    },
+    "12": {
+        "word": "stationary",
+        "meaning": "静止した",
+        "blank_word": "stationary",
+        "blank_sentence": "Viewed from the earth, a satellite in stationary orbit seems not to be moving.",
+        "reorder": "Viewed<>from<>the<>earth,<>a<>satellite<>in<>stationary<>orbit<>seems<>not<>to<>be<>moving.",
+        "dictation": "Viewed from the earth, a satellite in stationary orbit seems not to be moving."
+    },
+    "13": {
+        "word": "compulsory",
+        "meaning": "必修の",
+        "blank_word": "compulsory",
+        "blank_sentence": "This is a compulsory subject in the department of mechanical engineering.",
+        "reorder": "This<>is<>a<>compulsory<>subject<>in<>the<>department<>of<>mechanical<>engineering.",
+        "dictation": "This is a compulsory subject in the department of mechanical engineering."
+    },
+    "14": {
+        "word": "icy",
+        "meaning": "凍結した",
+        "blank_word": "icy",
+        "blank_sentence": "You must use winter tires when you drive on icy roads.",
+        "reorder": "You<>must<>use<>winter<>tires<>when<>you<>drive<>on<>icy<>roads.",
+        "dictation": "You must use winter tires when you drive on icy roads."
+    },
+    "15": {
+        "word": "vigorous",
+        "meaning": "元気な",
+        "blank_word": "vigorous",
+        "blank_sentence": "The retired professor is still as vigorous as a young man.",
+        "reorder": "The<>retired<>professor<>is<>still<>as<>vigorous<>as<>a<>young<>man.",
+        "dictation": "The retired professor is still as vigorous as a young man."
+    },
+    "16": {
+        "word": "liable",
+        "meaning": "責任がある",
+        "blank_word": "liable",
+        "blank_sentence": "Parents are liable for any damage done by their children.",
+        "reorder": "Parents<>are<>liable<>for<>any<>damage<>done<>by<>their<>children.",
+        "dictation": "Parents are liable for any damage done by their children."
+    },
+    "17": {
+        "word": "neat",
+        "meaning": "整頓された",
+        "blank_word": "neat",
+        "blank_sentence": "The laboratory must always be neat and clean.",
+        "reorder": "The<>laboratory<>must<>always<>be<>neat<>and<>clean.",
+        "dictation": "The laboratory must always be neat and clean."
+    },
+    "18": {
+        "word": "vague",
+        "meaning": "あいまいな",
+        "blank_word": "vague",
+        "blank_sentence": "The teacher's instructions were so vague that we didn't understand the procedure.",
+        "reorder": "The<>teacher's<>instructions<>were<>so<>vague<>that<>we<>didn't<>understand<>the<>procedure.",
+        "dictation": "The teacher's instructions were so vague that we didn't understand the procedure."
+    },
+    "19": {
+        "word": "displace",
+        "meaning": "移動させる",
+        "blank_word": "displaced",
+        "blank_sentence": "The amount of water displaced by an object is equal to the volume of the object.",
+        "reorder": "The<>amount<>of<>water<>displaced<>by<>an<>object<>is<>equal<>to<>the<>volume<>of<>the<>object.",
+        "dictation": "The amount of water displaced by an object is equal to the volume of the object."
+    },
+    "20": {
+        "word": "pronounce",
+        "meaning": "発音する",
+        "blank_word": "pronounce",
+        "blank_sentence": "Will you tell me how to pronounce these technical terms?",
+        "reorder": "Will<>you<>tell<>me<>how<>to<>pronounce<>these<>technical<>terms?",
+        "dictation": "Will you tell me how to pronounce these technical terms?"
+    },
+    "21": {
+        "word": "initiate",
+        "meaning": "始める",
+        "blank_word": "initiate",
+        "blank_sentence": "We have to initiate radiation therapy for his cancer as soon as possible.",
+        "reorder": "We<>have<>to<>initiate<>radiation<>therapy<>for<>his<>cancer<>as<>soon<>as<>possible.",
+        "dictation": "We have to initiate radiation therapy for his cancer as soon as possible."
+    },
+    "22": {
+        "word": "stab",
+        "meaning": "突き刺す",
+        "blank_word": "stabbed",
+        "blank_sentence": "The man was stabbed in the back.",
+        "reorder": "The<>man<>was<>stabbed<>in<>the<>back.",
+        "dictation": "The man was stabbed in the back."
+    },
+    "23": {
+        "word": "soak",
+        "meaning": "(液体に)つける",
+        "blank_word": "soak",
+        "blank_sentence": "You need to soak those beans in water for a whole day to make them tender.",
+        "reorder": "You<>need<>to<>soak<>those<>beans<>in<>water<>for<>a<>whole<>day<>to<>make<>them<>tender.",
+        "dictation": "You need to soak those beans in water for a whole day to make them tender."
+    },
+    "24": {
+        "word": "confront",
+        "meaning": "立ち向かう",
+        "blank_word": "confront",
+        "blank_sentence": "You must confront a lot of difficulties from now on.",
+        "reorder": "You<>must<>confront<>a<>lot<>of<>difficulties<>from<>now<>on.",
+        "dictation": "You must confront a lot of difficulties from now on."
+    },
+    "25": {
+        "word": "restrain",
+        "meaning": "抑える",
+        "blank_word": "restrains",
+        "blank_sentence": "This drug restrains the growth of cancer cells.",
+        "reorder": "This<>drug<>restrains<>the<>growth<>of<>cancer<>cells.",
+        "dictation": "This drug restrains the growth of cancer cells."
+    }
+}

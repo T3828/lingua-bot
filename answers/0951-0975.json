@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "encourage",
+        "meaning": "促す",
+        "blank_word": "encourage",
+        "blank_sentence": "There are many posters to encourage us to recycle waste.",
+        "reorder": "There<>are<>many<>posters<>to<>encourage<>us<>to<>recycle<>waste.",
+        "dictation": "There are many posters to encourage us to recycle waste."
+    },
+    "2": {
+        "word": "separate",
+        "meaning": "分ける",
+        "blank_word": "separate",
+        "blank_sentence": "These tools are used to separate fossils from rocks.",
+        "reorder": "These<>tools<>are<>used<>to<>separate<>fossils<>from<>rocks.",
+        "dictation": "These tools are used to separate fossils from rocks."
+    },
+    "3": {
+        "word": "review",
+        "meaning": "再検討する",
+        "blank_word": "review",
+        "blank_sentence": "It is important to review previous work in scientific studies.",
+        "reorder": "It<>is<>important<>to<>review<>previous<>work<>in<>scientific<>studies.",
+        "dictation": "It is important to review previous work in scientific studies."
+    },
+    "4": {
+        "word": "appear",
+        "meaning": "現れる",
+        "blank_word": "appear",
+        "blank_sentence": "He predicted that many shooting stars would appear that night.",
+        "reorder": "He<>predicted<>that<>many<>shooting<>stars<>would<>appear<>that<>night.",
+        "dictation": "He predicted that many shooting stars would appear that night."
+    },
+    "5": {
+        "word": "tap",
+        "meaning": "(軽く)たたく",
+        "blank_word": "tapped",
+        "blank_sentence": "She tapped the basket to separate the flour from the rice.",
+        "reorder": "She<>tapped<>the<>basket<>to<>separate<>the<>flour<>from<>the<>rice.",
+        "dictation": "She tapped the basket to separate the flour from the rice."
+    },
+    "6": {
+        "word": "somehow",
+        "meaning": "なんとかして",
+        "blank_word": "somehow",
+        "blank_sentence": "If we can somehow solve this problem, we will win the robot contest.",
+        "reorder": "If<>we<>can<>somehow<>solve<>this<>problem,<>we<>will<>win<>the<>robot<>contest.",
+        "dictation": "If we can somehow solve this problem, we will win the robot contest."
+    },
+    "7": {
+        "word": "somewhere",
+        "meaning": "どこかで",
+        "blank_word": "somewhere",
+        "blank_sentence": "Even in the desert, there are animals living somewhere.",
+        "reorder": "Even<>in<>the<>desert,<>there<>are<>animals<>living<>somewhere.",
+        "dictation": "Even in the desert, there are animals living somewhere."
+    },
+    "8": {
+        "word": "anywhere",
+        "meaning": "どこでも",
+        "blank_word": "anywhere",
+        "blank_sentence": "You can get fresh fish anywhere in this town.",
+        "reorder": "You<>can<>get<>fresh<>fish<>anywhere<>in<>this<>town.",
+        "dictation": "You can get fresh fish anywhere in this town."
+    },
+    "9": {
+        "word": "nowhere",
+        "meaning": "どこにも…ない",
+        "blank_word": "nowhere",
+        "blank_sentence": "The evidence was nowhere to be found.",
+        "reorder": "The<>evidence<>was<>nowhere<>to<>be<>found.",
+        "dictation": "The evidence was nowhere to be found."
+    },
+    "10": {
+        "word": "everywhere",
+        "meaning": "どこでも",
+        "blank_word": "everywhere",
+        "blank_sentence": "A satellite phone can be used everywhere on earth.",
+        "reorder": "A<>satellite<>phone<>can<>be<>used<>everywhere<>on<>earth.",
+        "dictation": "A satellite phone can be used everywhere on earth."
+    },
+    "11": {
+        "word": "wherever",
+        "meaning": "どこで～しても",
+        "blank_word": "wherever",
+        "blank_sentence": "The mass of an object is constant wherever it is.",
+        "reorder": "The<>mass<>of<>an<>object<>is<>constant<>wherever<>it<>is.",
+        "dictation": "The mass of an object is constant wherever it is."
+    },
+    "12": {
+        "word": "decision",
+        "meaning": "決定",
+        "blank_word": "decision",
+        "blank_sentence": "Have you made a decision to study abroad yet?",
+        "reorder": "Have<>you<>made<>a<>decision<>to<>study<>abroad<>yet?",
+        "dictation": "Have you made a decision to study abroad yet?"
+    },
+    "13": {
+        "word": "chip",
+        "meaning": "切りくず",
+        "blank_word": "chips",
+        "blank_sentence": "Wear goggles so that you don't get wood chips in your eyes.",
+        "reorder": "Wear<>goggles<>so<>that<>you<>don't<>get<>wood<>chips<>in<>your<>eyes.",
+        "dictation": "Wear goggles so that you don't get wood chips in your eyes."
+    },
+    "14": {
+        "word": "bill",
+        "meaning": "請求書",
+        "blank_word": "bill",
+        "blank_sentence": "She hasn't paid the phone bill for last month yet.",
+        "reorder": "She<>hasn't<>paid<>the<>phone<>bill<>for<>last<>month<>yet.",
+        "dictation": "She hasn't paid the phone bill for last month yet."
+    },
+    "15": {
+        "word": "tag",
+        "meaning": "付け札",
+        "blank_word": "tag",
+        "blank_sentence": "An electronic tag is made up of an IC chip and an antenna.",
+        "reorder": "An<>electronic<>tag<>is<>made<>up<>of<>an<>IC<>chip<>and<>an<>antenna.",
+        "dictation": "An electronic tag is made up of an IC chip and an antenna."
+    },
+    "16": {
+        "word": "load",
+        "meaning": "負荷",
+        "blank_word": "load",
+        "blank_sentence": "This weight is too much of a load for the motor to pull up.",
+        "reorder": "This<>weight<>is<>too<>much<>of<>a<>load<>for<>the<>motor<>to<>pull<>up.",
+        "dictation": "This weight is too much of a load for the motor to pull up."
+    },
+    "17": {
+        "word": "mixture",
+        "meaning": "混合(物)",
+        "blank_word": "mixture",
+        "blank_sentence": "Air is a mixture of several gases.",
+        "reorder": "Air<>is<>a<>mixture<>of<>several<>gases.",
+        "dictation": "Air is a mixture of several gases."
+    },
+    "18": {
+        "word": "resource",
+        "meaning": "資源",
+        "blank_word": "resources",
+        "blank_sentence": "Japan has few natural resources.",
+        "reorder": "Japan<>has<>few<>natural<>resources.",
+        "dictation": "Japan has few natural resources."
+    },
+    "19": {
+        "word": "clay",
+        "meaning": "粘土",
+        "blank_word": "clay",
+        "blank_sentence": "Car designers often make models out of clay.",
+        "reorder": "Car<>designers<>often<>make<>models<>out<>of<>clay.",
+        "dictation": "Car designers often make models out of clay."
+    },
+    "20": {
+        "word": "dirt",
+        "meaning": "土",
+        "blank_word": "Dirt",
+        "blank_sentence": "Dirt is a mixture of stones, sand and clay.",
+        "reorder": "Dirt<>is<>a<>mixture<>of<>stones,<>sand<>and<>clay.",
+        "dictation": "Dirt is a mixture of stones, sand and clay."
+    },
+    "21": {
+        "word": "arch",
+        "meaning": "アーチ",
+        "blank_word": "arch",
+        "blank_sentence": "A load placed on an arch spreads down the sides of it.",
+        "reorder": "A<>load<>placed<>on<>an<>arch<>spreads<>down<>the<>sides<>of<>it.",
+        "dictation": "A load placed on an arch spreads down the sides of it."
+    },
+    "22": {
+        "word": "cloth",
+        "meaning": "布",
+        "blank_word": "cloth",
+        "blank_sentence": "Please wipe up the water on the window with this cloth.",
+        "reorder": "Please<>wipe<>up<>the<>water<>on<>the<>window<>with<>this<>cloth.",
+        "dictation": "Please wipe up the water on the window with this cloth."
+    },
+    "23": {
+        "word": "clothes",
+        "meaning": "衣服",
+        "blank_word": "clothes",
+        "blank_sentence": "I want to change my clothes because I sweated a lot.",
+        "reorder": "I<>want<>to<>change<>my<>clothes<>because<>I<>sweated<>a<>lot.",
+        "dictation": "I want to change my clothes because I sweated a lot."
+    },
+    "24": {
+        "word": "rag",
+        "meaning": "ぼろ切れ",
+        "blank_word": "rags",
+        "blank_sentence": "Keep the rags for cleaning the engines.",
+        "reorder": "Keep<>the<>rags<>for<>cleaning<>the<>engines.",
+        "dictation": "Keep the rags for cleaning the engines."
+    },
+    "25": {
+        "word": "blanket",
+        "meaning": "毛布",
+        "blank_word": "blanket",
+        "blank_sentence": "May I have a blanket , please?",
+        "reorder": "May<>I<>have<>a<>blanket<>,<>please?",
+        "dictation": "May I have a blanket , please?"
+    }
+}

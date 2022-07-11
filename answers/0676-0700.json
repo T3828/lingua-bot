@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "view",
+        "meaning": "眺め",
+        "blank_word": "view",
+        "blank_sentence": "The view of Mt. Fuji from Hakone is beautiful.",
+        "reorder": "The<>view<>of<>Mt.<>Fuji<>from<>Hakone<>is<>beautiful.",
+        "dictation": "The view of Mt. Fuji from Hakone is beautiful."
+    },
+    "2": {
+        "word": "site",
+        "meaning": "用地",
+        "blank_word": "site",
+        "blank_sentence": "We need a site for our new company building.",
+        "reorder": "We<>need<>a<>site<>for<>our<>new<>company<>building.",
+        "dictation": "We need a site for our new company building."
+    },
+    "3": {
+        "word": "century",
+        "meaning": "世紀",
+        "blank_word": "century",
+        "blank_sentence": "The 21st century is from 2001 to 2100.",
+        "reorder": "The<>21st<>century<>is<>from<>2001<>to<>2100.",
+        "dictation": "The 21st century is from 2001 to 2100."
+    },
+    "4": {
+        "word": "decade",
+        "meaning": "10年",
+        "blank_word": "decade",
+        "blank_sentence": "I have spent a decade working on this research.",
+        "reorder": "I<>have<>spent<>a<>decade<>working<>on<>this<>research.",
+        "dictation": "I have spent a decade working on this research."
+    },
+    "5": {
+        "word": "dozen",
+        "meaning": "ダース",
+        "blank_word": "dozen",
+        "blank_sentence": "Each box contains a dozen of pencils.",
+        "reorder": "Each<>box<>contains<>a<>dozen<>of<>pencils.",
+        "dictation": "Each box contains a dozen of pencils."
+    },
+    "6": {
+        "word": "council",
+        "meaning": "協議会",
+        "blank_word": "council",
+        "blank_sentence": "She is a member of the council.",
+        "reorder": "She<>is<>a<>member<>of<>the<>council.",
+        "dictation": "She is a member of the council."
+    },
+    "7": {
+        "word": "conference",
+        "meaning": "会議",
+        "blank_word": "conference",
+        "blank_sentence": "An international conference is going to be held next month.",
+        "reorder": "An<>international<>conference<>is<>going<>to<>be<>held<>next<>month.",
+        "dictation": "An international conference is going to be held next month."
+    },
+    "8": {
+        "word": "universe",
+        "meaning": "宇宙",
+        "blank_word": "universe",
+        "blank_sentence": "Einstein's theory is very important for studying the universe.",
+        "reorder": "Einstein's<>theory<>is<>very<>important<>for<>studying<>the<>universe.",
+        "dictation": "Einstein's theory is very important for studying the universe."
+    },
+    "9": {
+        "word": "planet",
+        "meaning": "惑星",
+        "blank_word": "planet",
+        "blank_sentence": "The earth is the third planet in the solar system.",
+        "reorder": "The<>earth<>is<>the<>third<>planet<>in<>the<>solar<>system.",
+        "dictation": "The earth is the third planet in the solar system."
+    },
+    "10": {
+        "word": "satellite",
+        "meaning": "衛星",
+        "blank_word": "satellite",
+        "blank_sentence": "The moon is a satellite of the earth.",
+        "reorder": "The<>moon<>is<>a<>satellite<>of<>the<>earth.",
+        "dictation": "The moon is a satellite of the earth."
+    },
+    "11": {
+        "word": "orbit",
+        "meaning": "軌道",
+        "blank_word": "orbit",
+        "blank_sentence": "The satellite went into the Earth's orbit just as planned.",
+        "reorder": "The<>satellite<>went<>into<>the<>Earth's<>orbit<>just<>as<>planned.",
+        "dictation": "The satellite went into the Earth's orbit just as planned."
+    },
+    "12": {
+        "word": "galaxy",
+        "meaning": "銀河(系)",
+        "blank_word": "galaxy",
+        "blank_sentence": "The galaxy has hundreds of billions of stars in it.",
+        "reorder": "The<>galaxy<>has<>hundreds<>of<>billions<>of<>stars<>in<>it.",
+        "dictation": "The galaxy has hundreds of billions of stars in it."
+    },
+    "13": {
+        "word": "vacuum",
+        "meaning": "真空",
+        "blank_word": "vacuum",
+        "blank_sentence": "This pump removes the air inside the bottle and creates a vacuum.",
+        "reorder": "This<>pump<>removes<>the<>air<>inside<>the<>bottle<>and<>creates<>a<>vacuum.",
+        "dictation": "This pump removes the air inside the bottle and creates a vacuum."
+    },
+    "14": {
+        "word": "cosmic",
+        "meaning": "宇宙の",
+        "blank_word": "cosmic",
+        "blank_sentence": "The researcher studies cosmic objects.",
+        "reorder": "The<>researcher<>studies<>cosmic<>objects.",
+        "dictation": "The researcher studies cosmic objects."
+    },
+    "15": {
+        "word": "terrestrial",
+        "meaning": "地球(上)の",
+        "blank_word": "terrestrial",
+        "blank_sentence": "Some birds use terrestrial magnetism to know the direction.",
+        "reorder": "Some<>birds<>use<>terrestrial<>magnetism<>to<>know<>the<>direction.",
+        "dictation": "Some birds use terrestrial magnetism to know the direction."
+    },
+    "16": {
+        "word": "vacant",
+        "meaning": "空室の",
+        "blank_word": "vacant",
+        "blank_sentence": "There were no vacant rooms in the hotel because of the conference.",
+        "reorder": "There<>were<>no<>vacant<>rooms<>in<>the<>hotel<>because<>of<>the<>conference.",
+        "dictation": "There were no vacant rooms in the hotel because of the conference."
+    },
+    "17": {
+        "word": "eternal",
+        "meaning": "永遠の",
+        "blank_word": "eternal",
+        "blank_sentence": "I don't think science can give you eternal life.",
+        "reorder": "I<>don't<>think<>science<>can<>give<>you<>eternal<>life.",
+        "dictation": "I don't think science can give you eternal life."
+    },
+    "18": {
+        "word": "delicate",
+        "meaning": "微妙な",
+        "blank_word": "delicate",
+        "blank_sentence": "Each planet orbits under a delicate balance.",
+        "reorder": "Each<>planet<>orbits<>under<>a<>delicate<>balance.",
+        "dictation": "Each planet orbits under a delicate balance."
+    },
+    "19": {
+        "word": "compatible",
+        "meaning": "適合する",
+        "blank_word": "compatible",
+        "blank_sentence": "My blood type was not compatible with hers.",
+        "reorder": "My<>blood<>type<>was<>not<>compatible<>with<>hers.",
+        "dictation": "My blood type was not compatible with hers."
+    },
+    "20": {
+        "word": "transparent",
+        "meaning": "透明な",
+        "blank_word": "transparent",
+        "blank_sentence": "This liquid is colorless and transparent.",
+        "reorder": "This<>liquid<>is<>colorless<>and<>transparent.",
+        "dictation": "This liquid is colorless and transparent."
+    },
+    "21": {
+        "word": "true",
+        "meaning": "本当の",
+        "blank_word": "true",
+        "blank_sentence": "His story was partly true.",
+        "reorder": "His<>story<>was<>partly<>true.",
+        "dictation": "His story was partly true."
+    },
+    "22": {
+        "word": "false",
+        "meaning": "嘘の",
+        "blank_word": "false",
+        "blank_sentence": "His claim about the invention was false.",
+        "reorder": "His<>claim<>about<>the<>invention<>was<>false.",
+        "dictation": "His claim about the invention was false."
+    },
+    "23": {
+        "word": "unknown",
+        "meaning": "未知の",
+        "blank_word": "unknown",
+        "blank_sentence": "The effects of that new drug are still unknown.",
+        "reorder": "The<>effects<>of<>that<>new<>drug<>are<>still<>unknown.",
+        "dictation": "The effects of that new drug are still unknown."
+    },
+    "24": {
+        "word": "twist",
+        "meaning": "ねじる",
+        "blank_word": "twist",
+        "blank_sentence": "You only have to twist the cap lightly to remove it.",
+        "reorder": "You<>only<>have<>to<>twist<>the<>cap<>lightly<>to<>remove<>it.",
+        "dictation": "You only have to twist the cap lightly to remove it."
+    },
+    "25": {
+        "word": "toss",
+        "meaning": "(軽く)投げる",
+        "blank_word": "Toss",
+        "blank_sentence": "Toss me the ball you have.",
+        "reorder": "Toss<>me<>the<>ball<>you<>have.",
+        "dictation": "Toss me the ball you have."
+    }
+}

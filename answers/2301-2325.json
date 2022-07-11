@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "shipment",
+        "meaning": "出荷(品)",
+        "blank_word": "shipments",
+        "blank_sentence": "Global shipments of PCs have increased in number.",
+        "reorder": "Global<>shipments<>of<>PCs<>have<>increased<>in<>number.",
+        "dictation": "Global shipments of PCs have increased in number."
+    },
+    "2": {
+        "word": "biography",
+        "meaning": "伝記",
+        "blank_word": "biography",
+        "blank_sentence": "Many children must have read a biography of Edison.",
+        "reorder": "Many<>children<>must<>have<>read<>a<>biography<>of<>Edison.",
+        "dictation": "Many children must have read a biography of Edison."
+    },
+    "3": {
+        "word": "anniversary",
+        "meaning": "記念日",
+        "blank_word": "anniversary",
+        "blank_sentence": "My parents celebrate their 20th wedding anniversary this year.",
+        "reorder": "My<>parents<>celebrate<>their<>20th<>wedding<>anniversary<>this<>year.",
+        "dictation": "My parents celebrate their 20th wedding anniversary this year."
+    },
+    "4": {
+        "word": "anticipate",
+        "meaning": "予測する",
+        "blank_word": "anticipated",
+        "blank_sentence": "The resistance from the enemy was harder than we anticipated.",
+        "reorder": "The<>resistance<>from<>the<>enemy<>was<>harder<>than<>we<>anticipated.",
+        "dictation": "The resistance from the enemy was harder than we anticipated."
+    },
+    "5": {
+        "word": "cease",
+        "meaning": "終える",
+        "blank_word": "ceased",
+        "blank_sentence": "The company ceased production of that model after the accident.",
+        "reorder": "The<>company<>ceased<>production<>of<>that<>model<>after<>the<>accident.",
+        "dictation": "The company ceased production of that model after the accident."
+    },
+    "6": {
+        "word": "upset",
+        "meaning": "乱す",
+        "blank_word": "upset",
+        "blank_sentence": "Air pllution and water pollution upset the balance of nature.",
+        "reorder": "Air<>pllution<>and<>water<>pollution<>upset<>the<>balance<>of<>nature.",
+        "dictation": "Air pllution and water pollution upset the balance of nature."
+    },
+    "7": {
+        "word": "fulfill",
+        "meaning": "(夢などを)かなえる",
+        "blank_word": "fulfilled",
+        "blank_sentence": "He fulfilled his childhood dream of being a space engineer.",
+        "reorder": "He<>fulfilled<>his<>childhood<>dream<>of<>being<>a<>space<>engineer.",
+        "dictation": "He fulfilled his childhood dream of being a space engineer."
+    },
+    "8": {
+        "word": "vanish",
+        "meaning": "消える",
+        "blank_word": "vanished",
+        "blank_sentence": "The rocket was launched and soon vanished into the clouds.",
+        "reorder": "The<>rocket<>was<>launched<>and<>soon<>vanished<>into<>the<>clouds.",
+        "dictation": "The rocket was launched and soon vanished into the clouds."
+    },
+    "9": {
+        "word": "constitute",
+        "meaning": "構成する",
+        "blank_word": "constitute",
+        "blank_sentence": "People from foreign countries constitute more than half of the city's population.",
+        "reorder": "People<>from<>foreign<>countries<>constitute<>more<>than<>half<>of<>the<>city's<>population.",
+        "dictation": "People from foreign countries constitute more than half of the city's population."
+    },
+    "10": {
+        "word": "flush",
+        "meaning": "洗い流す",
+        "blank_word": "flush",
+        "blank_sentence": "If you get something in your eye, flush it out with water.",
+        "reorder": "If<>you<>get<>something<>in<>your<>eye,<>flush<>it<>out<>with<>water.",
+        "dictation": "If you get something in your eye, flush it out with water."
+    },
+    "11": {
+        "word": "stack",
+        "meaning": "積み重ねる",
+        "blank_word": "stacked",
+        "blank_sentence": "The workers stacked tens of thousands of bricks to build this wall.",
+        "reorder": "The<>workers<>stacked<>tens<>of<>thousands<>of<>bricks<>to<>build<>this<>wall.",
+        "dictation": "The workers stacked tens of thousands of bricks to build this wall."
+    },
+    "12": {
+        "word": "assert",
+        "meaning": "主張する",
+        "blank_word": "assert",
+        "blank_sentence": "The company continued to assert the safety of their product.",
+        "reorder": "The<>company<>continued<>to<>assert<>the<>safety<>of<>their<>product.",
+        "dictation": "The company continued to assert the safety of their product."
+    },
+    "13": {
+        "word": "disperse",
+        "meaning": "分散させる",
+        "blank_word": "disperses",
+        "blank_sentence": "A prism disperses the sun's rays, and it looks like a rainbow.",
+        "reorder": "A<>prism<>disperses<>the<>sun's<>rays,<>and<>it<>looks<>like<>a<>rainbow.",
+        "dictation": "A prism disperses the sun's rays, and it looks like a rainbow."
+    },
+    "14": {
+        "word": "swell",
+        "meaning": "膨れ上がる",
+        "blank_word": "swelled",
+        "blank_sentence": "The pile of paper absorbed water and swelled.",
+        "reorder": "The<>pile<>of<>paper<>absorbed<>water<>and<>swelled.",
+        "dictation": "The pile of paper absorbed water and swelled."
+    },
+    "15": {
+        "word": "cultivate",
+        "meaning": "耕す",
+        "blank_word": "cultivated",
+        "blank_sentence": "The villagers cultivated the land and grew various vegetables.",
+        "reorder": "The<>villagers<>cultivated<>the<>land<>and<>grew<>various<>vegetables.",
+        "dictation": "The villagers cultivated the land and grew various vegetables."
+    },
+    "16": {
+        "word": "convey",
+        "meaning": "伝える",
+        "blank_word": "convey",
+        "blank_sentence": "A corporation's website should be composed so as to convey necessary and sufficient information.",
+        "reorder": "A<>corporation's<>website<>should<>be<>composed<>so<>as<>to<>convey<>necessary<>and<>sufficient<>information.",
+        "dictation": "A corporation's website should be composed so as to convey necessary and sufficient information."
+    },
+    "17": {
+        "word": "comprise",
+        "meaning": "構成する",
+        "blank_word": "comprise",
+        "blank_sentence": "Nowadays, video data comprise a large portion of Internet traffic.",
+        "reorder": "Nowadays,<>video<>data<>comprise<>a<>large<>portion<>of<>Internet<>traffic.",
+        "dictation": "Nowadays, video data comprise a large portion of Internet traffic."
+    },
+    "18": {
+        "word": "concede",
+        "meaning": "(真実と)認める",
+        "blank_word": "conceded",
+        "blank_sentence": "In the end he conceded that he was wrong.",
+        "reorder": "In<>the<>end<>he<>conceded<>that<>he<>was<>wrong.",
+        "dictation": "In the end he conceded that he was wrong."
+    },
+    "19": {
+        "word": "frustrate",
+        "meaning": "いらいらさせる",
+        "blank_word": "frustrated",
+        "blank_sentence": "I was frustrated by listening to that music rather than feeling relaxed.",
+        "reorder": "I<>was<>frustrated<>by<>listening<>to<>that<>music<>rather<>than<>feeling<>relaxed.",
+        "dictation": "I was frustrated by listening to that music rather than feeling relaxed."
+    },
+    "20": {
+        "word": "prolong",
+        "meaning": "延ばす",
+        "blank_word": "prolong",
+        "blank_sentence": "Constant maintenance can prolong the life of machines.",
+        "reorder": "Constant<>maintenance<>can<>prolong<>the<>life<>of<>machines.",
+        "dictation": "Constant maintenance can prolong the life of machines."
+    },
+    "21": {
+        "word": "betray",
+        "meaning": "裏切る",
+        "blank_word": "betrayed",
+        "blank_sentence": "He betrayed his country by selling secrets to other nations.",
+        "reorder": "He<>betrayed<>his<>country<>by<>selling<>secrets<>to<>other<>nations.",
+        "dictation": "He betrayed his country by selling secrets to other nations."
+    },
+    "22": {
+        "word": "conceive",
+        "meaning": "思い付く",
+        "blank_word": "conceived",
+        "blank_sentence": "Two inventors conceived the same idea at the same time.",
+        "reorder": "Two<>inventors<>conceived<>the<>same<>idea<>at<>the<>same<>time.",
+        "dictation": "Two inventors conceived the same idea at the same time."
+    },
+    "23": {
+        "word": "hug",
+        "meaning": "抱く",
+        "blank_word": "hugged",
+        "blank_sentence": "The men who survived the accident hugged each other and laughed.",
+        "reorder": "The<>men<>who<>survived<>the<>accident<>hugged<>each<>other<>and<>laughed.",
+        "dictation": "The men who survived the accident hugged each other and laughed."
+    },
+    "24": {
+        "word": "compel",
+        "meaning": "強要する",
+        "blank_word": "compelled",
+        "blank_sentence": "No one wants to be compelled to work.",
+        "reorder": "No<>one<>wants<>to<>be<>compelled<>to<>work.",
+        "dictation": "No one wants to be compelled to work."
+    },
+    "25": {
+        "word": "condemn",
+        "meaning": "非難する",
+        "blank_word": "condemned",
+        "blank_sentence": "The president condemned the terrorists who killed innocent people.",
+        "reorder": "The<>president<>condemned<>the<>terrorists<>who<>killed<>innocent<>people.",
+        "dictation": "The president condemned the terrorists who killed innocent people."
+    }
+}

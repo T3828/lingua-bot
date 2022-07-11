@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "spirit",
+        "meaning": "精神",
+        "blank_word": "spirit",
+        "blank_sentence": "I want you to have a spirit of challenge.",
+        "reorder": "I<>want<>you<>to<>have<>a<>spirit<>of<>challenge.",
+        "dictation": "I want you to have a spirit of challenge."
+    },
+    "2": {
+        "word": "soul",
+        "meaning": "魂",
+        "blank_word": "soul",
+        "blank_sentence": "Put your soul into your work.",
+        "reorder": "Put<>your<>soul<>into<>your<>work.",
+        "dictation": "Put your soul into your work."
+    },
+    "3": {
+        "word": "luggage",
+        "meaning": "荷物",
+        "blank_word": "luggage",
+        "blank_sentence": "The customs officer asked the traveler to open his luggage.",
+        "reorder": "The<>customs<>officer<>asked<>the<>traveler<>to<>open<>his<>luggage.",
+        "dictation": "The customs officer asked the traveler to open his luggage."
+    },
+    "4": {
+        "word": "parcel",
+        "meaning": "小包",
+        "blank_word": "parcel",
+        "blank_sentence": "How much did the parcel weigh in grams?",
+        "reorder": "How<>much<>did<>the<>parcel<>weigh<>in<>grams?",
+        "dictation": "How much did the parcel weigh in grams?"
+    },
+    "5": {
+        "word": "award",
+        "meaning": "賞",
+        "blank_word": "awards",
+        "blank_sentence": "The scientist has received many awards for his inventions.",
+        "reorder": "The<>scientist<>has<>received<>many<>awards<>for<>his<>inventions.",
+        "dictation": "The scientist has received many awards for his inventions."
+    },
+    "6": {
+        "word": "credit",
+        "meaning": "功績",
+        "blank_word": "credit",
+        "blank_sentence": "Much of the credit for the success of the project goes to him.",
+        "reorder": "Much<>of<>the<>credit<>for<>the<>success<>of<>the<>project<>goes<>to<>him.",
+        "dictation": "Much of the credit for the success of the project goes to him."
+    },
+    "7": {
+        "word": "barrier",
+        "meaning": "障壁",
+        "blank_word": "barrier",
+        "blank_sentence": "Stairs are a barrier to people in wheelchairs.",
+        "reorder": "Stairs<>are<>a<>barrier<>to<>people<>in<>wheelchairs.",
+        "dictation": "Stairs are a barrier to people in wheelchairs."
+    },
+    "8": {
+        "word": "belief",
+        "meaning": "信念",
+        "blank_word": "belief",
+        "blank_sentence": "He has a firm belief that his theory is right.",
+        "reorder": "He<>has<>a<>firm<>belief<>that<>his<>theory<>is<>right.",
+        "dictation": "He has a firm belief that his theory is right."
+    },
+    "9": {
+        "word": "index",
+        "meaning": "指数",
+        "blank_word": "index",
+        "blank_sentence": "The consumer price index is an important economic indicator.",
+        "reorder": "The<>consumer<>price<>index<>is<>an<>important<>economic<>indicator.",
+        "dictation": "The consumer price index is an important economic indicator."
+    },
+    "10": {
+        "word": "ratio",
+        "meaning": "比(率)",
+        "blank_word": "ratio",
+        "blank_sentence": "The ratio of an engine's weight to its power is used as an index of performance.",
+        "reorder": "The<>ratio<>of<>an<>engine's<>weight<>to<>its<>power<>is<>used<>as<>an<>index<>of<>performance.",
+        "dictation": "The ratio of an engine's weight to its power is used as an index of performance."
+    },
+    "11": {
+        "word": "probability",
+        "meaning": "確率",
+        "blank_word": "Probability",
+        "blank_sentence": "Probability is a measure of how likely an event is to happen.",
+        "reorder": "Probability<>is<>a<>measure<>of<>how<>likely<>an<>event<>is<>to<>happen.",
+        "dictation": "Probability is a measure of how likely an event is to happen."
+    },
+    "12": {
+        "word": "marine",
+        "meaning": "海の",
+        "blank_word": "Marine",
+        "blank_sentence": "Marine forces are called a navy.",
+        "reorder": "Marine<>forces<>are<>called<>a<>navy.",
+        "dictation": "Marine forces are called a navy."
+    },
+    "13": {
+        "word": "concrete",
+        "meaning": "具体的な",
+        "blank_word": "concrete",
+        "blank_sentence": "The civil war in that country is a concrete example of religious conflict.",
+        "reorder": "The<>civil<>war<>in<>that<>country<>is<>a<>concrete<>example<>of<>religious<>conflict.",
+        "dictation": "The civil war in that country is a concrete example of religious conflict."
+    },
+    "14": {
+        "word": "complicated",
+        "meaning": "複雑な",
+        "blank_word": "complicated",
+        "blank_sentence": "Life can be simple or complicated , depending on how you see it.",
+        "reorder": "Life<>can<>be<>simple<>or<>complicated<>,<>depending<>on<>how<>you<>see<>it.",
+        "dictation": "Life can be simple or complicated , depending on how you see it."
+    },
+    "15": {
+        "word": "Atlantic",
+        "meaning": "大西洋の",
+        "blank_word": "Atlantic",
+        "blank_sentence": "The army troops landed on the battlefield on the Atlantic coast.",
+        "reorder": "The<>army<>troops<>landed<>on<>the<>battlefield<>on<>the<>Atlantic<>coast.",
+        "dictation": "The army troops landed on the battlefield on the Atlantic coast."
+    },
+    "16": {
+        "word": "ideal",
+        "meaning": "理想的な",
+        "blank_word": "ideal",
+        "blank_sentence": "I have maintained my ideal body weight over these past ten years.",
+        "reorder": "I<>have<>maintained<>my<>ideal<>body<>weight<>over<>these<>past<>ten<>years.",
+        "dictation": "I have maintained my ideal body weight over these past ten years."
+    },
+    "17": {
+        "word": "incredible",
+        "meaning": "信じられない",
+        "blank_word": "incredible",
+        "blank_sentence": "It's incredible that a junior high school student made this robot.",
+        "reorder": "It's<>incredible<>that<>a<>junior<>high<>school<>student<>made<>this<>robot.",
+        "dictation": "It's incredible that a junior high school student made this robot."
+    },
+    "18": {
+        "word": "neural",
+        "meaning": "神経(系統)の",
+        "blank_word": "neural",
+        "blank_sentence": "This chemical is used to transmit signals in the brain's neural network.",
+        "reorder": "This<>chemical<>is<>used<>to<>transmit<>signals<>in<>the<>brain's<>neural<>network.",
+        "dictation": "This chemical is used to transmit signals in the brain's neural network."
+    },
+    "19": {
+        "word": "intellectual",
+        "meaning": "知的な",
+        "blank_word": "intellectual",
+        "blank_sentence": "The intellectual capacity of this robot is quite large.",
+        "reorder": "The<>intellectual<>capacity<>of<>this<>robot<>is<>quite<>large.",
+        "dictation": "The intellectual capacity of this robot is quite large."
+    },
+    "20": {
+        "word": "precise",
+        "meaning": "正確な",
+        "blank_word": "precise",
+        "blank_sentence": "This experiment must be done under precise temperature controls.",
+        "reorder": "This<>experiment<>must<>be<>done<>under<>precise<>temperature<>controls.",
+        "dictation": "This experiment must be done under precise temperature controls."
+    },
+    "21": {
+        "word": "immune",
+        "meaning": "免疫の",
+        "blank_word": "immune",
+        "blank_sentence": "An immune system is a biological system that protects our body against diseases.",
+        "reorder": "An<>immune<>system<>is<>a<>biological<>system<>that<>protects<>our<>body<>against<>diseases.",
+        "dictation": "An immune system is a biological system that protects our body against diseases."
+    },
+    "22": {
+        "word": "blind",
+        "meaning": "目が見えない",
+        "blank_word": "blind",
+        "blank_sentence": "Looking at the sun directly can make you blind.",
+        "reorder": "Looking<>at<>the<>sun<>directly<>can<>make<>you<>blind.",
+        "dictation": "Looking at the sun directly can make you blind."
+    },
+    "23": {
+        "word": "deaf",
+        "meaning": "耳が聞こえない",
+        "blank_word": "deaf",
+        "blank_sentence": "People can go deaf because of disease, nerve damage, or injury.",
+        "reorder": "People<>can<>go<>deaf<>because<>of<>disease,<>nerve<>damage,<>or<>injury.",
+        "dictation": "People can go deaf because of disease, nerve damage, or injury."
+    },
+    "24": {
+        "word": "urban",
+        "meaning": "都会の",
+        "blank_word": "urban",
+        "blank_sentence": "People are moving out of small towns and into urban areas.",
+        "reorder": "People<>are<>moving<>out<>of<>small<>towns<>and<>into<>urban<>areas.",
+        "dictation": "People are moving out of small towns and into urban areas."
+    },
+    "25": {
+        "word": "rural",
+        "meaning": "田舎の",
+        "blank_word": "rural",
+        "blank_sentence": "I would like to live in a rural area when I retire.",
+        "reorder": "I<>would<>like<>to<>live<>in<>a<>rural<>area<>when<>I<>retire.",
+        "dictation": "I would like to live in a rural area when I retire."
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "headquarters",
+        "meaning": "本部",
+        "blank_word": "headquarters",
+        "blank_sentence": "The location of the organization's headquarters has been kept secret in the past.",
+        "reorder": "The<>location<>of<>the<>organization's<>headquarters<>has<>been<>kept<>secret<>in<>the<>past.",
+        "dictation": "The location of the organization's headquarters has been kept secret in the past."
+    },
+    "2": {
+        "word": "frontier",
+        "meaning": "開拓地",
+        "blank_word": "frontier",
+        "blank_sentence": "The universe is said to be the last frontier for mankind.",
+        "reorder": "The<>universe<>is<>said<>to<>be<>the<>last<>frontier<>for<>mankind.",
+        "dictation": "The universe is said to be the last frontier for mankind."
+    },
+    "3": {
+        "word": "feather",
+        "meaning": "羽",
+        "blank_word": "feathers",
+        "blank_sentence": "Most water birds have special oil that keeps their feathers dry.",
+        "reorder": "Most<>water<>birds<>have<>special<>oil<>that<>keeps<>their<>feathers<>dry.",
+        "dictation": "Most water birds have special oil that keeps their feathers dry."
+    },
+    "4": {
+        "word": "relax",
+        "meaning": "緊張を解く",
+        "blank_word": "Relax",
+        "blank_sentence": "Relax your body and stretch the muscles one by one.",
+        "reorder": "Relax<>your<>body<>and<>stretch<>the<>muscles<>one<>by<>one.",
+        "dictation": "Relax your body and stretch the muscles one by one."
+    },
+    "5": {
+        "word": "invade",
+        "meaning": "侵害する",
+        "blank_word": "invaded",
+        "blank_sentence": "The enemy invaded the northern part of the neighboring country.",
+        "reorder": "The<>enemy<>invaded<>the<>northern<>part<>of<>the<>neighboring<>country.",
+        "dictation": "The enemy invaded the northern part of the neighboring country."
+    },
+    "6": {
+        "word": "charter",
+        "meaning": "借り上げる",
+        "blank_word": "chartered",
+        "blank_sentence": "The government chartered a jet for the prime minister's visit to China.",
+        "reorder": "The<>government<>chartered<>a<>jet<>for<>the<>prime<>minister's<>visit<>to<>China.",
+        "dictation": "The government chartered a jet for the prime minister's visit to China."
+    },
+    "7": {
+        "word": "scratch",
+        "meaning": "掻く",
+        "blank_word": "scratch",
+        "blank_sentence": "Don't scratch the mosquito bite.",
+        "reorder": "Don't<>scratch<>the<>mosquito<>bite.",
+        "dictation": "Don't scratch the mosquito bite."
+    },
+    "8": {
+        "word": "weld",
+        "meaning": "溶接する",
+        "blank_word": "welded",
+        "blank_sentence": "The factory worker welded the two metal plates together.",
+        "reorder": "The<>factory<>worker<>welded<>the<>two<>metal<>plates<>together.",
+        "dictation": "The factory worker welded the two metal plates together."
+    },
+    "9": {
+        "word": "evaporate",
+        "meaning": "蒸発する",
+        "blank_word": "evaporates",
+        "blank_sentence": "Pure alcohol evaporates very quickly.",
+        "reorder": "Pure<>alcohol<>evaporates<>very<>quickly.",
+        "dictation": "Pure alcohol evaporates very quickly."
+    },
+    "10": {
+        "word": "saturate",
+        "meaning": "飽和させる",
+        "blank_word": "saturated",
+        "blank_sentence": "This water is saturated with salt.",
+        "reorder": "This<>water<>is<>saturated<>with<>salt.",
+        "dictation": "This water is saturated with salt."
+    },
+    "11": {
+        "word": "enforce",
+        "meaning": "(規則などを)施行する",
+        "blank_word": "enforce",
+        "blank_sentence": "The government will enforce security rules for chemical storage.",
+        "reorder": "The<>government<>will<>enforce<>security<>rules<>for<>chemical<>storage.",
+        "dictation": "The government will enforce security rules for chemical storage."
+    },
+    "12": {
+        "word": "overwhelm",
+        "meaning": "圧倒する",
+        "blank_word": "overwhelmed",
+        "blank_sentence": "I was almost overwhelmed by a sense of anxiety before the interview.",
+        "reorder": "I<>was<>almost<>overwhelmed<>by<>a<>sense<>of<>anxiety<>before<>the<>interview.",
+        "dictation": "I was almost overwhelmed by a sense of anxiety before the interview."
+    },
+    "13": {
+        "word": "leap",
+        "meaning": "跳ぶ",
+        "blank_word": "leap",
+        "blank_sentence": "The horse can leap over a 160 cm barrier with a man on its back.",
+        "reorder": "The<>horse<>can<>leap<>over<>a<>160<>cm<>barrier<>with<>a<>man<>on<>its<>back.",
+        "dictation": "The horse can leap over a 160 cm barrier with a man on its back."
+    },
+    "14": {
+        "word": "residue",
+        "meaning": "残留(物)",
+        "blank_word": "residue",
+        "blank_sentence": "When you evaporate sea water, a solid residue of salt is left over.",
+        "reorder": "When<>you<>evaporate<>sea<>water,<>a<>solid<>residue<>of<>salt<>is<>left<>over.",
+        "dictation": "When you evaporate sea water, a solid residue of salt is left over."
+    },
+    "15": {
+        "word": "caterpillar",
+        "meaning": "毛虫",
+        "blank_word": "caterpillars",
+        "blank_sentence": "You have to get rid of the caterpillars on the cherry trees.",
+        "reorder": "You<>have<>to<>get<>rid<>of<>the<>caterpillars<>on<>the<>cherry<>trees.",
+        "dictation": "You have to get rid of the caterpillars on the cherry trees."
+    },
+    "16": {
+        "word": "module",
+        "meaning": "モジュール(構成単位)",
+        "blank_word": "module",
+        "blank_sentence": "They developed a very useful software module.",
+        "reorder": "They<>developed<>a<>very<>useful<>software<>module.",
+        "dictation": "They developed a very useful software module."
+    },
+    "17": {
+        "word": "quantum",
+        "meaning": "量子",
+        "blank_word": "quantum",
+        "blank_sentence": "A quantum is defined as the minimum amount of some physical quantity.",
+        "reorder": "A<>quantum<>is<>defined<>as<>the<>minimum<>amount<>of<>some<>physical<>quantity.",
+        "dictation": "A quantum is defined as the minimum amount of some physical quantity."
+    },
+    "18": {
+        "word": "quark",
+        "meaning": "クォーク",
+        "blank_word": "quark",
+        "blank_sentence": "A quark is an elementary particle and a fundamental constituent of matter.",
+        "reorder": "A<>quark<>is<>an<>elementary<>particle<>and<>a<>fundamental<>constituent<>of<>matter.",
+        "dictation": "A quark is an elementary particle and a fundamental constituent of matter."
+    },
+    "19": {
+        "word": "photon",
+        "meaning": "光子",
+        "blank_word": "photon",
+        "blank_sentence": "A photon is light quantum, which was introduced by Einstein in 1905.",
+        "reorder": "A<>photon<>is<>light<>quantum,<>which<>was<>introduced<>by<>Einstein<>in<>1905.",
+        "dictation": "A photon is light quantum, which was introduced by Einstein in 1905."
+    },
+    "20": {
+        "word": "alloy",
+        "meaning": "合金",
+        "blank_word": "alloy",
+        "blank_sentence": "An alloy is a substance composed of two or more metals.",
+        "reorder": "An<>alloy<>is<>a<>substance<>composed<>of<>two<>or<>more<>metals.",
+        "dictation": "An alloy is a substance composed of two or more metals."
+    },
+    "21": {
+        "word": "nickel",
+        "meaning": "ニッケル",
+        "blank_word": "Nickel",
+        "blank_sentence": "Nickel is often used to make the positive electrode of a battery.",
+        "reorder": "Nickel<>is<>often<>used<>to<>make<>the<>positive<>electrode<>of<>a<>battery.",
+        "dictation": "Nickel is often used to make the positive electrode of a battery."
+    },
+    "22": {
+        "word": "tin",
+        "meaning": "錫",
+        "blank_word": "Tin",
+        "blank_sentence": "Tin has been used to form alloys for thousands of years.",
+        "reorder": "Tin<>has<>been<>used<>to<>form<>alloys<>for<>thousands<>of<>years.",
+        "dictation": "Tin has been used to form alloys for thousands of years."
+    },
+    "23": {
+        "word": "bronze",
+        "meaning": "青銅",
+        "blank_word": "Bronze",
+        "blank_sentence": "Bronze is an alloy of tin and copper.",
+        "reorder": "Bronze<>is<>an<>alloy<>of<>tin<>and<>copper.",
+        "dictation": "Bronze is an alloy of tin and copper."
+    },
+    "24": {
+        "word": "brass",
+        "meaning": "真鍮",
+        "blank_word": "Brass",
+        "blank_sentence": "Brass is an alloy of copper and zinc.",
+        "reorder": "Brass<>is<>an<>alloy<>of<>copper<>and<>zinc.",
+        "dictation": "Brass is an alloy of copper and zinc."
+    },
+    "25": {
+        "word": "gauge",
+        "meaning": "計器",
+        "blank_word": "gauge",
+        "blank_sentence": "This gauge is used for checking the air pressure of tires.",
+        "reorder": "This<>gauge<>is<>used<>for<>checking<>the<>air<>pressure<>of<>tires.",
+        "dictation": "This gauge is used for checking the air pressure of tires."
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "rely",
+        "meaning": "頼る",
+        "blank_word": "rely",
+        "blank_sentence": "You should not rely on science and technology too much.",
+        "reorder": "You<>should<>not<>rely<>on<>science<>and<>technology<>too<>much.",
+        "dictation": "You should not rely on science and technology too much."
+    },
+    "2": {
+        "word": "seek",
+        "meaning": "さがす",
+        "blank_word": "seeking",
+        "blank_sentence": "Many scientists are seeking a solution to this problem.",
+        "reorder": "Many<>scientists<>are<>seeking<>a<>solution<>to<>this<>problem.",
+        "dictation": "Many scientists are seeking a solution to this problem."
+    },
+    "3": {
+        "word": "miss",
+        "meaning": "外す",
+        "blank_word": "missed",
+        "blank_sentence": "He fired the gun, but it missed the target by an inch.",
+        "reorder": "He<>fired<>the<>gun,<>but<>it<>missed<>the<>target<>by<>an<>inch.",
+        "dictation": "He fired the gun, but it missed the target by an inch."
+    },
+    "4": {
+        "word": "convert",
+        "meaning": "変換する",
+        "blank_word": "converts",
+        "blank_sentence": "A solar energy system converts sunlight into electricity.",
+        "reorder": "A<>solar<>energy<>system<>converts<>sunlight<>into<>electricity.",
+        "dictation": "A solar energy system converts sunlight into electricity."
+    },
+    "5": {
+        "word": "rub",
+        "meaning": "こする",
+        "blank_word": "Rubbing",
+        "blank_sentence": "Rubbing silk against glass will make static electricity.",
+        "reorder": "Rubbing<>silk<>against<>glass<>will<>make<>static<>electricity.",
+        "dictation": "Rubbing silk against glass will make static electricity."
+    },
+    "6": {
+        "word": "bore",
+        "meaning": "(ドリルで)穴をあける",
+        "blank_word": "bore",
+        "blank_sentence": "This machine can bore two holes at once.",
+        "reorder": "This<>machine<>can<>bore<>two<>holes<>at<>once.",
+        "dictation": "This machine can bore two holes at once."
+    },
+    "7": {
+        "word": "join",
+        "meaning": "つなぐ",
+        "blank_word": "join",
+        "blank_sentence": "Bore a hole in each board to join them together.",
+        "reorder": "Bore<>a<>hole<>in<>each<>board<>to<>join<>them<>together.",
+        "dictation": "Bore a hole in each board to join them together."
+    },
+    "8": {
+        "word": "conduct",
+        "meaning": "伝導する",
+        "blank_word": "conducts",
+        "blank_sentence": "A material which conducts heat or electricity is called a conductor.",
+        "reorder": "A<>material<>which<>conducts<>heat<>or<>electricity<>is<>called<>a<>conductor.",
+        "dictation": "A material which conducts heat or electricity is called a conductor."
+    },
+    "9": {
+        "word": "insulate",
+        "meaning": "絶縁する",
+        "blank_word": "insulate",
+        "blank_sentence": "Rubber is a good material to insulate electricity.",
+        "reorder": "Rubber<>is<>a<>good<>material<>to<>insulate<>electricity.",
+        "dictation": "Rubber is a good material to insulate electricity."
+    },
+    "10": {
+        "word": "semiconductor",
+        "meaning": "半導体",
+        "blank_word": "semiconductor",
+        "blank_sentence": "Silicon is widely used in semiconductor devices.",
+        "reorder": "Silicon<>is<>widely<>used<>in<>semiconductor<>devices.",
+        "dictation": "Silicon is widely used in semiconductor devices."
+    },
+    "11": {
+        "word": "diode",
+        "meaning": "ダイオード",
+        "blank_word": "diode",
+        "blank_sentence": "One of the common functions of a diode is to convert alternating current to direct current.",
+        "reorder": "One<>of<>the<>common<>functions<>of<>a<>diode<>is<>to<>convert<>alternating<>current<>to<>direct<>current.",
+        "dictation": "One of the common functions of a diode is to convert alternating current to direct current."
+    },
+    "12": {
+        "word": "grant",
+        "meaning": "助成金",
+        "blank_word": "grant",
+        "blank_sentence": "The professor was given a grant of one million yen to continue his research.",
+        "reorder": "The<>professor<>was<>given<>a<>grant<>of<>one<>million<>yen<>to<>continue<>his<>research.",
+        "dictation": "The professor was given a grant of one million yen to continue his research."
+    },
+    "13": {
+        "word": "trigger",
+        "meaning": "引き金",
+        "blank_word": "trigger",
+        "blank_sentence": "Lack of exercise can be a trigger of diseases.",
+        "reorder": "Lack<>of<>exercise<>can<>be<>a<>trigger<>of<>diseases.",
+        "dictation": "Lack of exercise can be a trigger of diseases."
+    },
+    "14": {
+        "word": "bullet",
+        "meaning": "弾丸",
+        "blank_word": "bullet",
+        "blank_sentence": "It was found that the bullet had been fired from his gun.",
+        "reorder": "It<>was<>found<>that<>the<>bullet<>had<>been<>fired<>from<>his<>gun.",
+        "dictation": "It was found that the bullet had been fired from his gun."
+    },
+    "15": {
+        "word": "screw",
+        "meaning": "ネジ",
+        "blank_word": "screw",
+        "blank_sentence": "This wooden screw is designed for little children's toys.",
+        "reorder": "This<>wooden<>screw<>is<>designed<>for<>little<>children's<>toys.",
+        "dictation": "This wooden screw is designed for little children's toys."
+    },
+    "16": {
+        "word": "blade",
+        "meaning": "刃物",
+        "blank_word": "blade",
+        "blank_sentence": "The blade is so sharp that you should watch out.",
+        "reorder": "The<>blade<>is<>so<>sharp<>that<>you<>should<>watch<>out.",
+        "dictation": "The blade is so sharp that you should watch out."
+    },
+    "17": {
+        "word": "edge",
+        "meaning": "端",
+        "blank_word": "edge",
+        "blank_sentence": "The edge of paper can cut your skin.",
+        "reorder": "The<>edge<>of<>paper<>can<>cut<>your<>skin.",
+        "dictation": "The edge of paper can cut your skin."
+    },
+    "18": {
+        "word": "rod",
+        "meaning": "棒",
+        "blank_word": "rods",
+        "blank_sentence": "Join the two rods with a bolt at each end.",
+        "reorder": "Join<>the<>two<>rods<>with<>a<>bolt<>at<>each<>end.",
+        "dictation": "Join the two rods with a bolt at each end."
+    },
+    "19": {
+        "word": "jack",
+        "meaning": "ジャッキ",
+        "blank_word": "jack",
+        "blank_sentence": "This jack can lift loads of up to 600 kilograms.",
+        "reorder": "This<>jack<>can<>lift<>loads<>of<>up<>to<>600<>kilograms.",
+        "dictation": "This jack can lift loads of up to 600 kilograms."
+    },
+    "20": {
+        "word": "contract",
+        "meaning": "契約(書)",
+        "blank_word": "contract",
+        "blank_sentence": "The two companies agreed on the contract.",
+        "reorder": "The<>two<>companies<>agreed<>on<>the<>contract.",
+        "dictation": "The two companies agreed on the contract."
+    },
+    "21": {
+        "word": "component",
+        "meaning": "部品",
+        "blank_word": "components",
+        "blank_sentence": "A computer has some electronic components to process information.",
+        "reorder": "A<>computer<>has<>some<>electronic<>components<>to<>process<>information.",
+        "dictation": "A computer has some electronic components to process information."
+    },
+    "22": {
+        "word": "vehicle",
+        "meaning": "車両",
+        "blank_word": "vehicles",
+        "blank_sentence": "Seven vehicles crashed in that accident.",
+        "reorder": "Seven<>vehicles<>crashed<>in<>that<>accident.",
+        "dictation": "Seven vehicles crashed in that accident."
+    },
+    "23": {
+        "word": "fare",
+        "meaning": "運賃",
+        "blank_word": "fare",
+        "blank_sentence": "How much is the round-trip fare to Kyoto?",
+        "reorder": "How<>much<>is<>the<>round-trip<>fare<>to<>Kyoto?",
+        "dictation": "How much is the round-trip fare to Kyoto?"
+    },
+    "24": {
+        "word": "strain",
+        "meaning": "負担",
+        "blank_word": "strain",
+        "blank_sentence": "That heavy bag is putting a strain on his shoulder.",
+        "reorder": "That<>heavy<>bag<>is<>putting<>a<>strain<>on<>his<>shoulder.",
+        "dictation": "That heavy bag is putting a strain on his shoulder."
+    },
+    "25": {
+        "word": "ambulance",
+        "meaning": "救急車",
+        "blank_word": "ambulance",
+        "blank_sentence": "He was taken to the hospital by ambulance.",
+        "reorder": "He<>was<>taken<>to<>the<>hospital<>by<>ambulance.",
+        "dictation": "He was taken to the hospital by ambulance."
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "emergency",
+        "meaning": "非常(緊急)事態",
+        "blank_word": "emergencies",
+        "blank_sentence": "This laboratory is equipped with a generator for emergencies.",
+        "reorder": "This<>laboratory<>is<>equipped<>with<>a<>generator<>for<>emergencies.",
+        "dictation": "This laboratory is equipped with a generator for emergencies."
+    },
+    "2": {
+        "word": "craft",
+        "meaning": "技能",
+        "blank_word": "craft",
+        "blank_sentence": "She has mastered the craft of woodworking.",
+        "reorder": "She<>has<>mastered<>the<>craft<>of<>woodworking.",
+        "dictation": "She has mastered the craft of woodworking."
+    },
+    "3": {
+        "word": "aircraft",
+        "meaning": "航空機",
+        "blank_word": "aircraft",
+        "blank_sentence": "Some aircraft can travel faster than the speed of sound.",
+        "reorder": "Some<>aircraft<>can<>travel<>faster<>than<>the<>speed<>of<>sound.",
+        "dictation": "Some aircraft can travel faster than the speed of sound."
+    },
+    "4": {
+        "word": "landing",
+        "meaning": "着陸",
+        "blank_word": "landing",
+        "blank_sentence": "The pilot tried an emergency landing because of engine trouble.",
+        "reorder": "The<>pilot<>tried<>an<>emergency<>landing<>because<>of<>engine<>trouble.",
+        "dictation": "The pilot tried an emergency landing because of engine trouble."
+    },
+    "5": {
+        "word": "passenger",
+        "meaning": "乗客",
+        "blank_word": "passengers",
+        "blank_sentence": "They are developing a new aircraft which carries more than 500 passengers.",
+        "reorder": "They<>are<>developing<>a<>new<>aircraft<>which<>carries<>more<>than<>500<>passengers.",
+        "dictation": "They are developing a new aircraft which carries more than 500 passengers."
+    },
+    "6": {
+        "word": "aisle",
+        "meaning": "通路",
+        "blank_word": "aisle",
+        "blank_sentence": "I would like an aisle seat on the airplane.",
+        "reorder": "I<>would<>like<>an<>aisle<>seat<>on<>the<>airplane.",
+        "dictation": "I would like an aisle seat on the airplane."
+    },
+    "7": {
+        "word": "coast",
+        "meaning": "海岸",
+        "blank_word": "coast",
+        "blank_sentence": "The hurricane is approaching the east coast.",
+        "reorder": "The<>hurricane<>is<>approaching<>the<>east<>coast.",
+        "dictation": "The hurricane is approaching the east coast."
+    },
+    "8": {
+        "word": "bay",
+        "meaning": "湾",
+        "blank_word": "bay",
+        "blank_sentence": "The bay area was developed 30 years ago.",
+        "reorder": "The<>bay<>area<>was<>developed<>30<>years<>ago.",
+        "dictation": "The bay area was developed 30 years ago."
+    },
+    "9": {
+        "word": "tide",
+        "meaning": "潮(の干満)",
+        "blank_word": "tide",
+        "blank_sentence": "The tide falls by 10 meters in this bay.",
+        "reorder": "The<>tide<>falls<>by<>10<>meters<>in<>this<>bay.",
+        "dictation": "The tide falls by 10 meters in this bay."
+    },
+    "10": {
+        "word": "fasten",
+        "meaning": "締める",
+        "blank_word": "fasten",
+        "blank_sentence": "Don't forget to fasten your seatbelt when you drive a car.",
+        "reorder": "Don't<>forget<>to<>fasten<>your<>seatbelt<>when<>you<>drive<>a<>car.",
+        "dictation": "Don't forget to fasten your seatbelt when you drive a car."
+    },
+    "11": {
+        "word": "manufacture",
+        "meaning": "製造する",
+        "blank_word": "manufactured",
+        "blank_sentence": "Construction equipment manufactured in Japan is sold in various countries.",
+        "reorder": "Construction<>equipment<>manufactured<>in<>Japan<>is<>sold<>in<>various<>countries.",
+        "dictation": "Construction equipment manufactured in Japan is sold in various countries."
+    },
+    "12": {
+        "word": "hunt",
+        "meaning": "狩猟する",
+        "blank_word": "hunted",
+        "blank_sentence": "Whales were hunted in many countries before.",
+        "reorder": "Whales<>were<>hunted<>in<>many<>countries<>before.",
+        "dictation": "Whales were hunted in many countries before."
+    },
+    "13": {
+        "word": "demonstrate",
+        "meaning": "実演する",
+        "blank_word": "demonstrated",
+        "blank_sentence": "The instructor demonstrated how to use the new PC.",
+        "reorder": "The<>instructor<>demonstrated<>how<>to<>use<>the<>new<>PC.",
+        "dictation": "The instructor demonstrated how to use the new PC."
+    },
+    "14": {
+        "word": "investigate",
+        "meaning": "調査する",
+        "blank_word": "investigating",
+        "blank_sentence": "The police are investigating the cause of the fire.",
+        "reorder": "The<>police<>are<>investigating<>the<>cause<>of<>the<>fire.",
+        "dictation": "The police are investigating the cause of the fire."
+    },
+    "15": {
+        "word": "bear",
+        "meaning": "耐える",
+        "blank_word": "bear",
+        "blank_sentence": "I can no longer bear the noise.",
+        "reorder": "I<>can<>no<>longer<>bear<>the<>noise.",
+        "dictation": "I can no longer bear the noise."
+    },
+    "16": {
+        "word": "imagine",
+        "meaning": "想像する",
+        "blank_word": "imagine",
+        "blank_sentence": "Can you imagine the world of the future?",
+        "reorder": "Can<>you<>imagine<>the<>world<>of<>the<>future?",
+        "dictation": "Can you imagine the world of the future?"
+    },
+    "17": {
+        "word": "convince",
+        "meaning": "(人を)納得させる",
+        "blank_word": "convince",
+        "blank_sentence": "They are trying to convince people of the need for a nuclear power plant.",
+        "reorder": "They<>are<>trying<>to<>convince<>people<>of<>the<>need<>for<>a<>nuclear<>power<>plant.",
+        "dictation": "They are trying to convince people of the need for a nuclear power plant."
+    },
+    "18": {
+        "word": "suspect",
+        "meaning": "疑う",
+        "blank_word": "suspected",
+        "blank_sentence": "The engineer suspected the circuit board as the cause of the voltage drop.",
+        "reorder": "The<>engineer<>suspected<>the<>circuit<>board<>as<>the<>cause<>of<>the<>voltage<>drop.",
+        "dictation": "The engineer suspected the circuit board as the cause of the voltage drop."
+    },
+    "19": {
+        "word": "arrest",
+        "meaning": "逮捕する",
+        "blank_word": "arrested",
+        "blank_sentence": "The man was arrested on suspicion of stealing the company's money.",
+        "reorder": "The<>man<>was<>arrested<>on<>suspicion<>of<>stealing<>the<>company's<>money.",
+        "dictation": "The man was arrested on suspicion of stealing the company's money."
+    },
+    "20": {
+        "word": "gain",
+        "meaning": "得る",
+        "blank_word": "gain",
+        "blank_sentence": "Plants gain energy from the sun.",
+        "reorder": "Plants<>gain<>energy<>from<>the<>sun.",
+        "dictation": "Plants gain energy from the sun."
+    },
+    "21": {
+        "word": "indicate",
+        "meaning": "示す",
+        "blank_word": "indicates",
+        "blank_sentence": "This graph indicates a rapid change in the earth's temperature.",
+        "reorder": "This<>graph<>indicates<>a<>rapid<>change<>in<>the<>earth's<>temperature.",
+        "dictation": "This graph indicates a rapid change in the earth's temperature."
+    },
+    "22": {
+        "word": "associate",
+        "meaning": "関連づける",
+        "blank_word": "associates",
+        "blank_sentence": "This program automatically associates the name and type of the files.",
+        "reorder": "This<>program<>automatically<>associates<>the<>name<>and<>type<>of<>the<>files.",
+        "dictation": "This program automatically associates the name and type of the files."
+    },
+    "23": {
+        "word": "prepare",
+        "meaning": "準備する",
+        "blank_word": "preparing",
+        "blank_sentence": "Students are preparing for a chemical experiment in the laboratory.",
+        "reorder": "Students<>are<>preparing<>for<>a<>chemical<>experiment<>in<>the<>laboratory.",
+        "dictation": "Students are preparing for a chemical experiment in the laboratory."
+    },
+    "24": {
+        "word": "utilize",
+        "meaning": "利用する",
+        "blank_word": "utilize",
+        "blank_sentence": "We should utilize solar energy as much as possible.",
+        "reorder": "We<>should<>utilize<>solar<>energy<>as<>much<>as<>possible.",
+        "dictation": "We should utilize solar energy as much as possible."
+    },
+    "25": {
+        "word": "extend",
+        "meaning": "伸ばす",
+        "blank_word": "Extend",
+        "blank_sentence": "Extend your right arm and touch the wall.",
+        "reorder": "Extend<>your<>right<>arm<>and<>touch<>the<>wall.",
+        "dictation": "Extend your right arm and touch the wall."
+    }
+}

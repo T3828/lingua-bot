@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "choke",
+        "meaning": "詰まらせる",
+        "blank_word": "choked",
+        "blank_sentence": "The mud carried by the heavy rain choked the water pipe.",
+        "reorder": "The<>mud<>carried<>by<>the<>heavy<>rain<>choked<>the<>water<>pipe.",
+        "dictation": "The mud carried by the heavy rain choked the water pipe."
+    },
+    "2": {
+        "word": "conceal",
+        "meaning": "隠す",
+        "blank_word": "concealed",
+        "blank_sentence": "The manager suddenly concealed the papers under his desk.",
+        "reorder": "The<>manager<>suddenly<>concealed<>the<>papers<>under<>his<>desk.",
+        "dictation": "The manager suddenly concealed the papers under his desk."
+    },
+    "3": {
+        "word": "deform",
+        "meaning": "変形させる",
+        "blank_word": "deform",
+        "blank_sentence": "Shortage of calcium can deform the bones of a child.",
+        "reorder": "Shortage<>of<>calcium<>can<>deform<>the<>bones<>of<>a<>child.",
+        "dictation": "Shortage of calcium can deform the bones of a child."
+    },
+    "4": {
+        "word": "resume",
+        "meaning": "再開する",
+        "blank_word": "resumed",
+        "blank_sentence": "He resumed his speech after a short silence.",
+        "reorder": "He<>resumed<>his<>speech<>after<>a<>short<>silence.",
+        "dictation": "He resumed his speech after a short silence."
+    },
+    "5": {
+        "word": "cheat",
+        "meaning": "だます",
+        "blank_word": "cheated",
+        "blank_sentence": "The merchant cheated the lady into buying a fake.",
+        "reorder": "The<>merchant<>cheated<>the<>lady<>into<>buying<>a<>fake.",
+        "dictation": "The merchant cheated the lady into buying a fake."
+    },
+    "6": {
+        "word": "frighten",
+        "meaning": "怖がらせる",
+        "blank_word": "frightened",
+        "blank_sentence": "The children were frightened by a sudden crack of thunder.",
+        "reorder": "The<>children<>were<>frightened<>by<>a<>sudden<>crack<>of<>thunder.",
+        "dictation": "The children were frightened by a sudden crack of thunder."
+    },
+    "7": {
+        "word": "denounce",
+        "meaning": "非難する",
+        "blank_word": "denounced",
+        "blank_sentence": "Many of the nations denounced the prime minister's careless actions.",
+        "reorder": "Many<>of<>the<>nations<>denounced<>the<>prime<>minister's<>careless<>actions.",
+        "dictation": "Many of the nations denounced the prime minister's careless actions."
+    },
+    "8": {
+        "word": "prohibit",
+        "meaning": "禁止する",
+        "blank_word": "prohibited",
+        "blank_sentence": "Smoking is prohibited for anyone under 20 in Japan.",
+        "reorder": "Smoking<>is<>prohibited<>for<>anyone<>under<>20<>in<>Japan.",
+        "dictation": "Smoking is prohibited for anyone under 20 in Japan."
+    },
+    "9": {
+        "word": "accustom",
+        "meaning": "慣れさせる",
+        "blank_word": "accustomed",
+        "blank_sentence": "You will get accustomed to the new job soon.",
+        "reorder": "You<>will<>get<>accustomed<>to<>the<>new<>job<>soon.",
+        "dictation": "You will get accustomed to the new job soon."
+    },
+    "10": {
+        "word": "expel",
+        "meaning": "追い出す",
+        "blank_word": "expelled",
+        "blank_sentence": "The governor expelled the journalists from the press conference room.",
+        "reorder": "The<>governor<>expelled<>the<>journalists<>from<>the<>press<>conference<>room.",
+        "dictation": "The governor expelled the journalists from the press conference room."
+    },
+    "11": {
+        "word": "dare",
+        "meaning": "あえて～する",
+        "blank_word": "dare",
+        "blank_sentence": "I don't dare to give an opposing opinion.",
+        "reorder": "I<>don't<>dare<>to<>give<>an<>opposing<>opinion.",
+        "dictation": "I don't dare to give an opposing opinion."
+    },
+    "12": {
+        "word": "designate",
+        "meaning": "指定する",
+        "blank_word": "designated",
+        "blank_sentence": "The lake and the area around it were designated a conservation area.",
+        "reorder": "The<>lake<>and<>the<>area<>around<>it<>were<>designated<>a<>conservation<>area.",
+        "dictation": "The lake and the area around it were designated a conservation area."
+    },
+    "13": {
+        "word": "exaggerate",
+        "meaning": "誇張する",
+        "blank_word": "exaggerate",
+        "blank_sentence": "I dared to exaggerate the possibility of disasters, but I didn't intend to cheat you.",
+        "reorder": "I<>dared<>to<>exaggerate<>the<>possibility<>of<>disasters,<>but<>I<>didn't<>intend<>to<>cheat<>you.",
+        "dictation": "I dared to exaggerate the possibility of disasters, but I didn't intend to cheat you."
+    },
+    "14": {
+        "word": "execute",
+        "meaning": "実行する",
+        "blank_word": "executed",
+        "blank_sentence": "If this command were executed now, the whole system would be devastated.",
+        "reorder": "If<>this<>command<>were<>executed<>now,<>the<>whole<>system<>would<>be<>devastated.",
+        "dictation": "If this command were executed now, the whole system would be devastated."
+    },
+    "15": {
+        "word": "greet",
+        "meaning": "挨拶する",
+        "blank_word": "greeted",
+        "blank_sentence": "The women at the reception desk greeted the visitors with a smile.",
+        "reorder": "The<>women<>at<>the<>reception<>desk<>greeted<>the<>visitors<>with<>a<>smile.",
+        "dictation": "The women at the reception desk greeted the visitors with a smile."
+    },
+    "16": {
+        "word": "chill",
+        "meaning": "冷やす",
+        "blank_word": "chill",
+        "blank_sentence": "After you boil water, chill it to 36 degrees Celsius.",
+        "reorder": "After<>you<>boil<>water,<>chill<>it<>to<>36<>degrees<>Celsius.",
+        "dictation": "After you boil water, chill it to 36 degrees Celsius."
+    },
+    "17": {
+        "word": "gratitude",
+        "meaning": "感謝(の気持ち)",
+        "blank_word": "gratitude",
+        "blank_sentence": "The president expressed his gratitude for the other countries' help.",
+        "reorder": "The<>president<>expressed<>his<>gratitude<>for<>the<>other<>countries'<>help.",
+        "dictation": "The president expressed his gratitude for the other countries' help."
+    },
+    "18": {
+        "word": "grace",
+        "meaning": "優雅",
+        "blank_word": "grace",
+        "blank_sentence": "She walked down the stairs of the palace with grace.",
+        "reorder": "She<>walked<>down<>the<>stairs<>of<>the<>palace<>with<>grace.",
+        "dictation": "She walked down the stairs of the palace with grace."
+    },
+    "19": {
+        "word": "rumor",
+        "meaning": "うわさ",
+        "blank_word": "rumor",
+        "blank_sentence": "They denied the rumor that their new product will soon appear on the market.",
+        "reorder": "They<>denied<>the<>rumor<>that<>their<>new<>product<>will<>soon<>appear<>on<>the<>market.",
+        "dictation": "They denied the rumor that their new product will soon appear on the market."
+    },
+    "20": {
+        "word": "appliance",
+        "meaning": "器具",
+        "blank_word": "appliances",
+        "blank_sentence": "Turn off electrical appliances when an earthquake hits.",
+        "reorder": "Turn<>off<>electrical<>appliances<>when<>an<>earthquake<>hits.",
+        "dictation": "Turn off electrical appliances when an earthquake hits."
+    },
+    "21": {
+        "word": "refraction",
+        "meaning": "屈折",
+        "blank_word": "Refraction",
+        "blank_sentence": "Refraction of light is the bending of light rays at the boundary of two media.",
+        "reorder": "Refraction<>of<>light<>is<>the<>bending<>of<>light<>rays<>at<>the<>boundary<>of<>two<>media.",
+        "dictation": "Refraction of light is the bending of light rays at the boundary of two media."
+    },
+    "22": {
+        "word": "quartz",
+        "meaning": "水晶",
+        "blank_word": "quartz",
+        "blank_sentence": "A quartz clock uses the vibration of a quartz crystal to measure time.",
+        "reorder": "A<>quartz<>clock<>uses<>the<>vibration<>of<>a<>quartz<>crystal<>to<>measure<>time.",
+        "dictation": "A quartz clock uses the vibration of a quartz crystal to measure time."
+    },
+    "23": {
+        "word": "iodine",
+        "meaning": "ヨウ素",
+        "blank_word": "Iodine",
+        "blank_sentence": "Iodine reacts with starch to produce a blue color.",
+        "reorder": "Iodine<>reacts<>with<>starch<>to<>produce<>a<>blue<>color.",
+        "dictation": "Iodine reacts with starch to produce a blue color."
+    },
+    "24": {
+        "word": "fluorine",
+        "meaning": "フッ素",
+        "blank_word": "Fluorine",
+        "blank_sentence": "Fluorine is a pale yellow gas at room temperature.",
+        "reorder": "Fluorine<>is<>a<>pale<>yellow<>gas<>at<>room<>temperature.",
+        "dictation": "Fluorine is a pale yellow gas at room temperature."
+    },
+    "25": {
+        "word": "phosphorus",
+        "meaning": "リン",
+        "blank_word": "Phosphorus",
+        "blank_sentence": "Phosphorus easily reacts with the oxygen in the air.",
+        "reorder": "Phosphorus<>easily<>reacts<>with<>the<>oxygen<>in<>the<>air.",
+        "dictation": "Phosphorus easily reacts with the oxygen in the air."
+    }
+}

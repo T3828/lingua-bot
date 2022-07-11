@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "comment",
+        "meaning": "論評",
+        "blank_word": "comments",
+        "blank_sentence": "The professor gave us a lot of comments on our research.",
+        "reorder": "The<>professor<>gave<>us<>a<>lot<>of<>comments<>on<>our<>research.",
+        "dictation": "The professor gave us a lot of comments on our research."
+    },
+    "2": {
+        "word": "birth",
+        "meaning": "誕生",
+        "blank_word": "birth",
+        "blank_sentence": "This is the place of the famous politician's birth.",
+        "reorder": "This<>is<>the<>place<>of<>the<>famous<>politician's<>birth.",
+        "dictation": "This is the place of the famous politician's birth."
+    },
+    "3": {
+        "word": "revolution",
+        "meaning": "革命",
+        "blank_word": "revolution",
+        "blank_sentence": "Cell phones caused a revolution in the information and communication industry.",
+        "reorder": "Cell<>phones<>caused<>a<>revolution<>in<>the<>information<>and<>communication<>industry.",
+        "dictation": "Cell phones caused a revolution in the information and communication industry."
+    },
+    "4": {
+        "word": "generation",
+        "meaning": "世代",
+        "blank_word": "generations",
+        "blank_sentence": "We have to pass on our culture to the next generations.",
+        "reorder": "We<>have<>to<>pass<>on<>our<>culture<>to<>the<>next<>generations.",
+        "dictation": "We have to pass on our culture to the next generations."
+    },
+    "5": {
+        "word": "staff",
+        "meaning": "職員",
+        "blank_word": "staff",
+        "blank_sentence": "The museum has no staff to teach science to children.",
+        "reorder": "The<>museum<>has<>no<>staff<>to<>teach<>science<>to<>children.",
+        "dictation": "The museum has no staff to teach science to children."
+    },
+    "6": {
+        "word": "spot",
+        "meaning": "点",
+        "blank_word": "spots",
+        "blank_sentence": "His new theory still has some weak spots.",
+        "reorder": "His<>new<>theory<>still<>has<>some<>weak<>spots.",
+        "dictation": "His new theory still has some weak spots."
+    },
+    "7": {
+        "word": "slope",
+        "meaning": "傾斜",
+        "blank_word": "slope",
+        "blank_sentence": "The board is placed at a slope of 10 degrees.",
+        "reorder": "The<>board<>is<>placed<>at<>a<>slope<>of<>10<>degrees.",
+        "dictation": "The board is placed at a slope of 10 degrees."
+    },
+    "8": {
+        "word": "friction",
+        "meaning": "摩擦",
+        "blank_word": "Friction",
+        "blank_sentence": "Friction can be decreased by greasing.",
+        "reorder": "Friction<>can<>be<>decreased<>by<>greasing.",
+        "dictation": "Friction can be decreased by greasing."
+    },
+    "9": {
+        "word": "instrument",
+        "meaning": "計器",
+        "blank_word": "instrument",
+        "blank_sentence": "Use this instrument to measure the speed of the object.",
+        "reorder": "Use<>this<>instrument<>to<>measure<>the<>speed<>of<>the<>object.",
+        "dictation": "Use this instrument to measure the speed of the object."
+    },
+    "10": {
+        "word": "magnitude",
+        "meaning": "大きさ",
+        "blank_word": "magnitude",
+        "blank_sentence": "Speed and distance are quantities which have only magnitude but no direction.",
+        "reorder": "Speed<>and<>distance<>are<>quantities<>which<>have<>only<>magnitude<>but<>no<>direction.",
+        "dictation": "Speed and distance are quantities which have only magnitude but no direction."
+    },
+    "11": {
+        "word": "task",
+        "meaning": "仕事",
+        "blank_word": "task",
+        "blank_sentence": "They went home after they had finished the task.",
+        "reorder": "They<>went<>home<>after<>they<>had<>finished<>the<>task.",
+        "dictation": "They went home after they had finished the task."
+    },
+    "12": {
+        "word": "instruction",
+        "meaning": "指示",
+        "blank_word": "instructions",
+        "blank_sentence": "Teachers should try to give their students clear instructions.",
+        "reorder": "Teachers<>should<>try<>to<>give<>their<>students<>clear<>instructions.",
+        "dictation": "Teachers should try to give their students clear instructions."
+    },
+    "13": {
+        "word": "mathematics",
+        "meaning": "数学",
+        "blank_word": "mathematics",
+        "blank_sentence": "You must know mathematics before you study engineering.",
+        "reorder": "You<>must<>know<>mathematics<>before<>you<>study<>engineering.",
+        "dictation": "You must know mathematics before you study engineering."
+    },
+    "14": {
+        "word": "function",
+        "meaning": "機能",
+        "blank_word": "function",
+        "blank_sentence": "The function of this instrument is to measure the magnitude of the light.",
+        "reorder": "The<>function<>of<>this<>instrument<>is<>to<>measure<>the<>magnitude<>of<>the<>light.",
+        "dictation": "The function of this instrument is to measure the magnitude of the light."
+    },
+    "15": {
+        "word": "relation",
+        "meaning": "関係",
+        "blank_word": "relation",
+        "blank_sentence": "The relation between the two scales is as follows.",
+        "reorder": "The<>relation<>between<>the<>two<>scales<>is<>as<>follows.",
+        "dictation": "The relation between the two scales is as follows."
+    },
+    "16": {
+        "word": "variable",
+        "meaning": "変数",
+        "blank_word": "variables",
+        "blank_sentence": "This graph shows the relationship between the two variables.",
+        "reorder": "This<>graph<>shows<>the<>relationship<>between<>the<>two<>variables.",
+        "dictation": "This graph shows the relationship between the two variables."
+    },
+    "17": {
+        "word": "remainder",
+        "meaning": "余り",
+        "blank_word": "remainder",
+        "blank_sentence": "The remainder of 10 divided by 3 is 1.",
+        "reorder": "The<>remainder<>of<>10<>divided<>by<>3<>is<>1.",
+        "dictation": "The remainder of 10 divided by 3 is 1."
+    },
+    "18": {
+        "word": "vector",
+        "meaning": "ベクトル",
+        "blank_word": "vector",
+        "blank_sentence": "A vector is a quantity that has both direction and magnitude.",
+        "reorder": "A<>vector<>is<>a<>quantity<>that<>has<>both<>direction<>and<>magnitude.",
+        "dictation": "A vector is a quantity that has both direction and magnitude."
+    },
+    "19": {
+        "word": "diameter",
+        "meaning": "直径",
+        "blank_word": "diameter",
+        "blank_sentence": "The hole is one meter in diameter and two meters in depth.",
+        "reorder": "The<>hole<>is<>one<>meter<>in<>diameter<>and<>two<>meters<>in<>depth.",
+        "dictation": "The hole is one meter in diameter and two meters in depth."
+    },
+    "20": {
+        "word": "radius",
+        "meaning": "半径",
+        "blank_word": "radius",
+        "blank_sentence": "What is the area of a circle with a radius of 12 meters?",
+        "reorder": "What<>is<>the<>area<>of<>a<>circle<>with<>a<>radius<>of<>12<>meters?",
+        "dictation": "What is the area of a circle with a radius of 12 meters?"
+    },
+    "21": {
+        "word": "circumference",
+        "meaning": "円周",
+        "blank_word": "circumference",
+        "blank_sentence": "The circumference is calculated by multiplying the diameter by π.",
+        "reorder": "The<>circumference<>is<>calculated<>by<>multiplying<>the<>diameter<>by<>π.",
+        "dictation": "The circumference is calculated by multiplying the diameter by π."
+    },
+    "22": {
+        "word": "arc",
+        "meaning": "弧",
+        "blank_word": "arc",
+        "blank_sentence": "Draw an arc with a radius of two centimeters.",
+        "reorder": "Draw<>an<>arc<>with<>a<>radius<>of<>two<>centimeters.",
+        "dictation": "Draw an arc with a radius of two centimeters."
+    },
+    "23": {
+        "word": "arrow",
+        "meaning": "矢印",
+        "blank_word": "arrow",
+        "blank_sentence": "The length of this arrow represents the magnitude of the vector.",
+        "reorder": "The<>length<>of<>this<>arrow<>represents<>the<>magnitude<>of<>the<>vector.",
+        "dictation": "The length of this arrow represents the magnitude of the vector."
+    },
+    "24": {
+        "word": "statistics",
+        "meaning": "統計(学)",
+        "blank_word": "Statistics",
+        "blank_sentence": "Statistics show that the number of children has been decreasing.",
+        "reorder": "Statistics<>show<>that<>the<>number<>of<>children<>has<>been<>decreasing.",
+        "dictation": "Statistics show that the number of children has been decreasing."
+    },
+    "25": {
+        "word": "matrix",
+        "meaning": "行列",
+        "blank_word": "matrix",
+        "blank_sentence": "Name all the elements of this matrix.",
+        "reorder": "Name<>all<>the<>elements<>of<>this<>matrix.",
+        "dictation": "Name all the elements of this matrix."
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "1": {
+        "word": "suburb",
+        "meaning": "郊外",
+        "blank_word": "suburbs",
+        "blank_sentence": "More and more people are moving to the suburbs.",
+        "reorder": "More<>and<>more<>people<>are<>moving<>to<>the<>suburbs.",
+        "dictation": "More and more people are moving to the suburbs."
+    },
+    "2": {
+        "word": "citizen",
+        "meaning": "市民",
+        "blank_word": "citizens",
+        "blank_sentence": "The job of the police is to protect citizens.",
+        "reorder": "The<>job<>of<>the<>police<>is<>to<>protect<>citizens.",
+        "dictation": "The job of the police is to protect citizens."
+    },
+    "3": {
+        "word": "neighbor",
+        "meaning": "隣人",
+        "blank_word": "neighbors",
+        "blank_sentence": "My family often enjoys marine sports with our neighbors.",
+        "reorder": "My<>family<>often<>enjoys<>marine<>sports<>with<>our<>neighbors.",
+        "dictation": "My family often enjoys marine sports with our neighbors."
+    },
+    "4": {
+        "word": "presence",
+        "meaning": "存在",
+        "blank_word": "presence",
+        "blank_sentence": "The presence of water does not always mean the presence of life.",
+        "reorder": "The<>presence<>of<>water<>does<>not<>always<>mean<>the<>presence<>of<>life.",
+        "dictation": "The presence of water does not always mean the presence of life."
+    },
+    "5": {
+        "word": "clue",
+        "meaning": "手がかり",
+        "blank_word": "clue",
+        "blank_sentence": "Please give me a clue to solve this problem.",
+        "reorder": "Please<>give<>me<>a<>clue<>to<>solve<>this<>problem.",
+        "dictation": "Please give me a clue to solve this problem."
+    },
+    "6": {
+        "word": "flake",
+        "meaning": "薄片",
+        "blank_word": "flakes",
+        "blank_sentence": "The tiny flakes of paint provided a clue in the hit-and-run accident.",
+        "reorder": "The<>tiny<>flakes<>of<>paint<>provided<>a<>clue<>in<>the<>hit-and-run<>accident.",
+        "dictation": "The tiny flakes of paint provided a clue in the hit-and-run accident."
+    },
+    "7": {
+        "word": "zone",
+        "meaning": "区域",
+        "blank_word": "zone",
+        "blank_sentence": "He parked his car in a no-parking zone and got a parking ticket.",
+        "reorder": "He<>parked<>his<>car<>in<>a<>no-parking<>zone<>and<>got<>a<>parking<>ticket.",
+        "dictation": "He parked his car in a no-parking zone and got a parking ticket."
+    },
+    "8": {
+        "word": "opinion",
+        "meaning": "意見",
+        "blank_word": "opinion",
+        "blank_sentence": "Express your opinion about this issue.",
+        "reorder": "Express<>your<>opinion<>about<>this<>issue.",
+        "dictation": "Express your opinion about this issue."
+    },
+    "9": {
+        "word": "novel",
+        "meaning": "小説",
+        "blank_word": "novel",
+        "blank_sentence": "The writer's new novel was published in two volumes.",
+        "reorder": "The<>writer's<>new<>novel<>was<>published<>in<>two<>volumes.",
+        "dictation": "The writer's new novel was published in two volumes."
+    },
+    "10": {
+        "word": "media",
+        "meaning": "媒体",
+        "blank_word": "media",
+        "blank_sentence": "His invention was not reported in the media.",
+        "reorder": "His<>invention<>was<>not<>reported<>in<>the<>media.",
+        "dictation": "His invention was not reported in the media."
+    },
+    "11": {
+        "word": "moral",
+        "meaning": "教訓",
+        "blank_word": "moral",
+        "blank_sentence": "Even a child can understand the moral of this story.",
+        "reorder": "Even<>a<>child<>can<>understand<>the<>moral<>of<>this<>story.",
+        "dictation": "Even a child can understand the moral of this story."
+    },
+    "12": {
+        "word": "fiction",
+        "meaning": "作り話",
+        "blank_word": "fiction",
+        "blank_sentence": "This story is entirely a work of fiction.",
+        "reorder": "This<>story<>is<>entirely<>a<>work<>of<>fiction.",
+        "dictation": "This story is entirely a work of fiction."
+    },
+    "13": {
+        "word": "mystery",
+        "meaning": "神秘",
+        "blank_word": "mysteries",
+        "blank_sentence": "There are many mysteries that cannot be solved by science.",
+        "reorder": "There<>are<>many<>mysteries<>that<>cannot<>be<>solved<>by<>science.",
+        "dictation": "There are many mysteries that cannot be solved by science."
+    },
+    "14": {
+        "word": "cope",
+        "meaning": "処理する",
+        "blank_word": "cope",
+        "blank_sentence": "This computer can easily cope with a calculation like this.",
+        "reorder": "This<>computer<>can<>easily<>cope<>with<>a<>calculation<>like<>this.",
+        "dictation": "This computer can easily cope with a calculation like this."
+    },
+    "15": {
+        "word": "leak",
+        "meaning": "漏れる",
+        "blank_word": "leaking",
+        "blank_sentence": "Oil is leaking from the engine.",
+        "reorder": "Oil<>is<>leaking<>from<>the<>engine.",
+        "dictation": "Oil is leaking from the engine."
+    },
+    "16": {
+        "word": "install",
+        "meaning": "取り付ける",
+        "blank_word": "installed",
+        "blank_sentence": "A telephone engineer installed a telephone in this room.",
+        "reorder": "A<>telephone<>engineer<>installed<>a<>telephone<>in<>this<>room.",
+        "dictation": "A telephone engineer installed a telephone in this room."
+    },
+    "17": {
+        "word": "repair",
+        "meaning": "修理する",
+        "blank_word": "repaired",
+        "blank_sentence": "I had my car's oil leak repaired at the garage.",
+        "reorder": "I<>had<>my<>car's<>oil<>leak<>repaired<>at<>the<>garage.",
+        "dictation": "I had my car's oil leak repaired at the garage."
+    },
+    "18": {
+        "word": "restrict",
+        "meaning": "制限する",
+        "blank_word": "restricted",
+        "blank_sentence": "The police restricted the speed in this area to 30 kilometers per hour.",
+        "reorder": "The<>police<>restricted<>the<>speed<>in<>this<>area<>to<>30<>kilometers<>per<>hour.",
+        "dictation": "The police restricted the speed in this area to 30 kilometers per hour."
+    },
+    "19": {
+        "word": "regret",
+        "meaning": "後悔する",
+        "blank_word": "regret",
+        "blank_sentence": "I have nothing to regret in my life.",
+        "reorder": "I<>have<>nothing<>to<>regret<>in<>my<>life.",
+        "dictation": "I have nothing to regret in my life."
+    },
+    "20": {
+        "word": "pray",
+        "meaning": "祈る",
+        "blank_word": "pray",
+        "blank_sentence": "The team members went to the shrine to pray for victory.",
+        "reorder": "The<>team<>members<>went<>to<>the<>shrine<>to<>pray<>for<>victory.",
+        "dictation": "The team members went to the shrine to pray for victory."
+    },
+    "21": {
+        "word": "insert",
+        "meaning": "挿入する",
+        "blank_word": "Insert",
+        "blank_sentence": "Insert the coins and press the button for the drink you want.",
+        "reorder": "Insert<>the<>coins<>and<>press<>the<>button<>for<>the<>drink<>you<>want.",
+        "dictation": "Insert the coins and press the button for the drink you want."
+    },
+    "22": {
+        "word": "scatter",
+        "meaning": "散らす",
+        "blank_word": "scattered",
+        "blank_sentence": "The storm scattered the leaves on the streets.",
+        "reorder": "The<>storm<>scattered<>the<>leaves<>on<>the<>streets.",
+        "dictation": "The storm scattered the leaves on the streets."
+    },
+    "23": {
+        "word": "strip",
+        "meaning": "(皮などを)はぎ取る",
+        "blank_word": "Strip",
+        "blank_sentence": "Strip 10 mm of these wires at both ends.",
+        "reorder": "Strip<>10<>mm<>of<>these<>wires<>at<>both<>ends.",
+        "dictation": "Strip 10 mm of these wires at both ends."
+    },
+    "24": {
+        "word": "breed",
+        "meaning": "育てる",
+        "blank_word": "breed",
+        "blank_sentence": "The horse breeders are competing to breed faster horses.",
+        "reorder": "The<>horse<>breeders<>are<>competing<>to<>breed<>faster<>horses.",
+        "dictation": "The horse breeders are competing to breed faster horses."
+    },
+    "25": {
+        "word": "coordinate",
+        "meaning": "調整する",
+        "blank_word": "coordinate",
+        "blank_sentence": "We have to coordinate the schedule with the group.",
+        "reorder": "We<>have<>to<>coordinate<>the<>schedule<>with<>the<>group.",
+        "dictation": "We have to coordinate the schedule with the group."
+    }
+}
